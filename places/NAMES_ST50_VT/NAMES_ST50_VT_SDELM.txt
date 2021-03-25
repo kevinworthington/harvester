@@ -1,0 +1,6 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+50|06180|Norwich School District|Norwich School District
+50|07650|St. Johnsbury School District|St. Johnsbury School District
+50|99906|Bennington Rutland Supervisory Union|Bennington Rutland Supervisory Union
+50|99908|Kingdom East Supervisory District|Kingdom East Supervisory District
+50|99924|Grand Isle Supervisory Union|Grand Isle Supervisory Union

@@ -1,0 +1,571 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+34|001|00000|County subdivisions not defined|County subdivisions not defined
+34|001|00100|Absecon|Absecon city
+34|001|02080|Atlantic City|Atlantic City city
+34|001|07810|Brigantine|Brigantine city
+34|001|08680|Buena|Buena borough
+34|001|08710|Buena Vista|Buena Vista township
+34|001|15160|Corbin City|Corbin City city
+34|001|20290|Egg Harbor|Egg Harbor township
+34|001|20350|Egg Harbor City|Egg Harbor City city
+34|001|21870|Estell Manor|Estell Manor city
+34|001|23940|Folsom|Folsom borough
+34|001|25560|Galloway|Galloway township
+34|001|29280|Hamilton|Hamilton township
+34|001|29430|Hammonton|Hammonton town
+34|001|40530|Linwood|Linwood city
+34|001|41370|Longport|Longport borough
+34|001|43890|Margate City|Margate City city
+34|001|49410|Mullica|Mullica township
+34|001|52950|Northfield|Northfield city
+34|001|59640|Pleasantville|Pleasantville city
+34|001|60600|Port Republic|Port Republic city
+34|001|68430|Somers Point|Somers Point city
+34|001|75620|Ventnor City|Ventnor City city
+34|001|80330|Weymouth|Weymouth township
+34|003|00700|Allendale|Allendale borough
+34|003|01090|Alpine|Alpine borough
+34|003|05170|Bergenfield|Bergenfield borough
+34|003|06490|Bogota|Bogota borough
+34|003|10480|Carlstadt|Carlstadt borough
+34|003|13570|Cliffside Park|Cliffside Park borough
+34|003|13810|Closter|Closter borough
+34|003|15820|Cresskill|Cresskill borough
+34|003|17530|Demarest|Demarest borough
+34|003|18400|Dumont|Dumont borough
+34|003|19510|East Rutherford|East Rutherford borough
+34|003|20020|Edgewater|Edgewater borough
+34|003|21300|Elmwood Park|Elmwood Park borough
+34|003|21450|Emerson|Emerson borough
+34|003|21480|Englewood|Englewood city
+34|003|21510|Englewood Cliffs|Englewood Cliffs borough
+34|003|22470|Fair Lawn|Fair Lawn borough
+34|003|22560|Fairview|Fairview borough
+34|003|24420|Fort Lee|Fort Lee borough
+34|003|24990|Franklin Lakes|Franklin Lakes borough
+34|003|25770|Garfield|Garfield city
+34|003|26640|Glen Rock|Glen Rock borough
+34|003|28680|Hackensack|Hackensack city
+34|003|30150|Harrington Park|Harrington Park borough
+34|003|30420|Hasbrouck Heights|Hasbrouck Heights borough
+34|003|30540|Haworth|Haworth borough
+34|003|31920|Hillsdale|Hillsdale borough
+34|003|32310|Ho-Ho-Kus|Ho-Ho-Kus borough
+34|003|40020|Leonia|Leonia borough
+34|003|40680|Little Ferry|Little Ferry borough
+34|003|41100|Lodi|Lodi borough
+34|003|42090|Lyndhurst|Lyndhurst township
+34|003|42750|Mahwah|Mahwah township
+34|003|44880|Maywood|Maywood borough
+34|003|46110|Midland Park|Midland Park borough
+34|003|47610|Montvale|Montvale borough
+34|003|47700|Moonachie|Moonachie borough
+34|003|51660|New Milford|New Milford borough
+34|003|52320|North Arlington|North Arlington borough
+34|003|53430|Northvale|Northvale borough
+34|003|53610|Norwood|Norwood borough
+34|003|53850|Oakland|Oakland borough
+34|003|54870|Old Tappan|Old Tappan borough
+34|003|54990|Oradell|Oradell borough
+34|003|55770|Palisades Park|Palisades Park borough
+34|003|55950|Paramus|Paramus borough
+34|003|56130|Park Ridge|Park Ridge borough
+34|003|61680|Ramsey|Ramsey borough
+34|003|62910|Ridgefield|Ridgefield borough
+34|003|62940|Ridgefield Park|Ridgefield Park village
+34|003|63000|Ridgewood|Ridgewood village
+34|003|63360|River Edge|River Edge borough
+34|003|63690|River Vale|River Vale township
+34|003|63990|Rochelle Park|Rochelle Park township
+34|003|64170|Rockleigh|Rockleigh borough
+34|003|65280|Rutherford|Rutherford borough
+34|003|65340|Saddle Brook|Saddle Brook township
+34|003|65400|Saddle River|Saddle River borough
+34|003|68970|South Hackensack|South Hackensack township
+34|003|72360|Teaneck|Teaneck township
+34|003|72420|Tenafly|Tenafly borough
+34|003|72480|Teterboro|Teterboro borough
+34|003|75140|Upper Saddle River|Upper Saddle River borough
+34|003|76400|Waldwick|Waldwick borough
+34|003|76490|Wallington|Wallington borough
+34|003|77135|Washington|Washington township
+34|003|80270|Westwood|Westwood borough
+34|003|82300|Woodcliff Lake|Woodcliff Lake borough
+34|003|82570|Wood-Ridge|Wood-Ridge borough
+34|003|83050|Wyckoff|Wyckoff township
+34|005|03370|Bass River|Bass River township
+34|005|05740|Beverly|Beverly city
+34|005|06670|Bordentown|Bordentown city
+34|005|06700|Bordentown|Bordentown township
+34|005|08920|Burlington|Burlington city
+34|005|08950|Burlington|Burlington township
+34|005|12670|Chesterfield|Chesterfield township
+34|005|12940|Cinnaminson|Cinnaminson township
+34|005|17080|Delanco|Delanco township
+34|005|17440|Delran|Delran township
+34|005|18790|Eastampton|Eastampton township
+34|005|20050|Edgewater Park|Edgewater Park township
+34|005|22110|Evesham|Evesham township
+34|005|23250|Fieldsboro|Fieldsboro borough
+34|005|23850|Florence|Florence township
+34|005|29010|Hainesport|Hainesport township
+34|005|42060|Lumberton|Lumberton township
+34|005|43290|Mansfield|Mansfield township
+34|005|43740|Maple Shade|Maple Shade township
+34|005|45120|Medford|Medford township
+34|005|45210|Medford Lakes|Medford Lakes borough
+34|005|47880|Moorestown|Moorestown township
+34|005|48900|Mount Holly|Mount Holly township
+34|005|49020|Mount Laurel|Mount Laurel township
+34|005|51510|New Hanover|New Hanover township
+34|005|53070|North Hanover|North Hanover township
+34|005|55800|Palmyra|Palmyra borough
+34|005|57480|Pemberton|Pemberton borough
+34|005|57510|Pemberton|Pemberton township
+34|005|63510|Riverside|Riverside township
+34|005|63660|Riverton|Riverton borough
+34|005|66810|Shamong|Shamong township
+34|005|68610|Southampton|Southampton township
+34|005|69990|Springfield|Springfield township
+34|005|72060|Tabernacle|Tabernacle township
+34|005|77150|Washington|Washington township
+34|005|78200|Westampton|Westampton township
+34|005|81440|Willingboro|Willingboro township
+34|005|82420|Woodland|Woodland township
+34|005|82960|Wrightstown|Wrightstown borough
+34|007|02200|Audubon|Audubon borough
+34|007|02230|Audubon Park|Audubon Park borough
+34|007|03250|Barrington|Barrington borough
+34|007|04750|Bellmawr|Bellmawr borough
+34|007|05440|Berlin|Berlin borough
+34|007|05470|Berlin|Berlin township
+34|007|08170|Brooklawn|Brooklawn borough
+34|007|10000|Camden|Camden city
+34|007|12280|Cherry Hill|Cherry Hill township
+34|007|12550|Chesilhurst|Chesilhurst borough
+34|007|13420|Clementon|Clementon borough
+34|007|14260|Collingswood|Collingswood borough
+34|007|26070|Gibbsboro|Gibbsboro borough
+34|007|26760|Gloucester|Gloucester township
+34|007|26820|Gloucester City|Gloucester City city
+34|007|28740|Haddon|Haddon township
+34|007|28770|Haddonfield|Haddonfield borough
+34|007|28800|Haddon Heights|Haddon Heights borough
+34|007|32220|Hi-Nella|Hi-Nella borough
+34|007|39210|Laurel Springs|Laurel Springs borough
+34|007|39420|Lawnside|Lawnside borough
+34|007|40440|Lindenwold|Lindenwold borough
+34|007|42630|Magnolia|Magnolia borough
+34|007|45510|Merchantville|Merchantville borough
+34|007|48750|Mount Ephraim|Mount Ephraim borough
+34|007|53880|Oaklyn|Oaklyn borough
+34|007|57660|Pennsauken|Pennsauken township
+34|007|58770|Pine Hill|Pine Hill borough
+34|007|58920|Pine Valley|Pine Valley borough
+34|007|65160|Runnemede|Runnemede borough
+34|007|68340|Somerdale|Somerdale borough
+34|007|71220|Stratford|Stratford borough
+34|007|72240|Tavistock|Tavistock borough
+34|007|76220|Voorhees|Voorhees township
+34|007|77630|Waterford|Waterford township
+34|007|81740|Winslow|Winslow township
+34|007|82450|Woodlynne|Woodlynne borough
+34|009|00000|County subdivisions not defined|County subdivisions not defined
+34|009|02320|Avalon|Avalon borough
+34|009|10270|Cape May|Cape May city
+34|009|10330|Cape May Point|Cape May Point borough
+34|009|17560|Dennis|Dennis township
+34|009|41610|Lower|Lower township
+34|009|45810|Middle|Middle township
+34|009|53490|North Wildwood|North Wildwood city
+34|009|54360|Ocean City|Ocean City city
+34|009|66390|Sea Isle City|Sea Isle City city
+34|009|71010|Stone Harbor|Stone Harbor borough
+34|009|74810|Upper|Upper township
+34|009|78530|West Cape May|West Cape May borough
+34|009|80210|West Wildwood|West Wildwood borough
+34|009|81170|Wildwood|Wildwood city
+34|009|81200|Wildwood Crest|Wildwood Crest borough
+34|009|81890|Woodbine|Woodbine borough
+34|011|00000|County subdivisions not defined|County subdivisions not defined
+34|011|07600|Bridgeton|Bridgeton city
+34|011|14710|Commercial|Commercial township
+34|011|16900|Deerfield|Deerfield township
+34|011|18220|Downe|Downe township
+34|011|22350|Fairfield|Fairfield township
+34|011|28170|Greenwich|Greenwich township
+34|011|33120|Hopewell|Hopewell township
+34|011|39450|Lawrence|Lawrence township
+34|011|44580|Maurice River|Maurice River township
+34|011|46680|Millville|Millville city
+34|011|67020|Shiloh|Shiloh borough
+34|011|71160|Stow Creek|Stow Creek township
+34|011|74870|Upper Deerfield|Upper Deerfield township
+34|011|76070|Vineland|Vineland city
+34|013|04695|Belleville|Belleville township
+34|013|06260|Bloomfield|Bloomfield township
+34|013|09250|Caldwell|Caldwell borough
+34|013|11200|Cedar Grove|Cedar Grove township
+34|013|13045|City of Orange|City of Orange township
+34|013|19390|East Orange|East Orange city
+34|013|21840|Essex Fells|Essex Fells borough
+34|013|22385|Fairfield|Fairfield township
+34|013|26610|Glen Ridge|Glen Ridge borough
+34|013|34450|Irvington|Irvington township
+34|013|40890|Livingston|Livingston township
+34|013|43800|Maplewood|Maplewood township
+34|013|46380|Millburn|Millburn township
+34|013|47500|Montclair|Montclair township
+34|013|51000|Newark|Newark city
+34|013|52620|North Caldwell|North Caldwell borough
+34|013|53680|Nutley|Nutley township
+34|013|64590|Roseland|Roseland borough
+34|013|69274|South Orange Village|South Orange Village township
+34|013|75815|Verona|Verona township
+34|013|78510|West Caldwell|West Caldwell township
+34|013|79800|West Orange|West Orange township
+34|015|13360|Clayton|Clayton borough
+34|015|17710|Deptford|Deptford township
+34|015|19180|East Greenwich|East Greenwich township
+34|015|21060|Elk|Elk township
+34|015|24840|Franklin|Franklin township
+34|015|26340|Glassboro|Glassboro borough
+34|015|28185|Greenwich|Greenwich township
+34|015|30180|Harrison|Harrison township
+34|015|41160|Logan|Logan township
+34|015|43440|Mantua|Mantua township
+34|015|47250|Monroe|Monroe township
+34|015|49680|National Park|National Park borough
+34|015|51390|Newfield|Newfield borough
+34|015|57150|Paulsboro|Paulsboro borough
+34|015|59070|Pitman|Pitman borough
+34|015|69030|South Harrison|South Harrison township
+34|015|71850|Swedesboro|Swedesboro borough
+34|015|77180|Washington|Washington township
+34|015|78110|Wenonah|Wenonah borough
+34|015|78800|West Deptford|West Deptford township
+34|015|80120|Westville|Westville borough
+34|015|82120|Woodbury|Woodbury city
+34|015|82180|Woodbury Heights|Woodbury Heights borough
+34|015|82840|Woolwich|Woolwich township
+34|017|03580|Bayonne|Bayonne city
+34|017|19360|East Newark|East Newark borough
+34|017|28650|Guttenberg|Guttenberg town
+34|017|30210|Harrison|Harrison town
+34|017|32250|Hoboken|Hoboken city
+34|017|36000|Jersey City|Jersey City city
+34|017|36510|Kearny|Kearny town
+34|017|52470|North Bergen|North Bergen township
+34|017|66570|Secaucus|Secaucus town
+34|017|74630|Union City|Union City city
+34|017|77930|Weehawken|Weehawken township
+34|017|79610|West New York|West New York town
+34|019|00550|Alexandria|Alexandria township
+34|019|05650|Bethlehem|Bethlehem township
+34|019|06370|Bloomsbury|Bloomsbury borough
+34|019|09280|Califon|Califon borough
+34|019|13720|Clinton|Clinton town
+34|019|13750|Clinton|Clinton township
+34|019|17170|Delaware|Delaware township
+34|019|18820|East Amwell|East Amwell township
+34|019|23700|Flemington|Flemington borough
+34|019|24870|Franklin|Franklin township
+34|019|25350|Frenchtown|Frenchtown borough
+34|019|26550|Glen Gardner|Glen Gardner borough
+34|019|29460|Hampton|Hampton borough
+34|019|31320|High Bridge|High Bridge borough
+34|019|32460|Holland|Holland township
+34|019|37065|Kingwood|Kingwood township
+34|019|38610|Lambertville|Lambertville city
+34|019|39630|Lebanon|Lebanon borough
+34|019|39660|Lebanon|Lebanon township
+34|019|46260|Milford|Milford borough
+34|019|61920|Raritan|Raritan township
+34|019|62250|Readington|Readington township
+34|019|70980|Stockton|Stockton borough
+34|019|72510|Tewksbury|Tewksbury township
+34|019|74420|Union|Union township
+34|019|78230|West Amwell|West Amwell township
+34|021|19780|East Windsor|East Windsor township
+34|021|22185|Ewing|Ewing township
+34|021|29310|Hamilton|Hamilton township
+34|021|31620|Hightstown|Hightstown borough
+34|021|33150|Hopewell|Hopewell borough
+34|021|33180|Hopewell|Hopewell township
+34|021|39510|Lawrence|Lawrence township
+34|021|57600|Pennington|Pennington borough
+34|021|60900|Princeton|Princeton
+34|021|63850|Robbinsville|Robbinsville township
+34|021|74000|Trenton|Trenton city
+34|021|80240|West Windsor|West Windsor township
+34|023|10750|Carteret|Carteret borough
+34|023|15550|Cranbury|Cranbury township
+34|023|18490|Dunellen|Dunellen borough
+34|023|19000|East Brunswick|East Brunswick township
+34|023|20230|Edison|Edison township
+34|023|30840|Helmetta|Helmetta borough
+34|023|31470|Highland Park|Highland Park borough
+34|023|34890|Jamesburg|Jamesburg borough
+34|023|45690|Metuchen|Metuchen borough
+34|023|45900|Middlesex|Middlesex borough
+34|023|46620|Milltown|Milltown borough
+34|023|47280|Monroe|Monroe township
+34|023|51210|New Brunswick|New Brunswick city
+34|023|52560|North Brunswick|North Brunswick township
+34|023|54705|Old Bridge|Old Bridge township
+34|023|58200|Perth Amboy|Perth Amboy city
+34|023|59010|Piscataway|Piscataway township
+34|023|59280|Plainsboro|Plainsboro township
+34|023|65790|Sayreville|Sayreville borough
+34|023|68550|South Amboy|South Amboy city
+34|023|68790|South Brunswick|South Brunswick township
+34|023|69390|South Plainfield|South Plainfield borough
+34|023|69420|South River|South River borough
+34|023|69810|Spotswood|Spotswood borough
+34|023|82000|Woodbridge|Woodbridge township
+34|025|00000|County subdivisions not defined|County subdivisions not defined
+34|025|00070|Aberdeen|Aberdeen township
+34|025|00730|Allenhurst|Allenhurst borough
+34|025|00760|Allentown|Allentown borough
+34|025|01960|Asbury Park|Asbury Park city
+34|025|02110|Atlantic Highlands|Atlantic Highlands borough
+34|025|02440|Avon-by-the-Sea|Avon-by-the-Sea borough
+34|025|04930|Belmar|Belmar borough
+34|025|06970|Bradley Beach|Bradley Beach borough
+34|025|07750|Brielle|Brielle borough
+34|025|14560|Colts Neck|Colts Neck township
+34|025|16660|Deal|Deal borough
+34|025|19840|Eatontown|Eatontown borough
+34|025|21570|Englishtown|Englishtown borough
+34|025|22440|Fair Haven|Fair Haven borough
+34|025|22950|Farmingdale|Farmingdale borough
+34|025|25200|Freehold|Freehold borough
+34|025|25230|Freehold|Freehold township
+34|025|30690|Hazlet|Hazlet township
+34|025|31500|Highlands|Highlands borough
+34|025|32640|Holmdel|Holmdel township
+34|025|33300|Howell|Howell township
+34|025|34200|Interlaken|Interlaken borough
+34|025|36480|Keansburg|Keansburg borough
+34|025|36810|Keyport|Keyport borough
+34|025|37560|Lake Como|Lake Como borough
+34|025|40770|Little Silver|Little Silver borough
+34|025|41010|Loch Arbour|Loch Arbour village
+34|025|41310|Long Branch|Long Branch city
+34|025|42990|Manalapan|Manalapan township
+34|025|43050|Manasquan|Manasquan borough
+34|025|44070|Marlboro|Marlboro township
+34|025|44520|Matawan|Matawan borough
+34|025|45990|Middletown|Middletown township
+34|025|46560|Millstone|Millstone township
+34|025|47130|Monmouth Beach|Monmouth Beach borough
+34|025|49890|Neptune|Neptune township
+34|025|49920|Neptune City|Neptune City borough
+34|025|54270|Ocean|Ocean township
+34|025|54570|Oceanport|Oceanport borough
+34|025|62430|Red Bank|Red Bank borough
+34|025|64410|Roosevelt|Roosevelt borough
+34|025|65130|Rumson|Rumson borough
+34|025|66240|Sea Bright|Sea Bright borough
+34|025|66330|Sea Girt|Sea Girt borough
+34|025|67350|Shrewsbury|Shrewsbury borough
+34|025|67365|Shrewsbury|Shrewsbury township
+34|025|70110|Spring Lake|Spring Lake borough
+34|025|70140|Spring Lake Heights|Spring Lake Heights borough
+34|025|73020|Tinton Falls|Tinton Falls borough
+34|025|74540|Union Beach|Union Beach borough
+34|025|74900|Upper Freehold|Upper Freehold township
+34|025|76460|Wall|Wall township
+34|025|79310|West Long Branch|West Long Branch borough
+34|027|06610|Boonton|Boonton town
+34|027|06640|Boonton|Boonton township
+34|027|09040|Butler|Butler borough
+34|027|12100|Chatham|Chatham borough
+34|027|12130|Chatham|Chatham township
+34|027|12580|Chester|Chester borough
+34|027|12610|Chester|Chester township
+34|027|17650|Denville|Denville township
+34|027|18070|Dover|Dover town
+34|027|19210|East Hanover|East Hanover township
+34|027|23910|Florham Park|Florham Park borough
+34|027|29550|Hanover|Hanover township
+34|027|29700|Harding|Harding township
+34|027|34980|Jefferson|Jefferson township
+34|027|37110|Kinnelon|Kinnelon borough
+34|027|40290|Lincoln Park|Lincoln Park borough
+34|027|41362|Long Hill|Long Hill township
+34|027|42510|Madison|Madison borough
+34|027|45330|Mendham|Mendham borough
+34|027|45360|Mendham|Mendham township
+34|027|46860|Mine Hill|Mine Hill township
+34|027|47670|Montville|Montville township
+34|027|48090|Morris|Morris township
+34|027|48210|Morris Plains|Morris Plains borough
+34|027|48300|Morristown|Morristown town
+34|027|48480|Mountain Lakes|Mountain Lakes borough
+34|027|48690|Mount Arlington|Mount Arlington borough
+34|027|49080|Mount Olive|Mount Olive township
+34|027|50130|Netcong|Netcong borough
+34|027|56460|Parsippany-Troy Hills|Parsippany-Troy Hills township
+34|027|58110|Pequannock|Pequannock township
+34|027|61890|Randolph|Randolph township
+34|027|63300|Riverdale|Riverdale borough
+34|027|64050|Rockaway|Rockaway borough
+34|027|64080|Rockaway|Rockaway township
+34|027|64980|Roxbury|Roxbury township
+34|027|75890|Victory Gardens|Victory Gardens borough
+34|027|77240|Washington|Washington township
+34|027|80390|Wharton|Wharton borough
+34|029|00000|County subdivisions not defined|County subdivisions not defined
+34|029|03050|Barnegat|Barnegat township
+34|029|03130|Barnegat Light|Barnegat Light borough
+34|029|03520|Bay Head|Bay Head borough
+34|029|03940|Beach Haven|Beach Haven borough
+34|029|04180|Beachwood|Beachwood borough
+34|029|05305|Berkeley|Berkeley township
+34|029|07420|Brick|Brick township
+34|029|18670|Eagleswood|Eagleswood township
+34|029|30390|Harvey Cedars|Harvey Cedars borough
+34|029|34530|Island Heights|Island Heights borough
+34|029|34680|Jackson|Jackson township
+34|029|37380|Lacey|Lacey township
+34|029|37770|Lakehurst|Lakehurst borough
+34|029|38550|Lakewood|Lakewood township
+34|029|39390|Lavallette|Lavallette borough
+34|029|40560|Little Egg Harbor|Little Egg Harbor township
+34|029|41250|Long Beach|Long Beach township
+34|029|43140|Manchester|Manchester township
+34|029|43380|Mantoloking|Mantoloking borough
+34|029|54300|Ocean|Ocean township
+34|029|54450|Ocean Gate|Ocean Gate borough
+34|029|58590|Pine Beach|Pine Beach borough
+34|029|59790|Plumsted|Plumsted township
+34|029|59880|Point Pleasant|Point Pleasant borough
+34|029|59910|Point Pleasant Beach|Point Pleasant Beach borough
+34|029|66450|Seaside Heights|Seaside Heights borough
+34|029|66480|Seaside Park|Seaside Park borough
+34|029|67110|Ship Bottom|Ship Bottom borough
+34|029|69510|South Toms River|South Toms River borough
+34|029|70320|Stafford|Stafford township
+34|029|71640|Surf City|Surf City borough
+34|029|73125|Toms River|Toms River township
+34|029|74210|Tuckerton|Tuckerton borough
+34|031|06340|Bloomingdale|Bloomingdale borough
+34|031|13690|Clifton|Clifton city
+34|031|29070|Haledon|Haledon borough
+34|031|30570|Hawthorne|Hawthorne borough
+34|031|40620|Little Falls|Little Falls township
+34|031|53040|North Haledon|North Haledon borough
+34|031|56550|Passaic|Passaic city
+34|031|57000|Paterson|Paterson city
+34|031|60090|Pompton Lakes|Pompton Lakes borough
+34|031|61170|Prospect Park|Prospect Park borough
+34|031|63150|Ringwood|Ringwood borough
+34|031|73140|Totowa|Totowa borough
+34|031|76730|Wanaque|Wanaque borough
+34|031|77840|Wayne|Wayne township
+34|031|79460|West Milford|West Milford township
+34|031|82423|Woodland Park|Woodland Park borough
+34|033|00880|Alloway|Alloway township
+34|033|10610|Carneys Point|Carneys Point township
+34|033|21240|Elmer|Elmer borough
+34|033|21330|Elsinboro|Elsinboro township
+34|033|41640|Lower Alloways Creek|Lower Alloways Creek township
+34|033|43200|Mannington|Mannington township
+34|033|54810|Oldmans|Oldmans township
+34|033|57750|Penns Grove|Penns Grove borough
+34|033|57870|Pennsville|Pennsville township
+34|033|58530|Pilesgrove|Pilesgrove township
+34|033|59130|Pittsgrove|Pittsgrove township
+34|033|61470|Quinton|Quinton township
+34|033|65490|Salem|Salem city
+34|033|75110|Upper Pittsgrove|Upper Pittsgrove township
+34|033|82720|Woodstown|Woodstown borough
+34|035|04450|Bedminster|Bedminster township
+34|035|05560|Bernards|Bernards township
+34|035|05590|Bernardsville|Bernardsville borough
+34|035|06790|Bound Brook|Bound Brook borough
+34|035|07180|Branchburg|Branchburg township
+34|035|07720|Bridgewater|Bridgewater township
+34|035|22890|Far Hills|Far Hills borough
+34|035|24900|Franklin|Franklin township
+34|035|27510|Green Brook|Green Brook township
+34|035|31890|Hillsborough|Hillsborough township
+34|035|43620|Manville|Manville borough
+34|035|46590|Millstone|Millstone borough
+34|035|47580|Montgomery|Montgomery township
+34|035|53280|North Plainfield|North Plainfield borough
+34|035|57300|Peapack and Gladstone|Peapack and Gladstone borough
+34|035|61980|Raritan|Raritan borough
+34|035|64320|Rocky Hill|Rocky Hill borough
+34|035|68460|Somerville|Somerville borough
+34|035|68730|South Bound Brook|South Bound Brook borough
+34|035|76940|Warren|Warren township
+34|035|77600|Watchung|Watchung borough
+34|037|01330|Andover|Andover borough
+34|037|01360|Andover|Andover township
+34|037|07300|Branchville|Branchville borough
+34|037|09160|Byram|Byram township
+34|037|24810|Frankford|Frankford township
+34|037|24930|Franklin|Franklin borough
+34|037|25140|Fredon|Fredon township
+34|037|27420|Green|Green township
+34|037|29220|Hamburg|Hamburg borough
+34|037|29490|Hampton|Hampton township
+34|037|29850|Hardyston|Hardyston township
+34|037|32910|Hopatcong|Hopatcong borough
+34|037|37440|Lafayette|Lafayette township
+34|037|47430|Montague|Montague township
+34|037|51930|Newton|Newton town
+34|037|54660|Ogdensburg|Ogdensburg borough
+34|037|65700|Sandyston|Sandyston township
+34|037|69690|Sparta|Sparta township
+34|037|70380|Stanhope|Stanhope borough
+34|037|70890|Stillwater|Stillwater township
+34|037|71670|Sussex|Sussex borough
+34|037|75740|Vernon|Vernon township
+34|037|76640|Walpack|Walpack township
+34|037|76790|Wantage|Wantage township
+34|039|05320|Berkeley Heights|Berkeley Heights township
+34|039|13150|Clark|Clark township
+34|039|15640|Cranford|Cranford township
+34|039|21000|Elizabeth|Elizabeth city
+34|039|22860|Fanwood|Fanwood borough
+34|039|25800|Garwood|Garwood borough
+34|039|31980|Hillside|Hillside township
+34|039|36690|Kenilworth|Kenilworth borough
+34|039|40350|Linden|Linden city
+34|039|48510|Mountainside|Mountainside borough
+34|039|51810|New Providence|New Providence borough
+34|039|59190|Plainfield|Plainfield city
+34|039|61530|Rahway|Rahway city
+34|039|64620|Roselle|Roselle borough
+34|039|64650|Roselle Park|Roselle Park borough
+34|039|66060|Scotch Plains|Scotch Plains township
+34|039|70020|Springfield|Springfield township
+34|039|71430|Summit|Summit city
+34|039|74480|Union|Union township
+34|039|79040|Westfield|Westfield town
+34|039|81650|Winfield|Winfield township
+34|041|00670|Allamuchy|Allamuchy township
+34|041|01030|Alpha|Alpha borough
+34|041|04990|Belvidere|Belvidere town
+34|041|06160|Blairstown|Blairstown township
+34|041|24960|Franklin|Franklin township
+34|041|25320|Frelinghuysen|Frelinghuysen township
+34|041|28260|Greenwich|Greenwich township
+34|041|28710|Hackettstown|Hackettstown town
+34|041|29820|Hardwick|Hardwick township
+34|041|30090|Harmony|Harmony township
+34|041|33060|Hope|Hope township
+34|041|33930|Independence|Independence township
+34|041|37320|Knowlton|Knowlton township
+34|041|40110|Liberty|Liberty township
+34|041|41490|Lopatcong|Lopatcong township
+34|041|43320|Mansfield|Mansfield township
+34|041|55530|Oxford|Oxford township
+34|041|58350|Phillipsburg|Phillipsburg town
+34|041|59820|Pohatcong|Pohatcong township
+34|041|77270|Washington|Washington borough
+34|041|77300|Washington|Washington township
+34|041|80570|White|White township

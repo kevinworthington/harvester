@@ -1,0 +1,41 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+25|001|First Suffolk|First Suffolk District
+25|002|Second Suffolk|Second Suffolk District
+25|003|Hampden|Hampden District
+25|004|Berkshire, Hampshire, Franklin & Hampden|Berkshire, Hampshire, Franklin & Hampden District
+25|005|Second Hampden & Hampshire|Second Hampden & Hampshire District
+25|006|Hampshire, Franklin & Worcester|Hampshire, Franklin & Worcester District
+25|007|First Hampden & Hampshire|First Hampden & Hampshire District
+25|008|Worcester, Hampden, Hampshire & Middlesex|Worcester, Hampden, Hampshire & Middlesex District
+25|009|Worcester & Middlesex|Worcester & Middlesex District
+25|010|First Worcester|First Worcester District
+25|011|Second Worcester|Second Worcester District
+25|012|Worcester & Norfolk|Worcester & Norfolk District
+25|013|First Middlesex|First Middlesex District
+25|014|Middlesex & Worcester|Middlesex & Worcester District
+25|015|Second Middlesex & Norfolk|Second Middlesex & Norfolk District
+25|016|Third Middlesex|Third Middlesex District
+25|017|Norfolk, Bristol & Middlesex|Norfolk, Bristol & Middlesex District
+25|018|Second Essex & Middlesex|Second Essex & Middlesex District
+25|019|First Essex|First Essex District
+25|020|First Essex & Middlesex|First Essex & Middlesex District
+25|021|Second Essex|Second Essex District
+25|022|Third Essex|Third Essex District
+25|023|Fifth Middlesex|Fifth Middlesex District
+25|024|Fourth Middlesex|Fourth Middlesex District
+25|025|Second Middlesex|Second Middlesex District
+25|026|Middlesex & Suffolk|Middlesex & Suffolk District
+25|027|First Suffolk & Middlesex|First Suffolk & Middlesex District
+25|028|Second Suffolk & Middlesex|Second Suffolk & Middlesex District
+25|029|First Middlesex & Norfolk|First Middlesex & Norfolk District
+25|030|Norfolk & Suffolk|Norfolk & Suffolk District
+25|031|Bristol & Norfolk|Bristol & Norfolk District
+25|032|Norfolk, Bristol & Plymouth|Norfolk, Bristol & Plymouth District
+25|033|Norfolk & Plymouth|Norfolk & Plymouth District
+25|034|Plymouth & Norfolk|Plymouth & Norfolk District
+25|035|Second Plymouth & Bristol|Second Plymouth & Bristol District
+25|036|First Plymouth & Bristol|First Plymouth & Bristol District
+25|037|First Bristol & Plymouth|First Bristol & Plymouth District
+25|038|Second Bristol & Plymouth|Second Bristol & Plymouth District
+25|039|Plymouth & Barnstable|Plymouth & Barnstable District
+25|040|Cape & Islands|Cape & Islands District

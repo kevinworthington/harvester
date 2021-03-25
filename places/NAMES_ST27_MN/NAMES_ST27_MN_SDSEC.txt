@@ -1,0 +1,2 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+27|27001|Park Rapids Public School District in Pine Point (9-12)|Park Rapids Public School District in Pine Point (9-12)

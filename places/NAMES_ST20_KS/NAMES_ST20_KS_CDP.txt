@@ -1,0 +1,115 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+20|00225|Ada|Ada CDP
+20|01725|Ames|Ames CDP
+20|02600|Asherville|Asherville CDP
+20|03675|Baileyville|Baileyville CDP
+20|03800|Bala|Bala CDP
+20|04575|Bavaria|Bavaria CDP
+20|04925|Beaumont|Beaumont CDP
+20|04950|Beaver|Beaver CDP
+20|05975|Bendena|Bendena CDP
+20|06575|Big Bow|Big Bow CDP
+20|08300|Bremen|Bremen CDP
+20|08450|Bridgeport|Bridgeport CDP
+20|09050|Bucyrus|Bucyrus CDP
+20|09300|Burdick|Burdick CDP
+20|11025|Catharine|Catharine CDP
+20|12325|Centerville|Centerville CDP
+20|12450|Centropolis|Centropolis CDP
+20|13100|Chicopee|Chicopee CDP
+20|14575|Codell|Codell CDP
+20|16325|Crestline|Crestline CDP
+20|16475|Croweburg|Croweburg CDP
+20|17675|Dennis|Dennis CDP
+20|17875|Detroit|Detroit CDP
+20|17900|Devon|Devon CDP
+20|19700|Eastshore|Eastshore CDP
+20|19925|Edson|Edson CDP
+20|20975|Elyria|Elyria CDP
+20|22900|Falun|Falun CDP
+20|23050|Farlington|Farlington CDP
+20|23890|Fort Dodge|Fort Dodge CDP
+20|23975|Fort Riley|Fort Riley CDP
+20|24325|Franklin|Franklin CDP
+20|24975|Furley|Furley CDP
+20|25900|Garland|Garland CDP
+20|28200|Grantville|Grantville CDP
+20|28700|Greenwich|Greenwich CDP
+20|29550|Hallowell|Hallowell CDP
+20|30250|Harris|Harris CDP
+20|31200|Healy|Healy CDP
+20|31425|Herkimer|Herkimer CDP
+20|32300|Hillsdale|Hillsdale CDP
+20|32875|Home|Home CDP
+20|33700|Idana|Idana CDP
+20|34350|Ionia|Ionia CDP
+20|36200|Keats|Keats CDP
+20|36375|Kelly|Kelly CDP
+20|36735|Kickapoo Site 1|Kickapoo Site 1 CDP
+20|36736|Kickapoo Site 2|Kickapoo Site 2 CDP
+20|36739|Kickapoo Site 5|Kickapoo Site 5 CDP
+20|36740|Kickapoo Site 6|Kickapoo Site 6 CDP
+20|36741|Kickapoo Site 7|Kickapoo Site 7 CDP
+20|36744|Kickapoo Tribal Center|Kickapoo Tribal Center CDP
+20|37200|Kipp|Kipp CDP
+20|37675|Lafontaine|Lafontaine CDP
+20|37875|Lake City|Lake City CDP
+20|39700|Levant|Levant CDP
+20|43050|Lowell|Lowell CDP
+20|43175|Ludell|Ludell CDP
+20|43675|McConnell AFB|McConnell AFB CDP
+20|44600|Marienthal|Marienthal CDP
+20|45875|Mentor|Mentor CDP
+20|46500|Mildred|Mildred CDP
+20|46925|Milton|Milton CDP
+20|47975|Mont Ida|Mont Ida CDP
+20|48025|Monument|Monument CDP
+20|49200|Munjor|Munjor CDP
+20|49250|Murdock|Murdock CDP
+20|49525|Navarre|Navarre CDP
+20|49550|Neal|Neal CDP
+20|50250|Newbury|Newbury CDP
+20|50425|New Salem|New Salem CDP
+20|50550|Nicodemus|Nicodemus CDP
+20|50600|Niles|Niles CDP
+20|51550|Norway|Norway CDP
+20|51810|Oaklawn-Sunview|Oaklawn-Sunview CDP
+20|52175|Odin|Odin CDP
+20|52225|Ogallah|Ogallah CDP
+20|52925|Opolis|Opolis CDP
+20|55175|Peck|Peck CDP
+20|55750|Piedmont|Piedmont CDP
+20|55775|Pierceville|Pierceville CDP
+20|55875|Pilsen|Pilsen CDP
+20|56000|Piqua|Piqua CDP
+20|58325|Radley|Radley CDP
+20|59975|Ringo|Ringo CDP
+20|60200|Riverton|Riverton CDP
+20|60400|Rock|Rock CDP
+20|61100|Rosalia|Rosalia CDP
+20|61550|Roxbury|Roxbury CDP
+20|62075|St. Benedict|St. Benedict CDP
+20|62375|St. Marks|St. Marks CDP
+20|64200|Shallow Water|Shallow Water CDP
+20|65550|Silverdale|Silverdale CDP
+20|66475|Somerset|Somerset CDP
+20|66800|South Mound|South Mound CDP
+20|68750|Stuttgart|Stuttgart CDP
+20|69725|Sycamore|Sycamore CDP
+20|69925|Talmage|Talmage CDP
+20|70075|Tecumseh|Tecumseh CDP
+20|72600|Urbana|Urbana CDP
+20|73450|Vassar|Vassar CDP
+20|74225|Wabaunsee|Wabaunsee CDP
+20|74425|Wakarusa|Wakarusa CDP
+20|76175|Wayside|Wayside CDP
+20|76425|Welda|Welda CDP
+20|76550|Wells|Wells CDP
+20|76675|Weskan|Weskan CDP
+20|79375|Williamstown|Williamstown CDP
+20|79625|Wilroads Gardens|Wilroads Gardens CDP
+20|80400|Woodruff|Woodruff CDP
+20|80500|Wright|Wright CDP
+20|80650|Yale|Yale CDP
+20|80750|Yoder|Yoder CDP
+20|80875|Zeandale|Zeandale CDP

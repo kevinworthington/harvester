@@ -1,0 +1,424 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+44|001|440101|Barrington 1|Barrington 1
+44|001|440102|Barrington 2|Barrington 2
+44|001|440103|Barrington 3|Barrington 3
+44|001|440104|Barrington 4|Barrington 4
+44|001|440105|Barrington 5|Barrington 5
+44|001|440201|Bristol 1|Bristol 1
+44|001|440202|Bristol 2|Bristol 2
+44|001|440203|Bristol 3|Bristol 3
+44|001|440204|Bristol 4|Bristol 4
+44|001|440205|Bristol 5|Bristol 5
+44|001|440206|Bristol 6|Bristol 6
+44|001|440207|Bristol 7|Bristol 7
+44|001|440208|Bristol 8|Bristol 8
+44|001|440209|Bristol 9|Bristol 9
+44|001|443401|Warren 1|Warren 1
+44|001|443402|Warren 2|Warren 2
+44|001|443403|Warren 3|Warren 3
+44|003|440601|Coventry 1|Coventry 1
+44|003|440602|Coventry 2|Coventry 2
+44|003|440603|Coventry 3|Coventry 3
+44|003|440604|Coventry 4|Coventry 4
+44|003|440605|Coventry 5|Coventry 5
+44|003|440606|Coventry 6|Coventry 6
+44|003|440607|Coventry 7|Coventry 7
+44|003|440608|Coventry 8|Coventry 8
+44|003|440609|Coventry 9|Coventry 9
+44|003|440610|Coventry 10|Coventry 10
+44|003|440611|Coventry 11|Coventry 11
+44|003|440612|Coventry 12|Coventry 12
+44|003|440613|Coventry 13|Coventry 13
+44|003|440614|Coventry 14|Coventry 14
+44|003|440615|Coventry 15|Coventry 15
+44|003|440616|Coventry 16|Coventry 16
+44|003|440617|Coventry 17|Coventry 17
+44|003|440618|Coventry 18|Coventry 18
+44|003|440901|East Greenwich 1|East Greenwich 1
+44|003|440902|East Greenwich 2|East Greenwich 2
+44|003|440903|East Greenwich 3|East Greenwich 3
+44|003|440904|East Greenwich 4|East Greenwich 4
+44|003|440905|East Greenwich 5|East Greenwich 5
+44|003|443501|Warwick 1|Warwick 1
+44|003|443502|Warwick 2|Warwick 2
+44|003|443503|Warwick 3|Warwick 3
+44|003|443504|Warwick 4|Warwick 4
+44|003|443505|Warwick 5|Warwick 5
+44|003|443506|Warwick 6|Warwick 6
+44|003|443507|Warwick 7|Warwick 7
+44|003|443508|Warwick 8|Warwick 8
+44|003|443509|Warwick 9|Warwick 9
+44|003|443510|Warwick 10|Warwick 10
+44|003|443511|Warwick 11|Warwick 11
+44|003|443512|Warwick 12|Warwick 12
+44|003|443513|Warwick 13|Warwick 13
+44|003|443514|Warwick 14|Warwick 14
+44|003|443515|Warwick 15|Warwick 15
+44|003|443516|Warwick 16|Warwick 16
+44|003|443517|Warwick 17|Warwick 17
+44|003|443518|Warwick 18|Warwick 18
+44|003|443519|Warwick 19|Warwick 19
+44|003|443520|Warwick 20|Warwick 20
+44|003|443521|Warwick 21|Warwick 21
+44|003|443522|Warwick 22|Warwick 22
+44|003|443523|Warwick 23|Warwick 23
+44|003|443524|Warwick 24|Warwick 24
+44|003|443525|Warwick 25|Warwick 25
+44|003|443526|Warwick 26|Warwick 26
+44|003|443527|Warwick 27|Warwick 27
+44|003|443528|Warwick 28|Warwick 28
+44|003|443529|Warwick 29|Warwick 29
+44|003|443530|Warwick 30|Warwick 30
+44|003|443531|Warwick 31|Warwick 31
+44|003|443532|Warwick 32|Warwick 32
+44|003|443533|Warwick 33|Warwick 33
+44|003|443701|West Greenwich 1|West Greenwich 1
+44|003|443702|West Greenwich 2|West Greenwich 2
+44|003|443703|West Greenwich 3|West Greenwich 3
+44|003|443704|West Greenwich 4|West Greenwich 4
+44|003|443801|West Warwick 1|West Warwick 1
+44|003|443802|West Warwick 2|West Warwick 2
+44|003|443803|West Warwick 3|West Warwick 3
+44|003|443804|West Warwick 4|West Warwick 4
+44|003|443805|West Warwick 5|West Warwick 5
+44|003|443806|West Warwick 6|West Warwick 6
+44|003|443807|West Warwick 7|West Warwick 7
+44|003|443808|West Warwick 8|West Warwick 8
+44|003|443809|West Warwick 9|West Warwick 9
+44|003|443810|West Warwick 10|West Warwick 10
+44|005|441501|JAMESTOWN 1|JAMESTOWN 1
+44|005|441502|JAMESTOWN 2|JAMESTOWN 2
+44|005|441801|LITTLE COMPTON 1|LITTLE COMPTON 1
+44|005|441901|MIDDLETOWN 1|MIDDLETOWN 1
+44|005|441902|MIDDLETOWN 2|MIDDLETOWN 2
+44|005|441903|MIDDLETOWN 3|MIDDLETOWN 3
+44|005|441904|MIDDLETOWN 4|MIDDLETOWN 4
+44|005|441905|MIDDLETOWN 5|MIDDLETOWN 5
+44|005|442101|NEWPORT 1|NEWPORT 1
+44|005|442102|NEWPORT 2|NEWPORT 2
+44|005|442103|NEWPORT 3|NEWPORT 3
+44|005|442104|NEWPORT 4|NEWPORT 4
+44|005|442105|NEWPORT 5|NEWPORT 5
+44|005|442106|NEWPORT 6|NEWPORT 6
+44|005|442107|NEWPORT 7|NEWPORT 7
+44|005|442108|NEWPORT 8|NEWPORT 8
+44|005|442109|NEWPORT 9|NEWPORT 9
+44|005|442701|PORTSMOUTH 1|PORTSMOUTH 1
+44|005|442702|PORTSMOUTH 2|PORTSMOUTH 2
+44|005|442703|PORTSMOUTH 3|PORTSMOUTH 3
+44|005|442704|PORTSMOUTH 4|PORTSMOUTH 4
+44|005|442705|PORTSMOUTH 5|PORTSMOUTH 5
+44|005|442706|PORTSMOUTH 6|PORTSMOUTH 6
+44|005|442707|PORTSMOUTH 7|PORTSMOUTH 7
+44|005|442708|PORTSMOUTH 8|PORTSMOUTH 8
+44|005|443301|TIVERTON 1|TIVERTON 1
+44|005|443302|TIVERTON 2|TIVERTON 2
+44|005|443303|TIVERTON 3|TIVERTON 3
+44|005|443304|TIVERTON 4|TIVERTON 4
+44|005|443305|TIVERTON 5|TIVERTON 5
+44|005|443306|TIVERTON 6|TIVERTON 6
+44|005|443307|TIVERTON 7|TIVERTON 7
+44|005|ZZZZZZ|Voting Districts Not Defined|Voting Districts Not Defined
+44|007|440301|Burrillville 1|Burrillville 1
+44|007|440302|Burrillville 2|Burrillville 2
+44|007|440303|Burrillville 3|Burrillville 3
+44|007|440304|Burrillville 4|Burrillville 4
+44|007|440305|Burrillville 5|Burrillville 5
+44|007|440306|Burrillville 6|Burrillville 6
+44|007|440401|Central Falls 1|Central Falls 1
+44|007|440402|Central Falls 2|Central Falls 2
+44|007|440403|Central Falls 3|Central Falls 3
+44|007|440404|Central Falls 4|Central Falls 4
+44|007|440405|Central Falls 5|Central Falls 5
+44|007|440406|Central Falls 6|Central Falls 6
+44|007|440407|Central Falls 7|Central Falls 7
+44|007|440408|Central Falls 8|Central Falls 8
+44|007|440701|Cranston 1|Cranston 1
+44|007|440702|Cranston 2|Cranston 2
+44|007|440703|Cranston 3|Cranston 3
+44|007|440704|Cranston 4|Cranston 4
+44|007|440705|Cranston 5|Cranston 5
+44|007|440706|Cranston 6|Cranston 6
+44|007|440707|Cranston 7|Cranston 7
+44|007|440708|Cranston 8|Cranston 8
+44|007|440709|Cranston 9|Cranston 9
+44|007|440710|Cranston 10|Cranston 10
+44|007|440711|Cranston 11|Cranston 11
+44|007|440712|Cranston 12|Cranston 12
+44|007|440713|Cranston 13|Cranston 13
+44|007|440714|Cranston 14|Cranston 14
+44|007|440715|Cranston 15|Cranston 15
+44|007|440716|Cranston 16|Cranston 16
+44|007|440717|Cranston 17|Cranston 17
+44|007|440718|Cranston 18|Cranston 18
+44|007|440719|Cranston 19|Cranston 19
+44|007|440720|Cranston 20|Cranston 20
+44|007|440721|Cranston 21|Cranston 21
+44|007|440722|Cranston 22|Cranston 22
+44|007|440723|Cranston 23|Cranston 23
+44|007|440724|Cranston 24|Cranston 24
+44|007|440725|Cranston 25|Cranston 25
+44|007|440726|Cranston 26|Cranston 26
+44|007|440727|Cranston 27|Cranston 27
+44|007|440728|Cranston 28|Cranston 28
+44|007|440729|Cranston 29|Cranston 29
+44|007|440730|Cranston 30|Cranston 30
+44|007|440731|Cranston 31|Cranston 31
+44|007|440801|Cumberland 1|Cumberland 1
+44|007|440802|Cumberland 2|Cumberland 2
+44|007|440803|Cumberland 3|Cumberland 3
+44|007|440804|Cumberland 4|Cumberland 4
+44|007|440805|Cumberland 5|Cumberland 5
+44|007|440806|Cumberland 6|Cumberland 6
+44|007|440807|Cumberland 7|Cumberland 7
+44|007|440808|Cumberland 8|Cumberland 8
+44|007|440809|Cumberland 9|Cumberland 9
+44|007|440810|Cumberland 10|Cumberland 10
+44|007|440811|Cumberland 11|Cumberland 11
+44|007|440812|Cumberland 12|Cumberland 12
+44|007|440813|Cumberland 13|Cumberland 13
+44|007|441001|East Providence 1|East Providence 1
+44|007|441002|East Providence 2|East Providence 2
+44|007|441003|East Providence 3|East Providence 3
+44|007|441004|East Providence 4|East Providence 4
+44|007|441005|East Providence 5|East Providence 5
+44|007|441006|East Providence 6|East Providence 6
+44|007|441007|East Providence 7|East Providence 7
+44|007|441008|East Providence 8|East Providence 8
+44|007|441009|East Providence 9|East Providence 9
+44|007|441010|East Providence 10|East Providence 10
+44|007|441011|East Providence 11|East Providence 11
+44|007|441012|East Providence 12|East Providence 12
+44|007|441013|East Providence 13|East Providence 13
+44|007|441014|East Providence 14|East Providence 14
+44|007|441015|East Providence 15|East Providence 15
+44|007|441016|East Providence 16|East Providence 16
+44|007|441017|East Providence 17|East Providence 17
+44|007|441018|East Providence 18|East Providence 18
+44|007|441201|Foster 1|Foster 1
+44|007|441202|Foster 2|Foster 2
+44|007|441301|Glocester 1|Glocester 1
+44|007|441302|Glocester 2|Glocester 2
+44|007|441303|Glocester 3|Glocester 3
+44|007|441304|Glocester 4|Glocester 4
+44|007|441601|Johnston 1|Johnston 1
+44|007|441602|Johnston 2|Johnston 2
+44|007|441603|Johnston 3|Johnston 3
+44|007|441604|Johnston 4|Johnston 4
+44|007|441605|Johnston 5|Johnston 5
+44|007|441606|Johnston 6|Johnston 6
+44|007|441607|Johnston 7|Johnston 7
+44|007|441608|Johnston 8|Johnston 8
+44|007|441609|Johnston 9|Johnston 9
+44|007|441610|Johnston 10|Johnston 10
+44|007|441611|Johnston 11|Johnston 11
+44|007|441612|Johnston 12|Johnston 12
+44|007|441613|Johnston 13|Johnston 13
+44|007|441701|Lincoln 1|Lincoln 1
+44|007|441702|Lincoln 2|Lincoln 2
+44|007|441703|Lincoln 3|Lincoln 3
+44|007|441704|Lincoln 4|Lincoln 4
+44|007|441705|Lincoln 5|Lincoln 5
+44|007|441706|Lincoln 6|Lincoln 6
+44|007|441707|Lincoln 7|Lincoln 7
+44|007|441708|Lincoln 8|Lincoln 8
+44|007|441709|Lincoln 9|Lincoln 9
+44|007|441710|Lincoln 10|Lincoln 10
+44|007|441711|Lincoln 11|Lincoln 11
+44|007|442401|North Providence 1|North Providence 1
+44|007|442402|North Providence 2|North Providence 2
+44|007|442403|North Providence 3|North Providence 3
+44|007|442404|North Providence 4|North Providence 4
+44|007|442405|North Providence 5|North Providence 5
+44|007|442406|North Providence 6|North Providence 6
+44|007|442407|North Providence 7|North Providence 7
+44|007|442408|North Providence 8|North Providence 8
+44|007|442409|North Providence 9|North Providence 9
+44|007|442410|North Providence 10|North Providence 10
+44|007|442411|North Providence 11|North Providence 11
+44|007|442412|North Providence 12|North Providence 12
+44|007|442413|North Providence 13|North Providence 13
+44|007|442414|North Providence 14|North Providence 14
+44|007|442415|North Providence 15|North Providence 15
+44|007|442416|North Providence 16|North Providence 16
+44|007|442501|North Smithfield 1|North Smithfield 1
+44|007|442502|North Smithfield 2|North Smithfield 2
+44|007|442503|North Smithfield 3|North Smithfield 3
+44|007|442504|North Smithfield 4|North Smithfield 4
+44|007|442505|North Smithfield 5|North Smithfield 5
+44|007|442601|Pawtucket 1|Pawtucket 1
+44|007|442602|Pawtucket 2|Pawtucket 2
+44|007|442603|Pawtucket 3|Pawtucket 3
+44|007|442604|Pawtucket 4|Pawtucket 4
+44|007|442605|Pawtucket 5|Pawtucket 5
+44|007|442606|Pawtucket 6|Pawtucket 6
+44|007|442607|Pawtucket 7|Pawtucket 7
+44|007|442608|Pawtucket 8|Pawtucket 8
+44|007|442609|Pawtucket 9|Pawtucket 9
+44|007|442610|Pawtucket 10|Pawtucket 10
+44|007|442611|Pawtucket 11|Pawtucket 11
+44|007|442612|Pawtucket 12|Pawtucket 12
+44|007|442613|Pawtucket 13|Pawtucket 13
+44|007|442614|Pawtucket 14|Pawtucket 14
+44|007|442615|Pawtucket 15|Pawtucket 15
+44|007|442616|Pawtucket 16|Pawtucket 16
+44|007|442617|Pawtucket 17|Pawtucket 17
+44|007|442618|Pawtucket 18|Pawtucket 18
+44|007|442619|Pawtucket 19|Pawtucket 19
+44|007|442620|Pawtucket 20|Pawtucket 20
+44|007|442621|Pawtucket 21|Pawtucket 21
+44|007|442622|Pawtucket 22|Pawtucket 22
+44|007|442623|Pawtucket 23|Pawtucket 23
+44|007|442624|Pawtucket 24|Pawtucket 24
+44|007|442625|Pawtucket 25|Pawtucket 25
+44|007|442626|Pawtucket 26|Pawtucket 26
+44|007|442627|Pawtucket 27|Pawtucket 27
+44|007|442628|Pawtucket 28|Pawtucket 28
+44|007|442629|Pawtucket 29|Pawtucket 29
+44|007|442630|Pawtucket 30|Pawtucket 30
+44|007|442631|Pawtucket 31|Pawtucket 31
+44|007|442801|Providence 1|Providence 1
+44|007|442802|Providence 2|Providence 2
+44|007|442803|Providence 3|Providence 3
+44|007|442804|Providence 4|Providence 4
+44|007|442805|Providence 5|Providence 5
+44|007|442806|Providence 6|Providence 6
+44|007|442807|Providence 7|Providence 7
+44|007|442808|Providence 8|Providence 8
+44|007|442809|Providence 9|Providence 9
+44|007|442810|Providence 10|Providence 10
+44|007|442811|Providence 11|Providence 11
+44|007|442812|Providence 12|Providence 12
+44|007|442813|Providence 13|Providence 13
+44|007|442814|Providence 14|Providence 14
+44|007|442815|Providence 15|Providence 15
+44|007|442816|Providence 16|Providence 16
+44|007|442817|Providence 17|Providence 17
+44|007|442818|Providence 18|Providence 18
+44|007|442819|Providence 19|Providence 19
+44|007|442820|Providence 20|Providence 20
+44|007|442821|Providence 21|Providence 21
+44|007|442822|Providence 22|Providence 22
+44|007|442823|Providence 23|Providence 23
+44|007|442824|Providence 24|Providence 24
+44|007|442825|Providence 25|Providence 25
+44|007|442826|Providence 26|Providence 26
+44|007|442827|Providence 27|Providence 27
+44|007|442828|Providence 28|Providence 28
+44|007|442829|Providence 29|Providence 29
+44|007|442830|Providence 30|Providence 30
+44|007|442831|Providence 31|Providence 31
+44|007|442832|Providence 32|Providence 32
+44|007|442833|Providence 33|Providence 33
+44|007|442834|Providence 34|Providence 34
+44|007|442835|Providence 35|Providence 35
+44|007|442836|Providence 36|Providence 36
+44|007|442837|Providence 37|Providence 37
+44|007|442838|Providence 38|Providence 38
+44|007|442839|Providence 39|Providence 39
+44|007|442840|Providence 40|Providence 40
+44|007|442841|Providence 41|Providence 41
+44|007|442842|Providence 42|Providence 42
+44|007|442843|Providence 43|Providence 43
+44|007|442844|Providence 44|Providence 44
+44|007|442845|Providence 45|Providence 45
+44|007|442846|Providence 46|Providence 46
+44|007|442847|Providence 47|Providence 47
+44|007|442848|Providence 48|Providence 48
+44|007|442849|Providence 49|Providence 49
+44|007|442850|Providence 50|Providence 50
+44|007|442851|Providence 51|Providence 51
+44|007|442852|Providence 52|Providence 52
+44|007|442853|Providence 53|Providence 53
+44|007|442854|Providence 54|Providence 54
+44|007|442855|Providence 55|Providence 55
+44|007|442856|Providence 56|Providence 56
+44|007|442857|Providence 57|Providence 57
+44|007|442858|Providence 58|Providence 58
+44|007|442859|Providence 59|Providence 59
+44|007|442860|Providence 60|Providence 60
+44|007|442861|Providence 61|Providence 61
+44|007|442862|Providence 62|Providence 62
+44|007|442863|Providence 63|Providence 63
+44|007|442864|Providence 64|Providence 64
+44|007|442865|Providence 65|Providence 65
+44|007|442866|Providence 66|Providence 66
+44|007|442867|Providence 67|Providence 67
+44|007|442868|Providence 68|Providence 68
+44|007|442869|Providence 69|Providence 69
+44|007|442870|Providence 70|Providence 70
+44|007|442871|Providence 71|Providence 71
+44|007|442872|Providence 72|Providence 72
+44|007|442873|Providence 73|Providence 73
+44|007|442874|Providence 74|Providence 74
+44|007|442875|Providence 75|Providence 75
+44|007|442876|Providence 76|Providence 76
+44|007|442877|Providence 77|Providence 77
+44|007|442878|Providence 78|Providence 78
+44|007|442879|Providence 79|Providence 79
+44|007|442880|Providence 80|Providence 80
+44|007|443001|Scituate 1|Scituate 1
+44|007|443002|Scituate 2|Scituate 2
+44|007|443003|Scituate 3|Scituate 3
+44|007|443101|Smithfield 1|Smithfield 1
+44|007|443102|Smithfield 2|Smithfield 2
+44|007|443103|Smithfield 3|Smithfield 3
+44|007|443104|Smithfield 4|Smithfield 4
+44|007|443105|Smithfield 5|Smithfield 5
+44|007|443106|Smithfield 6|Smithfield 6
+44|007|443901|Woonsocket 1|Woonsocket 1
+44|007|443902|Woonsocket 2|Woonsocket 2
+44|007|443903|Woonsocket 3|Woonsocket 3
+44|007|443904|Woonsocket 4|Woonsocket 4
+44|007|443905|Woonsocket 5|Woonsocket 5
+44|007|443906|Woonsocket 6|Woonsocket 6
+44|007|443907|Woonsocket 7|Woonsocket 7
+44|007|443908|Woonsocket 8|Woonsocket 8
+44|007|443909|Woonsocket 9|Woonsocket 9
+44|007|443910|Woonsocket 10|Woonsocket 10
+44|007|443911|Woonsocket 11|Woonsocket 11
+44|007|443912|Woonsocket 12|Woonsocket 12
+44|009|440501|Charlestown 1|Charlestown 1
+44|009|440502|Charlestown 2|Charlestown 2
+44|009|440503|Charlestown 3|Charlestown 3
+44|009|440504|Charlestown 4|Charlestown 4
+44|009|441101|Exeter 1|Exeter 1
+44|009|441102|Exeter 2|Exeter 2
+44|009|441103|Exeter 3|Exeter 3
+44|009|441401|Hopkinton 1|Hopkinton 1
+44|009|441402|Hopkinton 2|Hopkinton 2
+44|009|441403|Hopkinton 3|Hopkinton 3
+44|009|442001|Narragansett 1|Narragansett 1
+44|009|442002|Narragansett 2|Narragansett 2
+44|009|442003|Narragansett 3|Narragansett 3
+44|009|442004|Narragansett 4|Narragansett 4
+44|009|442005|Narragansett 5|Narragansett 5
+44|009|442201|New Shoreham 1|New Shoreham 1
+44|009|442301|North Kingstown 1|North Kingstown 1
+44|009|442302|North Kingstown 2|North Kingstown 2
+44|009|442303|North Kingstown 3|North Kingstown 3
+44|009|442304|North Kingstown 4|North Kingstown 4
+44|009|442305|North Kingstown 5|North Kingstown 5
+44|009|442306|North Kingstown 6|North Kingstown 6
+44|009|442307|North Kingstown 7|North Kingstown 7
+44|009|442308|North Kingstown 8|North Kingstown 8
+44|009|442309|North Kingstown 9|North Kingstown 9
+44|009|442901|Richmond 1|Richmond 1
+44|009|442902|Richmond 2|Richmond 2
+44|009|443201|South Kingstown 1|South Kingstown 1
+44|009|443202|South Kingstown 2|South Kingstown 2
+44|009|443203|South Kingstown 3|South Kingstown 3
+44|009|443204|South Kingstown 4|South Kingstown 4
+44|009|443205|South Kingstown 5|South Kingstown 5
+44|009|443206|South Kingstown 6|South Kingstown 6
+44|009|443207|South Kingstown 7|South Kingstown 7
+44|009|443208|South Kingstown 8|South Kingstown 8
+44|009|443209|South Kingstown 9|South Kingstown 9
+44|009|443210|South Kingstown 10|South Kingstown 10
+44|009|443601|Westerly 1|Westerly 1
+44|009|443602|Westerly 2|Westerly 2
+44|009|443603|Westerly 3|Westerly 3
+44|009|443604|Westerly 4|Westerly 4
+44|009|443605|Westerly 5|Westerly 5
+44|009|443606|Westerly 6|Westerly 6
+44|009|443607|Westerly 7|Westerly 7

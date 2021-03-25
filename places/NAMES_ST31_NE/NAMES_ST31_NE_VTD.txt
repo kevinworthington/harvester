@@ -1,0 +1,1403 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+31|001|00001P|Kenesaw Precinct|Kenesaw Precinct
+31|001|00001W|1A|Voting District 1A
+31|001|00002E|2E Precinct|2E Precinct
+31|001|00002P|Verona Precinct|Verona Precinct
+31|001|00002W|1B|Voting District 1B
+31|001|00003P|Juniata Precinct|Juniata Precinct
+31|001|00003W|1C|Voting District 1C
+31|001|00004P|West Blue/Highland Precinct|West Blue/Highland Precinct
+31|001|00005P|Denver Precinct|Denver Precinct
+31|001|00005W|2A|Voting District 2A
+31|001|00006P|Blaine Precinct|Blaine Precinct
+31|001|00006W|2B|Voting District 2B
+31|001|00007P|Holstein Precinct|Holstein Precinct
+31|001|00007W|2C|Voting District 2C
+31|001|00008P|Roseland Precinct|Roseland Precinct
+31|001|00008W|2D|Voting District 2D
+31|001|00009P|Ayr Precinct|Ayr Precinct
+31|001|00009W|3A|Voting District 3A
+31|001|00010P|Pauline Precinct|Pauline Precinct
+31|001|00010W|3B|Voting District 3B
+31|001|00011W|3C|Voting District 3C
+31|001|00012W|3D|Voting District 3D
+31|001|00013W|3E|Voting District 3E
+31|001|00014W|4A|Voting District 4A
+31|001|00015W|4B|Voting District 4B
+31|001|00016W|4C|Voting District 4C
+31|001|00017W|4D|Voting District 4D
+31|003|00001P|Orchard Precinct|Orchard Precinct
+31|003|00001W|Tilden 1st Ward|Tilden 1st Ward
+31|003|00002P|Royal Precinct|Royal Precinct
+31|003|00002W|Neligh City 2nd Ward|Neligh City 2nd Ward
+31|003|00003P|Brunswick Precinct|Brunswick Precinct
+31|003|00003W|Neligh City 1st Ward|Neligh City 1st Ward
+31|003|00004P|Clearwater Precinct|Clearwater Precinct
+31|003|00004W|Elgin 1st Ward|Elgin 1st Ward
+31|003|00005P|Neligh Precinct|Neligh Precinct
+31|003|00005W|Elgin 2nd Ward|Elgin 2nd Ward
+31|003|00006P|Elgin Precinct|Elgin Precinct
+31|003|00007P|Oakdale Precinct|Oakdale Precinct
+31|003|00008P|Tilden Precinct|Tilden Precinct
+31|005|00001P|Arthur Precinct|Arthur Precinct
+31|007|00001P|Long Springs Precinct|Long Springs Precinct
+31|009|000001|Blaine Precinct|Blaine Precinct
+31|011|00001P|Oakland Precinct|Oakland Precinct
+31|011|00002P|North Branch-Shell Creek Precinct|North Branch-Shell Creek Precinct
+31|011|00003P|Dublin-Bonanza Precinct|Dublin-Bonanza Precinct
+31|011|00004P|North Manchester Precinct|North Manchester Precinct
+31|011|00005P|Southwest Manchester Precinct|Southwest Manchester Precinct
+31|011|00006P|Southeast Manchester Precinct|Southeast Manchester Precinct
+31|011|00007P|Ceder Precinct|Ceder Precinct
+31|011|00008P|Boone Precinct|Boone Precinct
+31|011|00009P|Beaver Precinct|Beaver Precinct
+31|013|001301|Voting Precinct 1|Voting Precinct 1
+31|013|001302|Voting Precinct 2|Voting Precinct 2
+31|013|001303|Voting Precinct 3|Voting Precinct 3
+31|013|001304|Voting Precinct 4|Voting Precinct 4
+31|013|001305|Voting Precinct 5|Voting Precinct 5
+31|013|001306|Voting Precinct 6|Voting Precinct 6
+31|013|001311|Voting Precinct 11|Voting Precinct 11
+31|013|001312|Voting Precinct 12|Voting Precinct 12
+31|013|001315|Voting Precinct 15|Voting Precinct 15
+31|015|000001|Basin - McCulley - Butte Precinct|Basin - McCulley - Butte Precinct
+31|015|000002|Spencer - Morton Precinct|Spencer - Morton Precinct
+31|015|000003|Bristow - Mullen - Lynch - Bush Precinct|Bristow - Mullen - Lynch - Bush Precinct
+31|017|00001P|City of Ainsworth Precinct|City of Ainsworth Precinct
+31|017|00002P|Pines Precinct|Pines Precinct
+31|017|00003P|Ainsworth Precinct|Ainsworth Precinct
+31|019|000001|Precinct 1|Precinct 1
+31|019|000002|Precinct 2|Precinct 2
+31|019|000003|Precinct 3|Precinct 3
+31|019|000004|Precinct 4|Precinct 4
+31|019|000005|Precinct 5|Precinct 5
+31|019|000006|Precinct 6|Precinct 6
+31|019|000007|Precint 7|Precint 7
+31|019|000008|Precinct 8|Precinct 8
+31|019|000009|Precinct 9|Precinct 9
+31|019|000010|Precinct 10|Precinct 10
+31|019|000011|Precinct 11|Precinct 11
+31|019|000012|Precinct 12|Precinct 12
+31|019|000013|Precinct 13|Precinct 13
+31|019|000014|Precinct 14|Precinct 14
+31|019|000015|Precinct 15|Precinct 15
+31|019|000016|Precinct 16|Precinct 16
+31|019|000017|Precinct 17|Precinct 17
+31|019|000018|Precinct 18|Precinct 18
+31|019|000019|Precinct 19|Precinct 19
+31|019|000020|Precinct 20|Precinct 20
+31|019|000021|Precinct 21|Precinct 21
+31|019|000022|Precinct 22|Precinct 22
+31|019|000023|Precinct 23|Precinct 23
+31|019|000024|Precinct 24|Precinct 24
+31|019|000025|Precinct 25|Precinct 25
+31|019|000026|Precinct 26|Precinct 26
+31|019|000027|Precinct 27|Precinct 27
+31|019|000028|Precinct 28|Precinct 28
+31|019|000029|Precinct 29|Precinct 29
+31|021|000001|Arizona-Riverside|Arizona-Riverside
+31|021|000002|BellCreek-Oakland-Pershing Precinct|BellCreek-Oakland-Pershing Precinct
+31|021|000003|Craig Precinct|Craig Precinct
+31|021|000004|Decatur-Quinbaugh Precinct|Decatur-Quinbaugh Precinct
+31|021|000005|Everett-Logan Precinct|Everett-Logan Precinct
+31|021|000006|Lyons Precinct|Lyons Precinct
+31|021|000007|Oakland City 1|Oakland City 1
+31|021|000008|Oakland City 2|Oakland City 2
+31|021|000009|Silver Creek-Summit Precinct|Silver Creek-Summit Precinct
+31|021|000010|Tekamah 1|Tekamah 1
+31|021|000011|Tekamah 2|Tekamah 2
+31|023|00001W|David City Ward 1|David City Ward 1
+31|023|00002P|Savannah-Alexis Precinct|Savannah-Alexis Precinct
+31|023|00002W|David City Ward 2|David City Ward 2
+31|023|00003W|David City Ward 3|David City Ward 3
+31|023|00005P|Linwood-Skull Creek - Platte Precinct|Linwood-Skull Creek - Platte Precinct
+31|023|00006P|Summit-Reading Precinct|Summit-Reading Precinct
+31|023|00008P|Franklin-Bone Creek Precinct|Franklin-Bone Creek Precinct
+31|023|00011P|Union-Olive Precinct|Union-Olive Precinct
+31|023|00013P|Oak Creek-Center Precinct|Oak Creek-Center Precinct
+31|023|00014P|Read-Ulysses Precinct|Read-Ulysses Precinct
+31|023|00016P|Plum Creek-Richardson Precinct|Plum Creek-Richardson Precinct
+31|025|00001P|Tipton Precinct|Tipton Precinct
+31|025|00001W|Weeping Water 2nd Ward|Weeping Water 2nd Ward
+31|025|00002P|McKelverly Precinct|McKelverly Precinct
+31|025|00002W|Weeping Water 1st Ward|Weeping Water 1st Ward
+31|025|000031|Buccaneer Bay|Buccaneer Bay
+31|025|00003P|Salt Creek Precinct|Salt Creek Precinct
+31|025|00003W|Plattsmouth 1st Ward 1st Precinct|Plattsmouth 1st Ward 1st Precinct
+31|025|00004P|Stove Creek Precinct|Stove Creek Precinct
+31|025|00004W|Plattsmouth 1st Ward 2nd Precinct|Plattsmouth 1st Ward 2nd Precinct
+31|025|00005P|Elmwood Precinct|Elmwood Precinct
+31|025|00005W|Plattsmouth 2nd Ward 1st Precinct|Plattsmouth 2nd Ward 1st Precinct
+31|025|00006P|South Bend Precinct|South Bend Precinct
+31|025|00006W|Plattsmouth 2nd Ward 2nd Precinct|Plattsmouth 2nd Ward 2nd Precinct
+31|025|00007W|Plattsmouth 4th Ward 1st Precinct|Plattsmouth 4th Ward 1st Precinct
+31|025|00008P|Center Precinct|Center Precinct
+31|025|00008W|Plattsmouth 3rd Ward 1st Precinct|Plattsmouth 3rd Ward 1st Precinct
+31|025|00009P|East Louisville Precinct|East Louisville Precinct
+31|025|00009W|Plattsmouth 4th Ward 2nd Precinct|Plattsmouth 4th Ward 2nd Precinct
+31|025|00010P|West Louisville Precinct|West Louisville Precinct
+31|025|00011P|Avoca Precinct|Avoca Precinct
+31|025|00012P|Mount Pleasant Precinct|Mount Pleasant Precinct
+31|025|00013P|Eight Mile Grove Precinct|Eight Mile Grove Precinct
+31|025|00014P|Nehawka Precinct|Nehawka Precinct
+31|025|00015P|Liberty Precinct|Liberty Precinct
+31|025|00016P|North Rock Bluff Precinct|North Rock Bluff Precinct
+31|025|00017P|West Rock Bluff Precinct|West Rock Bluff Precinct
+31|025|00018P|North Plattsmouth Precinct|North Plattsmouth Precinct
+31|025|00019P|South Plattsmouth Precinct|South Plattsmouth Precinct
+31|025|00020P|South Rock Bluff Precinct|South Rock Bluff Precinct
+31|025|0003W2|Plattsmouth 3rd Ward 2nd Precinct|Plattsmouth 3rd Ward 2nd Precinct
+31|027|00001P|Precinct 1|Precinct 1
+31|027|00002P|Precinct 2|Precinct 2
+31|027|00003P|Precinct 3|Precinct 3
+31|027|00004P|Precinct 4|Precinct 4
+31|027|00005P|Precinct 8|Precinct 8
+31|027|00006P|Precinct 7|Precinct 7
+31|027|00007P|Precinct 6|Precinct 6
+31|027|00009P|Precinct 5|Precinct 5
+31|027|00013P|Precinct 9|Precinct 9
+31|027|00015P|Precinct 10|Precinct 10
+31|027|00016P|Precinct 11|Precinct 11
+31|027|00018P|Precinct 12|Precinct 12
+31|027|00020P|Precinct 13|Precinct 13
+31|029|00001P|Champion/Lamar Precinct|Champion/Lamar Precinct
+31|029|00002P|Imperial Rural Precinct|Imperial Rural Precinct
+31|029|00003P|Wauneta Precinct|Wauneta Precinct
+31|029|00007P|Imperial East Precinct|Imperial East Precinct
+31|029|00008P|Imperial West Precinct|Imperial West Precinct
+31|031|00001P|Merriman Precinct|Merriman Precinct
+31|031|00002P|Cody Precinct|Cody Precinct
+31|031|00003P|Nenzel Precinct|Nenzel Precinct
+31|031|00004P|Kilgore Precinct|Kilgore Precinct
+31|031|00005P|Crookston Precinct|Crookston Precinct
+31|031|00006P|North Valentine Precinct|North Valentine Precinct
+31|031|00007P|East Valentine Precinct|East Valentine Precinct
+31|031|00008P|South Valentine Precinct|South Valentine Precinct
+31|031|00009P|Russell Precinct|Russell Precinct
+31|031|00010P|King Precinct|King Precinct
+31|031|00011P|Barley Precinct|Barley Precinct
+31|031|00012P|Gillaspie Precinct|Gillaspie Precinct
+31|031|00013P|Cleveland Precinct|Cleveland Precinct
+31|031|00014P|Wood Lake Precinct|Wood Lake Precinct
+31|031|00015P|Kennedy Precinct|Kennedy Precinct
+31|031|00016P|Mother Lake Precinct|Mother Lake Precinct
+31|031|00017P|Lackey Precinct|Lackey Precinct
+31|031|00018P|Wells Precinct|Wells Precinct
+31|031|00019P|Loup Precinct|Loup Precinct
+31|031|00020P|Goose Creek Precinct|Goose Creek Precinct
+31|033|00001P|Potter Precinct|Potter Precinct
+31|033|00002P|Union Valley Precinct|Union Valley Precinct
+31|033|00003P|Lodgepole Precinct|Lodgepole Precinct
+31|033|00004P|Gurley Precinct|Gurley Precinct
+31|033|00005P|Sidney Precinct 4|Sidney Precinct 4
+31|033|00006P|Sidney Precinct 5|Sidney Precinct 5
+31|033|00007P|Sidney Precinct 1|Sidney Precinct 1
+31|033|00009P|Sidney Precinct 3|Sidney Precinct 3
+31|033|00010P|Sidney Precinct 2|Sidney Precinct 2
+31|035|00001P|Leicester/Inland Precinct|Leicester/Inland Precinct
+31|035|00002P|Harvard Precinct|Harvard Precinct
+31|035|00003P|Sutton Twps Precinct|Sutton Twps Precinct
+31|035|00004P|L.L.L.M. CONS Precinct|L.L.L.M. CONS Precinct
+31|035|00005P|Glenvil Precinct|Glenvil Precinct
+31|035|00006P|Spring Ranch/Fairfield Precinct|Spring Ranch/Fairfield Precinct
+31|035|00007P|Edgar Cons. Precinct|Edgar Cons. Precinct
+31|035|00008P|Sutton 2nd Precinct|Sutton 2nd Precinct
+31|035|00009P|Sutton 1st Precinct|Sutton 1st Precinct
+31|035|00010P|Clay Center Precinct|Clay Center Precinct
+31|035|00011P|Fairfield Precinct|Fairfield Precinct
+31|037|00001P|2 Precinct|2 Precinct
+31|037|00002P|4 Precinct|4 Precinct
+31|037|00003P|1 Precinct|1 Precinct
+31|037|00005P|3 Precinct|3 Precinct
+31|037|00009P|5 Precinct|5 Precinct
+31|039|00001P|Wisner, Blaine & Grant Precinct|Wisner, Blaine & Grant Precinct
+31|039|00002P|Bancroft, Cleveland & Neligh Precinct|Bancroft, Cleveland & Neligh Precinct
+31|039|00004P|Beemer & Logan Precinct|Beemer & Logan Precinct
+31|039|00006P|SW 4|SW 4
+31|039|00007P|St. Charles Sherman Garfield & Cuming Precinct|St. Charles Sherman Garfield & Cuming Precinct
+31|039|00010P|West Point Ward 1 & 3|West Point Ward 1 & 3
+31|039|00011P|West Point Ward 2|West Point Ward 2
+31|041|00001P|Hayes Precinct|Hayes Precinct
+31|041|00002P|Victoria Precinct|Victoria Precinct
+31|041|00003P|Milburn Precinct|Milburn Precinct
+31|041|00004P|West Union Precinct|West Union Precinct
+31|041|00005P|Rural Sargent Precinct|Rural Sargent Precinct
+31|041|00006P|Corner Precinct|Corner Precinct
+31|041|00008P|Sargent City Precinct|Sargent City Precinct
+31|041|00009P|Lillian Precinct|Lillian Precinct
+31|041|00010P|Arnold Precinct|Arnold Precinct
+31|041|00011P|Cliff Precinct|Cliff Precinct
+31|041|00012P|Kilfoil Precinct|Kilfoil Precinct
+31|041|00013P|North Rural Broken Bow Precinct|North Rural Broken Bow Precinct
+31|041|00014P|Garfield Precinct|Garfield Precinct
+31|041|00015P|Triumph Precinct|Triumph Precinct
+31|041|00016P|Ryno Precinct|Ryno Precinct
+31|041|00017P|Douglas Grove Precinct|Douglas Grove Precinct
+31|041|00018P|Spring Creek Precinct|Spring Creek Precinct
+31|041|00019P|Comstock Precinct|Comstock Precinct
+31|041|00020P|Elim Precinct|Elim Precinct
+31|041|00021P|Wayne Precinct|Wayne Precinct
+31|041|00022P|Delight Precinct|Delight Precinct
+31|041|00023P|Custer Precinct|Custer Precinct
+31|041|00024P|South Rural Broken Bow Precinct|South Rural Broken Bow Precinct
+31|041|00025P|Berwyn Precinct|Berwyn Precinct
+31|041|00026P|Westerville Precinct|Westerville Precinct
+31|041|00027P|Myrtle Precinct|Myrtle Precinct
+31|041|00028P|Grant Precinct|Grant Precinct
+31|041|00029P|Wood River Precinct|Wood River Precinct
+31|041|00030P|East Center Precinct|East Center Precinct
+31|041|00031P|Loup Precinct|Loup Precinct
+31|041|00032P|Elk Creek Precinct|Elk Creek Precinct
+31|041|00033P|Algernan Precinct|Algernan Precinct
+31|041|00034P|Ansley Precinct|Ansley Precinct
+31|041|00035P|Broken Bow North Precinct|Broken Bow North Precinct
+31|041|00037P|Broken Bow South Precinct|Broken Bow South Precinct
+31|041|00038P|Broken Bow Southwest Precinct|Broken Bow Southwest Precinct
+31|041|00039P|Broken Bow Northwest Precinct|Broken Bow Northwest Precinct
+31|043|00001P|St. John's Precinct|St. John's Precinct
+31|043|00002P|Covington Island Precinct|Covington Island Precinct
+31|043|00003P|Emerson Precinct|Emerson Precinct
+31|043|00004P|Hubbard Precinct|Hubbard Precinct
+31|043|00005P|Dakota Rural Precinct|Dakota Rural Precinct
+31|043|00006P|Omadi Precinct|Omadi Precinct
+31|043|00007P|Dakota City Precinct|Dakota City Precinct
+31|043|00009P|South Sioux City 1 Precinct|South Sioux City 1 Precinct
+31|043|00010P|South Sioux City 2 Precinct|South Sioux City 2 Precinct
+31|043|00011P|South Sioux City 3A Precinct|South Sioux City 3A Precinct
+31|043|00013P|South Sioux City 4A Precinct|South Sioux City 4A Precinct
+31|043|00014P|South Sioux City 4B Precinct|South Sioux City 4B Precinct
+31|043|00015P|South City Precinct Precinct 4AA|South City Precinct Precinct 4AA
+31|045|00001P|#1 Precinct|#1 Precinct
+31|045|00002P|#2 Precinct|#2 Precinct
+31|045|00003P|#3 Precinct|#3 Precinct
+31|045|00004P|#4 Precinct|#4 Precinct
+31|045|00005P|#5 Precinct|#5 Precinct
+31|045|00006P|#6 Precinct|#6 Precinct
+31|045|00007P|#7 Precinct|#7 Precinct
+31|045|00008P|#8 Precinct|#8 Precinct
+31|045|00009P|#9 Precinct|#9 Precinct
+31|045|00010P|#10 Precinct|#10 Precinct
+31|045|00011P|#11 Precinct|#11 Precinct
+31|045|00013P|Precinct 4C|Precinct 4C
+31|047|00001P|German Precinct|German Precinct
+31|047|00002P|Gillan Precinct|Gillan Precinct
+31|047|00003P|Kennebec Precinct|Kennebec Precinct
+31|047|00004P|Woodriver Precinct|Woodriver Precinct
+31|047|00005P|Coyote Precinct|Coyote Precinct
+31|047|00006P|Fairview Precinct|Fairview Precinct
+31|047|00007P|Farnam Precinct|Farnam Precinct
+31|047|00008P|Ringgold Precinct|Ringgold Precinct
+31|047|00009P|Platte Precinct|Platte Precinct
+31|047|00010P|Grant Precinct|Grant Precinct
+31|047|00011P|Overton Precinct|Overton Precinct
+31|047|00012P|Gothenburg West Precinct|Gothenburg West Precinct
+31|047|00013P|Gothenburg East Precinct|Gothenburg East Precinct
+31|047|00015P|Cozad West Precinct|Cozad West Precinct
+31|047|00016P|Cozad East Precinct|Cozad East Precinct
+31|047|00017P|Lexington 4th Precinct|Lexington 4th Precinct
+31|047|00018P|Lexington 1st Precinct|Lexington 1st Precinct
+31|047|00019P|Lexington 2nd Precinct|Lexington 2nd Precinct
+31|047|00020P|Lexington 3rd Precinct|Lexington 3rd Precinct
+31|047|00021P|Lexington 5th Precinct|Lexington 5th Precinct
+31|049|00001P|Chappell Precinct|Chappell Precinct
+31|049|00002P|Swan Precinct|Swan Precinct
+31|049|00003P|Big Springs Precinct|Big Springs Precinct
+31|051|00001P|Daily/Hooker/Newcastle Precinct|Daily/Hooker/Newcastle Precinct
+31|051|00003P|Ponca TWP/Ponca 3 Precinct|Ponca TWP/Ponca 3 Precinct
+31|051|00004P|Galena/Silvercreek Precinct|Galena/Silvercreek Precinct
+31|051|00005P|Concord/Dixon/Clark Precinct|Concord/Dixon/Clark Precinct
+31|051|00006P|Springbank Precinct|Springbank Precinct
+31|051|00007P|Otter Precinct|Otter Precinct
+31|051|00008P|Emerson Precinct|Emerson Precinct
+31|051|00009P|Logan/Wakefield 3 Precinct|Logan/Wakefield 3 Precinct
+31|051|00010P|Ponca 1 Precinct|Ponca 1 Precinct
+31|051|00011P|Ponca 2 Precinct|Ponca 2 Precinct
+31|051|00012P|Wakefield 2 Precinct|Wakefield 2 Precinct
+31|051|00013P|Wakefield 1 Precinct|Wakefield 1 Precinct
+31|053|00001P|Webster Precinct|Webster Precinct
+31|053|00002P|Pebble Precinct|Pebble Precinct
+31|053|00003P|Cuming-Everett Precinct|Cuming-Everett Precinct
+31|053|00004P|Logan-Hooper Precinct|Logan-Hooper Precinct
+31|053|00005P|Ridgely-Union-Cotterell Precinct- Pleasant Valley|Ridgely-Union-Cotterell Precinct- Pleasant Valley
+31|053|00006P|Maple-Nickerson Precinct|Maple-Nickerson Precinct
+31|053|00007P|Platte West Precinct|Platte West Precinct
+31|053|00008P|Platte East Precinct|Platte East Precinct
+31|053|00009P|Elkhorn Precinct|Elkhorn Precinct
+31|053|00010P|Fremont Precinct 2C|Fremont Precinct 2C
+31|053|00011P|Fremont Precinct 2D|Fremont Precinct 2D
+31|053|00012P|Fremont Precinct 1D|Fremont Precinct 1D
+31|053|00013P|Fremont Precinct 1A|Fremont Precinct 1A
+31|053|00014P|Fremont Precinct 1E|Fremont Precinct 1E
+31|053|00015P|Fremont Precinct 3D|Fremont Precinct 3D
+31|053|00016P|Fremont Precinct 2E|Fremont Precinct 2E
+31|053|00017P|Fremont Precinct 2A|Fremont Precinct 2A
+31|053|00018P|Fremont Precinct 2B|Fremont Precinct 2B
+31|053|00019P|Fremont Precinct 3A|Fremont Precinct 3A
+31|053|00020P|Fremont Precinct 1B|Fremont Precinct 1B
+31|053|00021P|Fremont Precinct 1C|Fremont Precinct 1C
+31|053|00022P|Fremont Precinct 4D|Fremont Precinct 4D
+31|053|00023P|Fremont Precinct 3B|Fremont Precinct 3B
+31|053|00024P|Fremont Precinct 3C|Fremont Precinct 3C
+31|053|00025P|Fremont Precinct 3E|Fremont Precinct 3E
+31|053|00026P|Fremont Precinct 4E|Fremont Precinct 4E
+31|053|00027P|Fremont Precinct 4B|Fremont Precinct 4B
+31|053|00028P|Fremont Precinct 4A|Fremont Precinct 4A
+31|053|00029P|Fremont Precinct 4C|Fremont Precinct 4C
+31|053|00030P|Hooper City Precinct|Hooper City Precinct
+31|053|00031P|North Bend Village Precinct|North Bend Village Precinct
+31|053|00033P|Scribner City Precinct|Scribner City Precinct
+31|055|001-02|01-02|01-02
+31|055|001-03|01-03|01-03
+31|055|001-04|01-04|01-04
+31|055|001-05|01-05|01-05
+31|055|001-07|01-07|01-07
+31|055|001-08|01-08|01-08
+31|055|001-09|01-09|01-09
+31|055|001-10|01-10|01-10
+31|055|001-11|01-11|01-11
+31|055|001-12|01-12|01-12
+31|055|001-13|01-13|01-13
+31|055|001-14|01-14|01-14
+31|055|001-15|01-15|01-15
+31|055|001-16|01-16|01-16
+31|055|001-17|01-17|01-17
+31|055|001-18|01-18|01-18
+31|055|001-19|01-19|01-19
+31|055|001-20|01-20|01-20
+31|055|001-21|01-21|01-21
+31|055|001-22|01-22|01-22
+31|055|001-23|01-23|01-23
+31|055|001-24|01-24|01-24
+31|055|001-25|01-25|01-25
+31|055|001-26|01-26|01-26
+31|055|001-27|01-27|01-27
+31|055|001-28|01-28|01-28
+31|055|001-29|01-29|01-29
+31|055|001-30|01-30|01-30
+31|055|001-31|01-31|01-31
+31|055|002-01|02-01|02-01
+31|055|002-02|02-02|02-02
+31|055|002-03|02-03|02-03
+31|055|002-04|02-04|02-04
+31|055|002-05|02-05|02-05
+31|055|002-06|02-06|02-06
+31|055|002-07|02-07|02-07
+31|055|002-08|02-08|02-08
+31|055|002-09|02-09|02-09
+31|055|002-10|02-10|02-10
+31|055|002-11|02-11|02-11
+31|055|002-12|02-12|02-12
+31|055|002-13|02-13|02-13
+31|055|002-14|02-14|02-14
+31|055|002-15|02-15|02-15
+31|055|002-16|02-16|02-16
+31|055|002-17|02-17|02-17
+31|055|002-18|02-18|02-18
+31|055|002-19|02-19|02-19
+31|055|002-20|02-20|02-20
+31|055|002-21|02-21|02-21
+31|055|002-22|02-22|02-22
+31|055|002-23|02-23|02-23
+31|055|002-24|02-24|02-24
+31|055|002-25|02-25|02-25
+31|055|003-02|03-02|03-02
+31|055|003-03|03-03|03-03
+31|055|003-04|03-04|03-04
+31|055|003-05|03-05|03-05
+31|055|003-06|03-06|03-06
+31|055|003-07|03-07|03-07
+31|055|003-08|03-08|03-08
+31|055|003-09|03-09|03-09
+31|055|003-10|03-10|03-10
+31|055|003-11|03-11|03-11
+31|055|003-12|03-12|03-12
+31|055|003-13|03-13|03-13
+31|055|003-14|03-14|03-14
+31|055|003-15|03-15|03-15
+31|055|003-16|03-16|03-16
+31|055|003-17|03-17|03-17
+31|055|003-18|03-18|03-18
+31|055|003-19|03-19|03-19
+31|055|003-20|03-20|03-20
+31|055|003-21|03-21|03-21
+31|055|003-22|03-22|03-22
+31|055|003-23|03-23|03-23
+31|055|003-24|03-24|03-24
+31|055|003-25|03-25|03-25
+31|055|003-26|03-26|03-26
+31|055|004-01|04-01|04-01
+31|055|004-02|04-02|04-02
+31|055|004-03|04-03|04-03
+31|055|004-04|04-04|04-04
+31|055|004-05|04-05|04-05
+31|055|004-06|04-06|04-06
+31|055|004-07|04-07|04-07
+31|055|004-08|04-08|04-08
+31|055|004-09|04-09|04-09
+31|055|004-10|04-10|04-10
+31|055|004-11|04-11|04-11
+31|055|004-12|04-12|04-12
+31|055|004-13|04-13|04-13
+31|055|004-14|04-14|04-14
+31|055|004-15|04-15|04-15
+31|055|004-16|04-16|04-16
+31|055|004-17|04-17|04-17
+31|055|004-18|04-18|04-18
+31|055|004-19|04-19|04-19
+31|055|004-20|04-20|04-20
+31|055|004-21|04-21|04-21
+31|055|005-01|05-01|05-01
+31|055|005-02|05-02|05-02
+31|055|005-03|05-03|05-03
+31|055|005-05|05-05|05-05
+31|055|005-06|05-06|05-06
+31|055|005-07|05-07|05-07
+31|055|005-09|05-09|05-09
+31|055|005-10|05-10|05-10
+31|055|005-11|05-11|05-11
+31|055|005-12|05-12|05-12
+31|055|005-13|05-13|05-13
+31|055|005-14|05-14|05-14
+31|055|005-15|05-15|05-15
+31|055|005-16|05-16|05-16
+31|055|005-17|05-17|05-17
+31|055|005-18|05-18|05-18
+31|055|005-19|05-19|05-19
+31|055|005-23|05-23|05-23
+31|055|005-24|05-24|05-24
+31|055|005-25|05-25|05-25
+31|055|005-26|05-26|05-26
+31|055|005-27|05-27|05-27
+31|055|005-28|05-28|05-28
+31|055|005-30|05-30|05-30
+31|055|005-31|05-31|05-31
+31|055|005-32|05-32|05-32
+31|055|005-33|05-33|05-33
+31|055|005-34|05-34|05-34
+31|055|005-35|05-35|05-35
+31|055|006-02|06-02|06-02
+31|055|006-03|06-03|06-03
+31|055|006-04|06-04|06-04
+31|055|006-07|06-07|06-07
+31|055|006-08|06-08|06-08
+31|055|006-09|06-09|06-09
+31|055|006-10|06-10|06-10
+31|055|006-11|06-11|06-11
+31|055|006-12|06-12|06-12
+31|055|006-13|06-13|06-13
+31|055|006-14|06-14|06-14
+31|055|006-15|06-15|06-15
+31|055|006-16|06-16|06-16
+31|055|006-17|06-17|06-17
+31|055|006-18|06-18|06-18
+31|055|006-19|06-19|06-19
+31|055|006-20|06-20|06-20
+31|055|006-21|06-21|06-21
+31|055|006-22|06-22|06-22
+31|055|006-23|06-23|06-23
+31|055|006-24|06-24|06-24
+31|055|006-25|06-25|06-25
+31|055|006-26|06-26|06-26
+31|055|006-27|06-27|06-27
+31|055|006-28|06-28|06-28
+31|055|006-29|06-29|06-29
+31|055|006-30|06-30|06-30
+31|055|006-31|06-31|06-31
+31|055|006-32|06-32|06-32
+31|055|006-33|06-33|06-33
+31|055|006-34|06-34|06-34
+31|055|006-35|06-35|06-35
+31|055|007-01|07-01|07-01
+31|055|007-02|07-02|07-02
+31|055|007-03|07-03|07-03
+31|055|007-04|07-04|07-04
+31|055|007-05|07-05|07-05
+31|055|007-09|07-09|07-09
+31|055|007-10|07-10|07-10
+31|055|007-11|07-11|07-11
+31|055|007-12|07-12|07-12
+31|055|007-13|07-13|07-13
+31|055|007-14|07-14|07-14
+31|055|007-15|07-15|07-15
+31|055|007-16|07-16|07-16
+31|055|007-17|07-17|07-17
+31|055|007-18|07-18|07-18
+31|055|007-19|07-19|07-19
+31|055|007-20|07-20|07-20
+31|055|007-21|07-21|07-21
+31|055|007-24|07-24|07-24
+31|055|007-25|07-25|07-25
+31|055|007-26|07-26|07-26
+31|055|007-27|07-27|07-27
+31|055|007-28|07-28|07-28
+31|055|007-29|07-29|07-29
+31|055|007-30|07-30|07-30
+31|055|007-31|07-31|07-31
+31|055|007-32|07-32|07-32
+31|055|007-33|07-33|07-33
+31|055|007-34|07-34|07-34
+31|055|008-01|08-01|08-01
+31|055|008-02|08-02|08-02
+31|055|008-03|08-03|08-03
+31|055|008-04|08-04|08-04
+31|055|008-05|08-05|08-05
+31|055|008-06|08-06|08-06
+31|055|008-07|08-07|08-07
+31|055|008-08|08-08|08-08
+31|055|008-09|08-09|08-09
+31|055|008-10|08-10|08-10
+31|055|008-11|08-11|08-11
+31|055|008-12|08-12|08-12
+31|055|008-13|08-13|08-13
+31|055|008-14|08-14|08-14
+31|055|008-15|08-15|08-15
+31|055|008-16|08-16|08-16
+31|055|008-17|08-17|08-17
+31|055|008-18|07-35|07-35
+31|055|008-19|08-19|08-19
+31|055|008-20|08-20|08-20
+31|055|008-23|08-23|08-23
+31|055|008-24|08-24|08-24
+31|055|008-27|08-27|08-27
+31|055|008-37|08-37|08-37
+31|055|008-39|08-39|08-39
+31|055|008-40|08-40|08-40
+31|055|008-41|08-41|08-41
+31|055|008-42|08-42|08-42
+31|055|008-43|08-43|08-43
+31|055|008-44|08-44|08-44
+31|055|008-45|08-45|08-45
+31|055|008-46|08-46|08-46
+31|055|008-47|08-47|08-47
+31|055|008-48|08-48|08-48
+31|055|008-49|08-49|08-49
+31|055|008-50|08-50|08-50
+31|055|008-51|08-51|08-51
+31|055|008-52|08-52|08-52
+31|055|008-53|06-36|06-36
+31|055|008-55|08-55|08-55
+31|055|008-56|08-56|08-56
+31|055|008-57|08-57|08-57
+31|055|008-58|08-58|08-58
+31|055|008-59|08-59|08-59
+31|055|008-60|08-60|08-60
+31|057|00001P|Benkelman I/Ough|Benkelman I/Ough
+31|057|00002P|Benkelman II|Benkelman II
+31|057|00003P|Benkelman III|Benkelman III
+31|057|00004P|Haigler|Haigler
+31|059|00001P|#101 Precinct|#101 Precinct
+31|059|00002P|#102 Precinct|#102 Precinct
+31|059|00003P|#103 Precinct|#103 Precinct
+31|059|00004P|#104 Precinct|#104 Precinct
+31|059|00005P|#105 Precinct|#105 Precinct
+31|059|00006P|#106 Precinct|#106 Precinct
+31|059|00007P|#107 Precinct|#107 Precinct
+31|059|00008P|#108 Precinct|#108 Precinct
+31|059|00009P|#109 Precinct|#109 Precinct
+31|059|00010P|#110 Precinct|#110 Precinct
+31|061|00001P|Hildreth Precinct|Hildreth Precinct
+31|061|00003P|Campbell Precinct|Campbell Precinct
+31|061|00005P|West Franklin Precinct|West Franklin Precinct
+31|061|00007P|East Franklin Precinct|East Franklin Precinct
+31|063|00001P|Maywood Precinct|Maywood Precinct
+31|063|00002P|Curtis Precinct|Curtis Precinct
+31|063|00004P|Eustis Precinct|Eustis Precinct
+31|063|00005P|Garden Prairie Precinct|Garden Prairie Precinct
+31|063|00006P|Stockville Precinct|Stockville Precinct
+31|065|00001P|Cambridge Precinct|Cambridge Precinct
+31|065|00001W|Cambridge Ward 1|Cambridge Ward 1
+31|065|00002P|Holbrook Precinct|Holbrook Precinct
+31|065|00002W|Cambridge Ward 2|Cambridge Ward 2
+31|065|00003P|Arapahoe Precinct|Arapahoe Precinct
+31|065|00003W|Cambridge Ward 3|Cambridge Ward 3
+31|065|00004P|Edison Precinct|Edison Precinct
+31|065|00004W|Arapahoe North Ward|Arapahoe North Ward
+31|065|00005P|Oxford Precinct|Oxford Precinct
+31|065|00005W|Arapahoe South Ward|Arapahoe South Ward
+31|065|00006P|Wilsonville Precinct|Wilsonville Precinct
+31|065|00007P|Hendley Precinct|Hendley Precinct
+31|065|00008P|Beaver City Precinct|Beaver City Precinct
+31|067|00001P|Northwest Quad Area|Northwest Quad Area
+31|067|00004P|Adams Area|Adams Area
+31|067|00007P|Homestead Area|Homestead Area
+31|067|00008P|Filley/Virginia Area|Filley/Virginia Area
+31|067|00011P|Odell Area|Odell Area
+31|067|00015P|Wymore Area|Wymore Area
+31|067|00016P|Kerr/Parde|Kerr/Parde
+31|067|00017P|Catlin/Billesbach|Catlin/Billesbach
+31|067|00021P|Fairbanks/Clabaugh|Fairbanks/Clabaugh
+31|067|00026P|Cook/Morgan|Cook/Morgan
+31|069|00001P|Lisco Precinct|Lisco Precinct
+31|069|00002P|Lost Creek Precinct|Lost Creek Precinct
+31|069|00003P|Blue Creek Precinct|Blue Creek Precinct
+31|069|00004P|Oshkosh 1 Precinct|Oshkosh 1 Precinct
+31|071|00003P|Rural 1 Precinct|Rural 1 Precinct
+31|071|00004P|Ward 1|Ward 1
+31|071|00005P|Ward 2|Ward 2
+31|073|00001P|Precinct 2|Precinct 2
+31|073|00002P|Precinct 1|Precinct 1
+31|073|00003P|Precinct 3|Precinct 3
+31|073|00004P|Precinct 4|Precinct 4
+31|075|00002P|Grant County|Grant County Voting District
+31|077|00001P|Scotia Voting Precinct|Scotia Voting Precinct
+31|077|00002P|Greeley Voting Precinct|Greeley Voting Precinct
+31|077|00003P|Spalding Voting Precinct|Spalding Voting Precinct
+31|077|00004P|Wolbach 2 Voting Precinct|Wolbach 2 Voting Precinct
+31|079|000001|One|One
+31|079|000002|Two|Two
+31|079|000003|Three|Three
+31|079|000005|Five|Five
+31|079|000006|Six|Six
+31|079|000007|Seven|Seven
+31|079|000008|Eight|Eight
+31|079|000009|Nine|Nine
+31|079|000010|Ten|Ten
+31|079|000011|Eleven|Eleven
+31|079|000012|Twelve|Twelve
+31|079|000013|Thirteen|Thirteen
+31|079|000014|Fourteen|Fourteen
+31|079|000015|Fifteen|Fifteen
+31|079|000016|Sixteen|Sixteen
+31|079|000017|Seventeen|Seventeen
+31|079|000018|Eighteen|Eighteen
+31|079|00004P|Four|Four
+31|079|00029P|Lake/Prairie Creek Precinct|Lake/Prairie Creek Precinct
+31|079|00030P|Mayfield/South Loup Precinct|Mayfield/South Loup Precinct
+31|079|00037P|Nineteen|Nineteen
+31|079|00039P|Alda Precinct|Alda Precinct
+31|079|00040P|Wood River Rural Precinct|Wood River Rural Precinct
+31|079|00041P|Martin/South Platte Precinct|Martin/South Platte Precinct
+31|079|00042P|Doniphan Precinct|Doniphan Precinct
+31|079|00043P|Wood River City Precinct|Wood River City Precinct
+31|081|00001P|#1 Precinct|#1 Precinct
+31|081|00002P|#2 Precinct|#2 Precinct
+31|081|00003P|#3 Precinct|#3 Precinct
+31|081|00004P|#4 Precinct|#4 Precinct
+31|081|00005P|#5 Precinct|#5 Precinct
+31|081|00006P|#6 Precinct|#6 Precinct
+31|081|00007P|#7 Precinct|#7 Precinct
+31|081|00008P|#8 Precinct|#8 Precinct
+31|081|00009P|Aurora Ward 3|Aurora Ward 3
+31|081|00010P|Aurora Ward 2|Aurora Ward 2
+31|081|00011P|Aurora Ward 1|Aurora Ward 1
+31|083|00003P|District 3|District 3
+31|083|00004P|District 4|District 4
+31|083|00005P|District 5|District 5
+31|083|00006P|District 6|District 6
+31|083|0000P7|District 7|District 7
+31|083|008301|District 1|District 1
+31|083|008302|District 2|District 2
+31|085|00001P|Precinct 3|Precinct 3
+31|085|00002P|Precinct 1|Precinct 1
+31|085|00003P|Precinct 2|Precinct 2
+31|087|00001P|Stratton Precinct|Stratton Precinct
+31|087|00002P|Palisade Precinct|Palisade Precinct
+31|087|00004P|Culbertson Precinct|Culbertson Precinct
+31|087|00005P|Trenton Precinct|Trenton Precinct
+31|089|00001P|Precinct 1|Precinct 1
+31|089|00002P|Precinct 2|Precinct 2
+31|089|00003P|Precinct 3|Precinct 3
+31|089|00004P|Precinct 4|Precinct 4
+31|089|00005P|Precinct 5|Precinct 5
+31|089|00006P|Precinct 6|Precinct 6
+31|089|00007P|Precinct 7|Precinct 7
+31|089|00008P|Precinct 8|Precinct 8
+31|089|00009P|Atkinson Ward 1|Atkinson Ward 1
+31|089|00010P|10P|Voting District 10P
+31|089|00011P|11P|Voting District 11P
+31|089|00012P|12P|Voting District 12P
+31|089|00013P|13P|Voting District 13P
+31|091|00001P|Hooker Precinct|Hooker Precinct
+31|093|00001P|Elba Precinct|Elba Precinct
+31|093|00002P|Spring Creek Precinct|Spring Creek Precinct
+31|093|00003P|Posen Precinct|Posen Precinct
+31|093|00004P|St. Paul Ward 2|St. Paul Ward 2
+31|093|00005P|St. Paul Ward 1|St. Paul Ward 1
+31|093|00006P|Loup Fork Precinct|Loup Fork Precinct
+31|093|00007P|Dannebrog Precinct|Dannebrog Precinct
+31|093|00008P|St. Libory Precinct|St. Libory Precinct
+31|095|00001P|Fairbury Ward 1|Fairbury Ward 1
+31|095|00002P|Fairbury Ward 2|Fairbury Ward 2
+31|095|00003P|Fairbury Ward 3|Fairbury Ward 3
+31|095|00004P|Fairbury Ward 4|Fairbury Ward 4
+31|095|00005P|Eureka-Washington Precinct|Eureka-Washington Precinct
+31|095|00006P|Ply-Gib Precinct|Ply-Gib Precinct
+31|095|00007P|Lin-Mer-Fby-Rich Precinct|Lin-Mer-Fby-Rich Precinct
+31|095|00008P|Cub Creek-Rock Creek Precinct|Cub Creek-Rock Creek Precinct
+31|095|00009P|Jeff-Pleas-New Precinct|Jeff-Pleas-New Precinct
+31|095|00010P|Buckley-Antelope-Endicott Precinct|Buckley-Antelope-Endicott Precinct
+31|097|00001P|Sterling Precinct|Sterling Precinct
+31|097|00003P|Spring Creek Precinct|Spring Creek Precinct
+31|097|00004P|Western Precinct|Western Precinct
+31|097|00005P|Nemaha 1 Precinct|Nemaha 1 Precinct
+31|097|00007P|Nemaha Precinct 2|Nemaha Precinct 2
+31|097|00008P|Todd Creek Precinct|Todd Creek Precinct
+31|099|00002P|Newark/Blaine Precinct|Newark/Blaine Precinct
+31|099|00003P|Lowell Precinct|Lowell Precinct
+31|099|00005P|Liberty/ Lincoln/ May Precinct|Liberty/ Lincoln/ May Precinct
+31|099|00006P|Eaton Precinct|Eaton Precinct
+31|099|00007P|Mirage Precinct|Mirage Precinct
+31|099|00008P|Hayes/Logan/Sherman Precinct|Hayes/Logan/Sherman Precinct
+31|099|00011P|Oneida Precinct|Oneida Precinct
+31|099|00012P|Cosmo/Grant Precinct|Cosmo/Grant Precinct
+31|099|00013P|Minden North Ward|Minden North Ward
+31|099|00014P|Minden Center Ward|Minden Center Ward
+31|099|00015P|Minden South Ward|Minden South Ward
+31|101|00001P|Lonergan Precinct|Lonergan Precinct
+31|101|00002P|Whitetail Precinct|Whitetail Precinct
+31|101|00003P|Paxton Precinct|Paxton Precinct
+31|101|00004P|Brule Precinct|Brule Precinct
+31|101|00005P|Ogallala Rural Two Precinct|Ogallala Rural Two Precinct
+31|101|00006P|Logan Precinct|Logan Precinct
+31|101|00007P|Ogallala Rural One Precinct|Ogallala Rural One Precinct
+31|101|00008P|Ogallala #5 Precinct|Ogallala #5 Precinct
+31|101|00009P|Ogallala #4 Precinct|Ogallala #4 Precinct
+31|101|00010P|Ogallala #2 Precinct|Ogallala #2 Precinct
+31|101|00011P|Ogallala #1 Precinct|Ogallala #1 Precinct
+31|101|00012P|Ogallala #3 Precinct|Ogallala #3 Precinct
+31|103|00001P|Norden Precinct|Norden Precinct
+31|103|00002P|Garfield Precinct|Garfield Precinct
+31|103|00003P|Custer Precinct|Custer Precinct
+31|103|00004P|Mills Precinct|Mills Precinct
+31|105|00001P|Bushnell Precinct|Bushnell Precinct
+31|105|00002P|Antelope Precinct|Antelope Precinct
+31|105|00003P|Dix Precinct|Dix Precinct
+31|105|00004P|Kimball Ward 2|Kimball Ward 2
+31|105|00005P|Kimball Ward 1|Kimball Ward 1
+31|107|00001P|001 Bloomfield Area Precinct|001 Bloomfield Area Precinct
+31|107|00002P|002 Crofton Area Precinct|002 Crofton Area Precinct
+31|107|00003P|003 Creighton Area Precinct|003 Creighton Area Precinct
+31|107|00004P|004 Center Area Precinct|004 Center Area Precinct
+31|107|00005P|005 Lindy / Santee Area Precinct|005 Lindy / Santee Area Precinct
+31|107|00006P|006 Niobrara Area Precinct|006 Niobrara Area Precinct
+31|107|00007P|007 Verdigre Area Precinct|007 Verdigre Area Precinct
+31|107|00008P|008 Wausa Area Precinct|008 Wausa Area Precinct
+31|109|00001P|12B-8 Precinct|12B-8 Precinct
+31|109|00002P|12A-5 Precinct|12A-5 Precinct
+31|109|00003P|12C-2 Precinct|12C-2 Precinct
+31|109|00004P|11E-5 Precinct|11E-5 Precinct
+31|109|00005P|10B-4 Precinct|10B-4 Precinct
+31|109|00006P|10C-7 Precinct|10C-7 Precinct
+31|109|00008P|9B-1 Precinct|9B-1 Precinct
+31|109|00009P|9D-1 Precinct|9D-1 Precinct
+31|109|00010P|10G-4 Precinct|10G-4 Precinct
+31|109|00011P|10G-2 Precinct|10G-2 Precinct
+31|109|00012P|10G-5 Precinct|10G-5 Precinct
+31|109|00014P|10E-17 Precinct|10E-17 Precinct
+31|109|00015P|10G-3 Precinct|10G-3 Precinct
+31|109|00016P|12B-4 Precinct|12B-4 Precinct
+31|109|00017P|12B-2 Precinct|12B-2 Precinct
+31|109|00018P|12B-7 Precinct|12B-7 Precinct
+31|109|00021P|12A-7 Precinct|12A-7 Precinct
+31|109|00022P|12A-8 Precinct|12A-8 Precinct
+31|109|00023P|12C-7 Precinct|12C-7 Precinct
+31|109|00027P|12B-1 Precinct|12B-1 Precinct
+31|109|00028P|12C-6 Precinct|12C-6 Precinct
+31|109|00029P|12D Precinct|12D Precinct
+31|109|00031P|12A-4 Precinct|12A-4 Precinct
+31|109|00032P|11E-10 Precinct|11E-10 Precinct
+31|109|00033P|11E-3 Precinct|11E-3 Precinct
+31|109|00034P|11E-9 Precinct|11E-9 Precinct
+31|109|00035P|11E-6 Precinct|11E-6 Precinct
+31|109|00036P|11E-1 Precinct|11E-1 Precinct
+31|109|00038P|11E-7 Precinct|11E-7 Precinct
+31|109|00039P|11D-2 Precinct|11D-2 Precinct
+31|109|00041P|11A-1 Precinct|11A-1 Precinct
+31|109|00042P|11C Precinct|11C Precinct
+31|109|00043P|11A-2 Precinct|11A-2 Precinct
+31|109|00044P|11B-1 Precinct|11B-1 Precinct
+31|109|00046P|10A Precinct|10A Precinct
+31|109|00047P|10B-5 Precinct|10B-5 Precinct
+31|109|00049P|10B-1 Precinct|10B-1 Precinct
+31|109|00050P|10B-2 Precinct|10B-2 Precinct
+31|109|00051P|10D-1 Precinct|10D-1 Precinct
+31|109|00053P|10D-2 Precinct|10D-2 Precinct
+31|109|00054P|10F-1 Precinct|10F-1 Precinct
+31|109|00055P|10C-6 Precinct|10C-6 Precinct
+31|109|00056P|10C-5 Precinct|10C-5 Precinct
+31|109|00057P|10D-3 Precinct|10D-3 Precinct
+31|109|00058P|10C-8 Precinct|10C-8 Precinct
+31|109|00059P|10C-4 Precinct|10C-4 Precinct
+31|109|00060P|10C-12 Precinct|10C-12 Precinct
+31|109|00061P|10F-7 Precinct|10F-7 Precinct
+31|109|00063P|10F-4 Precinct|10F-4 Precinct
+31|109|00064P|10F-3 Precinct|10F-3 Precinct
+31|109|00065P|10F-6 Precinct|10F-6 Precinct
+31|109|00066P|10G-7 Precinct|10G-7 Precinct
+31|109|00067P|10G-1 Precinct|10G-1 Precinct
+31|109|00068P|10F-5 Precinct|10F-5 Precinct
+31|109|00069P|10F-12 Precinct|10F-12 Precinct
+31|109|00070P|10E-1 Precinct|10E-1 Precinct
+31|109|00071P|10F-11 Precinct|10F-11 Precinct
+31|109|00072P|10F-14 Precinct|10F-14 Precinct
+31|109|00073P|10G-6 Precinct|10G-6 Precinct
+31|109|00074P|10F-15 Precinct|10F-15 Precinct
+31|109|00075P|10E-14 Precinct|10E-14 Precinct
+31|109|00076P|10E-15 Precinct|10E-15 Precinct
+31|109|00077P|10E-11 Precinct|10E-11 Precinct
+31|109|00078P|10E-10 Precinct|10E-10 Precinct
+31|109|00080P|9H-7 Precinct|9H-7 Precinct
+31|109|00081P|10E-12 Precinct|10E-12 Precinct
+31|109|00082P|10E-8 Precinct|10E-8 Precinct
+31|109|00083P|10E-7 Precinct|10E-7 Precinct
+31|109|00084P|9H-8 Precinct|9H-8 Precinct
+31|109|00086P|9F-11 Precinct|9F-11 Precinct
+31|109|00087P|9G-5 Precinct|9G-5 Precinct
+31|109|00088P|9G-8 Precinct|9G-8 Precinct
+31|109|00089P|9H-4 Precinct|9H-4 Precinct
+31|109|00090P|9H-3 Precinct|9H-3 Precinct
+31|109|00091P|9H-2 Precinct|9H-2 Precinct
+31|109|00092P|9G-7 Precinct|9G-7 Precinct
+31|109|00093P|9H-1 Precinct|9H-1 Precinct
+31|109|00094P|9G-3 Precinct|9G-3 Precinct
+31|109|00095P|9G-6 Precinct|9G-6 Precinct
+31|109|00096P|9F-9 Precinct|9F-9 Precinct
+31|109|00097P|9G-4 Precinct|9G-4 Precinct
+31|109|00098P|9G-2 Precinct|9G-2 Precinct
+31|109|00099P|9F-10 Precinct|9F-10 Precinct
+31|109|00100P|9F-3 Precinct|9F-3 Precinct
+31|109|00103P|10E-5 Precinct|10E-5 Precinct
+31|109|00104P|10D-8 Precinct|10D-8 Precinct
+31|109|00105P|10F-2 Precinct|10F-2 Precinct
+31|109|00106P|10E-4 Precinct|10E-4 Precinct
+31|109|00108P|10D-4 Precinct|10D-4 Precinct
+31|109|00109P|9E-2 Precinct|9E-2 Precinct
+31|109|00110P|9E-5 Precinct|9E-5 Precinct
+31|109|00111P|9F-1 Precinct|9F-1 Precinct
+31|109|00112P|9F-2 Precinct|9F-2 Precinct
+31|109|00113P|9F-5 Precinct|9F-5 Precinct
+31|109|00115P|9F-4 Precinct|9F-4 Precinct
+31|109|00116P|5E-5 Precinct|5E-5 Precinct
+31|109|00117P|9G-1 Precinct|9G-1 Precinct
+31|109|00118P|5E-6 Precinct|5E-6 Precinct
+31|109|00119P|5E-4 Precinct|5E-4 Precinct
+31|109|00120P|5E-3 Precinct|5E-3 Precinct
+31|109|00121P|6E-2 Precinct|6E-2 Precinct
+31|109|00123P|6E-1 Precinct|6E-1 Precinct
+31|109|00124P|9E-4 Precinct|9E-4 Precinct
+31|109|00125P|9E-1 Precinct|9E-1 Precinct
+31|109|00127P|9C-1 Precinct|9C-1 Precinct
+31|109|00128P|9A-1 Precinct|9A-1 Precinct
+31|109|00130P|6D-2 Precinct|6D-2 Precinct
+31|109|00132P|6A-1 Precinct|6A-1 Precinct
+31|109|00133P|5C-3 Precinct|5C-3 Precinct
+31|109|00135P|5B-1 Precinct|5B-1 Precinct
+31|109|00136P|5C-1 Precinct|5C-1 Precinct
+31|109|00138P|5E-9 Precinct|5E-9 Precinct
+31|109|00139P|7D-2 Precinct|7D-2 Precinct
+31|109|00140P|7A Precinct|7A Precinct
+31|109|00143P|8C-2 Precinct|8C-2 Precinct
+31|109|00144P|3A Precinct|3A Precinct
+31|109|00145P|8A Precinct|8A Precinct
+31|109|00146P|4A Precinct|4A Precinct
+31|109|00148P|3D Precinct|3D Precinct
+31|109|00150P|1B Precinct|1B Precinct
+31|109|00152P|2A Precinct|2A Precinct
+31|109|00154P|2C-1 Precinct|2C-1 Precinct
+31|109|00155P|1A Precinct|1A Precinct
+31|109|00156P|1A-1 Precinct|1A-1 Precinct
+31|109|00158P|1D-2 Precinct|1D-2 Precinct
+31|109|00159P|1D-5 Precinct|1D-5 Precinct
+31|109|00160P|1D-1 Precinct|1D-1 Precinct
+31|109|00162P|1D-6 Precinct|1D-6 Precinct
+31|109|00163P|1D-7 Precinct|1D-7 Precinct
+31|109|00164P|1D-4 Precinct|1D-4 Precinct
+31|109|00166P|1E-6 Precinct|1E-6 Precinct
+31|109|00167P|1E-4 Precinct|1E-4 Precinct
+31|109|00168P|1F-2 Precinct|1F-2 Precinct
+31|109|00170P|1F-1 Precinct|1F-1 Precinct
+31|109|00172P|1E-5 Precinct|1E-5 Precinct
+31|109|00174P|12G-1 Precinct|12G-1 Precinct
+31|109|00176P|12F Precinct|12F Precinct
+31|109|00179P|10H-1 Precinct|10H-1 Precinct
+31|109|00182P|2C-2 Precinct|2C-2 Precinct
+31|109|00184P|Murdock South Precinct|Murdock South Precinct
+31|109|00185P|2D-1 Precinct|2D-1 Precinct
+31|109|00186P|West Salt Precinct|West Salt Precinct
+31|109|00187P|Rock Creek Precinct|Rock Creek Precinct
+31|109|00188P|Waverly 2 Precinct|Waverly 2 Precinct
+31|109|00190P|Elk Precinct|Elk Precinct
+31|109|00191P|Middle Creek Precinct|Middle Creek Precinct
+31|109|00192P|Oak Precinct|Oak Precinct
+31|109|00193P|1E-9 Precinct|1E-9 Precinct
+31|109|00194P|North Bluff Precinct|North Bluff Precinct
+31|109|00195P|Stevens Creek Precinct|Stevens Creek Precinct
+31|109|00197P|Grant 3 Precinct|Grant 3 Precinct
+31|109|00198P|Stockton Precinct|Stockton Precinct
+31|109|00199P|Grant 1 Precinct|Grant 1 Precinct
+31|109|00200P|Grant 2 Precinct|Grant 2 Precinct
+31|109|00202P|Denton Precinct|Denton Precinct
+31|109|00204P|Centerville Precinct|Centerville Precinct
+31|109|00205P|10H-8 Precinct|10H-8 Precinct
+31|109|00206P|Buda Precinct|Buda Precinct
+31|109|00207P|Saltillo 1 Precinct|Saltillo 1 Precinct
+31|109|00208P|Saltillo 2 Precinct|Saltillo 2 Precinct
+31|109|00209P|South Pass Precinct|South Pass Precinct
+31|109|00210P|Nemaha Precinct|Nemaha Precinct
+31|109|00211P|Panama Precinct|Panama Precinct
+31|109|00212P|1E-3 Precinct|1E-3 Precinct
+31|109|00213P|1E-7 Precinct|1E-7 Precinct
+31|109|00215P|1E-2 Precinct|1E-2 Precinct
+31|109|00216P|10F-16P Precinct|10F-16P Precinct
+31|109|00218P|6F-1 Precinct|6F-1 Precinct
+31|109|00300P|2D-5 Precinct|2D-5 Precinct
+31|109|00301P|10E-16 Precinct|10E-16 Precinct
+31|109|00303P|10H-2 Precinct|10H-2 Precinct
+31|109|00304P|10H-3 Precinct|10H-3 Precinct
+31|109|00305P|10H-4 Precinct|10H-4 Precinct
+31|109|00306P|10H-5 Precinct|10H-5 Precinct
+31|109|00307P|10H-6 Precinct|10H-6 Precinct
+31|109|00308P|12A-10 Precinct|12A-10 Precinct
+31|109|00309P|12A-9 Precinct|12A-9 Precinct
+31|109|00310P|12G-2 Precinct|12G-2 Precinct
+31|109|00311P|10F-10 Precinct|10F-10 Precinct
+31|109|00312P|1D-10 Precinct|1D-10 Precinct
+31|109|00313P|12B-6 Precinct|12B-6 Precinct
+31|109|00314P|1D-8 Precinct|1D-8 Precinct
+31|109|00315P|1D-9 Precinct|1D-9 Precinct
+31|109|00316P|1E-8 Precinct|1E-8 Precinct
+31|109|00317P|1F-3 Precinct|1F-3 Precinct
+31|109|00318P|2C-3 Precinct|2C-3 Precinct
+31|109|00319P|2D-3 Precinct|2D-3 Precinct
+31|109|00320P|10H-7 Precinct|10H-7 Precinct
+31|109|00321P|2D-2 Precinct|2D-2 Precinct
+31|109|00322P|5E-7 Precinct|5E-7 Precinct
+31|109|00323P|5E-8 Precinct|5E-8 Precinct
+31|109|00324P|9G-9 Precinct|9G-9 Precinct
+31|109|00325P|9H-5 Precinct|9H-5 Precinct
+31|109|00326P|9H-6 Precinct|9H-6 Precinct
+31|109|00327P|Garfield 1 Precinct|Garfield 1 Precinct
+31|109|00328P|Grant 4 Precinct|Grant 4 Precinct
+31|109|00329P|Hickman Precinct|Hickman Precinct
+31|109|00330P|Waverly North Precinct|Waverly North Precinct
+31|109|00331P|Waverly South Precinct|Waverly South Precinct
+31|109|00332P|Yankee Hill East Precinct|Yankee Hill East Precinct
+31|109|00333P|Yankee Hill West Precinct|Yankee Hill West Precinct
+31|111|00001P|Sutherland Precinct|Sutherland Precinct
+31|111|00002P|Hershey Precinct|Hershey Precinct
+31|111|00003P|Wallace Precinct|Wallace Precinct
+31|111|00005P|Hall Precinct|Hall Precinct
+31|111|00007P|Maxwell Precinct|Maxwell Precinct
+31|111|00009P|Brady Precinct|Brady Precinct
+31|111|00013P|Medicine Precinct|Medicine Precinct
+31|111|00014P|Hinman Precinct|Hinman Precinct
+31|111|00016P|Sellers Precinct|Sellers Precinct
+31|111|00017P|Osgood Precinct|Osgood Precinct
+31|111|00019P|W-1/P-2|Voting District W-1/P-2
+31|111|00020P|W-1/P-3|Voting District W-1/P-3
+31|111|00021P|W-2/P-5|Voting District W-2/P-5
+31|111|00022P|W1/P-1|Voting District W1/P-1
+31|111|00025P|W-2/P-6|Voting District W-2/P-6
+31|111|00027P|W-3/P-12|Voting District W-3/P-12
+31|111|00028P|W4/P-15|Voting District W4/P-15
+31|111|00030P|W-4/P-13|Voting District W-4/P-13
+31|111|00031P|W-3/P-9|Voting District W-3/P-9
+31|111|00032P|W-2/P-8|Voting District W-2/P-8
+31|111|00033P|W-2/P-7|Voting District W-2/P-7
+31|111|00035P|W-3/P-10|Voting District W-3/P-10
+31|111|00040P|W-1/P-4|Voting District W-1/P-4
+31|111|00041P|W-4/P-16|Voting District W-4/P-16
+31|113|00001P|Logan Precinct|Logan Precinct
+31|115|00001P|Sawyer Precinct|Sawyer Precinct
+31|117|00001P|Tryon Precinct|Tryon Precinct
+31|119|00001P|Norfolk 1-1 Precinct|Norfolk 1-1 Precinct
+31|119|00002P|Norfolk 1-2 Precinct|Norfolk 1-2 Precinct
+31|119|00003P|Norfolk 1-3 Precinct|Norfolk 1-3 Precinct
+31|119|00004P|Norfolk 2-1 Precinct|Norfolk 2-1 Precinct
+31|119|00005P|Norfolk 2-2 Precinct|Norfolk 2-2 Precinct
+31|119|00006P|Norfolk 2-3 Precinct|Norfolk 2-3 Precinct
+31|119|00007P|Norfolk 3-1 Precinct|Norfolk 3-1 Precinct
+31|119|00008P|Norfolk 3-2 Precinct|Norfolk 3-2 Precinct
+31|119|00009P|Norfolk 3-3 Precinct|Norfolk 3-3 Precinct
+31|119|00010P|Norfolk 4-1 Precinct|Norfolk 4-1 Precinct
+31|119|00011P|Norfolk 4-2 Precinct|Norfolk 4-2 Precinct
+31|119|00012P|Norfolk 4-3 Precinct|Norfolk 4-3 Precinct
+31|119|00013P|Norfolk Precinct|Norfolk Precinct
+31|119|00014P|Valley Precinct|Valley Precinct
+31|119|00015P|Meadow Grove-Jefferson-Grove-Highland Precinct|Meadow Grove-Jefferson-Grove-Highland Precinct
+31|119|00016P|Tilden 2nd Ward Precinct|Tilden 2nd Ward Precinct
+31|119|00019P|BC-Battle Creek Precinct|BC-Battle Creek Precinct
+31|119|00020P|Warnerville Precinct|Warnerville Precinct
+31|119|00021P|Union-Madison Precinct|Union-Madison Precinct
+31|119|00022P|Fairview-Kalamazoo-Green Garden Precinct|Fairview-Kalamazoo-Green Garden Precinct
+31|119|00023P|Schoolcraft-Emerick-SCrk-NG Precinct|Schoolcraft-Emerick-SCrk-NG Precinct
+31|119|00025P|Madison 2nd Ward|Madison 2nd Ward
+31|119|00026P|Madison 1st Ward|Madison 1st Ward
+31|121|00001P|Silver Creek Precinct|Silver Creek Precinct
+31|121|00002P|Clarksville East Precinct|Clarksville East Precinct
+31|121|00003P|Mead Precinct|Mead Precinct
+31|121|00004P|Midland Precinct|Midland Precinct
+31|121|00005P|Loup Precinct|Loup Precinct
+31|121|00006P|Clarksville West Precinct|Clarksville West Precinct
+31|121|00007P|Central Precinct|Central Precinct
+31|121|00008P|Lone Tree North Precinct|Lone Tree North Precinct
+31|121|00009P|Lone Tree South Precinct|Lone Tree South Precinct
+31|121|00010P|Prairie Creek Precinct|Prairie Creek Precinct
+31|121|00011P|Chapman Precinct|Chapman Precinct
+31|121|00012P|Vieregg Precinct|Vieregg Precinct
+31|121|00013P|Prairie Island Precinct|Prairie Island Precinct
+31|121|00014P|Central City Ward 1|Central City Ward 1
+31|121|00015P|Central City Ward 2|Central City Ward 2
+31|123|00001P|West Bayard Precinct|West Bayard Precinct
+31|123|00002P|Haynes Precinct|Haynes Precinct
+31|123|00003P|Gilchrist Precinct|Gilchrist Precinct
+31|123|00004P|East Bayard Precinct|East Bayard Precinct
+31|123|00005P|North Campe Clarke Precinct|North Campe Clarke Precinct
+31|123|00006P|Broadwater Precinct|Broadwater Precinct
+31|123|00007P|West Camp Clarke Precinct|West Camp Clarke Precinct
+31|123|00008P|Redington Precinct|Redington Precinct
+31|123|00009P|East Camp Clarke Precinct|East Camp Clarke Precinct
+31|125|00001P|CTS Precinct|CTS Precinct
+31|125|00002P|BGCP Precinct|BGCP Precinct
+31|125|00003P|CLFWE Precinct|CLFWE Precinct
+31|125|00004P|Fullerton Ward|Fullerton Ward
+31|125|00007P|Genoa Ward 1|Genoa Ward 1
+31|125|00008P|Genoa Ward 2|Genoa Ward 2
+31|127|00001P|Lafayette Precinct|Lafayette Precinct
+31|127|00003P|Peru Precinct|Peru Precinct
+31|127|00004P|Washington Precinct|Washington Precinct
+31|127|00005P|Brownville Precinct|Brownville Precinct
+31|127|00008P|Nemaha Precinct|Nemaha Precinct
+31|127|00009P|1st Douglas Precinct|1st Douglas Precinct
+31|127|00010P|2nd Douglas Precinct|2nd Douglas Precinct
+31|127|00011P|3rd Douglas Precinct|3rd Douglas Precinct
+31|127|00012P|4th Douglas Precinct|4th Douglas Precinct
+31|129|00001P|Victor Precinct|Victor Precinct
+31|129|00002P|Nelson Precinct|Nelson Precinct
+31|129|00003P|Elk Precinct|Elk Precinct
+31|129|00004P|Beaver 1 Precinct|Beaver 1 Precinct
+31|129|00005P|Hardy Precinct|Hardy Precinct
+31|129|00006P|Spring Creek Precinct|Spring Creek Precinct
+31|129|00007P|Beaver 2 Precinct|Beaver 2 Precinct
+31|129|00008P|Beaver 3 Precinct|Beaver 3 Precinct
+31|131|00001P|Palmyra Precinct|Palmyra Precinct
+31|131|00002P|Russell Precinct|Russell Precinct
+31|131|00003P|Berlin Precinct|Berlin Precinct
+31|131|00005P|Syracuse Precinct|Syracuse Precinct
+31|131|00006P|Delaware Precinct|Delaware Precinct
+31|131|00009P|So. Branch Precinct|So. Branch Precinct
+31|131|00011P|McWilliams Precinct|McWilliams Precinct
+31|131|00013P|NC13|NC13
+31|131|00014P|NC14|NC14
+31|131|00016P|NC16|NC16
+31|131|00017P|NC15|NC15
+31|131|00020P|NC12|NC12
+31|131|00021P|NC11|NC11
+31|133|00002P|Steinauer Precinct|Steinauer Precinct
+31|133|00004P|Table Rock Precinct|Table Rock Precinct
+31|133|00005P|Burchard Precinct|Burchard Precinct
+31|133|00013P|Pawnee Precinct 1|Pawnee Precinct 1
+31|133|00014P|Pawnee Precinct 2|Pawnee Precinct 2
+31|135|00001P|Precinct 1|Precinct 1
+31|135|00002P|Precinct 2|Precinct 2
+31|135|00003P|Precinct 3|Precinct 3
+31|137|00001P|Anderson-Cottonwood Precinct|Anderson-Cottonwood Precinct
+31|137|00003P|Westside - Willaimsburg Precinct|Westside - Willaimsburg Precinct
+31|137|00004P|Garfield-Union Precinct|Garfield-Union Precinct
+31|137|00005P|Westmark-Center Precinct|Westmark-Center Precinct
+31|137|00006P|Divide and Lake Precinct|Divide and Lake Precinct
+31|137|00007P|Prarie and Sheridan Precinct|Prarie and Sheridan Precinct
+31|137|00008P|Laird Precinct|Laird Precinct
+31|137|00009P|Rockfalls-Industry Precinct|Rockfalls-Industry Precinct
+31|137|00012P|Bertrand Precinct|Bertrand Precinct
+31|137|00013P|Holdrege Ward 1 Precinct|Holdrege Ward 1 Precinct
+31|137|00014P|Holdrege Ward 2 Precinct|Holdrege Ward 2 Precinct
+31|137|00015P|Holdrege Ward 3 Precinct|Holdrege Ward 3 Precinct
+31|137|00016P|Holdrege Ward 4 Precinct|Holdrege Ward 4 Precinct
+31|139|00001P|Plainview Area Voting District|Plainview Area Voting District
+31|139|00002P|Osmond Area Precinct|Osmond Area Precinct
+31|139|00005P|Pierce Rural Area Precinct|Pierce Rural Area Precinct
+31|139|00006P|Hadar Area/South Branch Precinct|Hadar Area/South Branch Precinct
+31|139|00007P|Pierce City Precinct|Pierce City Precinct
+31|141|00001P|Walker/Woodville Precinct|Walker/Woodville Precinct
+31|141|00003P|St. Bernard Precinct|St. Bernard Precinct
+31|141|00004P|Joliet Precinct|Joliet Precinct
+31|141|00005P|Oconee/Monroe Precinct|Oconee/Monroe Precinct
+31|141|00006P|Butler/Loup Precinct|Butler/Loup Precinct
+31|141|00007P|Granville Precinct|Granville Precinct
+31|141|00009P|Lost Creek/Burrows Precinct|Lost Creek/Burrows Precinct
+31|141|00010P|Humphrey Precinct|Humphrey Precinct
+31|141|00011P|Sherman/Grand Prairie Precinct|Sherman/Grand Prairie Precinct
+31|141|00012P|Shell Creek Precinct|Shell Creek Precinct
+31|141|00013P|Creston Precinct|Creston Precinct
+31|141|00015P|Bismark Precinct|Bismark Precinct
+31|141|00016P|Columbus Twp A Precinct|Columbus Twp A Precinct
+31|141|00018P|Columbus Ward 3C|Columbus Ward 3C
+31|141|00019P|Columbus Ward 3B|Columbus Ward 3B
+31|141|00020P|Columbus Ward 3A|Columbus Ward 3A
+31|141|00021P|Columbus Ward 4B|Columbus Ward 4B
+31|141|00022P|Columbus Ward 4C|Columbus Ward 4C
+31|141|00023P|Columbus Ward 1B|Columbus Ward 1B
+31|141|00024P|Columbus Ward 2A|Columbus Ward 2A
+31|141|00025P|Columbus Ward 1C|Columbus Ward 1C
+31|141|00026P|Columbus Ward 2C|Columbus Ward 2C
+31|141|00027P|Columbus Ward 2B|Columbus Ward 2B
+31|141|00028P|Columbus Ward 4A|Columbus Ward 4A
+31|141|00029P|Columbus Ward 1A|Columbus Ward 1A
+31|141|00030P|Columbus Twp B Precinct|Columbus Twp B Precinct
+31|141|00041P|Columbus Ward 1D|Columbus Ward 1D
+31|141|00042P|Columbus Ward 2D|Columbus Ward 2D
+31|141|00043P|Columbus Ward 3D|Columbus Ward 3D
+31|141|00044P|Columbus Ward 4D|Columbus Ward 4D
+31|143|00002P|North Osceola Precinct|North Osceola Precinct
+31|143|00004P|West Pleasant Home Precinct|West Pleasant Home Precinct
+31|143|00005P|West Stromberg Precinct|West Stromberg Precinct
+31|143|00006P|South Osceola Precinct|South Osceola Precinct
+31|143|00008P|East Stromberg Precinct|East Stromberg Precinct
+31|143|00009P|South Canada Precinct|South Canada Precinct
+31|145|00001P|Northwest Precinct|Northwest Precinct
+31|145|00003P|Indianola Precinct|Indianola Precinct
+31|145|00004P|Bartley Precinct|Bartley Precinct
+31|145|00005P|Southwest Precinct|Southwest Precinct
+31|145|00006P|Beaver Precinct|Beaver Precinct
+31|145|00008P|W-2 P-1 Precinct|W-2 P-1 Precinct
+31|145|00009P|W-1 P-3 Precinct|W-1 P-3 Precinct
+31|145|00010P|W-2 P-2 Precinct|W-2 P-2 Precinct
+31|145|00011P|W-1 P-2 Precinct|W-1 P-2 Precinct
+31|145|00012P|W-3 P-3 Precinct|W-3 P-3 Precinct
+31|145|00014P|W-3 P-1 Precinct|W-3 P-1 Precinct
+31|145|00016P|W-4 P-1 Precinct|W-4 P-1 Precinct
+31|145|00017P|W-1 P-1 Precinct|W-1 P-1 Precinct
+31|147|00001P|Franklin/Humboldt Rural/Speiser Precinct|Franklin/Humboldt Rural/Speiser Precinct
+31|147|00002P|West Muddy/Porter Precinct|West Muddy/Porter Precinct
+31|147|00003P|Arago/Barada Precinct|Arago/Barada Precinct
+31|147|00004P|East Muddy Precinct|East Muddy Precinct
+31|147|00005P|Grant/Nemaha Precinct|Grant/Nemaha Precinct
+31|147|00006P|Liberty Precinct|Liberty Precinct
+31|147|00007P|Salem Precinct|Salem Precinct
+31|147|00008P|Falls City Rural/Ohio Precinct|Falls City Rural/Ohio Precinct
+31|147|00009P|Jefferson/Rulo Precinct|Jefferson/Rulo Precinct
+31|147|00010P|Humboldt Ward 2|Humboldt Ward 2
+31|147|00011P|Humboldt Ward 1|Humboldt Ward 1
+31|147|00012P|Falls City Ward 1|Falls City Ward 1
+31|147|00014P|Falls City Ward 3|Falls City Ward 3
+31|147|00015P|Falls City Ward 2|Falls City Ward 2
+31|147|00018P|Falls City Ward 4|Falls City Ward 4
+31|149|00003P|Rock Precinct|Rock Precinct
+31|151|00001P|Friend Ward 2|Friend Ward 2
+31|151|00002P|Friend Ward 1|Friend Ward 1
+31|151|00003P|Dorchester Precinct|Dorchester Precinct
+31|151|00005P|C and B Precinct|C and B Precinct
+31|151|00006P|Olive Precinct|Olive Precinct
+31|151|00007P|South Fork Precinct|South Fork Precinct
+31|151|00010P|Wilbur 1 Precinct|Wilbur 1 Precinct
+31|151|00011P|Wilbur 2 Precinct|Wilbur 2 Precinct
+31|151|00012P|Dewitt Precinct|Dewitt Precinct
+31|151|00013P|Crete 2 Precinct|Crete 2 Precinct
+31|151|00014P|Crete 3 Precinct|Crete 3 Precinct
+31|151|00015P|Crete 1 Precinct|Crete 1 Precinct
+31|153|000001|LD45-01|LD45-01
+31|153|000002|LD45-02|LD45-02
+31|153|000003|LD45-03|LD45-03
+31|153|000004|LD45-04|LD45-04
+31|153|000005|LD45-05|LD45-05
+31|153|000006|LD45-06|LD45-06
+31|153|000007|LD45-07|LD45-07
+31|153|000008|LD45-08|LD45-08
+31|153|000009|LD45-09|LD45-09
+31|153|000010|LD45-10|LD45-10
+31|153|000011|LD45-11|LD45-11
+31|153|000012|LD45-12|LD45-12
+31|153|000013|LD45-13|LD45-13
+31|153|000016|LD03-16|LD03-16
+31|153|000017|LD03-17|LD03-17
+31|153|000018|LD03-18|LD03-18
+31|153|000019|LD03-19|LD03-19
+31|153|000020|LD03-20|LD03-20
+31|153|000021|LD03-21|LD03-21
+31|153|000022|LD03-22|LD03-22
+31|153|000023|LD03-23|LD03-23
+31|153|000024|LD03-24|LD03-24
+31|153|000025|LD03-25|LD03-25
+31|153|000026|LD03-26|LD03-26
+31|153|000031|LD14-31|LD14-31
+31|153|000032|LD14-32|LD14-32
+31|153|000033|LD14-33|LD14-33
+31|153|000034|LD14-34|LD14-34
+31|153|000035|LD14-35|LD14-35
+31|153|000036|LD14-36|LD14-36
+31|153|000037|LD14-37|LD14-37
+31|153|000038|LD14-38|LD14-38
+31|153|000039|LD14-39|LD14-39
+31|153|000040|LD14-40|LD14-40
+31|153|000041|LD14-41|LD14-41
+31|153|000042|LD14-42|LD14-42
+31|153|000046|LD02-46|LD02-46
+31|153|000047|LD02-47|LD02-47
+31|153|000048|LD02-48|LD02-48
+31|153|000049|LD02-49|LD02-49
+31|153|000051|LD49-51|LD49-51
+31|153|000052|LD49-52|LD49-52
+31|153|000053|LD49-53|LD49-53
+31|153|000054|LD49-54|LD49-54
+31|153|000055|LD49-55|LD49-55
+31|153|000056|LD49-56|LD49-56
+31|153|000057|LD49-57|LD49-57
+31|153|000058|LD49-58|LD49-58
+31|153|000059|LD49-59|LD49-59
+31|153|000060|LD49-60|LD49-60
+31|153|000061|LD49-61|LD49-61
+31|153|000062|LD49-62|LD49-62
+31|155|00003P|Cedar Bluffs Precinct|Cedar Bluffs Precinct
+31|155|00004P|District 4 Precinct|District 4 Precinct
+31|155|00004W|Wahoo W1|Wahoo W1 Voting District
+31|155|00006P|Prague Precinct|Prague Precinct
+31|155|00007P|Malmo Precinct|Malmo Precinct
+31|155|00008P|Center Precinct|Center Precinct
+31|155|00009P|Marietta Precinct|Marietta Precinct
+31|155|0000W1|Ashland W1|Ashland W1 Voting District
+31|155|0000W2|Ashland W2|Ashland W2 Voting District
+31|155|0000W3|Wahoo W3|Wahoo W3 Voting District
+31|155|0000W5|Wahoo W2|Wahoo W2 Voting District
+31|155|00010P|Yutan Precinct|Yutan Precinct
+31|155|00011P|Weston Precinct|Weston Precinct
+31|155|00012P|Wahoo Rural Precinct|Wahoo Rural Precinct
+31|155|00014P|Valparaiso Precinct|Valparaiso Precinct
+31|155|00015P|Ceresco Precinct|Ceresco Precinct
+31|155|00018P|Ashland Rural Precinct|Ashland Rural Precinct
+31|157|00001P|Castle Rock A Precinct|Castle Rock A Precinct
+31|157|00002P|Castle Rock B Precinct|Castle Rock B Precinct
+31|157|00003P|Dewey-Tabor Precinct|Dewey-Tabor Precinct
+31|157|00004P|East Winter Creek Precinct|East Winter Creek Precinct
+31|157|00005P|Fanning Precinct|Fanning Precinct
+31|157|00006P|Ford A & B Precinct|Ford A & B Precinct
+31|157|00007P|Funston Precinct|Funston Precinct
+31|157|00008P|Gering Precinct|Gering Precinct
+31|157|00009P|Gering 1 Precinct|Gering 1 Precinct
+31|157|00010P|Gering 2 Precinct|Gering 2 Precinct
+31|157|00011P|Gering 3 Precinct|Gering 3 Precinct
+31|157|00012P|Gering 4 Precinct|Gering 4 Precinct
+31|157|00013P|Highland Precinct|Highland Precinct
+31|157|00014P|Kiowa-Lyman Precinct|Kiowa-Lyman Precinct
+31|157|00015P|Minitare 1 & 2 Precinct|Minitare 1 & 2 Precinct
+31|157|00016P|Mitchell Precinct|Mitchell Precinct
+31|157|00017P|Mitchell 1 Precinct|Mitchell 1 Precinct
+31|157|00018P|Mitchell 2 Precinct|Mitchell 2 Precinct
+31|157|00019P|Village of Morrill Precinct|Village of Morrill Precinct
+31|157|00020P|Roubadeau Precinct|Roubadeau Precinct
+31|157|00021P|Scottsbluff 1 Precinct|Scottsbluff 1 Precinct
+31|157|00022P|Scottsbluff 2 Precinct|Scottsbluff 2 Precinct
+31|157|00023P|Scottsbluff 3 Precinct|Scottsbluff 3 Precinct
+31|157|00024P|Scottsbluff 4 Precinct|Scottsbluff 4 Precinct
+31|157|00025P|Scottsbluff 5 Precinct|Scottsbluff 5 Precinct
+31|157|00026P|Scottsbluff 6 Precinct|Scottsbluff 6 Precinct
+31|157|00027P|Scottsbluff 7 Precinct|Scottsbluff 7 Precinct
+31|157|00028P|Scottsbluff 8 Precinct|Scottsbluff 8 Precinct
+31|157|00029P|Terrytown Precinct|Terrytown Precinct
+31|157|00030P|West Winter Creek Precinct|West Winter Creek Precinct
+31|159|00001P|C Precinct|C Precinct
+31|159|00002P|B Precinct|B Precinct
+31|159|00003P|H Precinct|H Precinct
+31|159|00004P|E Precinct|E Precinct
+31|159|00006P|G Precinct|G Precinct
+31|159|00007P|M-BX Precinct|M-BX Precinct
+31|159|00008P|K Precinct|K Precinct
+31|159|00009P|M-CO Precinct|M-CO Precinct
+31|159|00010P|J Precinct|J Precinct
+31|159|00011P|O Precinct|O Precinct
+31|159|00012P|I Precinct|I Precinct
+31|159|00013P|City of Seward Ward 2|City of Seward Ward 2
+31|159|00014P|City of Seward Ward 3|City of Seward Ward 3
+31|159|00015P|City of Seward Ward 4|City of Seward Ward 4
+31|159|00016P|City of Seward Ward 1|City of Seward Ward 1
+31|159|00017P|O-1 Precinct|O-1 Precinct
+31|159|00018P|O-2 Precinct|O-2 Precinct
+31|161|00001P|Hay Springs Precinct|Hay Springs Precinct
+31|161|00002P|North Rushville Precinct|North Rushville Precinct
+31|161|00003P|Wounded Knee Precinct|Wounded Knee Precinct
+31|161|00004P|South Rushville Precinct|South Rushville Precinct
+31|161|00005P|West Gordon Precinct|West Gordon Precinct
+31|161|00006P|East Gordon Precinct|East Gordon Precinct
+31|161|00007P|Mirage Precinct|Mirage Precinct
+31|161|00008P|South Sheridan Precinct|South Sheridan Precinct
+31|163|00001P|Central Loup City Precinct|Central Loup City Precinct
+31|163|00002P|North Loup City Precinct|North Loup City Precinct
+31|163|00003P|Ashton Precinct|Ashton Precinct
+31|163|00004P|Harrison Precinct|Harrison Precinct
+31|163|00005P|South Loup City Precinct|South Loup City Precinct
+31|163|00006P|Rockville Precinct|Rockville Precinct
+31|165|00001P|Bowen Precinct|Bowen Precinct
+31|165|00003P|Sheep Creek Precinct|Sheep Creek Precinct
+31|167|00001P|Spring Branch Precinct|Spring Branch Precinct
+31|167|00002P|Spring Branch Precinct 2|Spring Branch Precinct 2
+31|167|00003P|Dewey Precinct|Dewey Precinct
+31|167|00004P|Pilger Precinct|Pilger Precinct
+31|167|00006P|Elkhorn Precinct|Elkhorn Precinct
+31|167|00007P|Stanton B Precinct|Stanton B Precinct
+31|167|00008P|Stanton A Precinct|Stanton A Precinct
+31|167|00009P|Stanton C Precinct|Stanton C Precinct
+31|167|00010P|Kingsburg Precinct|Kingsburg Precinct
+31|167|00011P|Union Creek Precinct|Union Creek Precinct
+31|167|00012P|Butterfly Precinct|Butterfly Precinct
+31|167|00013P|Haymow Precinct|Haymow Precinct
+31|167|00014P|Dimick Precinct|Dimick Precinct
+31|167|00015P|Ramshorn Precinct|Ramshorn Precinct
+31|167|00016P|Maple Creek Precinct|Maple Creek Precinct
+31|169|00001P|Davenport Precinct|Davenport Precinct
+31|169|00002P|Bruning Precinct|Bruning Precinct
+31|169|00004P|Alexandria Precinct|Alexandria Precinct
+31|169|00007P|Deshler Precinct|Deshler Precinct
+31|169|00008P|Chester Precinct|Chester Precinct
+31|169|00013P|Hebron North Precinct|Hebron North Precinct
+31|169|00014P|Hebron South Precinct|Hebron South Precinct
+31|171|00001P|Thomas Precinct|Thomas Precinct
+31|173|00001P|Perry Precinct|Perry Precinct
+31|173|00002P|Flournoy/Merry Precinct|Flournoy/Merry Precinct
+31|173|00003P|Thayer Precinct|Thayer Precinct
+31|173|00004P|Pender Precinct|Pender Precinct
+31|173|00005P|Bryan Precinct|Bryan Precinct
+31|173|00006P|Dawes Precinct|Dawes Precinct
+31|173|00007P|Anderson-Blackbird Precinct|Anderson-Blackbird Precinct
+31|173|00008P|Omaha Precinct|Omaha Precinct
+31|173|00009P|Winnebago Precinct|Winnebago Precinct
+31|175|00001P|Precinct 1|Precinct 1
+31|175|00003P|Precinct 7|Precinct 7
+31|175|00004P|Precinct 4|Precinct 4
+31|175|00005P|Precinct 5|Precinct 5
+31|175|00006P|Precinct 3 - Ord|Precinct 3 - Ord
+31|175|00007P|Precinct 2 - Ord|Precinct 2 - Ord
+31|175|00008P|Precinct 6 - Ord|Precinct 6 - Ord
+31|177|00002P|Herman Precinct|Herman Precinct
+31|177|00003P|Fontanelle Precinct|Fontanelle Precinct
+31|177|00003W|Central Precinct|Central Precinct
+31|177|00004P|Cuming City Precinct|Cuming City Precinct
+31|177|00005W|Skyline Precinct|Skyline Precinct
+31|177|00006P|Arlington Precinct|Arlington Precinct
+31|177|00007P|Kennard Precinct|Kennard Precinct
+31|177|00007W|Arbor Precinct|Arbor Precinct
+31|177|00008W|Dana Precinct|Dana Precinct
+31|177|00009P|Desoto Precinct|Desoto Precinct
+31|177|00010P|Northview Precinct|Northview Precinct
+31|177|00012P|Lakeland Precinct|Lakeland Precinct
+31|177|00013P|Fort Calhoun East Precinct|Fort Calhoun East Precinct
+31|177|00014P|Fort Calhoun West Precinct|Fort Calhoun West Precinct
+31|177|00015P|Washington Precinct|Washington Precinct
+31|179|00001P|Deer Creek/Sherman Precinct|Deer Creek/Sherman Precinct
+31|179|00002P|Strahan/Wilber Precinct|Strahan/Wilber Precinct
+31|179|00003P|Hoskins/Garfield Precinct|Hoskins/Garfield Precinct
+31|179|00004P|Chapin/Hancock/Winside Precinct|Chapin/Hancock/Winside Precinct
+31|179|00006P|Brenna/Plum Creek/Hunter Precinct|Brenna/Plum Creek/Hunter Precinct
+31|179|00008P|Logan/Leslie Precinct|Logan/Leslie Precinct
+31|179|00009P|Wayne Ward 1|Wayne Ward 1
+31|179|00011P|Wayne Ward 2|Wayne Ward 2
+31|179|00012P|Wayne Ward 3|Wayne Ward 3
+31|179|00013P|Wayne Ward 4|Wayne Ward 4
+31|181|00001P|Bladen Precinct|Bladen Precinct
+31|181|00002P|Blue Hill Precinct|Blue Hill Precinct
+31|181|00004P|Red Cloud 2nd Precinct|Red Cloud 2nd Precinct
+31|181|00005P|Red Cloud 1st Precinct|Red Cloud 1st Precinct
+31|181|00007P|Guide Rock Precinct|Guide Rock Precinct
+31|183|00001P|Bartlett Precinct|Bartlett Precinct
+31|183|00002P|Ericson Precinct|Ericson Precinct
+31|185|00001P|Arborville-Morton-Bradshaw-Lockridge Precinct|Arborville-Morton-Bradshaw-Lockridge Precinct
+31|185|00001W|York Ward 1A|York Ward 1A
+31|185|00002P|Thayer-Stewart Precinct|Thayer-Stewart Precinct
+31|185|00003W|York Ward 2|York Ward 2
+31|185|00004P|New York-Waco-Beaver-West Blue Precinct|New York-Waco-Beaver-West Blue Precinct
+31|185|00004W|York Ward 3|York Ward 3
+31|185|00005P|Brown-Henderson Precinct|Brown-Henderson Precinct
+31|185|00005W|York Ward 4A|York Ward 4A
+31|185|00006P|Leroy-Baker Precinct|Leroy-Baker Precinct
+31|185|00006W|York Ward 4B|York Ward 4B
+31|185|00007P|Hays-McFadden Precinct|Hays-McFadden Precinct
+31|185|00012P|York Ward 2B|York Ward 2B

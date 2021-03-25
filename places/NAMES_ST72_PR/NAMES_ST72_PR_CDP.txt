@@ -1,0 +1,293 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+72|00186|Aceitunas|Aceitunas comunidad
+72|00358|Adjuntas|Adjuntas zona urbana
+72|00616|Aguada|Aguada zona urbana
+72|00745|Aguadilla|Aguadilla zona urbana
+72|00874|Aguas Buenas|Aguas Buenas zona urbana
+72|01003|Aguas Claras|Aguas Claras comunidad
+72|01089|Aguilita|Aguilita comunidad
+72|01218|Aibonito|Aibonito zona urbana
+72|01863|Alianza|Alianza comunidad
+72|02680|Añasco|Añasco zona urbana
+72|03024|Animas|Animas comunidad
+72|03174|Anon Raices|Anon Raices comunidad
+72|03196|Antón Ruíz|Antón Ruíz comunidad
+72|03368|Arecibo|Arecibo zona urbana
+72|03927|Arroyo|Arroyo zona urbana
+72|04620|Bairoa La Veinticinco|Bairoa La Veinticinco comunidad
+72|04658|Bajadero|Bajadero comunidad
+72|04701|Bajandas|Bajandas comunidad
+72|05217|Barahona|Barahona comunidad
+72|05346|Barceloneta|Barceloneta zona urbana
+72|05690|Barranquitas|Barranquitas zona urbana
+72|06421|Bartolo|Bartolo comunidad
+72|06593|Bayamón|Bayamón zona urbana
+72|06679|Bayamón|Bayamón comunidad
+72|07496|Benítez|Benítez comunidad
+72|07668|Betances|Betances comunidad
+72|07969|Boquerón|Boquerón comunidad
+72|08099|Boquerón|Boquerón comunidad
+72|08700|Breñas|Breñas comunidad
+72|08722|Brisas del Campanero|Brisas del Campanero comunidad
+72|09087|Buena Vista|Buena Vista comunidad
+72|09250|Buena Vista|Buena Vista comunidad
+72|09603|Búfalo|Búfalo comunidad
+72|09689|Cabán|Cabán comunidad
+72|09861|Cabo Rojo|Cabo Rojo zona urbana
+72|10048|Cacao|Cacao comunidad
+72|10334|Caguas|Caguas zona urbana
+72|11151|Calzada|Calzada comunidad
+72|11345|Cambalache|Cambalache comunidad
+72|11581|Campanilla|Campanilla comunidad
+72|11597|Campanillas|Campanillas comunidad
+72|11710|Campo Rico|Campo Rico comunidad
+72|11925|Camuy|Camuy zona urbana
+72|12441|Candelaria|Candelaria comunidad
+72|12560|Candelaria Arenas|Candelaria Arenas comunidad
+72|12568|Candelero Abajo|Candelero Abajo comunidad
+72|12613|Candelero Arriba|Candelero Arriba comunidad
+72|12806|Caño Martin Peña|Caño Martin Peña comunidad
+72|12828|Canóvanas|Canóvanas zona urbana
+72|13065|Canovanillas|Canovanillas comunidad
+72|13925|Capitanejo|Capitanejo comunidad
+72|14290|Carolina|Carolina zona urbana
+72|14634|Carrizales|Carrizales comunidad
+72|15193|Cataño|Cataño zona urbana
+72|15494|Cayey|Cayey zona urbana
+72|15623|Cayuco|Cayuco comunidad
+72|15924|Ceiba|Ceiba zona urbana
+72|16139|Ceiba|Ceiba comunidad
+72|16440|Celada|Celada comunidad
+72|16526|Central Aguirre|Central Aguirre comunidad
+72|17050|Cerrillos Hoyos|Cerrillos Hoyos comunidad
+72|17773|Ciales|Ciales zona urbana
+72|18074|Cidra|Cidra zona urbana
+72|18719|Coamo|Coamo zona urbana
+72|18891|Coco|Coco comunidad
+72|19665|Comerío|Comerío zona urbana
+72|19837|Comunas|Comunas comunidad
+72|20310|Coquí|Coquí comunidad
+72|20353|Corazón|Corazón comunidad
+72|20482|Corcovado|Corcovado comunidad
+72|20783|Corozal|Corozal zona urbana
+72|20998|Corral Viejo|Corral Viejo comunidad
+72|21213|Coto Laurel|Coto Laurel comunidad
+72|21385|Coto Norte|Coto Norte comunidad
+72|22589|Culebra|Culebra zona urbana
+72|23062|Daguao|Daguao comunidad
+72|23341|Del Carmen|Del Carmen comunidad
+72|24008|Dorado|Dorado zona urbana
+72|24395|Duque|Duque comunidad
+72|24954|El Combate|El Combate comunidad
+72|25556|El Mangó|El Mangó comunidad
+72|25685|El Negro|El Negro comunidad
+72|25771|El Ojo|El Ojo comunidad
+72|25835|El Paraiso|El Paraiso comunidad
+72|26287|El Tumbao|El Tumbao comunidad
+72|26362|El Veintiséis|El Veintiséis comunidad
+72|26502|Emajagua|Emajagua comunidad
+72|27190|Esperanza|Esperanza comunidad
+72|27263|Espino|Espino comunidad
+72|27964|Fajardo|Fajardo zona urbana
+72|28367|Ferrer|Ferrer comunidad
+72|28824|Florida|Florida zona urbana
+72|29555|Fránquez|Fránquez comunidad
+72|29682|Frontón|Frontón comunidad
+72|29727|Fuig|Fuig comunidad
+72|29813|Galateo|Galateo comunidad
+72|30372|Garrochales|Garrochales comunidad
+72|30544|G. L. García|G. L. García comunidad
+72|31189|Guánica|Guánica zona urbana
+72|31877|Guayabal|Guayabal comunidad
+72|32221|Guayama|Guayama zona urbana
+72|32307|Guayanilla|Guayanilla zona urbana
+72|32522|Guaynabo|Guaynabo zona urbana
+72|32823|Gurabo|Gurabo zona urbana
+72|33184|Hacienda San José|Hacienda San José comunidad
+72|33296|Hatillo|Hatillo zona urbana
+72|33597|Hato Arriba|Hato Arriba comunidad
+72|33683|Hato Candal|Hato Candal comunidad
+72|34242|Hato Viejo|Hato Viejo comunidad
+72|34914|Honduras|Honduras comunidad
+72|35059|Hormigueros|Hormigueros zona urbana
+72|35403|H. Rivera Colón|H. Rivera Colón comunidad
+72|35532|Humacao|Humacao zona urbana
+72|35962|Imbéry|Imbéry comunidad
+72|36177|Indios|Indios comunidad
+72|36263|Ingenio|Ingenio comunidad
+72|36478|Isabela|Isabela zona urbana
+72|36779|Isleta|Isleta comunidad
+72|37166|Jagual|Jagual comunidad
+72|37336|Jaguas|Jaguas comunidad
+72|38241|Jauca|Jauca comunidad
+72|38370|Jayuya|Jayuya zona urbana
+72|38671|Jobos|Jobos comunidad
+72|38972|Juana Díaz|Juana Díaz zona urbana
+72|39470|Juncal|Juncal comunidad
+72|39574|Juncos|Juncos zona urbana
+72|39875|La Alianza|La Alianza comunidad
+72|40348|La Dolores|La Dolores comunidad
+72|40563|La Fermina|La Fermina comunidad
+72|40950|Lajas|Lajas zona urbana
+72|41274|La Liga|La Liga comunidad
+72|41294|La Luisa|La Luisa comunidad
+72|41466|Lamboglia|Lamboglia comunidad
+72|41767|La Parguera|La Parguera comunidad
+72|41810|La Pica|La Pica comunidad
+72|42068|La Playa|La Playa comunidad
+72|42197|La Plena|La Plena comunidad
+72|42498|Lares|Lares zona urbana
+72|42842|Las Carolinas|Las Carolinas comunidad
+72|43057|Las Croabas|Las Croabas comunidad
+72|43294|Las Gaviotas|Las Gaviotas comunidad
+72|43702|Las Marías|Las Marías comunidad
+72|43788|Las Marías|Las Marías zona urbana
+72|44003|Las Ochenta|Las Ochenta comunidad
+72|44089|Las Ollas|Las Ollas comunidad
+72|44390|Las Piedras|Las Piedras zona urbana
+72|44507|Lassalle|Lassalle comunidad
+72|45170|La Yuca|La Yuca comunidad
+72|45379|Liborio Negrón Torres|Liborio Negrón Torres comunidad
+72|46282|Lluveras|Lluveras comunidad
+72|46368|Loíza|Loíza zona urbana
+72|46626|Lomas|Lomas comunidad
+72|46800|Lomas Verdes|Lomas Verdes comunidad
+72|46960|Los Héroes|Los Héroes comunidad
+72|47013|Los Llanos|Los Llanos comunidad
+72|47336|Los Panes|Los Panes comunidad
+72|47422|Los Prados|Los Prados comunidad
+72|47615|Luis Lloréns Torres|Luis Lloréns Torres comunidad
+72|47701|Luis M. Cintrón|Luis M. Cintrón comunidad
+72|47787|Luquillo|Luquillo zona urbana
+72|47873|Luyando|Luyando comunidad
+72|48604|Magas Arriba|Magas Arriba comunidad
+72|48862|Maguayo|Maguayo comunidad
+72|50152|Manatí|Manatí zona urbana
+72|50260|Mansión del Mar|Mansión del Mar comunidad
+72|50270|Mansión del Sol|Mansión del Sol comunidad
+72|50754|María Antonia|María Antonia comunidad
+72|51055|Mariano Colón|Mariano Colón comunidad
+72|51270|Maricao|Maricao zona urbana
+72|51657|Martorell|Martorell comunidad
+72|51700|Marueño|Marueño comunidad
+72|52345|Maunabo|Maunabo zona urbana
+72|52431|Mayagüez|Mayagüez zona urbana
+72|53678|Miranda|Miranda comunidad
+72|53807|Moca|Moca zona urbana
+72|53979|Monserrate|Monserrate comunidad
+72|54366|Monte Grande|Monte Grande comunidad
+72|54688|Monte Verde|Monte Verde comunidad
+72|54882|Mora|Mora comunidad
+72|55097|Morovis|Morovis zona urbana
+72|55355|Mucarabones|Mucarabones comunidad
+72|55828|Naguabo|Naguabo zona urbana
+72|56129|Naranjito|Naranjito zona urbana
+72|57075|Olimpo|Olimpo comunidad
+72|57290|Orocovis|Orocovis zona urbana
+72|57612|Pabellones|Pabellones comunidad
+72|57806|Pájaros|Pájaros comunidad
+72|57862|Pajonal|Pajonal comunidad
+72|57978|Palmarejo|Palmarejo comunidad
+72|58064|Palmarejo|Palmarejo comunidad
+72|58150|Palmarejo|Palmarejo comunidad
+72|58365|Palmas|Palmas comunidad
+72|58602|Palmas del Mar|Palmas del Mar comunidad
+72|58613|Palma Sola|Palma Sola comunidad
+72|58666|Palmer|Palmer comunidad
+72|58967|Palomas|Palomas comunidad
+72|59053|Palomas|Palomas comunidad
+72|59139|Palo Seco|Palo Seco comunidad
+72|59386|Parcelas de Navarro|Parcelas de Navarro comunidad
+72|59420|Parcelas La Milagrosa|Parcelas La Milagrosa comunidad
+72|59422|Parcelas Mandry|Parcelas Mandry comunidad
+72|59425|Parcelas Nuevas|Parcelas Nuevas comunidad
+72|59440|Parcelas Peñuelas|Parcelas Peñuelas comunidad
+72|59450|Parcelas Viejas Borinquen|Parcelas Viejas Borinquen comunidad
+72|60257|Pastos|Pastos comunidad
+72|60472|Patillas|Patillas zona urbana
+72|60945|Peña Pobre|Peña Pobre comunidad
+72|61074|Peñuelas|Peñuelas zona urbana
+72|61545|Piedra Aguza|Piedra Aguza comunidad
+72|61590|Piedra Gorda|Piedra Gorda comunidad
+72|61977|Piñas|Piñas comunidad
+72|63310|Playa Fortuna|Playa Fortuna comunidad
+72|63503|Playita|Playita comunidad
+72|63525|Playita|Playita comunidad
+72|63568|Playita Cortada|Playita Cortada comunidad
+72|63697|Pole Ojea|Pole Ojea comunidad
+72|63820|Ponce|Ponce zona urbana
+72|64127|Potala Pastillo|Potala Pastillo comunidad
+72|64400|Pueblito del Carmen|Pueblito del Carmen comunidad
+72|64500|Pueblito del Río|Pueblito del Río comunidad
+72|65589|Puerto Real|Puerto Real comunidad
+72|66492|Punta Santiago|Punta Santiago comunidad
+72|66660|Quebrada|Quebrada comunidad
+72|67200|Quebrada del Agua|Quebrada del Agua comunidad
+72|67675|Quebrada Prieta|Quebrada Prieta comunidad
+72|68040|Quebradillas|Quebradillas zona urbana
+72|68513|Rafael Capó|Rafael Capó comunidad
+72|68556|Rafael González|Rafael González comunidad
+72|68599|Rafael Hernández|Rafael Hernández comunidad
+72|68771|Ramos|Ramos comunidad
+72|69488|Rincón|Rincón comunidad
+72|69588|Rincón|Rincón zona urbana
+72|70448|Río Blanco|Río Blanco comunidad
+72|70706|Río Cañas Abajo|Río Cañas Abajo comunidad
+72|71136|Río Grande|Río Grande zona urbana
+72|71437|Río Lajas|Río Lajas comunidad
+72|71996|Rodríguez Hevia|Rodríguez Hevia comunidad
+72|72555|Rosa Sánchez|Rosa Sánchez comunidad
+72|73200|Sabana|Sabana comunidad
+72|73372|Sabana Eneas|Sabana Eneas comunidad
+72|73544|Sabana Grande|Sabana Grande zona urbana
+72|73716|Sabana Hoyos|Sabana Hoyos comunidad
+72|74189|Sabana Seca|Sabana Seca comunidad
+72|74877|Salinas|Salinas zona urbana
+72|75608|San Antonio|San Antonio comunidad
+72|75694|San Antonio|San Antonio comunidad
+72|75780|San Antonio|San Antonio comunidad
+72|76167|San Germán|San Germán zona urbana
+72|76339|San Isidro|San Isidro comunidad
+72|76683|San José|San José comunidad
+72|76770|San Juan|San Juan zona urbana
+72|77027|San Lorenzo|San Lorenzo zona urbana
+72|77500|San Sebastián|San Sebastián zona urbana
+72|77672|Santa Bárbara|Santa Bárbara comunidad
+72|77826|Santa Clara|Santa Clara comunidad
+72|78145|Santa Isabel|Santa Isabel zona urbana
+72|78317|Santa María|Santa María comunidad
+72|79564|Santo Domingo|Santo Domingo comunidad
+72|80596|Stella|Stella comunidad
+72|80639|Suárez|Suárez comunidad
+72|81413|Tallaboa|Tallaboa comunidad
+72|81456|Tallaboa Alta|Tallaboa Alta comunidad
+72|82055|Tibes|Tibes comunidad
+72|82125|Tiburones|Tiburones comunidad
+72|82187|Tierras Nuevas Poniente|Tierras Nuevas Poniente comunidad
+72|82488|Toa Alta|Toa Alta zona urbana
+72|82617|Toa Baja|Toa Baja zona urbana
+72|82692|Toaville|Toaville comunidad
+72|82875|Tomás de Castro|Tomás de Castro comunidad
+72|83606|Trujillo Alto|Trujillo Alto zona urbana
+72|84509|Utuado|Utuado zona urbana
+72|84917|Valle Hill|Valle Hill comunidad
+72|85025|Vayas|Vayas comunidad
+72|85111|Vázquez|Vázquez comunidad
+72|85197|Vega Alta|Vega Alta zona urbana
+72|85326|Vega Baja|Vega Baja zona urbana
+72|85971|Vieques|Vieques comunidad
+72|86014|Vieques|Vieques zona urbana
+72|86250|Villa Calma|Villa Calma comunidad
+72|86509|Villa de Sabana|Villa de Sabana comunidad
+72|86584|Villa Esperanza|Villa Esperanza comunidad
+72|86788|Villa Hugo I|Villa Hugo I comunidad
+72|86796|Villa Hugo II|Villa Hugo II comunidad
+72|86831|Villalba|Villalba zona urbana
+72|87240|Villa Quintero|Villa Quintero comunidad
+72|87272|Villas del Sol|Villas del Sol comunidad
+72|87282|Villa Sin Miedo|Villa Sin Miedo comunidad
+72|87638|Voladoras|Voladoras comunidad
+72|87863|Yabucoa|Yabucoa zona urbana
+72|88035|Yauco|Yauco zona urbana
+72|88121|Yaurel|Yaurel comunidad
+72|88293|Yeguada|Yeguada comunidad

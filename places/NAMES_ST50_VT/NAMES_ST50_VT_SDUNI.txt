@@ -1,0 +1,48 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+50|00004|Battenkill Valley Supervisory Union|Battenkill Valley Supervisory Union
+50|00007|Barre Supervisory Union|Barre Supervisory Union
+50|00024|Rivendell Interstate School District|Rivendell Interstate School District
+50|00385|Two Rivers Supervisory Union|Two Rivers Supervisory Union
+50|00395|Essex-Westford Educational Community Unified School District|Essex-Westford Educational Community Unified School District
+50|00405|Greater Rutland County Supervisory Union|Greater Rutland County Supervisory Union
+50|02820|Burlington School District|Burlington School District
+50|03240|Colchester School District|Colchester School District
+50|04590|Hartford School District|Hartford School District
+50|05610|Milton School District|Milton School District
+50|05700|Montpelier-Roxbury Supervisory Union|Montpelier-Roxbury Supervisory Union
+50|07050|Rutland City School District|Rutland City School District
+50|07470|South Burlington School District|South Burlington School District
+50|07530|Springfield School District|Springfield School District
+50|09360|Winooski Incorporated School District|Winooski Incorporated School District
+50|99901|Mt. Abraham Unified School District|Mt. Abraham Unified School District
+50|99902|Addison Northwest Unified School District|Addison Northwest Unified School District
+50|99903|Addison Central Unified School District|Addison Central Unified School District
+50|99904|Addison Rutland Supervisory District|Addison Rutland Supervisory District
+50|99905|Southwest Vermont Supervisory Union|Southwest Vermont Supervisory Union
+50|99909|Caledonia Central Supervisory Union|Caledonia Central Supervisory Union
+50|99912|Chittenden East Supervisory Union|Chittenden East Supervisory Union
+50|99914|Champlain Valley Unified School District|Champlain Valley Unified School District
+50|99919|Essex North Supervisory Union|Essex North Supervisory Union
+50|99920|Franklin Northeast Supervisory Union|Franklin Northeast Supervisory Union
+50|99921|Franklin Northwest Supervisory Union|Franklin Northwest Supervisory Union
+50|99922|Franklin West Supervisory Union|Franklin West Supervisory Union
+50|99923|Maple Run Unified School District|Maple Run Unified School District
+50|99925|Lamoille North Supervisory Union|Lamoille North Supervisory Union
+50|99926|Lamoille South Supervisory Union|Lamoille South Supervisory Union
+50|99927|Orange East Supervisory Union|Orange East Supervisory Union
+50|99928|Orange Southwest Unified School District|Orange Southwest Unified School District
+50|99929|Central Vermont Supervisory Union|Central Vermont Supervisory Union
+50|99930|White River Valley Supervisory Union|White River Valley Supervisory Union
+50|99931|North Country Supervisory Union|North Country Supervisory Union
+50|99932|Washington Central Supervisory Union|Washington Central Supervisory Union
+50|99933|Mill River Unified School District|Mill River Unified School District
+50|99934|Orleans Central Supervisory Union|Orleans Central Supervisory Union
+50|99935|Orleans Southwest Supervisory Union|Orleans Southwest Supervisory Union
+50|99936|Rutland Northeast Supervisory Union|Rutland Northeast Supervisory Union
+50|99942|Harwood Unified School District|Harwood Unified School District
+50|99946|Windham Central Supervisory Union|Windham Central Supervisory Union
+50|99947|Windham Northeast Supervisory Union|Windham Northeast Supervisory Union
+50|99948|Windham Southeast Supervisory Union|Windham Southeast Supervisory Union
+50|99949|Windham Southwest Supervisory Union|Windham Southwest Supervisory Union
+50|99951|Windsor Central Supervisory Union|Windsor Central Supervisory Union
+50|99952|Windsor Southeast Supervisory Union|Windsor Southeast Supervisory Union

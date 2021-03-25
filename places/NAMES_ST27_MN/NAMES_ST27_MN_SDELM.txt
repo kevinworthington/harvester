@@ -1,0 +1,9 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+27|00388|Round Lake-Brewster Public Schools|Round Lake-Brewster Public Schools
+27|07110|Browns Valley Public School District|Browns Valley Public School District
+27|15540|Ivanhoe Public School District|Ivanhoe Public School District
+27|18390|Lynd Public School District|Lynd Public School District
+27|21210|Milroy Public School District|Milroy Public School District
+27|28960|Pine Point Public School District|Pine Point Public School District
+27|33720|Nett Lake Public School District|Nett Lake Public School District
+27|91448|Norman County West School District|Norman County West School District

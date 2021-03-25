@@ -1,0 +1,126 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+05|00190|Acorn|Acorn CDP
+05|00730|Alix|Alix CDP
+05|00820|Alleene|Alleene CDP
+05|01090|Alpine|Alpine CDP
+05|01630|Aplin|Aplin CDP
+05|01660|Appleton|Appleton CDP
+05|02230|Armorel|Armorel CDP
+05|03010|Avilla|Avilla CDP
+05|03970|Batavia|Batavia CDP
+05|04630|Bee Branch|Bee Branch CDP
+05|04750|Beirne|Beirne CDP
+05|05770|Bethesda|Bethesda CDP
+05|06460|Bismarck|Bismarck CDP
+05|07420|Board Camp|Board Camp CDP
+05|07510|Boles|Boles CDP
+05|08020|Bowman|Bowman CDP
+05|09700|Buffalo City|Buffalo City CDP
+05|10330|Caddo Gap|Caddo Gap CDP
+05|11080|Canehill|Canehill CDP
+05|12700|Center Point|Center Point CDP
+05|12790|Center Ridge|Center Ridge CDP
+05|12940|Centerville|Centerville CDP
+05|13420|Cherokee City|Cherokee City CDP
+05|13960|Cincinnati|Cincinnati CDP
+05|14860|College Station|College Station CDP
+05|14920|Collins|Collins CDP
+05|16690|Crystal Springs|Crystal Springs CDP
+05|17860|Deer|Deer CDP
+05|18340|Dennard|Dennard CDP
+05|18580|Desha|Desha CDP
+05|19540|Dora|Dora CDP
+05|19720|Drasco|Drasco CDP
+05|20470|East End|East End CDP
+05|20800|Edgemont|Edgemont CDP
+05|21520|El Paso|El Paso CDP
+05|22300|Evansville|Evansville CDP
+05|22720|Fair Oaks|Fair Oaks CDP
+05|24070|Floral|Floral CDP
+05|24130|Floyd|Floyd CDP
+05|24910|Fox|Fox CDP
+05|25630|Gamaliel|Gamaliel CDP
+05|26260|Genoa|Genoa CDP
+05|26710|Gibson|Gibson CDP
+05|27610|Goodwin|Goodwin CDP
+05|28840|Gregory|Gregory CDP
+05|29320|Hagarville|Hagarville CDP
+05|29380|Halley|Halley CDP
+05|30730|Hattieville|Hattieville CDP
+05|31270|Henderson|Henderson CDP
+05|31390|Hensley|Hensley CDP
+05|32650|Holiday Island|Holiday Island CDP
+05|33482|Hot Springs Village|Hot Springs Village CDP
+05|34220|Indian Bay|Indian Bay CDP
+05|34540|Ivan|Ivan CDP
+05|35260|Jerusalem|Jerusalem CDP
+05|35770|Jones Mills|Jones Mills CDP
+05|36910|Kingston|Kingston CDP
+05|37060|Kirby|Kirby CDP
+05|37450|Lacey|Lacey CDP
+05|37930|Lake Hamilton|Lake Hamilton CDP
+05|38540|Landmark|Landmark CDP
+05|38950|Lawson|Lawson CDP
+05|41555|Lost Bridge Village|Lost Bridge Village CDP
+05|42350|McAlmont|McAlmont CDP
+05|43430|Magnet Cove|Magnet Cove CDP
+05|44810|Maysville|Maysville CDP
+05|45110|Mellwood|Mellwood CDP
+05|45530|Midway|Midway CDP
+05|46460|Monroe|Monroe CDP
+05|47090|Morrow|Morrow CDP
+05|47660|Mount Holly|Mount Holly CDP
+05|47720|Mount Judea|Mount Judea CDP
+05|47810|Mount Olive|Mount Olive CDP
+05|48680|Natural Steps|Natural Steps CDP
+05|49070|New Blaine|New Blaine CDP
+05|49220|New Edinburg|New Edinburg CDP
+05|49370|Newhope|Newhope CDP
+05|50240|North Crossett|North Crossett CDP
+05|50990|Oak Grove|Oak Grove CDP
+05|51110|Oakland|Oakland CDP
+05|51230|Oark|Oark CDP
+05|52280|Oneida|Oneida CDP
+05|53000|Ozark Acres|Ozark Acres CDP
+05|53060|Ozone|Ozone CDP
+05|54110|Payneway|Payneway CDP
+05|54170|Pearcy|Pearcy CDP
+05|54410|Pencil Bluff|Pencil Bluff CDP
+05|55610|Piney|Piney CDP
+05|56060|Pleasant Grove|Pleasant Grove CDP
+05|56630|Ponca|Ponca CDP
+05|56690|Poplar Grove|Poplar Grove CDP
+05|57125|Prairie Creek|Prairie Creek CDP
+05|57530|Princeton|Princeton CDP
+05|58400|Reader|Reader CDP
+05|59630|Rivervale|Rivervale CDP
+05|60110|Rockwell|Rockwell CDP
+05|60470|Roland|Roland CDP
+05|61190|Rover|Rover CDP
+05|61730|Rye|Rye CDP
+05|62120|Salado|Salado CDP
+05|62210|Salem|Salem CDP
+05|62630|Saratoga|Saratoga CDP
+05|62660|Sardis|Sardis CDP
+05|62900|Scott|Scott CDP
+05|66110|Springfield|Springfield CDP
+05|66800|Staves|Staves CDP
+05|67790|Sulphur Springs|Sulphur Springs CDP
+05|67880|Summers|Summers CDP
+05|68330|Sweet Home|Sweet Home CDP
+05|70070|Tucker|Tucker CDP
+05|70310|Tumbling Shoals|Tumbling Shoals CDP
+05|71060|Uniontown|Uniontown CDP
+05|71180|Urbana|Urbana CDP
+05|71570|Vanndale|Vanndale CDP
+05|72170|Violet Hill|Violet Hill CDP
+05|72290|Walcott|Walcott CDP
+05|73250|Warm Springs|Warm Springs CDP
+05|73730|Wayton|Wayton CDP
+05|74090|Wesley|Wesley CDP
+05|74270|West Crossett|West Crossett CDP
+05|75590|Wilburn|Wilburn CDP
+05|76460|Witts Springs|Witts Springs CDP
+05|76690|Woodlawn|Woodlawn CDP
+05|76730|Woodson|Woodson CDP
+05|77203|Yarborough Landing|Yarborough Landing CDP

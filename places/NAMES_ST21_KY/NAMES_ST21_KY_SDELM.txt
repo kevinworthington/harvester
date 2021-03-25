@@ -1,0 +1,6 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+21|00090|Anchorage Independent School District|Anchorage Independent School District
+21|01590|East Bernstadt Independent School District|East Bernstadt Independent School District
+21|05220|Science Hill Independent School District|Science Hill Independent School District
+21|05460|Southgate Independent School District|Southgate Independent School District
+21|05850|West Point Independent School District|West Point Independent School District

@@ -1,0 +1,3 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+13|9400|Tama|Tama (state) Reservation
+13|9730|Georgia Tribe of Eastern Cherokee|Georgia Tribe of Eastern Cherokee SDTSA

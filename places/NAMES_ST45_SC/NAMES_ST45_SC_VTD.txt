@@ -1,0 +1,2269 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+45|001|000001|Abbeville No. 1|Abbeville No. 1
+45|001|000002|Abbeville No. 2|Abbeville No. 2
+45|001|000003|Abbeville No. 3|Abbeville No. 3
+45|001|000004|Abbeville No. 4|Abbeville No. 4
+45|001|000005|Antreville|Antreville
+45|001|000006|Broadmouth|Broadmouth
+45|001|000007|Calhoun Falls|Calhoun Falls
+45|001|000008|Cold Springs|Cold Springs
+45|001|000009|Donalds|Donalds
+45|001|000010|Due West|Due West
+45|001|000011|Hall's Store|Hall's Store
+45|001|000012|Keowee|Keowee
+45|001|000013|Lowndesville|Lowndesville
+45|001|000014|Lebanon|Lebanon
+45|001|000015|Smithville|Smithville
+45|003|000000|SRS|SRS
+45|003|000001|Aiken No. 1|Aiken No. 1
+45|003|000002|Aiken No. 2|Aiken No. 2
+45|003|000003|Aiken No. 3|Aiken No. 3
+45|003|000004|Aiken No. 4|Aiken No. 4
+45|003|000005|Aiken No. 5|Aiken No. 5
+45|003|000006|Aiken No. 6|Aiken No. 6
+45|003|000007|Bath|Bath
+45|003|000008|Beech Island|Beech Island
+45|003|000009|Belvedere No. 9|Belvedere No. 9
+45|003|000010|Carolina Heights|Carolina Heights
+45|003|000011|China Springs|China Springs
+45|003|000012|Clearwater|Clearwater
+45|003|000013|College Acres|College Acres
+45|003|000014|Eureka|Eureka
+45|003|000015|Gloverville|Gloverville
+45|003|000016|Graniteville|Graniteville
+45|003|000017|Jackson|Jackson
+45|003|000018|Langley|Langley
+45|003|000019|Lynwood|Lynwood
+45|003|000020|Millbrook|Millbrook
+45|003|000021|Monetta|Monetta
+45|003|000022|Montmorenci No. 22|Montmorenci No. 22
+45|003|000023|New Ellenton|New Ellenton
+45|003|000024|New Holland|New Holland
+45|003|000025|N. Augusta No. 25|N. Augusta No. 25
+45|003|000026|N. Augusta No. 26|N. Augusta No. 26
+45|003|000027|N. Augusta No. 27|N. Augusta No. 27
+45|003|000028|N. Augusta No. 28|N. Augusta No. 28
+45|003|000029|N. Augusta No. 29|N. Augusta No. 29
+45|003|000030|Oak Grove|Oak Grove
+45|003|000031|Perry|Perry
+45|003|000032|Salley|Salley
+45|003|000033|Shaws Fork|Shaws Fork
+45|003|000034|Shiloh|Shiloh
+45|003|000035|Six Points No. 35|Six Points No. 35
+45|003|000036|Tabernacle|Tabernacle
+45|003|000037|Talatha|Talatha
+45|003|000038|Vaucluse|Vaucluse
+45|003|000039|Wagener|Wagener
+45|003|000040|Ward|Ward
+45|003|000041|Warrenville|Warrenville
+45|003|000042|White Pond|White Pond
+45|003|000043|Windsor No. 43|Windsor No. 43
+45|003|000044|Belvedere No. 44|Belvedere No. 44
+45|003|000045|Misty Lakes|Misty Lakes
+45|003|000046|Six Points No. 46|Six Points No. 46
+45|003|000047|Aiken No. 47|Aiken No. 47
+45|003|000048|Hammond No. 48|Hammond No. 48
+45|003|000049|Willow Springs|Willow Springs
+45|003|000050|Breezy Hill|Breezy Hill
+45|003|000051|Midland Valley No. 51|Midland Valley No. 51
+45|003|000052|Levels No. 52|Levels No. 52
+45|003|000053|Hollow Creek|Hollow Creek
+45|003|000054|N. Augusta No. 54|N. Augusta No. 54
+45|003|000055|N. Augusta No. 55|N. Augusta No. 55
+45|003|000056|Couchton|Couchton
+45|003|000057|Redds Branch|Redds Branch
+45|003|000058|Fox Creek No. 58|Fox Creek No. 58
+45|003|000059|Pine Forest|Pine Forest
+45|003|000060|Gem Lakes No. 60|Gem Lakes No. 60
+45|003|000061|Silver Bluff|Silver Bluff
+45|003|000062|Belvedere No. 62|Belvedere No. 62
+45|003|000063|Ascauga Lake No. 63|Ascauga Lake No. 63
+45|003|000064|Cedar Creek No. 64|Cedar Creek No. 64
+45|003|000065|Sleepy Hollow No. 65|Sleepy Hollow No. 65
+45|003|000066|Hitchcock No. 66|Hitchcock No. 66
+45|003|000067|N. Augusta No. 67|N. Augusta No. 67
+45|003|000068|N. Augusta No. 68|N. Augusta No. 68
+45|003|000069|Anderson Pond No. 69|Anderson Pond No. 69
+45|003|000070|Sandstone No. 70|Sandstone No. 70
+45|003|000071|Midland Valley No. 71|Midland Valley No. 71
+45|003|000072|Levels No. 72|Levels No. 72
+45|003|000073|Fox Creek No. 73|Fox Creek No. 73
+45|003|000074|Belvedere No. 74|Belvedere No. 74
+45|003|000075|South Aiken No. 75|South Aiken No. 75
+45|003|000076|South Aiken No. 76|South Aiken No. 76
+45|003|000077|Gem Lakes No. 77|Gem Lakes No. 77
+45|003|000078|Montmorenci No. 78|Montmorenci No. 78
+45|003|000079|Sandstone No. 79|Sandstone No. 79
+45|003|000080|N. Augusta No. 80|N. Augusta No. 80
+45|003|000081|Hammond No. 81|Hammond No. 81
+45|003|000082|Windsor No. 82|Windsor No. 82
+45|003|000083|Levels No. 83|Levels No. 83
+45|003|000084|Ascauga Lake No. 84|Ascauga Lake No. 84
+45|005|000001|Allendale No. 1|Allendale No. 1
+45|005|000002|Allendale No. 2|Allendale No. 2
+45|005|000003|Fairfax No. 1|Fairfax No. 1
+45|005|000004|Fairfax No. 2|Fairfax No. 2
+45|005|000005|Martin|Martin
+45|005|000006|Sycamore|Sycamore
+45|005|000007|Ulmer|Ulmer
+45|005|000008|Woods|Woods
+45|007|000000|South Fant|South Fant
+45|007|000009|Appleton-Equinox|Appleton-Equinox
+45|007|000010|Barker's Creek|Barker's Creek
+45|007|000011|Belton|Belton
+45|007|000012|Broadview|Broadview
+45|007|000013|Bishop's Branch|Bishop's Branch
+45|007|000015|Bowling Green|Bowling Green
+45|007|000016|Broadway|Broadway
+45|007|000017|Brushy Creek|Brushy Creek
+45|007|000018|Cedar Grove|Cedar Grove
+45|007|000019|Centerville Station A|Centerville Station A
+45|007|000020|Chiquola Mill|Chiquola Mill
+45|007|000021|Concrete|Concrete
+45|007|000023|Craytonville|Craytonville
+45|007|000024|Denver-Sandy Springs|Denver-Sandy Springs
+45|007|000025|Edgewood Station A|Edgewood Station A
+45|007|000027|Five Forks|Five Forks
+45|007|000028|Flat Rock|Flat Rock
+45|007|000029|Fork No. 1|Fork No. 1
+45|007|000030|Fork No. 2|Fork No. 2
+45|007|000031|Friendship|Friendship
+45|007|000032|Gluck Mill|Gluck Mill
+45|007|000033|Green Pond Station A|Green Pond Station A
+45|007|000035|Hall|Hall
+45|007|000036|Hammond School|Hammond School
+45|007|000037|High Point|High Point
+45|007|000038|Homeland Park|Homeland Park
+45|007|000039|Honea Path|Honea Path
+45|007|000040|Hopewell|Hopewell
+45|007|000041|Iva|Iva
+45|007|000042|Jackson Mill|Jackson Mill
+45|007|000043|La France|La France
+45|007|000045|Melton|Melton
+45|007|000046|Mount Tabor|Mount Tabor
+45|007|000047|Mountain Creek|Mountain Creek
+45|007|000049|Neals Creek|Neals Creek
+45|007|000050|North Point|North Point
+45|007|000051|Pelzer|Pelzer
+45|007|000053|Pendleton|Pendleton
+45|007|000054|Piedmont|Piedmont
+45|007|000055|Piercetown|Piercetown
+45|007|000057|Rock Mill|Rock Mill
+45|007|000058|Rock Spring|Rock Spring
+45|007|000061|Shirleys Store|Shirleys Store
+45|007|000062|Simpsonville|Simpsonville
+45|007|000063|Starr|Starr
+45|007|000064|Three and Twenty|Three and Twenty
+45|007|000065|Toney Creek|Toney Creek
+45|007|000066|Townville|Townville
+45|007|000067|Town Creek|Town Creek
+45|007|000068|West Pelzer|West Pelzer
+45|007|000069|West Savannah|West Savannah
+45|007|000070|White Plains|White Plains
+45|007|000071|Williamston|Williamston
+45|007|000072|Williamston Mill|Williamston Mill
+45|007|000073|Wrights School|Wrights School
+45|007|000074|Anderson 1/1|Anderson 1/1
+45|007|000075|Anderson 1/2|Anderson 1/2
+45|007|000076|Anderson 2/1|Anderson 2/1
+45|007|000077|Anderson 2/2|Anderson 2/2
+45|007|000078|Anderson 3/1|Anderson 3/1
+45|007|000079|Anderson 3/2|Anderson 3/2
+45|007|000080|Anderson 4/1|Anderson 4/1
+45|007|000081|Anderson 4/2|Anderson 4/2
+45|007|000083|Anderson 5/B|Anderson 5/B
+45|007|000084|Anderson 6/1|Anderson 6/1
+45|007|000085|Anderson 6/2|Anderson 6/2
+45|007|000086|Varennes|Varennes
+45|007|000087|Lakeside|Lakeside
+45|007|000091|Centerville Station B|Centerville Station B
+45|007|000092|Edgewood Station B|Edgewood Station B
+45|007|000093|Cox Creek|Cox Creek
+45|007|000094|Mt. Airy|Mt. Airy
+45|007|000111|Belton Annex|Belton Annex
+45|007|000121|Powdersville|Powdersville
+45|007|000132|Glenview|Glenview
+45|007|000136|Hammond Annex|Hammond Annex
+45|007|000157|Center Rock|Center Rock
+45|007|000164|Hunt Meadows|Hunt Meadows
+45|009|000001|Colston|Colston
+45|009|000002|Edisto|Edisto
+45|009|000003|Ehrhardt|Ehrhardt
+45|009|000004|East Denmark|East Denmark
+45|009|000005|Govan|Govan
+45|009|000006|Hightowers Mill|Hightowers Mill
+45|009|000007|Hunter's Chapel|Hunter's Chapel
+45|009|000008|Kearse|Kearse
+45|009|000009|Little Swamp|Little Swamp
+45|009|000010|Olar|Olar
+45|009|000011|South Bamberg|South Bamberg
+45|009|000012|West Denmark|West Denmark
+45|009|000013|North Bamberg|North Bamberg
+45|011|000001|Barnwell No. 1|Barnwell No. 1
+45|011|000002|Barnwell No. 2|Barnwell No. 2
+45|011|000003|Barnwell No. 3|Barnwell No. 3
+45|011|000004|Barnwell No. 4|Barnwell No. 4
+45|011|000005|Blackville No. 1|Blackville No. 1
+45|011|000006|Blackville No. 2|Blackville No. 2
+45|011|000007|Elko|Elko
+45|011|000008|Friendship|Friendship
+45|011|000009|Kline|Kline
+45|011|000010|Healing Springs|Healing Springs
+45|011|000011|Hilda|Hilda
+45|011|000012|Snelling|Snelling
+45|011|000013|Williston No. 1|Williston No. 1
+45|011|000014|Williston No. 2|Williston No. 2
+45|011|000015|Williston No. 3|Williston No. 3
+45|011|000016|SRS|SRS
+45|013|000101|Beaufort 1|Beaufort 1
+45|013|000102|Beaufort 2|Beaufort 2
+45|013|000103|Beaufort 3|Beaufort 3
+45|013|000110|Burton 1A|Burton 1A
+45|013|000111|Burton 1B|Burton 1B
+45|013|000112|Burton 1C|Burton 1C
+45|013|000113|Burton 2A|Burton 2A
+45|013|000114|Burton 2B|Burton 2B
+45|013|000115|Burton 2C|Burton 2C
+45|013|000116|Burton 3|Burton 3
+45|013|000120|Chechessee 1|Chechessee 1
+45|013|000121|Chechessee 2|Chechessee 2
+45|013|000130|Ladys Island 1A|Ladys Island 1A
+45|013|000131|Ladys Island 1B|Ladys Island 1B
+45|013|000132|Ladys Island 2A|Ladys Island 2A
+45|013|000133|Ladys Island 2B|Ladys Island 2B
+45|013|000134|Ladys Island 3A|Ladys Island 3A
+45|013|000135|Ladys Island 3B|Ladys Island 3B
+45|013|000140|Mossy Oaks 1A|Mossy Oaks 1A
+45|013|000141|Mossy Oaks 1B|Mossy Oaks 1B
+45|013|000142|Mossy Oaks 2|Mossy Oaks 2
+45|013|000150|Port Royal 1|Port Royal 1
+45|013|000151|Port Royal 2|Port Royal 2
+45|013|000160|Dale Lobeco|Dale Lobeco
+45|013|000161|Seabrook 1|Seabrook 1
+45|013|000162|Seabrook 2|Seabrook 2
+45|013|000163|Seabrook 3|Seabrook 3
+45|013|000170|Sheldon 1|Sheldon 1
+45|013|000174|Sheldon 2|Sheldon 2
+45|013|000179|Burton 1D|Burton 1D
+45|013|000180|St. Helena 1A|St. Helena 1A
+45|013|000181|St. Helena 1B|St. Helena 1B
+45|013|000182|St. Helena 1C|St. Helena 1C
+45|013|000183|St. Helena 2A|St. Helena 2A
+45|013|000184|St. Helena 2B|St. Helena 2B
+45|013|000185|St. Helena 2C|St. Helena 2C
+45|013|000186|Ladys Island 2C|Ladys Island 2C
+45|013|000187|Ladys Island 3C|Ladys Island 3C
+45|013|000200|Daufuskie|Daufuskie
+45|013|000201|Hilton Head 1A|Hilton Head 1A
+45|013|000202|Hilton Head 1B|Hilton Head 1B
+45|013|000203|Hilton Head 2A|Hilton Head 2A
+45|013|000204|Hilton Head 2B|Hilton Head 2B
+45|013|000205|Hilton Head 2C|Hilton Head 2C
+45|013|000206|Hilton Head 3|Hilton Head 3
+45|013|000207|Hilton Head 4A|Hilton Head 4A
+45|013|000208|Hilton Head 4B|Hilton Head 4B
+45|013|000209|Hilton Head 4C|Hilton Head 4C
+45|013|000210|Hilton Head 4D|Hilton Head 4D
+45|013|000211|Hilton Head 5A|Hilton Head 5A
+45|013|000212|Hilton Head 5B|Hilton Head 5B
+45|013|000213|Hilton Head 5C|Hilton Head 5C
+45|013|000214|Hilton Head 6|Hilton Head 6
+45|013|000216|Hilton Head 7A|Hilton Head 7A
+45|013|000217|Hilton Head 7B|Hilton Head 7B
+45|013|000219|Hilton Head 8|Hilton Head 8
+45|013|000220|Hilton Head 9A|Hilton Head 9A
+45|013|000221|Hilton Head 9B|Hilton Head 9B
+45|013|000222|Hilton Head 10|Hilton Head 10
+45|013|000223|Hilton Head 11|Hilton Head 11
+45|013|000224|Hilton Head 12|Hilton Head 12
+45|013|000225|Hilton Head 13|Hilton Head 13
+45|013|000226|Hilton Head 14|Hilton Head 14
+45|013|000227|Hilton Head 15A|Hilton Head 15A
+45|013|000228|Hilton Head 15B|Hilton Head 15B
+45|013|000300|Belfair|Belfair
+45|013|000301|Bluffton 1A|Bluffton 1A
+45|013|000302|Bluffton 1B|Bluffton 1B
+45|013|000303|Bluffton 1C|Bluffton 1C
+45|013|000304|Bluffton 1D|Bluffton 1D
+45|013|000305|Bluffton 2A|Bluffton 2A
+45|013|000306|Bluffton 2B|Bluffton 2B
+45|013|000307|Bluffton 2C|Bluffton 2C
+45|013|000308|Moss Creek|Moss Creek
+45|013|000309|Bluffton 3|Bluffton 3
+45|013|000310|Bluffton 4A|Bluffton 4A
+45|013|000311|Bluffton 4B|Bluffton 4B
+45|013|000312|Bluffton 4C|Bluffton 4C
+45|013|000313|Bluffton 5A|Bluffton 5A
+45|013|000314|Bluffton 2D|Bluffton 2D
+45|013|000315|Bluffton 2E|Bluffton 2E
+45|013|000316|Rose Hill|Rose Hill
+45|013|000317|Bluffton 4D|Bluffton 4D
+45|013|000318|Bluffton 5B|Bluffton 5B
+45|013|000319|Sandy Pointe|Sandy Pointe
+45|013|000320|New River|New River
+45|013|000321|Palmetto Bluff|Palmetto Bluff
+45|013|000360|Sun City 1|Sun City 1
+45|013|000361|Sun City 2|Sun City 2
+45|013|000362|Sun City 3|Sun City 3
+45|013|000363|Sun City 4|Sun City 4
+45|013|000364|Sun City 5|Sun City 5
+45|013|000365|Sun City 6|Sun City 6
+45|013|000366|Sun City 7|Sun City 7
+45|013|000367|Sun City 8|Sun City 8
+45|015|000001|Alvin|Alvin
+45|015|000002|Bethera|Bethera
+45|015|000003|Bonneau|Bonneau
+45|015|000004|Bonneau Beach|Bonneau Beach
+45|015|000005|Central|Central
+45|015|000007|Cainhoy|Cainhoy
+45|015|000008|Carnes Cross Roads 1|Carnes Cross Roads 1
+45|015|000009|Carnes Cross Road 2|Carnes Cross Road 2
+45|015|000010|Cordesville|Cordesville
+45|015|000011|Cross|Cross
+45|015|000012|Daniel Island 1|Daniel Island 1
+45|015|000013|Daniel Island 2|Daniel Island 2
+45|015|000014|Devon Forest 1|Devon Forest 1
+45|015|000015|Devon Forest 2|Devon Forest 2
+45|015|000016|Eadytown|Eadytown
+45|015|000020|Hanahan 1|Hanahan 1
+45|015|000021|Hanahan 2|Hanahan 2
+45|015|000022|Hanahan 3|Hanahan 3
+45|015|000023|Hanahan 4|Hanahan 4
+45|015|000024|Hilton Cross Rd|Hilton Cross Rd
+45|015|000026|Huger|Huger
+45|015|000027|Jamestown|Jamestown
+45|015|000028|Lebanon|Lebanon
+45|015|000029|Macedonia|Macedonia
+45|015|000030|McBeth|McBeth
+45|015|000031|Moncks Corner 1|Moncks Corner 1
+45|015|000032|Moncks Corner 2|Moncks Corner 2
+45|015|000033|Moncks Corner 3|Moncks Corner 3
+45|015|000034|Moncks Corner 4|Moncks Corner 4
+45|015|000035|Pimlico|Pimlico
+45|015|000036|Pinopolis|Pinopolis
+45|015|000037|Russellville|Russellville
+45|015|000038|Sangaree 1|Sangaree 1
+45|015|000039|Sangaree 2|Sangaree 2
+45|015|000040|Sangaree 3|Sangaree 3
+45|015|000041|Shulerville|Shulerville
+45|015|000042|St. Stephen 1|St. Stephen 1
+45|015|000043|St. Stephen 2|St. Stephen 2
+45|015|000044|Stratford 1|Stratford 1
+45|015|000045|Stratford 2|Stratford 2
+45|015|000046|Stratford 3|Stratford 3
+45|015|000047|Stratford 4|Stratford 4
+45|015|000048|Wassamassaw 1|Wassamassaw 1
+45|015|000049|Wassamassaw 2|Wassamassaw 2
+45|015|000050|Westview 1|Westview 1
+45|015|000051|Westview 2|Westview 2
+45|015|000052|Westview 3|Westview 3
+45|015|000054|Beverly Hills|Beverly Hills
+45|015|000055|Howe Hall 1|Howe Hall 1
+45|015|000056|Howe Hall 2|Howe Hall 2
+45|015|000057|Liberty Hall|Liberty Hall
+45|015|000058|Medway|Medway
+45|015|000059|Whitesville 1|Whitesville 1
+45|015|000060|Whitesville 2|Whitesville 2
+45|015|000061|Daniel Island 3|Daniel Island 3
+45|015|000062|Daniel Island 4|Daniel Island 4
+45|015|000063|The Village|The Village
+45|015|000064|Yellow House|Yellow House
+45|015|000065|Cane Bay|Cane Bay
+45|015|000066|Discovery|Discovery
+45|015|000067|Fox Bank|Fox Bank
+45|015|000068|Hanahan 5|Hanahan 5
+45|015|000069|Moultrie|Moultrie
+45|015|000070|Old 52|Old 52
+45|015|000071|Royle|Royle
+45|015|000072|Seventy Eight|Seventy Eight
+45|015|000073|Stone Lake|Stone Lake
+45|015|000074|Stratford 5|Stratford 5
+45|015|000075|Westview 4|Westview 4
+45|015|000076|Foster Creek 1|Foster Creek 1
+45|015|000077|Foster Creek 2|Foster Creek 2
+45|015|000078|Foster Creek 3|Foster Creek 3
+45|015|000079|Harbour Lake|Harbour Lake
+45|015|000080|St. James|St. James
+45|015|000081|Sedgefield 1|Sedgefield 1
+45|015|000082|Sedgefield 2|Sedgefield 2
+45|015|000083|Tramway|Tramway
+45|015|000084|Weatherstone|Weatherstone
+45|015|000085|Cypress|Cypress
+45|015|000086|North Creek|North Creek
+45|015|000087|Boulder Bluff|Boulder Bluff
+45|015|000088|Bushy Park|Bushy Park
+45|015|000089|Cane Bay East|Cane Bay East
+45|015|000090|Cane Bay North|Cane Bay North
+45|015|000091|Cane Bay South|Cane Bay South
+45|015|000092|Cobblestone|Cobblestone
+45|015|000093|Fifty-two|Fifty-two
+45|015|000094|Horseshoe|Horseshoe
+45|015|000095|Live Oak|Live Oak
+45|015|000096|Macedonia 2|Macedonia 2
+45|015|000097|Nexton|Nexton
+45|015|000098|Pine Grove|Pine Grove
+45|015|000099|Pomflant|Pomflant
+45|015|000100|Sedgefield 3|Sedgefield 3
+45|015|000101|Wildcat Trail|Wildcat Trail
+45|017|000001|Bethel|Bethel Voting District
+45|017|000002|Cameron|Cameron Voting District
+45|017|000003|Center Hill|Center Hill Voting District
+45|017|000004|Creston|Creston Voting District
+45|017|000005|Dixie|Dixie Voting District
+45|017|000006|Fall Branch|Fall Branch Voting District
+45|017|000007|Fort Motte|Fort Motte Voting District
+45|017|000008|Lone Star|Lone Star Voting District
+45|017|000009|Midway|Midway Voting District
+45|017|000010|Murph Hill|Murph Hill Voting District
+45|017|000011|Sandy Run|Sandy Run Voting District
+45|017|000012|St. Matthews|St. Matthews Voting District
+45|019|000004|Awendaw|Awendaw
+45|019|000008|Christ Church|Christ Church
+45|019|000010|Isle Of Palms 1A|Isle Of Palms 1A
+45|019|000011|Isle of Palms 1B|Isle of Palms 1B
+45|019|000012|Isle of Palms 1C|Isle of Palms 1C
+45|019|000032|Sullivans Island|Sullivans Island
+45|019|000100|McClellanville|McClellanville
+45|019|000102|Deer Park 1A|Deer Park 1A
+45|019|000103|Deer Park 1B|Deer Park 1B
+45|019|000104|Deer Park 2A|Deer Park 2A
+45|019|000105|Deer Park 2B|Deer Park 2B
+45|019|000106|Deer Park 2C|Deer Park 2C
+45|019|000107|Deer Park 3|Deer Park 3
+45|019|000110|Licolnville|Licolnville
+45|019|000132|Ladson|Ladson
+45|019|000173|Edisto Island|Edisto Island
+45|019|000174|Wadmalaw Island 1|Wadmalaw Island 1
+45|019|000175|Wadmalaw Island 2|Wadmalaw Island 2
+45|019|000180|Kiawah Island|Kiawah Island
+45|019|000181|Town of Seabrook|Town of Seabrook
+45|019|000184|Folly Beach 1|Folly Beach 1
+45|019|000185|Folly Beach 2|Folly Beach 2
+45|019|000201|Charleston 1|Charleston 1
+45|019|000202|Charleston 2|Charleston 2
+45|019|000203|Charleston 3|Charleston 3
+45|019|000204|Charleston 4|Charleston 4
+45|019|000205|Charleston 5|Charleston 5
+45|019|000206|Charleston 6|Charleston 6
+45|019|000207|Charleston 7|Charleston 7
+45|019|000208|Charleston 8|Charleston 8
+45|019|000209|Charleston 9|Charleston 9
+45|019|000210|Charleston 10|Charleston 10
+45|019|000211|Charleston 11|Charleston 11
+45|019|000212|Charleston 12|Charleston 12
+45|019|000213|Charleston 13|Charleston 13
+45|019|000214|Charleston 14|Charleston 14
+45|019|000215|Charleston 15|Charleston 15
+45|019|000216|Charleston 16|Charleston 16
+45|019|000217|Charleston 17|Charleston 17
+45|019|000218|Charleston 18|Charleston 18
+45|019|000219|Charleston 19|Charleston 19
+45|019|000220|Charleston 20|Charleston 20
+45|019|000221|Charleston 21|Charleston 21
+45|019|000301|Mt. Pleasant 1|Mt. Pleasant 1
+45|019|000302|Mt. Pleasant 2|Mt. Pleasant 2
+45|019|000303|Mt. Pleasant 3|Mt. Pleasant 3
+45|019|000304|Mt. Pleasant 4|Mt. Pleasant 4
+45|019|000305|Mt. Pleasant 5|Mt. Pleasant 5
+45|019|000306|Mt. Pleasant 6|Mt. Pleasant 6
+45|019|000307|Mt. Pleasant 7|Mt. Pleasant 7
+45|019|000308|Mt. Pleasant 8|Mt. Pleasant 8
+45|019|000309|Mt. Pleasant 9|Mt. Pleasant 9
+45|019|000310|Mt. Pleasant 10|Mt. Pleasant 10
+45|019|000311|Mt. Pleasant 11|Mt. Pleasant 11
+45|019|000312|Mt. Pleasant 12|Mt. Pleasant 12
+45|019|000313|Mt. Pleasant 13|Mt. Pleasant 13
+45|019|000314|Mt. Pleasant 14|Mt. Pleasant 14
+45|019|000315|Mt. Pleasant 15|Mt. Pleasant 15
+45|019|000316|Mt. Pleasant 16|Mt. Pleasant 16
+45|019|000317|Mt. Pleasant 17|Mt. Pleasant 17
+45|019|000318|Mt. Pleasant 18|Mt. Pleasant 18
+45|019|000319|Mt. Pleasant 19|Mt. Pleasant 19
+45|019|000320|Mt. Pleasant 20|Mt. Pleasant 20
+45|019|000321|Mt. Pleasant 21|Mt. Pleasant 21
+45|019|000322|Mt. Pleasant 22|Mt. Pleasant 22
+45|019|000323|Mt. Pleasant 23|Mt. Pleasant 23
+45|019|000324|Mt. Pleasant 24|Mt. Pleasant 24
+45|019|000325|Mt. Pleasant 25|Mt. Pleasant 25
+45|019|000326|Mt. Pleasant 26|Mt. Pleasant 26
+45|019|000327|Mt. Pleasant 27|Mt. Pleasant 27
+45|019|000328|Mt. Pleasant 28|Mt. Pleasant 28
+45|019|000329|Mt. Pleasant 29|Mt. Pleasant 29
+45|019|000330|Mt. Pleasant 30|Mt. Pleasant 30
+45|019|000331|Mt. Pleasant 31|Mt. Pleasant 31
+45|019|000332|Mt. Pleasant 32|Mt. Pleasant 32
+45|019|000333|Mt. Pleasant 33|Mt. Pleasant 33
+45|019|000334|Mt. Pleasant 34|Mt. Pleasant 34
+45|019|000335|Mt. Pleasant 35|Mt. Pleasant 35
+45|019|000336|Mt. Pleasant 36|Mt. Pleasant 36
+45|019|000337|Mt. Pleasant 37|Mt. Pleasant 37
+45|019|000338|Mt. Pleasant 38|Mt. Pleasant 38
+45|019|000339|Mt. Pleasant 39|Mt. Pleasant 39
+45|019|000400|James Island 1A|James Island 1A
+45|019|000401|James Island 1B|James Island 1B
+45|019|000402|James Island 3|James Island 3
+45|019|000403|James Island 5A|James Island 5A
+45|019|000404|James Island 5B|James Island 5B
+45|019|000405|James Island 6|James Island 6
+45|019|000406|James Island 7|James Island 7
+45|019|000407|James Island 8A|James Island 8A
+45|019|000408|James Island 8B|James Island 8B
+45|019|000409|James Island 9|James Island 9
+45|019|000410|James Island 10|James Island 10
+45|019|000411|James Island 11|James Island 11
+45|019|000412|James Island 12|James Island 12
+45|019|000413|James Island 13|James Island 13
+45|019|000414|James Island 14|James Island 14
+45|019|000415|James Island 15|James Island 15
+45|019|000417|James Island 17|James Island 17
+45|019|000419|James Island 19|James Island 19
+45|019|000420|James Island 20|James Island 20
+45|019|000422|James Island 22|James Island 22
+45|019|000440|Johns Island 1A|Johns Island 1A
+45|019|000441|Johns Island 1B|Johns Island 1B
+45|019|000442|James Island 2|James Island 2
+45|019|000443|Johns Island 3A|Johns Island 3A
+45|019|000444|Johns Island 3B|Johns Island 3B
+45|019|000445|Johns Island 4|Johns Island 4
+45|019|000460|St. Pauls 1|St. Pauls 1
+45|019|000461|St. Pauls 2A|St. Pauls 2A
+45|019|000462|St. Pauls 2B|St. Pauls 2B
+45|019|000463|St. Pauls 3|St. Pauls 3
+45|019|000464|St. Pauls 4|St. Pauls 4
+45|019|000465|St. Pauls 5|St. Pauls 5
+45|019|000466|St. Pauls 6|St. Pauls 6
+45|019|000501|St. Andrews 1|St. Andrews 1
+45|019|000502|St. Andrews 2|St. Andrews 2
+45|019|000503|St. Andrews 3|St. Andrews 3
+45|019|000504|St. Andrews 4|St. Andrews 4
+45|019|000505|St. Andrews 5|St. Andrews 5
+45|019|000506|St. Andrews 6|St. Andrews 6
+45|019|000507|St. Andrews 7|St. Andrews 7
+45|019|000508|St. Andrews 8|St. Andrews 8
+45|019|000509|St. Andrews 9|St. Andrews 9
+45|019|000510|St. Andrews 10|St. Andrews 10
+45|019|000511|St. Andrews 11|St. Andrews 11
+45|019|000512|St. Andrews 12|St. Andrews 12
+45|019|000513|St. Andrews 13|St. Andrews 13
+45|019|000514|St. Andrews 14|St. Andrews 14
+45|019|000515|St. Andrews 15|St. Andrews 15
+45|019|000516|St. Andrews 16|St. Andrews 16
+45|019|000517|St. Andrews 17|St. Andrews 17
+45|019|000518|St. Andrews 18|St. Andrews 18
+45|019|000519|St. Andrews 19|St. Andrews 19
+45|019|000520|St. Andrews 20|St. Andrews 20
+45|019|000521|St. Andrews 21|St. Andrews 21
+45|019|000522|St. Andrews 22|St. Andrews 22
+45|019|000523|St. Andrews 23|St. Andrews 23
+45|019|000524|St. Andrews 24|St. Andrews 24
+45|019|000525|St. Andrews 25|St. Andrews 25
+45|019|000526|St. Andrews 26|St. Andrews 26
+45|019|000527|St. Andrews 27|St. Andrews 27
+45|019|000528|St. Andrews 28|St. Andrews 28
+45|019|000529|St. Andrews 29|St. Andrews 29
+45|019|000530|St. Andrews 30|St. Andrews 30
+45|019|000531|St. Andrews 31|St. Andrews 31
+45|019|000532|St. Andrews 32|St. Andrews 32
+45|019|000533|St. Andrews 33|St. Andrews 33
+45|019|000534|St. Andrews 34|St. Andrews 34
+45|019|000535|St. Andrews 35|St. Andrews 35
+45|019|000536|St. Andrews 36|St. Andrews 36
+45|019|000537|St. Andrews 37|St. Andrews 37
+45|019|000601|North Charleston 1|North Charleston 1
+45|019|000602|North Charleston 2|North Charleston 2
+45|019|000603|North Charleston 3|North Charleston 3
+45|019|000604|North Charleston 4|North Charleston 4
+45|019|000605|North Charleston 5|North Charleston 5
+45|019|000606|North Charleston 6|North Charleston 6
+45|019|000607|North Charleston 7|North Charleston 7
+45|019|000608|North Charleston 8|North Charleston 8
+45|019|000609|North Charleston 9|North Charleston 9
+45|019|000610|North Charleston 10|North Charleston 10
+45|019|000611|North Charleston 11|North Charleston 11
+45|019|000612|North Charleston 12|North Charleston 12
+45|019|000613|North Charleston 13|North Charleston 13
+45|019|000614|North Charleston 14|North Charleston 14
+45|019|000615|North Charleston 15|North Charleston 15
+45|019|000616|North Charleston 16|North Charleston 16
+45|019|000617|North Charleston 17|North Charleston 17
+45|019|000618|North Charleston 18|North Charleston 18
+45|019|000619|North Charleston 19|North Charleston 19
+45|019|000620|North Charleston 20|North Charleston 20
+45|019|000621|North Charleston 21|North Charleston 21
+45|019|000622|North Charleston 22|North Charleston 22
+45|019|000623|North Charleston 23|North Charleston 23
+45|019|000624|North Charleston 24|North Charleston 24
+45|019|000625|North Charleston 25|North Charleston 25
+45|019|000626|North Charleston 26|North Charleston 26
+45|019|000627|North Charleston 27|North Charleston 27
+45|019|000628|North Charleston 28|North Charleston 28
+45|019|000629|North Charleston 29|North Charleston 29
+45|019|000630|North Charleston 30|North Charleston 30
+45|021|000001|Allens|Allens
+45|021|000002|Alma Mill|Alma Mill
+45|021|000003|Antioch and King's Creek|Antioch and King's Creek
+45|021|000004|Ashworth|Ashworth
+45|021|000005|Blacksburg Ward No. 1|Blacksburg Ward No. 1
+45|021|000006|Blacksburg Ward No. 2|Blacksburg Ward No. 2
+45|021|000010|Draytonville|Draytonville
+45|021|000011|Ezells and Butler|Ezells and Butler
+45|021|000012|Gaffney Ward No. 1|Gaffney Ward No. 1
+45|021|000013|Gaffney Ward No. 2|Gaffney Ward No. 2
+45|021|000014|Gaffney Ward No. 3|Gaffney Ward No. 3
+45|021|000015|Gaffney Ward No. 4|Gaffney Ward No. 4
+45|021|000016|Gaffney Ward No. 5|Gaffney Ward No. 5
+45|021|000017|Gaffney Ward No. 6|Gaffney Ward No. 6
+45|021|000018|Grassy Pond|Grassy Pond
+45|021|000019|Goucher and Thicketty|Goucher and Thicketty
+45|021|000020|Holly Grove and Buffalo|Holly Grove and Buffalo
+45|021|000021|Limestone Mill|Limestone Mill
+45|021|000022|Little John and Sarratt's|Little John and Sarratt's
+45|021|000023|Macedonia|Macedonia
+45|021|000024|Morgan|Morgan
+45|021|000025|Musgrove Mill|Musgrove Mill
+45|021|000026|Ninety Nine and Cherokee Falls|Ninety Nine and Cherokee Falls
+45|021|000027|Pleasant Grove|Pleasant Grove
+45|021|000028|Pleasant Meadows|Pleasant Meadows
+45|021|000030|Timber Ridge|Timber Ridge
+45|021|000031|White Plains|White Plains
+45|021|000032|Wilkinsville and Metcalf|Wilkinsville and Metcalf
+45|021|000033|Wood's|Wood's
+45|023|000001|Baldwin Mill|Baldwin Mill
+45|023|000002|Baton Rouge|Baton Rouge
+45|023|000003|Beckhamville|Beckhamville
+45|023|000004|Blackstock|Blackstock
+45|023|000009|Edgemoor|Edgemoor
+45|023|000010|Eureka Mill|Eureka Mill
+45|023|000011|Fort Lawn|Fort Lawn
+45|023|000012|Halsellville|Halsellville
+45|023|000013|Hazelwood|Hazelwood
+45|023|000014|Lando|Lando
+45|023|000015|Lando/ Lansford|Lando/ Lansford
+45|023|000018|Lowrys|Lowrys
+45|023|000021|Richburg|Richburg
+45|023|000022|Rodman|Rodman
+45|023|000023|Rossville|Rossville
+45|023|000024|Wilksburg|Wilksburg
+45|023|000026|Great Falls|Great Falls
+45|023|000029|Chester Ward 1|Chester Ward 1
+45|023|000030|Chester Ward 2|Chester Ward 2
+45|023|000031|Chester Ward 3|Chester Ward 3
+45|023|000032|Chester Ward 4|Chester Ward 4
+45|023|000033|Chester Ward 5|Chester Ward 5
+45|025|000001|Angelus-Cararrh|Angelus-Cararrh
+45|025|000002|Bay Springs|Bay Springs
+45|025|000003|Black Creek|Black Creek
+45|025|000004|Brocks Mill|Brocks Mill
+45|025|000005|Cash|Cash
+45|025|000006|Center Grove-Winzo|Center Grove-Winzo
+45|025|000007|Cheraw No. 1|Cheraw No. 1
+45|025|000008|Cheraw No. 2|Cheraw No. 2
+45|025|000009|Cheraw No. 3|Cheraw No. 3
+45|025|000010|Cheraw No. 4|Cheraw No. 4
+45|025|000011|Courthouse|Courthouse
+45|025|000012|Dudley-Mangum|Dudley-Mangum
+45|025|000013|Grants Mill|Grants Mill
+45|025|000014|Jefferson|Jefferson
+45|025|000015|Mcbee|Mcbee
+45|025|000016|Middendorf|Middendorf
+45|025|000017|Mt. Croghan|Mt. Croghan
+45|025|000018|Ousleydale|Ousleydale
+45|025|000019|Pageland No. 1|Pageland No. 1
+45|025|000020|Pageland No. 2|Pageland No. 2
+45|025|000021|Patrick|Patrick
+45|025|000022|Pee Dee|Pee Dee
+45|025|000023|Ruby|Ruby
+45|025|000024|Shiloh|Shiloh
+45|025|000025|Snow Hill-Vaughn|Snow Hill-Vaughn
+45|027|000001|Alcolu|Alcolu
+45|027|000002|Barrineau|Barrineau
+45|027|000003|Barrows Mill|Barrows Mill
+45|027|000004|Bloomville|Bloomville
+45|027|000005|Calvary|Calvary
+45|027|000006|Davis Station|Davis Station
+45|027|000007|Harmony|Harmony
+45|027|000008|Hicks|Hicks
+45|027|000009|Home Branch|Home Branch
+45|027|000010|Jordan|Jordan
+45|027|000011|Manning No. 1|Manning No. 1
+45|027|000012|Manning No. 2|Manning No. 2
+45|027|000013|Manning No. 3|Manning No. 3
+45|027|000014|Manning No. 4|Manning No. 4
+45|027|000015|Manning No. 5|Manning No. 5
+45|027|000016|New Zion|New Zion
+45|027|000017|Paxville|Paxville
+45|027|000018|Panola|Panola
+45|027|000019|Sardina-Gable|Sardina-Gable
+45|027|000020|Summerton No. 1|Summerton No. 1
+45|027|000021|Summerton No. 2|Summerton No. 2
+45|027|000022|Summerton No. 3|Summerton No. 3
+45|027|000023|Turbeville|Turbeville
+45|027|000024|Wilson Foreston|Wilson Foreston
+45|027|000025|Oakdale|Oakdale
+45|029|000002|Bells|Bells
+45|029|000005|Canady's|Canady's
+45|029|000006|Cottageville|Cottageville
+45|029|000007|Edisto|Edisto
+45|029|000008|Green Pond|Green Pond
+45|029|000009|Hendersonville|Hendersonville
+45|029|000010|Horse Pen|Horse Pen
+45|029|000011|Hudson Mill|Hudson Mill
+45|029|000012|Jacksonboro|Jacksonboro
+45|029|000013|Ashton-Lodge|Ashton-Lodge
+45|029|000014|Maple Cane|Maple Cane
+45|029|000015|Mashawville|Mashawville
+45|029|000017|Peeples|Peeples
+45|029|000018|Petits|Petits
+45|029|000019|Peniel|Peniel
+45|029|000020|Ritter|Ritter
+45|029|000021|Round O|Round O
+45|029|000022|Rice Patch|Rice Patch
+45|029|000023|Ruffin|Ruffin
+45|029|000024|Sidneys|Sidneys
+45|029|000025|Berea-Smoaks|Berea-Smoaks
+45|029|000026|Stokes|Stokes
+45|029|000027|Sniders|Sniders
+45|029|000029|Walterboro No. 1|Walterboro No. 1
+45|029|000030|Walterboro No. 2|Walterboro No. 2
+45|029|000031|Walterboro No. 3|Walterboro No. 3
+45|029|000032|Walterboro No. 4|Walterboro No. 4
+45|029|000033|Williams|Williams
+45|029|000034|Wolfe Creek|Wolfe Creek
+45|029|000035|Edisto Beach|Edisto Beach
+45|029|000036|Walterboro No. 5|Walterboro No. 5
+45|029|000040|Walterboro No. 6|Walterboro No. 6
+45|031|000001|ANTIOCH|ANTIOCH
+45|031|000002|AUBURN|AUBURN
+45|031|000003|BETHEL|BETHEL
+45|031|000004|BLACK CREEK-CLYDE|BLACK CREEK-CLYDE
+45|031|000005|BURNT BRANCH|BURNT BRANCH
+45|031|000007|DARLINGTON NO. 1|DARLINGTON NO. 1
+45|031|000008|DARLINGTON NO. 2|DARLINGTON NO. 2
+45|031|000010|DARLINGTON NO. 4|DARLINGTON NO. 4
+45|031|000011|DARLINGTON NO. 5|DARLINGTON NO. 5
+45|031|000012|DOVESVILLE|DOVESVILLE
+45|031|000013|HARTSVILLE NO. 1|HARTSVILLE NO. 1
+45|031|000016|HARTSVILLE NO. 4|HARTSVILLE NO. 4
+45|031|000017|HARTSVILLE NO. 5|HARTSVILLE NO. 5
+45|031|000018|HARTSVILLE NO. 6|HARTSVILLE NO. 6
+45|031|000019|HARTSVILLE NO. 7|HARTSVILLE NO. 7
+45|031|000020|HARTSVILLE NO. 8|HARTSVILLE NO. 8
+45|031|000021|HIGH HILL|HIGH HILL
+45|031|000022|INDIAN BRANCH|INDIAN BRANCH
+45|031|000023|KELLEYTOWN|KELLEYTOWN
+45|031|000024|LAKE SWAMP|LAKE SWAMP
+45|031|000025|LAMAR NO. 1|LAMAR NO. 1
+45|031|000026|LAMAR NO. 2|LAMAR NO. 2
+45|031|000027|LYDIA|LYDIA
+45|031|000028|MECHANICSVILLE|MECHANICSVILLE
+45|031|000031|NEW MARKET|NEW MARKET
+45|031|000032|OATES|OATES
+45|031|000033|PALMETTO|PALMETTO
+45|031|000036|SOCIETY HILL|SOCIETY HILL
+45|031|000037|SWIFT CREEK|SWIFT CREEK
+45|031|000038|DARLINGTON NO. 3|DARLINGTON NO. 3
+45|031|000040|DARLINGTON NO. 6|DARLINGTON NO. 6
+45|031|000041|HARTSVILLE NO. 9|HARTSVILLE NO. 9
+45|033|000001|East Dillon|East Dillon
+45|033|000002|West Dillon|West Dillon
+45|033|000003|South Dillon|South Dillon
+45|033|000004|Latta|Latta
+45|033|000005|New Holly|New Holly
+45|033|000006|Lake View|Lake View
+45|033|000007|Kemper|Kemper
+45|033|000009|Mt. Calvary|Mt. Calvary
+45|033|000010|Bermuda|Bermuda
+45|033|000011|Pleasant Hill|Pleasant Hill
+45|033|000012|Hamer|Hamer
+45|033|000013|Oakland|Oakland
+45|033|000014|Carolina|Carolina
+45|033|000015|Little Rock|Little Rock
+45|033|000016|Minturn|Minturn
+45|033|000017|Oak Grove|Oak Grove
+45|033|000018|Manning|Manning
+45|033|000019|Floydale|Floydale
+45|033|000020|Fork|Fork
+45|035|000025|Rosinville|Rosinville
+45|035|000026|St. George No. 2|St. George No. 2
+45|035|000027|St. George No. 1|St. George No. 1
+45|035|000028|Grover|Grover
+45|035|000029|Reevesville|Reevesville
+45|035|000030|Harleyville|Harleyville
+45|035|000031|Four Hole|Four Hole
+45|035|000033|Rosses|Rosses
+45|035|000034|Ridgeville|Ridgeville
+45|035|000035|Givhans|Givhans
+45|035|000036|Delemars|Delemars
+45|035|000037|Saul Dam|Saul Dam
+45|035|000038|Coastal|Coastal
+45|035|000039|Trolley|Trolley
+45|035|000040|Tranquil|Tranquil
+45|035|000041|Beech Hill|Beech Hill
+45|035|000042|Flowertown|Flowertown
+45|035|000043|Knightsville|Knightsville
+45|035|000044|Clemson|Clemson
+45|035|000045|Germantown|Germantown
+45|035|000046|Greenwave|Greenwave
+45|035|000047|Newington|Newington
+45|035|000048|Carolina|Carolina
+45|035|000049|Dorchester|Dorchester
+45|035|000050|Archdale|Archdale
+45|035|000052|Stallsville|Stallsville
+45|035|000054|Indian Field|Indian Field
+45|035|000055|Spann|Spann
+45|035|000056|North Summerville|North Summerville
+45|035|000057|Tupperway|Tupperway
+45|035|000058|Irongate|Irongate
+45|035|000060|Greenhurst|Greenhurst
+45|035|000061|Ashborough East|Ashborough East
+45|035|000062|Ashborough West|Ashborough West
+45|035|000063|Ashley River|Ashley River
+45|035|000064|Windsor|Windsor
+45|035|000066|Bacons Bridge|Bacons Bridge
+45|035|000067|Brandymill|Brandymill
+45|035|000068|Briarwood|Briarwood
+45|035|000069|Butternut|Butternut
+45|035|000070|Central|Central
+45|035|000071|Coosaw|Coosaw
+45|035|000072|Cypress|Cypress
+45|035|000073|King's Grant|King's Grant
+45|035|000074|Lincoln|Lincoln
+45|035|000075|Miles/Jamison|Miles/Jamison
+45|035|000076|Oakbrook|Oakbrook
+45|035|000077|Patriot|Patriot
+45|035|000078|Sawmill Branch|Sawmill Branch
+45|035|000079|Coastal 2|Coastal 2
+45|035|000080|Coastal 3|Coastal 3
+45|035|000081|Archdale 2|Archdale 2
+45|035|000082|Ashborough East 2|Ashborough East 2
+45|035|000083|Ashborough West 2|Ashborough West 2
+45|035|000084|Beech Hill 2|Beech Hill 2
+45|035|000085|Brandymill 2|Brandymill 2
+45|035|000086|Briarwood 2|Briarwood 2
+45|035|000087|Briarwood 3|Briarwood 3
+45|035|000088|Central 2|Central 2
+45|035|000089|Clemson 2|Clemson 2
+45|035|000090|Clemson 3|Clemson 3
+45|035|000091|Coosaw 2|Coosaw 2
+45|035|000092|Dorchester 2|Dorchester 2
+45|035|000093|Flowertown 2|Flowertown 2
+45|035|000094|Givhans 2|Givhans 2
+45|035|000095|Indian Field 2|Indian Field 2
+45|035|000096|Irongate 2|Irongate 2
+45|035|000097|Irongate 3|Irongate 3
+45|035|000098|King's Grant 2|King's Grant 2
+45|035|000099|Newington 2|Newington 2
+45|035|000100|North Summerville 2|North Summerville 2
+45|035|000101|Ridgeville 2|Ridgeville 2
+45|035|000102|Tranquil 2|Tranquil 2
+45|035|000103|Tupperway 2|Tupperway 2
+45|035|000104|Tranquil 3|Tranquil 3
+45|035|000105|Bacons Bridge 2|Bacons Bridge 2
+45|035|000106|Coosaw 3|Coosaw 3
+45|035|000107|Cypress 2|Cypress 2
+45|035|000108|Flowertown 3|Flowertown 3
+45|035|000109|Oakbrook 2|Oakbrook 2
+45|035|000110|Windsor 2|Windsor 2
+45|037|000001|Edgefield No. 1|Edgefield No. 1
+45|037|000002|Edgefield No. 2|Edgefield No. 2
+45|037|000004|Johnston No. 1|Johnston No. 1
+45|037|000005|Johnston No. 2|Johnston No. 2
+45|037|000006|Trenton No. 1|Trenton No. 1
+45|037|000007|Merriweather No. 1|Merriweather No. 1
+45|037|000008|Westside|Westside
+45|037|000009|Harmony|Harmony
+45|037|000010|North Side|North Side
+45|037|000011|Brunson|Brunson
+45|037|000012|Merriweather No. 2|Merriweather No. 2
+45|037|000013|Trenton No. 2|Trenton No. 2
+45|039|000001|Blackstock|Blackstock
+45|039|000002|Blairs|Blairs
+45|039|000003|Centerville|Centerville
+45|039|000004|Feasterville|Feasterville
+45|039|000005|Greenbrier|Greenbrier
+45|039|000006|Garden Grove|Garden Grove
+45|039|000007|Jekinsville|Jekinsville
+45|039|000008|Horeb-Glenn|Horeb-Glenn
+45|039|000009|Hickory Ridge|Hickory Ridge
+45|039|000010|Lebanon|Lebanon
+45|039|000011|Mitford|Mitford
+45|039|000012|Monticello|Monticello
+45|039|000013|New Hope|New Hope
+45|039|000014|Ridgeway|Ridgeway
+45|039|000015|Simpson|Simpson
+45|039|000016|South Winnsboro|South Winnsboro
+45|039|000017|Winnsboro Mills|Winnsboro Mills
+45|039|000018|Winnsboro No. 1|Winnsboro No. 1
+45|039|000019|Winnsboro No. 2|Winnsboro No. 2
+45|039|000020|White Oak|White Oak
+45|039|000021|Woodward|Woodward
+45|039|000022|Dutchmans Creek|Dutchmans Creek
+45|041|000001|Back Swamp|Back Swamp
+45|041|000002|Brookgreen|Brookgreen
+45|041|000003|Cartersville|Cartersville
+45|041|000004|Claussen|Claussen
+45|041|000005|Coles Crossroads|Coles Crossroads
+45|041|000006|Cowards No. 1|Cowards No. 1
+45|041|000007|Cowards No. 2|Cowards No. 2
+45|041|000008|Delmae No. 1|Delmae No. 1
+45|041|000009|Delmae No. 2|Delmae No. 2
+45|041|000010|Ebenezer No. 1|Ebenezer No. 1
+45|041|000011|Ebenezer No. 2|Ebenezer No. 2
+45|041|000012|Ebenezer No. 3|Ebenezer No. 3
+45|041|000013|Effingham|Effingham
+45|041|000014|Elim-Glenwood|Elim-Glenwood
+45|041|000015|Evergreen|Evergreen
+45|041|000016|Florence Ward 1|Florence Ward 1
+45|041|000017|Florence Ward 2|Florence Ward 2
+45|041|000018|Florence Ward 3|Florence Ward 3
+45|041|000019|Florence Ward 4|Florence Ward 4
+45|041|000020|Florence Ward 5|Florence Ward 5
+45|041|000022|Florence Ward 6|Florence Ward 6
+45|041|000023|Florence Ward 7|Florence Ward 7
+45|041|000024|Florence Ward 8|Florence Ward 8
+45|041|000025|Florence Ward 9|Florence Ward 9
+45|041|000026|Florence Ward 10|Florence Ward 10
+45|041|000027|Florence Ward 11|Florence Ward 11
+45|041|000028|Florence Ward 12|Florence Ward 12
+45|041|000029|Florence Ward 14|Florence Ward 14
+45|041|000030|Florence Ward 15|Florence Ward 15
+45|041|000031|Friendfield|Friendfield
+45|041|000032|Gilbert|Gilbert
+45|041|000033|Greenwood|Greenwood
+45|041|000034|Hannah|Hannah
+45|041|000035|High Hill|High Hill
+45|041|000036|Johnsonville|Johnsonville
+45|041|000037|Kingsburg-Stone|Kingsburg-Stone
+45|041|000038|Lake City No. 1|Lake City No. 1
+45|041|000039|Lake City No. 2|Lake City No. 2
+45|041|000040|Lake City No. 3|Lake City No. 3
+45|041|000041|Lake City No. 4|Lake City No. 4
+45|041|000042|Leo|Leo
+45|041|000043|Mars Bluff No. 1|Mars Bluff No. 1
+45|041|000044|Mars Bluff No. 2|Mars Bluff No. 2
+45|041|000045|McAllister Mill|McAllister Mill
+45|041|000046|Mill Branch|Mill Branch
+45|041|000047|Oak Grove-Sardis|Oak Grove-Sardis
+45|041|000048|Olanta|Olanta
+45|041|000049|Pamplico No. 1|Pamplico No. 1
+45|041|000050|Pamplico No. 2|Pamplico No. 2
+45|041|000051|Prospect|Prospect
+45|041|000052|Quinby|Quinby
+45|041|000053|Salem|Salem
+45|041|000054|Savannah Grove|Savannah Grove
+45|041|000055|Scranton|Scranton
+45|041|000056|South Florence 1|South Florence 1
+45|041|000057|South Florence 2|South Florence 2
+45|041|000058|Spaulding|Spaulding
+45|041|000059|Tans Bay|Tans Bay
+45|041|000060|Timmonsville 1|Timmonsville 1
+45|041|000061|Timmonsville 2|Timmonsville 2
+45|041|000062|Vox|Vox
+45|041|000063|West Florence 1|West Florence 1
+45|041|000064|West Florence 2|West Florence 2
+45|043|000101|ANDREWS|ANDREWS
+45|043|000102|ANDREWS OUTSIDE|ANDREWS OUTSIDE
+45|043|000103|BETHEL|BETHEL
+45|043|000104|BLACK RIVER|BLACK RIVER
+45|043|000105|BROWN'S FERRY|BROWN'S FERRY
+45|043|000106|CARVER'S BAY|CARVER'S BAY
+45|043|000107|LAMBERT TOWN|LAMBERT TOWN
+45|043|000108|CHOPPEE|CHOPPEE
+45|043|000109|DREAM KEEPERS|DREAM KEEPERS
+45|043|000110|FOLLY GROVE|FOLLY GROVE
+45|043|000111|GEORGETOWN NO. 1|GEORGETOWN NO. 1
+45|043|000112|GEORGETOWN NO. 3|GEORGETOWN NO. 3
+45|043|000113|GEORGETOWN NO. 4|GEORGETOWN NO. 4
+45|043|000114|GEORGETOWN NO. 5|GEORGETOWN NO. 5
+45|043|000115|PEE DEE|PEE DEE
+45|043|000116|KENSINGTON|KENSINGTON
+45|043|000117|MURRELL'S INLET NO. 1|MURRELL'S INLET NO. 1
+45|043|000118|MURRELL'S INLET NO. 2|MURRELL'S INLET NO. 2
+45|043|000119|MURRELL'S INLET NO. 3|MURRELL'S INLET NO. 3
+45|043|000120|MURRELL'S INLET NO. 4|MURRELL'S INLET NO. 4
+45|043|000121|MYERSVILLE|MYERSVILLE
+45|043|000122|PAWLEY'S ISLAND NO. 1|PAWLEY'S ISLAND NO. 1
+45|043|000123|PAWLEY'S ISLAND NO. 2|PAWLEY'S ISLAND NO. 2
+45|043|000124|PAWLEY'S ISLAND NO. 3|PAWLEY'S ISLAND NO. 3
+45|043|000125|PAWLEY'S ISLAND NO. 4|PAWLEY'S ISLAND NO. 4
+45|043|000126|PAWLEY'S ISLAND NO. 5|PAWLEY'S ISLAND NO. 5
+45|043|000127|PENNY ROYAL|PENNY ROYAL
+45|043|000128|PLANTERSVILLE|PLANTERSVILLE
+45|043|000129|PLEASANT HILL|PLEASANT HILL
+45|043|000130|POTATO BED FERRY|POTATO BED FERRY
+45|043|000131|SAMPIT|SAMPIT
+45|043|000132|SANTEE|SANTEE
+45|043|000133|SPRING GULLY|SPRING GULLY
+45|043|000134|WINYAH BAY|WINYAH BAY
+45|045|000201|GREENVILLE 1|GREENVILLE 1
+45|045|000203|GREENVILLE 3|GREENVILLE 3
+45|045|000204|GREENVILLE 4|GREENVILLE 4
+45|045|000205|GREENVILLE 5|GREENVILLE 5
+45|045|000206|GREENVILLE 6|GREENVILLE 6
+45|045|000207|GREENVILLE 7|GREENVILLE 7
+45|045|000208|GREENVILLE 8|GREENVILLE 8
+45|045|000210|GREENVILLE 10|GREENVILLE 10
+45|045|000214|GREENVILLE 14|GREENVILLE 14
+45|045|000216|GREENVILLE 16|GREENVILLE 16
+45|045|000217|GREENVILLE 17|GREENVILLE 17
+45|045|000218|GREENVILLE 18|GREENVILLE 18
+45|045|000219|GREENVILLE 19|GREENVILLE 19
+45|045|000220|GREENVILLE 20|GREENVILLE 20
+45|045|000221|GREENVILLE 21|GREENVILLE 21
+45|045|000222|GREENVILLE 22|GREENVILLE 22
+45|045|000223|GREENVILLE 23|GREENVILLE 23
+45|045|000224|GREENVILLE 24|GREENVILLE 24
+45|045|000225|GREENVILLE 25|GREENVILLE 25
+45|045|000226|GREENVILLE 26|GREENVILLE 26
+45|045|000227|GREENVILLE 27|GREENVILLE 27
+45|045|000228|GREENVILLE 28|GREENVILLE 28
+45|045|000229|GREENVILLE 29|GREENVILLE 29
+45|045|000230|AIKEN|AIKEN
+45|045|000231|ALTAMONT FOREST|ALTAMONT FOREST
+45|045|000232|ASHETON LAKES|ASHETON LAKES
+45|045|000233|AVON|AVON
+45|045|000234|BELLE MEADE|BELLE MEADE
+45|045|000235|BELLS CROSSING|BELLS CROSSING
+45|045|000236|BELMONT|BELMONT
+45|045|000237|BEREA|BEREA
+45|045|000238|BOILING SPRINGS|BOILING SPRINGS
+45|045|000239|BOTANY WOODS|BOTANY WOODS
+45|045|000240|BROOKGLENN|BROOKGLENN
+45|045|000241|CANEBRAKE|CANEBRAKE
+45|045|000242|CAROLINA|CAROLINA
+45|045|000243|CHESTNUT HILLS|CHESTNUT HILLS
+45|045|000244|CIRCLE CREEK|CIRCLE CREEK
+45|045|000245|CLEAR CREEK|CLEAR CREEK
+45|045|000246|CONESTEE|CONESTEE
+45|045|000247|DARBY RIDGE|DARBY RIDGE
+45|045|000248|DEL NORTE|DEL NORTE
+45|045|000249|DEVENGER|DEVENGER
+45|045|000250|DONALDSON|DONALDSON
+45|045|000251|DOVE TREE|DOVE TREE
+45|045|000252|DUNKLIN|DUNKLIN
+45|045|000253|EASTSIDE|EASTSIDE
+45|045|000254|EBENEZER|EBENEZER
+45|045|000255|EDWARDS FOREST|EDWARDS FOREST
+45|045|000256|ENOREE|ENOREE
+45|045|000257|FEASTER|FEASTER
+45|045|000258|FORK SHOALS|FORK SHOALS
+45|045|000259|FOUNTAIN INN 1|FOUNTAIN INN 1
+45|045|000260|FOUNTAIN INN 2|FOUNTAIN INN 2
+45|045|000262|FURMAN|FURMAN
+45|045|000264|GOWENSVILLE|GOWENSVILLE
+45|045|000266|GROVE|GROVE
+45|045|000269|JENNINGS MILL|JENNINGS MILL
+45|045|000270|LAKEVIEW|LAKEVIEW
+45|045|000271|LAUREL RIDGE|LAUREL RIDGE
+45|045|000272|LEAWOOD|LEAWOOD
+45|045|000274|MAPLE CREEK|MAPLE CREEK
+45|045|000275|MARIDELL|MARIDELL
+45|045|000276|MAULDIN 1|MAULDIN 1
+45|045|000277|MAULDIN 2|MAULDIN 2
+45|045|000278|MAULDIN 3|MAULDIN 3
+45|045|000279|MAULDIN 4|MAULDIN 4
+45|045|000280|MAULDIN 5|MAULDIN 5
+45|045|000281|MAULDIN 6|MAULDIN 6
+45|045|000282|MAULDIN 7|MAULDIN 7
+45|045|000283|MISSION|MISSION
+45|045|000284|MONAVIEW|MONAVIEW
+45|045|000285|MOUNTAIN CREEK|MOUNTAIN CREEK
+45|045|000286|MOUNTAIN VIEW|MOUNTAIN VIEW
+45|045|000287|NEELY FARMS|NEELY FARMS
+45|045|000288|NORTHWOOD|NORTHWOOD
+45|045|000289|OAKVIEW|OAKVIEW
+45|045|000291|PALMETTO|PALMETTO
+45|045|000292|PARIS MOUNTAIN|PARIS MOUNTAIN
+45|045|000293|PEBBLE CREEK|PEBBLE CREEK
+45|045|000294|PELHAM FALLS|PELHAM FALLS
+45|045|000295|PIEDMONT|PIEDMONT
+45|045|000296|PINEVIEW|PINEVIEW
+45|045|000297|POINSETT|POINSETT
+45|045|000298|RAINTREE|RAINTREE
+45|045|000299|REEDY FORK|REEDY FORK
+45|045|000300|RIVERWALK|RIVERWALK
+45|045|000302|ROCK HILL|ROCK HILL
+45|045|000303|ROCKY CREEK|ROCKY CREEK
+45|045|000304|ROLLING GREEN|ROLLING GREEN
+45|045|000305|ROYAL OAKS|ROYAL OAKS
+45|045|000306|SALUDA|SALUDA
+45|045|000307|SANDY FLAT|SANDY FLAT
+45|045|000308|SEVIER|SEVIER
+45|045|000309|SILVERLEAF|SILVERLEAF
+45|045|000310|SIMPSONVILLE 1|SIMPSONVILLE 1
+45|045|000311|SIMPSONVILLE 2|SIMPSONVILLE 2
+45|045|000312|SIMPSONVILLE 3|SIMPSONVILLE 3
+45|045|000313|SIMPSONVILLE 4|SIMPSONVILLE 4
+45|045|000314|SIMPSONVILLE 5|SIMPSONVILLE 5
+45|045|000315|SIMPSONVILLE 6|SIMPSONVILLE 6
+45|045|000316|SKYLAND|SKYLAND
+45|045|000317|SLATER MARIETTA|SLATER MARIETTA
+45|045|000318|SOUTHSIDE|SOUTHSIDE
+45|045|000319|SPRING FOREST|SPRING FOREST
+45|045|000321|STONE VALLEY|STONE VALLEY
+45|045|000322|STONEHAVEN|STONEHAVEN
+45|045|000323|SUBER MILL|SUBER MILL
+45|045|000324|SUGAR CREEK|SUGAR CREEK
+45|045|000325|SULPHUR SPRINGS|SULPHUR SPRINGS
+45|045|000326|SYCAMORE|SYCAMORE
+45|045|000327|TANGLEWOOD|TANGLEWOOD
+45|045|000328|TAYLORS|TAYLORS
+45|045|000329|THORNBLADE|THORNBLADE
+45|045|000330|TIGERVILLE|TIGERVILLE
+45|045|000331|TIMBERLAKE|TIMBERLAKE
+45|045|000332|TRADE|TRADE
+45|045|000334|TUBBS MOUNTAIN|TUBBS MOUNTAIN
+45|045|000336|WADE HAMPTON|WADE HAMPTON
+45|045|000337|WALNUT SPRINGS|WALNUT SPRINGS
+45|045|000339|WELCOME|WELCOME
+45|045|000340|WELLINGTON|WELLINGTON
+45|045|000341|WESTCLIFFE|WESTCLIFFE
+45|045|000342|WESTSIDE|WESTSIDE
+45|045|000343|WOODMONT|WOODMONT
+45|045|000344|WOODRUFF LAKES|WOODRUFF LAKES
+45|045|000345|MT. PLEASANT|MT. PLEASANT
+45|045|000346|BAKER CREEK|BAKER CREEK
+45|045|000347|BRIDGE FORK|BRIDGE FORK
+45|045|000348|CASTLE ROCK|CASTLE ROCK
+45|045|000349|FOX CHASE|FOX CHASE
+45|045|000350|FROHAWK|FROHAWK
+45|045|000351|GRANITE CREEK|GRANITE CREEK
+45|045|000352|GRAZE BRANCH|GRAZE BRANCH
+45|045|000353|GREENBRIAR|GREENBRIAR
+45|045|000354|HILLCREST|HILLCREST
+45|045|000355|HOLLY TREE|HOLLY TREE
+45|045|000356|KILGORE FARMS|KILGORE FARMS
+45|045|000357|LOCUST HILL|LOCUST HILL
+45|045|000358|LONG CREEK|LONG CREEK
+45|045|000359|MOORE CREEK|MOORE CREEK
+45|045|000360|ONEAL|ONEAL
+45|045|000361|RANCH CREEK|RANCH CREEK
+45|045|000362|RIVERSIDE|RIVERSIDE
+45|045|000363|SPARROWS POINT|SPARROWS POINT
+45|045|000364|STANDING SPRINGS|STANDING SPRINGS
+45|045|000365|TRAVELERS REST 1|TRAVELERS REST 1
+45|045|000366|TRAVELERS REST 2|TRAVELERS REST 2
+45|045|000367|TYGER RIVER|TYGER RIVER
+45|045|000368|VERDMONT|VERDMONT
+45|045|000369|WARE PLACE|WARE PLACE
+45|047|000001|Loblolly Pines|Loblolly Pines
+45|047|000002|Bee's Ferry|Bee's Ferry
+45|047|000003|Levi's Knoll|Levi's Knoll
+45|047|000004|Grandiflora Glen|Grandiflora Glen
+45|047|000005|Ashley River Run|Ashley River Run
+45|047|000006|Hope's Ferry|Hope's Ferry
+45|047|000007|Fairhope Ferry|Fairhope Ferry
+45|047|000008|Pebble Stone Way|Pebble Stone Way
+45|047|000009|Glendale|Glendale
+45|047|000010|Harris|Harris
+45|047|000011|Laco|Laco
+45|047|000012|Ninety Six|Ninety Six
+45|047|000013|Ninety Six Mill|Ninety Six Mill
+45|047|000014|Ware Shoals|Ware Shoals
+45|047|000015|Hodges|Hodges
+45|047|000016|Cokesbury|Cokesbury
+45|047|000017|Coronaca|Coronaca
+45|047|000018|Greenwood High|Greenwood High
+45|047|000019|Georgetown|Georgetown
+45|047|000020|Sandridge|Sandridge
+45|047|000021|Callison|Callison
+45|047|000022|Bradley|Bradley
+45|047|000023|Troy|Troy
+45|047|000024|Epworth|Epworth
+45|047|000025|Verdery|Verdery
+45|047|000026|New Market|New Market
+45|047|000027|Emerald|Emerald
+45|047|000028|Airport|Airport
+45|047|000029|Emerald High|Emerald High
+45|047|000030|Civic Center|Civic Center
+45|047|000031|Riley|Riley
+45|047|000032|Shoals Junction|Shoals Junction
+45|047|000033|Greenwood Mill|Greenwood Mill
+45|047|000034|Stonewood|Stonewood
+45|047|000035|Mimosa Crest|Mimosa Crest
+45|047|000036|Lower Lake|Lower Lake
+45|047|000037|Pinecrest|Pinecrest
+45|047|000038|Maxwellton Pike|Maxwellton Pike
+45|047|000039|New Castle|New Castle
+45|047|000040|Rutherford Shoals|Rutherford Shoals
+45|047|000041|Liberty|Liberty
+45|047|000042|Biltmore Pines|Biltmore Pines
+45|047|000043|Marshall Oaks|Marshall Oaks
+45|047|000044|Sparrows Grace|Sparrows Grace
+45|047|000045|Mountain Laurel|Mountain Laurel
+45|047|000046|Allie's Crossing|Allie's Crossing
+45|047|000047|Gideon's Way|Gideon's Way
+45|047|000048|Parson's Mill|Parson's Mill
+45|047|000049|Angel Oak's Crossing|Angel Oak's Crossing
+45|047|000050|Graham's Glen|Graham's Glen
+45|049|000001|Brunson|Brunson
+45|049|000002|Hampton No. 1|Hampton No. 1
+45|049|000003|Hampton No. 2|Hampton No. 2
+45|049|000004|Varnville|Varnville
+45|049|000005|Early Branch|Early Branch
+45|049|000006|Garnett|Garnett
+45|049|000007|Estill|Estill
+45|049|000009|Bonnett|Bonnett
+45|049|000010|Furman|Furman
+45|049|000011|Scotia|Scotia
+45|049|000013|Yemassee|Yemassee
+45|049|000014|Horse Gall|Horse Gall
+45|049|000015|Rivers Mill|Rivers Mill
+45|049|000016|Hopewell|Hopewell
+45|049|000017|Crocket-Miley|Crocket-Miley
+45|049|000018|Cummings|Cummings
+45|049|000019|Black Creek|Black Creek
+45|049|000021|Gifford|Gifford
+45|051|000101|ADRIAN|ADRIAN
+45|051|000102|ALLSBROOK|ALLSBROOK
+45|051|000103|ATLANTIC BEACH|ATLANTIC BEACH
+45|051|000104|AYNOR|AYNOR
+45|051|000105|BAYBORO-GURLEY|BAYBORO-GURLEY
+45|051|000106|BROOKSVILLE #1|BROOKSVILLE #1
+45|051|000107|BROWNWAY|BROWNWAY
+45|051|000108|BURGESS #1|BURGESS #1
+45|051|000109|BURGESS #2|BURGESS #2
+45|051|000110|CAROLINA FOREST #1|CAROLINA FOREST #1
+45|051|000111|CAROLINA FOREST #2|CAROLINA FOREST #2
+45|051|000112|CEDAR GROVE|CEDAR GROVE
+45|051|000113|CHERRY GROVE #1|CHERRY GROVE #1
+45|051|000114|CHERRY GROVE #2|CHERRY GROVE #2
+45|051|000115|COASTAL CAROLINA|COASTAL CAROLINA
+45|051|000116|COASTAL LANE #1|COASTAL LANE #1
+45|051|000117|COASTAL LANE #2|COASTAL LANE #2
+45|051|000118|COOL SPRINGS|COOL SPRINGS
+45|051|000119|CRESENT|CRESENT
+45|051|000120|DAISY|DAISY
+45|051|000121|DEERFIELD|DEERFIELD
+45|051|000122|DOGBLUFF|DOGBLUFF
+45|051|000123|DOGWOOD|DOGWOOD
+45|051|000124|DUNES #1|DUNES #1
+45|051|000125|DUNES #2|DUNES #2
+45|051|000126|DUNES #3|DUNES #3
+45|051|000127|EAST CONWAY|EAST CONWAY
+45|051|000128|EAST LORIS|EAST LORIS
+45|051|000129|EBENEZER|EBENEZER
+45|051|000130|EMERALD FOREST #1|EMERALD FOREST #1
+45|051|000131|EMERALD FOREST #2|EMERALD FOREST #2
+45|051|000132|EMERALD FOREST #3|EMERALD FOREST #3
+45|051|000133|ENTERPRISE #1|ENTERPRISE #1
+45|051|000135|FORESTBROOK|FORESTBROOK
+45|051|000136|FOUR MILE|FOUR MILE
+45|051|000137|GALLIVANTS FERRY|GALLIVANTS FERRY
+45|051|000138|GARDEN CITY #1|GARDEN CITY #1
+45|051|000139|GARDEN CITY #2|GARDEN CITY #2
+45|051|000140|GARDEN CITY #3|GARDEN CITY #3
+45|051|000141|GARDEN CITY #4|GARDEN CITY #4
+45|051|000142|GLENNS BAY|GLENNS BAY
+45|051|000143|GREEN SEA|GREEN SEA
+45|051|000145|HICKORY GROVE|HICKORY GROVE
+45|051|000147|HOMEWOOD|HOMEWOOD
+45|051|000148|HORRY|HORRY
+45|051|000149|INLAND|INLAND
+45|051|000150|JACKSON BLUFF|JACKSON BLUFF
+45|051|000151|JAMESTOWN|JAMESTOWN
+45|051|000152|JERIGANS CROSSROADS|JERIGANS CROSSROADS
+45|051|000153|JET PORT #1|JET PORT #1
+45|051|000154|JET PORT #2|JET PORT #2
+45|051|000157|JUNIPER BAY|JUNIPER BAY
+45|051|000158|LAKE PARK #1|LAKE PARK #1
+45|051|000159|LEON|LEON
+45|051|000160|LITTLE RIVER #1|LITTLE RIVER #1
+45|051|000161|LITTLE RIVER #2|LITTLE RIVER #2
+45|051|000162|LITTLE RIVER #3|LITTLE RIVER #3
+45|051|000163|LIVE OAK|LIVE OAK
+45|051|000164|MAPLE|MAPLE
+45|051|000165|MARLOWE #1|MARLOWE #1
+45|051|000166|METHODIST-MILL SWAMP|METHODIST-MILL SWAMP
+45|051|000168|MT. OLIVE|MT. OLIVE
+45|051|000169|MT. VERNON|MT. VERNON
+45|051|000170|MYRTLE TRACE|MYRTLE TRACE
+45|051|000171|MYRTLEWOOD #1|MYRTLEWOOD #1
+45|051|000172|MYRTLEWOOD #2|MYRTLEWOOD #2
+45|051|000173|MYRTLEWOOD #3|MYRTLEWOOD #3
+45|051|000174|NIXONS XROADS #1|NIXONS XROADS #1
+45|051|000175|NIXONS XROADS #2|NIXONS XROADS #2
+45|051|000176|NORTH CONWAY #1|NORTH CONWAY #1
+45|051|000177|NORTH CONWAY #2|NORTH CONWAY #2
+45|051|000179|OCEAN DRIVE #1|OCEAN DRIVE #1
+45|051|000180|OCEAN DRIVE #2|OCEAN DRIVE #2
+45|051|000181|OCEAN FOREST #1|OCEAN FOREST #1
+45|051|000182|OCEAN FOREST #2|OCEAN FOREST #2
+45|051|000183|OCEAN FOREST #3|OCEAN FOREST #3
+45|051|000184|PALMETTO BAYS|PALMETTO BAYS
+45|051|000185|PAWLEYS SWAMP|PAWLEYS SWAMP
+45|051|000186|PLEASANT VIEW|PLEASANT VIEW
+45|051|000187|POPLAR HILL|POPLAR HILL
+45|051|000188|PORT HARRELSON|PORT HARRELSON
+45|051|000189|RACEPATH #1|RACEPATH #1
+45|051|000190|RACEPATH #2|RACEPATH #2
+45|051|000191|RED BLUFF|RED BLUFF
+45|051|000192|RED HILL #1|RED HILL #1
+45|051|000193|RED HILL #2|RED HILL #2
+45|051|000194|SALEM|SALEM
+45|051|000195|SEA OATS #1|SEA OATS #1
+45|051|000196|SEA OATS #2|SEA OATS #2
+45|051|000197|SEA WINDS|SEA WINDS
+45|051|000198|SHELL|SHELL
+45|051|000199|SOCASTEE #1|SOCASTEE #1
+45|051|000200|SOCASTEE #2|SOCASTEE #2
+45|051|000201|SOCASTEE #3|SOCASTEE #3
+45|051|000202|SOCASTEE #4|SOCASTEE #4
+45|051|000204|SURFSIDE #1|SURFSIDE #1
+45|051|000205|SURFSIDE #2|SURFSIDE #2
+45|051|000206|SURFSIDE #3|SURFSIDE #3
+45|051|000207|SURFSIDE #4|SURFSIDE #4
+45|051|000208|SWEET HOME|SWEET HOME
+45|051|000210|TILLY SWAMP|TILLY SWAMP
+45|051|000211|TODDVILLE|TODDVILLE
+45|051|000212|WAMPEE|WAMPEE
+45|051|000213|WEST CONWAY|WEST CONWAY
+45|051|000214|WEST LORIS|WEST LORIS
+45|051|000215|WHITE OAK|WHITE OAK
+45|051|000216|WILD WING|WILD WING
+45|051|000217|WINDY HILL #1|WINDY HILL #1
+45|051|000218|WINDY HILL #2|WINDY HILL #2
+45|051|000219|BURGESS #3|BURGESS #3
+45|051|000220|MARLOWE #2|MARLOWE #2
+45|051|000221|BURGESS #4|BURGESS #4
+45|051|000222|MARLOWE #3|MARLOWE #3
+45|051|000223|BROOKSVILLE #2|BROOKSVILLE #2
+45|051|000224|CAROLINA BAYS|CAROLINA BAYS
+45|051|000225|NIXONS XROADS #3|NIXONS XROADS #3
+45|051|000226|RIVER OAKS|RIVER OAKS
+45|051|000227|LAKE PARK #2|LAKE PARK #2
+45|051|000228|LAKE PARK #3|LAKE PARK #3
+45|051|000229|WACCAMAW|WACCAMAW
+45|051|000230|ENTERPRISE #2|ENTERPRISE #2
+45|051|000231|JET PORT #3|JET PORT #3
+45|051|000232|JET PORT #4|JET PORT #4
+45|051|000233|OCEAN DRIVE #3|OCEAN DRIVE #3
+45|051|000234|BURGESS #5|BURGESS #5
+45|053|000101|COOSAWHATCHIE|COOSAWHATCHIE
+45|053|000102|GILLISONVILLE|GILLISONVILLE
+45|053|000103|GRAHAMVILLE 1|GRAHAMVILLE 1
+45|053|000104|GRAHAMVILLE 2|GRAHAMVILLE 2
+45|053|000105|GRAYS|GRAYS
+45|053|000106|HARDEEVILLE 1|HARDEEVILLE 1
+45|053|000107|HARDEEVILLE 2|HARDEEVILLE 2
+45|053|000108|LEVY|LEVY
+45|053|000109|OAKATIE|OAKATIE
+45|053|000110|PINELAND|PINELAND
+45|053|000111|RIDGELAND 1|RIDGELAND 1
+45|053|000112|RIDGELAND 2|RIDGELAND 2
+45|053|000113|TILLMAN|TILLMAN
+45|053|000114|RIDGELAND 3|RIDGELAND 3
+45|053|000115|SUN CITY|SUN CITY
+45|053|000116|HARDEEVILLE 3|HARDEEVILLE 3
+45|053|000117|OAKATIE 2|OAKATIE 2
+45|055|000101|Airport|Airport
+45|055|000102|Antioch|Antioch
+45|055|000103|Bethune|Bethune
+45|055|000105|Buffalo|Buffalo
+45|055|000107|Camden No. 1|Camden No. 1
+45|055|000108|Camden No. 2 & 3|Camden No. 2 & 3
+45|055|000109|Hobkirk's Hill|Hobkirk's Hill
+45|055|000111|Camden No. 5|Camden No. 5
+45|055|000112|Camden No. 5-A|Camden No. 5-A
+45|055|000113|Camden No. 6|Camden No. 6
+45|055|000115|Cassatt|Cassatt
+45|055|000117|Charlotte Thompson|Charlotte Thompson
+45|055|000119|Doby's Mill|Doby's Mill
+45|055|000121|E. Camden-Hermitage|E. Camden-Hermitage
+45|055|000122|Elgin No. 1|Elgin No. 1
+45|055|000123|Elgin No. 2|Elgin No. 2
+45|055|000124|Elgin No. 3|Elgin No. 3
+45|055|000125|Elgin No. 4|Elgin No. 4
+45|055|000126|Elgin No. 5|Elgin No. 5
+45|055|000127|Elgin No. 6|Elgin No. 6
+45|055|000130|Gates Ford|Gates Ford
+45|055|000131|Liberty Hill|Liberty Hill
+45|055|000132|Lugoff No. 1|Lugoff No. 1
+45|055|000133|Lugoff No. 2|Lugoff No. 2
+45|055|000134|Lugoff No. 3|Lugoff No. 3
+45|055|000135|Lugoff No. 4|Lugoff No. 4
+45|055|000140|Malvern Hill|Malvern Hill
+45|055|000143|Rabon's X Roads|Rabon's X Roads
+45|055|000146|Riverdale|Riverdale
+45|055|000147|Salt Pond|Salt Pond
+45|055|000149|Shaylor's Hill|Shaylor's Hill
+45|055|000150|Springdale|Springdale
+45|055|000152|Westville|Westville
+45|055|000154|Whites Gardens|Whites Gardens
+45|057|000001|Antioch|Antioch
+45|057|000002|Lake House|Lake House
+45|057|000003|Camp Creek|Camp Creek
+45|057|000004|Carmel|Carmel
+45|057|000005|Chesterfield Ave|Chesterfield Ave
+45|057|000006|Douglas|Douglas
+45|057|000007|Dwight|Dwight
+45|057|000008|Elgin|Elgin
+45|057|000009|Erwin Farm|Erwin Farm
+45|057|000010|Gooch's Cross Road|Gooch's Cross Road
+45|057|000011|Heath Springs|Heath Springs
+45|057|000012|Hyde Park|Hyde Park
+45|057|000013|Jacksonham|Jacksonham
+45|057|000014|Kershaw North|Kershaw North
+45|057|000015|Kershaw South|Kershaw South
+45|057|000016|Lancaster East|Lancaster East
+45|057|000017|Lancaster West|Lancaster West
+45|057|000018|Lynwood Drive|Lynwood Drive
+45|057|000019|Midway|Midway
+45|057|000020|Pleasant Hill|Pleasant Hill
+45|057|000021|Pleasant Valley|Pleasant Valley
+45|057|000022|Rich Hill|Rich Hill
+45|057|000023|Riverside|Riverside
+45|057|000024|Spring Hill|Spring Hill
+45|057|000025|Unity|Unity
+45|057|000026|Van Wyck|Van Wyck
+45|057|000032|Possum Hollow|Possum Hollow
+45|057|000033|University|University
+45|057|000034|Shelley Mullis|Shelley Mullis
+45|057|000035|Black Horse Run|Black Horse Run
+45|057|000036|Gold Hill|Gold Hill
+45|057|000037|Harrisburg|Harrisburg
+45|057|000038|Osceola|Osceola
+45|057|000039|River Road|River Road
+45|057|000040|The Lodge|The Lodge
+45|057|000041|College Park|College Park
+45|059|000001|LAURENS 1|LAURENS 1
+45|059|000002|LAURENS 2|LAURENS 2
+45|059|000003|LAURENS 3|LAURENS 3
+45|059|000004|LAURENS 4|LAURENS 4
+45|059|000005|LAURENS 5|LAURENS 5
+45|059|000006|LAURENS 6|LAURENS 6
+45|059|000007|BAILEY|BAILEY
+45|059|000008|TRINITY RIDGE|TRINITY RIDGE
+45|059|000009|WATTSVILLE|WATTSVILLE
+45|059|000010|BARKSDALE-NARINE|BARKSDALE-NARINE
+45|059|000011|MADDENS|MADDENS
+45|059|000012|CLINTON 1|CLINTON 1
+45|059|000013|CLINTON 2|CLINTON 2
+45|059|000014|JOANNA|JOANNA
+45|059|000015|LYDIA MILL|LYDIA MILL
+45|059|000016|MOUNTVILLE|MOUNTVILLE
+45|059|000017|CLINTON 3|CLINTON 3
+45|059|000018|JONES|JONES
+45|059|000019|OWINGS|OWINGS
+45|059|000020|GRAY COURT|GRAY COURT
+45|059|000021|GREENPOND|GREENPOND
+45|059|000022|COOKS|COOKS
+45|059|000023|YOUNGS|YOUNGS
+45|059|000024|ORA-LANFORD|ORA-LANFORD
+45|059|000025|LONG BRANCH|LONG BRANCH
+45|059|000026|CROSS HILL|CROSS HILL
+45|059|000027|WATERLOO|WATERLOO
+45|059|000028|MARTINS-POPLAR SPRINGS|MARTINS-POPLAR SPRINGS
+45|059|000029|EKOM|EKOM
+45|059|000030|MOUNT OLIVE|MOUNT OLIVE
+45|059|000031|HICKORY TAVERN|HICKORY TAVERN
+45|059|000033|BREWERTON - PRINCETON|BREWERTON - PRINCETON
+45|059|000034|CLINTON MILL|CLINTON MILL
+45|061|000001|Ashland/Stokes Bridge|Ashland/Stokes Bridge
+45|061|000002|Ashwood|Ashwood
+45|061|000003|Bishopville No. 1|Bishopville No. 1
+45|061|000004|Bishopville No. 2|Bishopville No. 2
+45|061|000005|Bishopville No. 3|Bishopville No. 3
+45|061|000006|Bishopville No. 4|Bishopville No. 4
+45|061|000007|Cedar Creek|Cedar Creek
+45|061|000008|Cypress|Cypress
+45|061|000009|Elliott|Elliott
+45|061|000010|Hickory Hill|Hickory Hill
+45|061|000011|Ionia|Ionia
+45|061|000012|Lynchburg|Lynchburg
+45|061|000013|Manville|Manville
+45|061|000014|Mt. Clio|Mt. Clio
+45|061|000015|Rattlesnake Springs|Rattlesnake Springs
+45|061|000016|Schrocks Mill/Lucknow|Schrocks Mill/Lucknow
+45|061|000017|South Lynchburg|South Lynchburg
+45|061|000018|Spring Hill|Spring Hill
+45|061|000019|St. Charles|St. Charles
+45|061|000020|St. Matthews|St. Matthews
+45|061|000021|Turkey Creek|Turkey Creek
+45|061|000024|Woodrow|Woodrow
+45|063|000001|BATESBURG|BATESBURG
+45|063|000002|MIMS|MIMS
+45|063|000003|LAKE MURRAY 1|LAKE MURRAY 1
+45|063|000004|MOUNT HOREB|MOUNT HOREB
+45|063|000005|OLD BARNWELL ROAD|OLD BARNWELL ROAD
+45|063|000006|BEULAH CHURCH|BEULAH CHURCH
+45|063|000007|GILBERT|GILBERT
+45|063|000008|POND BRANCH|POND BRANCH
+45|063|000009|SEVEN OAKS|SEVEN OAKS
+45|063|000010|RIDGE ROAD|RIDGE ROAD
+45|063|000011|SUMMIT|SUMMIT
+45|063|000012|LEESVILLE|LEESVILLE
+45|063|000013|RED BANK SOUTH 1|RED BANK SOUTH 1
+45|063|000014|EMMANUEL CHURCH|EMMANUEL CHURCH
+45|063|000015|HOLLOW CREEK|HOLLOW CREEK
+45|063|000016|BOILING SPRINGS|BOILING SPRINGS
+45|063|000017|EDMUND 1|EDMUND 1
+45|063|000018|RED BANK|RED BANK
+45|063|000019|ROUND HILL|ROUND HILL
+45|063|000020|FAIRVIEW|FAIRVIEW
+45|063|000021|QUAIL HOLLOW|QUAIL HOLLOW
+45|063|000022|PELION 1|PELION 1
+45|063|000023|MACK-EDISTO|MACK-EDISTO
+45|063|000024|SWANSEA 1|SWANSEA 1
+45|063|000025|SANDY RUN|SANDY RUN
+45|063|000026|GASTON 1|GASTON 1
+45|063|000027|SHARPE'S HILL|SHARPE'S HILL
+45|063|000028|CHAPIN|CHAPIN
+45|063|000029|LEAPHART ROAD|LEAPHART ROAD
+45|063|000030|WESTOVER|WESTOVER
+45|063|000031|EDENWOOD|EDENWOOD
+45|063|000032|CROMER|CROMER
+45|063|000033|LEXINGTON NO. 1|LEXINGTON NO. 1
+45|063|000034|LEXINGTON NO. 2|LEXINGTON NO. 2
+45|063|000035|CAYCE NO. 1|CAYCE NO. 1
+45|063|000036|CAYCE NO. 2|CAYCE NO. 2
+45|063|000037|CAYCE NO. 3|CAYCE NO. 3
+45|063|000038|CHALK HILL|CHALK HILL
+45|063|000039|CONGAREE 1|CONGAREE 1
+45|063|000040|HOOK'S STORE|HOOK'S STORE
+45|063|000041|SALUDA RIVER|SALUDA RIVER
+45|063|000042|SPRINGDALE|SPRINGDALE
+45|063|000043|PINE RIDGE 1|PINE RIDGE 1
+45|063|000044|WEST COLUMBIA NO. 1|WEST COLUMBIA NO. 1
+45|063|000045|WEST COLUMBIA NO. 2|WEST COLUMBIA NO. 2
+45|063|000046|WEST COLUMBIA NO. 3|WEST COLUMBIA NO. 3
+45|063|000047|WEST COLUMBIA NO. 4|WEST COLUMBIA NO. 4
+45|063|000048|IRMO|IRMO
+45|063|000049|CHALLEDON|CHALLEDON
+45|063|000050|WHITEHALL|WHITEHALL
+45|063|000051|GARDENDALE|GARDENDALE
+45|063|000052|WOODLAND HILLS|WOODLAND HILLS
+45|063|000053|PINEVIEW|PINEVIEW
+45|063|000054|QUAIL VALLEY|QUAIL VALLEY
+45|063|000055|CAYCE 2A|CAYCE 2A
+45|063|000056|BARR ROAD 1|BARR ROAD 1
+45|063|000057|COLDSTREAM|COLDSTREAM
+45|063|000058|GRENADIER|GRENADIER
+45|063|000059|ST. MICHAEL|ST. MICHAEL
+45|063|000060|MURRAYWOOD|MURRAYWOOD
+45|063|000061|AMICKS FERRY|AMICKS FERRY
+45|063|000062|BUSH RIVER|BUSH RIVER
+45|063|000063|DUTCHMAN SHORES|DUTCHMAN SHORES
+45|063|000064|PILGRIM CHRUCH|PILGRIM CHRUCH
+45|063|000065|WHITE KNOLL|WHITE KNOLL
+45|063|000066|FAITH CHURCH|FAITH CHURCH
+45|063|000067|KITTI WAKE|KITTI WAKE
+45|063|000068|PROVIDENCE CHURCH|PROVIDENCE CHURCH
+45|063|000069|BOILING SPRINGS SOUTH|BOILING SPRINGS SOUTH
+45|063|000070|LEXINGTON NO. 3|LEXINGTON NO. 3
+45|063|000071|LEXINGTON NO. 4|LEXINGTON NO. 4
+45|063|000072|MIDWAY|MIDWAY
+45|063|000073|PARK ROAD 1|PARK ROAD 1
+45|063|000074|SPRINGDALE SOUTH|SPRINGDALE SOUTH
+45|063|000075|GASTON 2|GASTON 2
+45|063|000076|LAKE MURRAY 2|LAKE MURRAY 2
+45|063|000077|CONGAREE 2|CONGAREE 2
+45|063|000078|ST. DAVIDS|ST. DAVIDS
+45|063|000079|MT. HEBRON|MT. HEBRON
+45|063|000080|SAND HILL|SAND HILL
+45|063|000081|EDMUND 2|EDMUND 2
+45|063|000082|SWANSEA 2|SWANSEA 2
+45|063|000083|PELION 2|PELION 2
+45|063|000084|DREHER ISLAND|DREHER ISLAND
+45|063|000085|OLD LEXINGTON|OLD LEXINGTON
+45|063|000086|LINCREEK|LINCREEK
+45|063|000087|CEDARCREST|CEDARCREST
+45|063|000088|OAKWOOD|OAKWOOD
+45|063|000089|BARR ROAD 2|BARR ROAD 2
+45|063|000090|PARK ROAD 2|PARK ROAD 2
+45|063|000091|PINE RIDGE 2|PINE RIDGE 2
+45|063|000092|RED BANK SOUTH 2|RED BANK SOUTH 2
+45|063|000093|Carolina Springs|Carolina Springs
+45|063|000094|Platt Springs 1|Platt Springs 1
+45|063|000095|Platt Springs 2|Platt Springs 2
+45|063|000096|RIVER BLUFF|RIVER BLUFF
+45|065|000001|Mt. Carmel|Mt. Carmel
+45|065|000002|Monticello|Monticello
+45|065|000003|Savannah|Savannah
+45|065|000004|Willington|Willington
+45|065|000006|McCormick No. 1|McCormick No. 1
+45|065|000008|Bethany|Bethany
+45|065|000009|McCormick No. 2|McCormick No. 2
+45|065|000010|Plum Branch|Plum Branch
+45|065|000013|Parksville|Parksville
+45|065|000014|Modoc|Modoc
+45|065|000015|Clarks Hill|Clarks Hill
+45|067|000001|Britton's Neck|Britton's Neck Voting District
+45|067|000002|Friendship|Friendship Voting District
+45|067|000003|Centenary|Centenary Voting District
+45|067|000004|Rains|Rains Voting District
+45|067|000005|Marion No. 1|Marion No. 1 Voting District
+45|067|000006|Marion No. 2|Marion No. 2 Voting District
+45|067|000007|Marion North|Marion North Voting District
+45|067|000008|Marion South|Marion South Voting District
+45|067|000009|Marion West|Marion West Voting District
+45|067|000010|Sellers|Sellers Voting District
+45|067|000011|Temperance|Temperance Voting District
+45|067|000012|Zion|Zion Voting District
+45|067|000013|Northwest Mullins|Northwest Mullins Voting District
+45|067|000014|Southwest Mullins|Southwest Mullins Voting District
+45|067|000015|Northeast Mullins|Northeast Mullins Voting District
+45|067|000016|Southeast Mullins|Southeast Mullins Voting District
+45|067|000017|Nichols|Nichols Voting District
+45|069|000001|Adamsville|Adamsville
+45|069|000002|Blenheim|Blenheim
+45|069|000003|Brightsville|Brightsville
+45|069|000004|Brownsville|Brownsville
+45|069|000005|Redhill|Redhill
+45|069|000006|Tatum|Tatum
+45|069|000007|Wallace|Wallace
+45|069|000008|Quicks X Roads|Quicks X Roads
+45|069|000009|Clio|Clio
+45|069|000010|McColl|McColl
+45|069|000011|East McColl|East McColl
+45|069|000012|East Bennettsville|East Bennettsville
+45|069|000013|West Bennettsville|West Bennettsville
+45|069|000014|South Bennettsville|South Bennettsville
+45|069|000015|North Bennettsville|North Bennettsville
+45|071|000001|Newberry Ward 1|Newberry Ward 1
+45|071|000002|Newberry Ward 2|Newberry Ward 2
+45|071|000003|Newberry Ward 3|Newberry Ward 3
+45|071|000005|Newberry Ward 4|Newberry Ward 4
+45|071|000007|Newberry Ward 5|Newberry Ward 5
+45|071|000008|Newberry Ward 6|Newberry Ward 6
+45|071|000010|Beth - Eden|Beth - Eden
+45|071|000011|Bush River|Bush River
+45|071|000013|Chappells|Chappells
+45|071|000015|Fairview|Fairview
+45|071|000017|Hartford|Hartford
+45|071|000018|Helena|Helena
+45|071|000019|Kinards-Jalapa|Kinards-Jalapa
+45|071|000020|Johnstone|Johnstone
+45|071|000023|Little Mountain|Little Mountain
+45|071|000025|Maybinton|Maybinton
+45|071|000027|Mt. Bethel-Garmany|Mt. Bethel-Garmany
+45|071|000028|Consolidated Number 5|Consolidated Number 5
+45|071|000030|O'Neal|O'Neal
+45|071|000031|Oakland|Oakland
+45|071|000034|Peak|Peak
+45|071|000035|Pomaria|Pomaria
+45|071|000036|Prosperity City|Prosperity City
+45|071|000039|Silverstreet|Silverstreet
+45|071|000040|Stoney Hill|Stoney Hill
+45|071|000042|St. Phillips-Jolly Street|St. Phillips-Jolly Street
+45|071|000048|Wheeland|Wheeland
+45|071|000049|Whitmire City|Whitmire City
+45|071|000050|Whitmire Outside|Whitmire Outside
+45|071|000051|Prosperity Outside|Prosperity Outside
+45|073|000001|Newry-Corinth|Newry-Corinth
+45|073|000002|Earles Grove|Earles Grove
+45|073|000003|Ravenel|Ravenel
+45|073|000004|Fair Play|Fair Play
+45|073|000005|Friendship|Friendship
+45|073|000006|Holly Springs|Holly Springs
+45|073|000007|Keowee|Keowee
+45|073|000008|Long Creek|Long Creek
+45|073|000009|Mountain Rest|Mountain Rest
+45|073|000010|Madison|Madison
+45|073|000011|Bountyland|Bountyland
+45|073|000012|Oakway|Oakway
+45|073|000014|Return|Return
+45|073|000015|Richland|Richland
+45|073|000016|Salem|Salem
+45|073|000017|Stamp Creek|Stamp Creek
+45|073|000018|New Hope|New Hope
+45|073|000019|Shiloh|Shiloh
+45|073|000020|South Union|South Union
+45|073|000021|Tamassee|Tamassee
+45|073|000022|Tokeena-Providence|Tokeena-Providence
+45|073|000023|Utica|Utica
+45|073|000024|Walhalla 1|Walhalla 1
+45|073|000025|Walhalla 2|Walhalla 2
+45|073|000026|Westminster 1|Westminster 1
+45|073|000027|Westminster 2|Westminster 2
+45|073|000028|West Union|West Union
+45|073|000029|Seneca 1|Seneca 1
+45|073|000030|Seneca 2|Seneca 2
+45|073|000031|Seneca 3|Seneca 3
+45|073|000032|Seneca 4|Seneca 4
+45|075|000101|Orangeburg Ward 1|Orangeburg Ward 1
+45|075|000102|Orangeburg Ward 2|Orangeburg Ward 2
+45|075|000103|Orangeburg Ward 3|Orangeburg Ward 3
+45|075|000104|Orangeburg Ward 4|Orangeburg Ward 4
+45|075|000105|Orangeburg Ward 5|Orangeburg Ward 5
+45|075|000106|Orangeburg Ward 6|Orangeburg Ward 6
+45|075|000107|Orangeburg Ward 7|Orangeburg Ward 7
+45|075|000108|Orangeburg Ward 8|Orangeburg Ward 8
+45|075|000109|Orangeburg Ward 9|Orangeburg Ward 9
+45|075|000110|Orangeburg Ward 10|Orangeburg Ward 10
+45|075|000111|Suburban 1|Suburban 1
+45|075|000112|Suburban 2|Suburban 2
+45|075|000113|Suburban 3|Suburban 3
+45|075|000114|Suburban 4|Suburban 4
+45|075|000115|Suburban 5|Suburban 5
+45|075|000116|Suburban 6|Suburban 6
+45|075|000117|Suburban 7|Suburban 7
+45|075|000118|Suburban 8|Suburban 8
+45|075|000119|Suburban 9|Suburban 9
+45|075|000120|Bethel|Bethel
+45|075|000121|Bowman 1|Bowman 1
+45|075|000122|Bowman 2|Bowman 2
+45|075|000123|Branchville 1|Branchville 1
+45|075|000124|Branchville 2|Branchville 2
+45|075|000125|Brookdale|Brookdale
+45|075|000126|Cope|Cope
+45|075|000127|Cordova 1|Cordova 1
+45|075|000128|Edisto|Edisto
+45|075|000129|Elloree 2|Elloree 2
+45|075|000130|Eutawville 1|Eutawville 1
+45|075|000131|Eutawville 2|Eutawville 2
+45|075|000132|Four Holes|Four Holes
+45|075|000133|Holly Hill 2|Holly Hill 2
+45|075|000134|Holly Hill 1|Holly Hill 1
+45|075|000135|Jamison|Jamison
+45|075|000136|Limestone 1|Limestone 1
+45|075|000137|Neeses-Livingston|Neeses-Livingston
+45|075|000138|Nix|Nix
+45|075|000139|North 2|North 2
+45|075|000140|North 1|North 1
+45|075|000141|Norway|Norway
+45|075|000142|Bolentown|Bolentown
+45|075|000143|Providence|Providence
+45|075|000144|Rowesville|Rowesville
+45|075|000145|Santee 1|Santee 1
+45|075|000146|Santee 2|Santee 2
+45|075|000147|Springfield|Springfield
+45|075|000148|Vance|Vance
+45|075|000149|Whittaker|Whittaker
+45|075|000150|Limestone 2|Limestone 2
+45|075|000151|Pine Hill|Pine Hill
+45|075|000152|Cordova 2|Cordova 2
+45|075|000154|Elloree 1|Elloree 1
+45|077|000101|Stone Church|Stone Church
+45|077|000102|University|University
+45|077|000103|Morrison|Morrison
+45|077|000104|Abel|Abel
+45|077|000105|Calhoun|Calhoun
+45|077|000106|Clemson|Clemson
+45|077|000107|Issaqueena|Issaqueena
+45|077|000108|West Central|West Central
+45|077|000109|North Central|North Central
+45|077|000110|Pike|Pike
+45|077|000111|Lawrence Chapel|Lawrence Chapel
+45|077|000112|Norris|Norris
+45|077|000113|Six Mile|Six Mile
+45|077|000114|Six Mile Mountain|Six Mile Mountain
+45|077|000115|Praters Creek|Praters Creek
+45|077|000116|Mountain View|Mountain View
+45|077|000117|Albert R. Lewis|Albert R. Lewis
+45|077|000118|Holly Springs|Holly Springs
+45|077|000119|Pumpkintown|Pumpkintown
+45|077|000120|Griffin|Griffin
+45|077|000121|North Pickens|North Pickens
+45|077|000122|West Pickens|West Pickens
+45|077|000123|South Pickens|South Pickens
+45|077|000124|East Pickens|East Pickens
+45|077|000125|Glassy Mountain|Glassy Mountain
+45|077|000126|Cedar Rock|Cedar Rock
+45|077|000127|Skelton|Skelton
+45|077|000128|Rices Creek|Rices Creek
+45|077|000129|West Liberty|West Liberty
+45|077|000130|East Liberty|East Liberty
+45|077|000131|Flat Rock|Flat Rock
+45|077|000132|Zion|Zion
+45|077|000133|Smith Grove|Smith Grove
+45|077|000134|Arial Mill|Arial Mill
+45|077|000136|Simpson|Simpson
+45|077|000137|Woodside|Woodside
+45|077|000138|Brushy Creek|Brushy Creek
+45|077|000139|Pickensville|Pickensville
+45|077|000140|Easley|Easley
+45|077|000141|Forest Acres|Forest Acres
+45|077|000142|Crestview|Crestview
+45|077|000143|Sitton|Sitton
+45|077|000144|Rock Springs|Rock Springs
+45|077|000145|Saluda|Saluda
+45|077|000146|Crosswell|Crosswell
+45|077|000147|Georges Creek|Georges Creek
+45|077|000148|McKissick|McKissick
+45|077|000149|Vinland|Vinland
+45|077|000150|Crossroads|Crossroads
+45|077|000151|Dacusville|Dacusville
+45|077|000152|Nine Forks|Nine Forks
+45|077|000153|South Central|South Central
+45|077|000154|Crescent Hill|Crescent Hill
+45|077|000155|North Liberty|North Liberty
+45|077|000156|Pendleton|Pendleton
+45|077|000157|Fruit Mountain|Fruit Mountain
+45|077|000158|Pope Field|Pope Field
+45|077|000159|Sheffield|Sheffield
+45|077|000160|Tri County|Tri County
+45|077|000161|McAlister|McAlister
+45|077|000163|Lenhardt|Lenhardt
+45|079|000101|Ward 1|Ward 1
+45|079|000102|Ward 2|Ward 2
+45|079|000103|Ward 3|Ward 3
+45|079|000104|Ward 4|Ward 4
+45|079|000105|Ward 5|Ward 5
+45|079|000106|Ward 6|Ward 6
+45|079|000107|Ward 7|Ward 7
+45|079|000108|Ward 8|Ward 8
+45|079|000109|Ward 9|Ward 9
+45|079|000110|Ward 10|Ward 10
+45|079|000111|Ward 11|Ward 11
+45|079|000112|Ward 12|Ward 12
+45|079|000113|Ward 13|Ward 13
+45|079|000114|Ward 14|Ward 14
+45|079|000115|Ward 15|Ward 15
+45|079|000116|Ward 16|Ward 16
+45|079|000117|Ward 17|Ward 17
+45|079|000118|Ward 18|Ward 18
+45|079|000119|Ward 19|Ward 19
+45|079|000120|Ward 20|Ward 20
+45|079|000121|Ward 21|Ward 21
+45|079|000122|Ward 22|Ward 22
+45|079|000123|Ward 23|Ward 23
+45|079|000124|Ward 24|Ward 24
+45|079|000125|Ward 25|Ward 25
+45|079|000126|Ward 26|Ward 26
+45|079|000129|Ward 29|Ward 29
+45|079|000130|Ward 30|Ward 30
+45|079|000131|Ward 31|Ward 31
+45|079|000132|Ward 32|Ward 32
+45|079|000133|Ward 33|Ward 33
+45|079|000134|Ward 34|Ward 34
+45|079|000400|Arcadia|Arcadia
+45|079|000401|Ardincaple|Ardincaple
+45|079|000402|Ballentine 1|Ballentine 1
+45|079|000403|Ballentine 2|Ballentine 2
+45|079|000404|Beatty Road|Beatty Road
+45|079|000405|Bluff|Bluff
+45|079|000406|Blythewood 1|Blythewood 1
+45|079|000407|Blythewood 2|Blythewood 2
+45|079|000408|Blythewood 3|Blythewood 3
+45|079|000409|Bookman|Bookman
+45|079|000410|Brandon 1|Brandon 1
+45|079|000411|Brandon 2|Brandon 2
+45|079|000412|Briarwood|Briarwood
+45|079|000413|Bridge Creek|Bridge Creek
+45|079|000414|Caughman Road|Caughman Road
+45|079|000415|College Place|College Place
+45|079|000416|Cooper|Cooper
+45|079|000417|Dennyside|Dennyside
+45|079|000418|Dentsville|Dentsville
+45|079|000419|Dutch Fork 1|Dutch Fork 1
+45|079|000420|Dutch Fork 2|Dutch Fork 2
+45|079|000421|Dutch Fork 3|Dutch Fork 3
+45|079|000422|Dutch Fork 4|Dutch Fork 4
+45|079|000423|Eastover|Eastover
+45|079|000424|Edgewood|Edgewood
+45|079|000425|Estates|Estates
+45|079|000426|Fairlawn|Fairlawn
+45|079|000427|Fairwold|Fairwold
+45|079|000428|East Forest Acres|East Forest Acres
+45|079|000429|North Forest Acres|North Forest Acres
+45|079|000430|South Forest Acres|South Forest Acres
+45|079|000431|Friarsgate 1|Friarsgate 1
+45|079|000432|Friarsgate 2|Friarsgate 2
+45|079|000433|Old Friarsgate|Old Friarsgate
+45|079|000434|Gadsden|Gadsden
+45|079|000435|Garners|Garners
+45|079|000436|Greenview|Greenview
+45|079|000437|Gregg Park|Gregg Park
+45|079|000438|Hampton|Hampton
+45|079|000439|Harbison 1|Harbison 1
+45|079|000440|Harbison 2|Harbison 2
+45|079|000441|Hopkins 1|Hopkins 1
+45|079|000442|Hopkins 2|Hopkins 2
+45|079|000443|Horrell Hill|Horrell Hill
+45|079|000444|Hunting Creek|Hunting Creek
+45|079|000445|Keels 1|Keels 1
+45|079|000446|Keels 2|Keels 2
+45|079|000447|Keenan|Keenan
+45|079|000448|Kelly Mill|Kelly Mill
+45|079|000449|Killian|Killian
+45|079|000450|Kingswood|Kingswood
+45|079|000451|Lake Carolina|Lake Carolina
+45|079|000452|Lincolnshire|Lincolnshire
+45|079|000453|Longcreek|Longcreek
+45|079|000454|Longleaf|Longleaf
+45|079|000455|Lykesland|Lykesland
+45|079|000456|Mallet Hill|Mallet Hill
+45|079|000457|Meadowfield|Meadowfield
+45|079|000458|Meadowlake|Meadowlake
+45|079|000459|McEntire|McEntire
+45|079|000460|Midway|Midway
+45|079|000461|Mill Creek|Mill Creek
+45|079|000462|Monticello|Monticello
+45|079|000463|North Springs 1|North Springs 1
+45|079|000464|North Springs 2|North Springs 2
+45|079|000465|North Springs 3|North Springs 3
+45|079|000466|Oak Pointe 1|Oak Pointe 1
+45|079|000467|Oak Pointe 2|Oak Pointe 2
+45|079|000468|Oak Pointe 3|Oak Pointe 3
+45|079|000469|Oakwood|Oakwood
+45|079|000470|Olympia|Olympia
+45|079|000471|Parkridge 1|Parkridge 1
+45|079|000472|Parkridge 2|Parkridge 2
+45|079|000473|Parkway 1|Parkway 1
+45|079|000474|Parkway 2|Parkway 2
+45|079|000475|Parkway 3|Parkway 3
+45|079|000476|Pennington 1|Pennington 1
+45|079|000477|Pennington 2|Pennington 2
+45|079|000478|Pine Grove|Pine Grove
+45|079|000479|Pine Lakes 1|Pine Lakes 1
+45|079|000480|Pine Lakes 2|Pine Lakes 2
+45|079|000481|Pinewood|Pinewood
+45|079|000482|Polo Road|Polo Road
+45|079|000483|Pontiac 1|Pontiac 1
+45|079|000484|Pontiac 2|Pontiac 2
+45|079|000485|Rice Creek 1|Rice Creek 1
+45|079|000486|Rice Creek 2|Rice Creek 2
+45|079|000487|Ridge View 1|Ridge View 1
+45|079|000488|Ridge View 2|Ridge View 2
+45|079|000489|Ridgewood|Ridgewood
+45|079|000490|Riverside|Riverside
+45|079|000491|Riversprings 1|Riversprings 1
+45|079|000492|Riversprings 2|Riversprings 2
+45|079|000493|Riversprings 3|Riversprings 3
+45|079|000494|Riverwalk|Riverwalk
+45|079|000495|Round Top|Round Top
+45|079|000496|St. Andrews|St. Andrews
+45|079|000497|Sandlapper|Sandlapper
+45|079|000498|Satchelford|Satchelford
+45|079|000499|Skyland|Skyland
+45|079|000500|South Beltline|South Beltline
+45|079|000501|Spring Hill|Spring Hill
+45|079|000502|Spring Valley|Spring Valley
+45|079|000503|Spring Valley West|Spring Valley West
+45|079|000504|Springville 1|Springville 1
+45|079|000505|Springville 2|Springville 2
+45|079|000506|Trenholm Road|Trenholm Road
+45|079|000507|Trinity|Trinity
+45|079|000508|Valhalla|Valhalla
+45|079|000509|Valley State Park|Valley State Park
+45|079|000510|Walden|Walden
+45|079|000511|Webber|Webber
+45|079|000512|Westminster|Westminster
+45|079|000513|Whitewell|Whitewell
+45|079|000514|Wildewood|Wildewood
+45|079|000515|Woodfield|Woodfield
+45|079|000516|Woodlands|Woodlands
+45|081|000001|Centennial|Centennial
+45|081|000002|Clyde|Clyde
+45|081|000003|Delmar|Delmar
+45|081|000005|Fruit Hill|Fruit Hill
+45|081|000006|Higgins/Zoar|Higgins/Zoar
+45|081|000007|Holly|Holly
+45|081|000008|Hollywood|Hollywood
+45|081|000009|Holstons|Holstons
+45|081|000010|Mayson|Mayson
+45|081|000012|Mt. Willing|Mt. Willing
+45|081|000013|Pleasant Cross|Pleasant Cross
+45|081|000014|Pleasant Grove|Pleasant Grove
+45|081|000015|Richland|Richland
+45|081|000016|Ridge Spring/Monetta|Ridge Spring/Monetta
+45|081|000017|Saluda No. 1|Saluda No. 1
+45|081|000018|Saluda No. 2|Saluda No. 2
+45|081|000019|Sardis|Sardis
+45|081|000020|Ward|Ward
+45|083|000001|Woodruff Leisure Center|Woodruff Leisure Center
+45|083|000003|Arcadia Elementary|Arcadia Elementary
+45|083|000004|Apalache Baptist|Apalache Baptist
+45|083|000007|Morningside Baptist|Morningside Baptist
+45|083|000008|Boiling Springs 9th Grade|Boiling Springs 9th Grade
+45|083|000010|Gable Middle School|Gable Middle School
+45|083|000011|Lake Bowen Baptist|Lake Bowen Baptist
+45|083|000012|Cooley Springs Baptist|Cooley Springs Baptist
+45|083|000013|Landrum High School|Landrum High School
+45|083|000014|Hendrix Elementary|Hendrix Elementary
+45|083|000016|Cannons Elementary|Cannons Elementary
+45|083|000017|Cavins Hobbysville|Cavins Hobbysville
+45|083|000018|E.P. Todd Elementary|E.P. Todd Elementary
+45|083|000019|Cherokee Springs Fire Station|Cherokee Springs Fire Station
+45|083|000022|Broome High School|Broome High School
+45|083|000024|Converse Fire Station|Converse Fire Station
+45|083|000026|Cowpens Fire Station|Cowpens Fire Station
+45|083|000027|Woodruff Fire Station|Woodruff Fire Station
+45|083|000028|Cross Anchor Fire Station|Cross Anchor Fire Station
+45|083|000029|Fairforest Elementary|Fairforest Elementary
+45|083|000030|Abner Creek Baptist|Abner Creek Baptist
+45|083|000031|Dayton Fire Station|Dayton Fire Station
+45|083|000033|Cedar Grove Baptist|Cedar Grove Baptist
+45|083|000034|Enoree First Baptist|Enoree First Baptist
+45|083|000035|Fairforest Middle School|Fairforest Middle School
+45|083|000036|Travelers Rest Baptist|Travelers Rest Baptist
+45|083|000038|Glendale Fire Station|Glendale Fire Station
+45|083|000040|Gramling Methodist|Gramling Methodist
+45|083|000041|Hayne Baptist|Hayne Baptist
+45|083|000044|Holly Springs Baptist|Holly Springs Baptist
+45|083|000045|Chapman High School|Chapman High School
+45|083|000050|Landrum United Methodist|Landrum United Methodist
+45|083|000051|Lyman Town Hall|Lyman Town Hall
+45|083|000053|Mayo Elementary|Mayo Elementary
+45|083|000054|Motlow Creek Baptist|Motlow Creek Baptist
+45|083|000056|R.D. Anderson Vocational|R.D. Anderson Vocational
+45|083|000057|Swofford Career Center|Swofford Career Center
+45|083|000060|Pauline Glenn Springs Elementary|Pauline Glenn Springs Elementary
+45|083|000061|Pelham Fire Station|Pelham Fire Station
+45|083|000062|Poplar Springs Fire Station|Poplar Springs Fire Station
+45|083|000064|Reidville Elementary|Reidville Elementary
+45|083|000065|Roebuck Elementary|Roebuck Elementary
+45|083|000068|Mt. Moriah Baptist|Mt. Moriah Baptist
+45|083|000070|C.C. Woodson Recreation|C.C. Woodson Recreation
+45|083|000072|St. John's Lutheran|St. John's Lutheran
+45|083|000073|West View Elementary|West View Elementary
+45|083|000075|Southside Baptist|Southside Baptist
+45|083|000076|Spartanburg High School|Spartanburg High School
+45|083|000078|Cornerstone Baptist|Cornerstone Baptist
+45|083|000082|Woodland Heights Recreation Center|Woodland Heights Recreation Center
+45|083|000083|Holy Communion|Holy Communion
+45|083|000084|Beaumont Methodist|Beaumont Methodist
+45|083|000086|Cleveland Elementary|Cleveland Elementary
+45|083|000088|Ebenezer Baptist|Ebenezer Baptist
+45|083|000090|Startex Fire Station|Startex Fire Station
+45|083|000095|Victor Mill Methodist|Victor Mill Methodist
+45|083|000096|Mt. Calvary Presbyterian|Mt. Calvary Presbyterian
+45|083|000097|Wellford Fire Station|Wellford Fire Station
+45|083|000098|Trinity Methodist|Trinity Methodist
+45|083|000099|Croft Baptist|Croft Baptist
+45|083|000100|Whitlock Jr. High|Whitlock Jr. High
+45|083|000101|Bethany Baptist|Bethany Baptist
+45|083|000105|Eastside Baptist|Eastside Baptist
+45|083|000106|Mt. Zion Gospel Baptist|Mt. Zion Gospel Baptist
+45|083|000107|Jesse Bobo Elementary|Jesse Bobo Elementary
+45|083|000108|White Stone Methodist|White Stone Methodist
+45|083|000109|Cudd Memorial|Cudd Memorial
+45|083|000111|Oakland Elementary|Oakland Elementary
+45|083|000112|Boiling Springs Intermediate|Boiling Springs Intermediate
+45|083|000113|Carlisle Fosters Grove|Carlisle Fosters Grove
+45|083|000114|Cowpens Depot Museum|Cowpens Depot Museum
+45|083|000115|Beech Springs Intermediate|Beech Springs Intermediate
+45|083|000116|Greater St. James|Greater St. James
+45|083|000117|Bethany Wesleyan|Bethany Wesleyan
+45|083|000118|Reidville Fire Station|Reidville Fire Station
+45|083|000119|Roebuck Bethlehem|Roebuck Bethlehem
+45|083|000120|Jesse Boyd Elementary|Jesse Boyd Elementary
+45|083|000121|Anderson Mill Elementary|Anderson Mill Elementary
+45|083|000122|Daniel Morgan Technology Center|Daniel Morgan Technology Center
+45|083|000123|Boiling Springs Elementary|Boiling Springs Elementary
+45|083|000124|Boling Springs Jr. High|Boling Springs Jr. High
+45|083|000125|Chapman Elementary|Chapman Elementary
+45|083|000126|Carlisle Wesleyan|Carlisle Wesleyan
+45|083|000127|Boiling Springs High School|Boiling Springs High School
+45|083|000128|Ben Avon Methodist|Ben Avon Methodist
+45|083|000129|Pacolet Elementary|Pacolet Elementary
+45|083|000131|Chesnee Elementary|Chesnee Elementary
+45|083|000132|Park Hills Elementary|Park Hills Elementary
+45|083|000133|Canaan|Canaan
+45|083|000134|Powell Saxon Una|Powell Saxon Una
+45|083|000135|Woodruff Elementary|Woodruff Elementary
+45|083|000136|Duncan United Methodist|Duncan United Methodist
+45|083|000137|River Ridge Elementary|River Ridge Elementary
+45|083|000138|D. R. Hill Middle School|D. R. Hill Middle School
+45|083|000139|Lyman Elementary|Lyman Elementary
+45|083|000140|Anderson Mill Baptist|Anderson Mill Baptist
+45|083|000141|Hope|Hope
+45|083|000142|Trinity Presbyterian|Trinity Presbyterian
+45|085|000101|REMBERT|REMBERT
+45|085|000102|HORATIO|HORATIO
+45|085|000103|HILLCREST|HILLCREST
+45|085|000104|OAKLAND PLANTATION 1|OAKLAND PLANTATION 1
+45|085|000105|DALZELL 1|DALZELL 1
+45|085|000106|DALZELL 2|DALZELL 2
+45|085|000107|OSWEGO|OSWEGO
+45|085|000108|MAYESVILLE|MAYESVILLE
+45|085|000109|SALEM|SALEM
+45|085|000110|OAKLAND PLANTATION 2|OAKLAND PLANTATION 2
+45|085|000111|MCCRAYS MILL 1|MCCRAYS MILL 1
+45|085|000112|SAINT JOHN|SAINT JOHN
+45|085|000113|MAYEWOOD|MAYEWOOD
+45|085|000114|TURKEY CREEK|TURKEY CREEK
+45|085|000115|MULBERRY|MULBERRY
+45|085|000116|SALTERSTOWN|SALTERSTOWN
+45|085|000117|FOLSOM PARK|FOLSOM PARK
+45|085|000118|GREEN SWAMP|GREEN SWAMP
+45|085|000119|PALMETTO PARK|PALMETTO PARK
+45|085|000120|BUNRS-DOWNS|BUNRS-DOWNS
+45|085|000121|SECOND MILL|SECOND MILL
+45|085|000122|SWAN LAKE|SWAN LAKE
+45|085|000123|MORRIS COLLEGE|MORRIS COLLEGE
+45|085|000124|HAMPTON PARK|HAMPTON PARK
+45|085|000125|CROSSWELL|CROSSWELL
+45|085|000126|LORING|LORING
+45|085|000127|LEMIRA|LEMIRA
+45|085|000128|MAGNOLIA-HARMONY|MAGNOLIA-HARMONY
+45|085|000129|STONE HILL|STONE HILL
+45|085|000130|SOUTH RED BAY|SOUTH RED BAY
+45|085|000131|WILDER|WILDER
+45|085|000132|POCOTALIGO 1|POCOTALIGO 1
+45|085|000133|SAVAGE-GLOVER|SAVAGE-GLOVER
+45|085|000134|BATES|BATES
+45|085|000135|BIRNIE|BIRNIE
+45|085|000136|SOUTH LIBERTY|SOUTH LIBERTY
+45|085|000137|MILLWOOD|MILLWOOD
+45|085|000138|CAUSEWAY BRANCH 1|CAUSEWAY BRANCH 1
+45|085|000139|MCCRAYS MILL 2|MCCRAYS MILL 2
+45|085|000140|SUMTER HIGH 1|SUMTER HIGH 1
+45|085|000141|SUNSET|SUNSET
+45|085|000142|DELAINE|DELAINE
+45|085|000143|CHERRYVALE|CHERRYVALE
+45|085|000144|MANCHESTER FOREST|MANCHESTER FOREST
+45|085|000145|PINEWOOD|PINEWOOD
+45|085|000146|POCOTALIGO 2|POCOTALIGO 2
+45|085|000147|PRIVATEER|PRIVATEER
+45|085|000148|EBENEZER 1|EBENEZER 1
+45|085|000149|WILSON HALL|WILSON HALL
+45|085|000150|FURMAN|FURMAN
+45|085|000151|SPECTRUM|SPECTRUM
+45|085|000152|SAINT PAUL|SAINT PAUL
+45|085|000153|SHAW|SHAW
+45|085|000154|THOMAS SUMTER|THOMAS SUMTER
+45|085|000155|SUMTER HIGH 2|SUMTER HIGH 2
+45|085|000156|EBENEZER 2|EBENEZER 2
+45|085|000157|GREEN SWAMP 2|GREEN SWAMP 2
+45|085|000158|CAUSEWAY BRANCH 2|CAUSEWAY BRANCH 2
+45|087|000001|Adamsburg|Adamsburg
+45|087|000002|Black Rock|Black Rock
+45|087|000003|Bonham|Bonham
+45|087|000004|Buffalo Box 1|Buffalo Box 1
+45|087|000005|Carlisle|Carlisle
+45|087|000006|Cross Keys|Cross Keys
+45|087|000007|East Buffalo|East Buffalo
+45|087|000008|Excelsior|Excelsior
+45|087|000009|Jonesville Box 1|Jonesville Box 1
+45|087|000010|Jonesville Box 2|Jonesville Box 2
+45|087|000011|Kelton|Kelton
+45|087|000012|Lockhart|Lockhart
+45|087|000013|Monarch Box 1|Monarch Box 1
+45|087|000014|Monarch Box 2|Monarch Box 2
+45|087|000015|Putnam|Putnam
+45|087|000016|Santuck|Santuck
+45|087|000017|Union Ward 1 Box 1|Union Ward 1 Box 1
+45|087|000018|Union Ward 1 Box 2|Union Ward 1 Box 2
+45|087|000019|Union Ward 2|Union Ward 2
+45|087|000020|Union Ward 3|Union Ward 3
+45|087|000021|Union Ward 4 Box 1|Union Ward 4 Box 1
+45|087|000022|Union Ward 4 Box 2|Union Ward 4 Box 2
+45|087|000023|West Springs|West Springs
+45|089|000001|Black River|Black River
+45|089|000002|Bloomingvale|Bloomingvale
+45|089|000003|Cades|Cades
+45|089|000004|Cedar Swamp|Cedar Swamp
+45|089|000005|Central|Central
+45|089|000006|Earles|Earles
+45|089|000008|Greeleyville|Greeleyville
+45|089|000009|Harmony|Harmony
+45|089|000010|Hebron|Hebron
+45|089|000011|Hemingway|Hemingway
+45|089|000012|Henry-Poplar Hill|Henry-Poplar Hill
+45|089|000013|Indiantown|Indiantown
+45|089|000014|Kingstree No. 1|Kingstree No. 1
+45|089|000015|Kingstree No. 2|Kingstree No. 2
+45|089|000016|Kingstree No. 3|Kingstree No. 3
+45|089|000017|Kingstree No. 4|Kingstree No. 4
+45|089|000018|Lane|Lane
+45|089|000021|Morrisville|Morrisville
+45|089|000022|Mount Vernon|Mount Vernon
+45|089|000024|Nesmith|Nesmith
+45|089|000026|Pergamos|Pergamos
+45|089|000027|Piney Forest|Piney Forest
+45|089|000029|Salters|Salters
+45|089|000030|Sandy Bay|Sandy Bay
+45|089|000031|Singletary|Singletary
+45|089|000032|Suttons|Suttons
+45|089|000033|Trio|Trio
+45|089|000035|Muddy Creek|Muddy Creek
+45|091|000001|Bethany|Bethany
+45|091|000002|Bethel|Bethel
+45|091|000003|River Hills|River Hills
+45|091|000004|Bethel School|Bethel School
+45|091|000005|Bowling Green|Bowling Green
+45|091|000006|Bullocks Creek|Bullocks Creek
+45|091|000007|Cannon Mill|Cannon Mill
+45|091|000008|Catawba|Catawba
+45|091|000009|Clover|Clover
+45|091|000010|Hampton Mill|Hampton Mill
+45|091|000011|Cotton Belt|Cotton Belt
+45|091|000012|Delphia|Delphia
+45|091|000013|Ebenezer|Ebenezer
+45|091|000014|Filbert|Filbert
+45|091|000015|Fort Mill No. 1|Fort Mill No. 1
+45|091|000016|Windjammer|Windjammer
+45|091|000017|Fort Mill No. 3|Fort Mill No. 3
+45|091|000018|Hickory Grove|Hickory Grove
+45|091|000019|Highland Park|Highland Park
+45|091|000020|Lakeshore|Lakeshore
+45|091|000021|Independence|Independence
+45|091|000022|McConnells|McConnells
+45|091|000023|Mt. Holly|Mt. Holly
+45|091|000024|Newport|Newport
+45|091|000025|Mt. Gallant|Mt. Gallant
+45|091|000026|Northside|Northside
+45|091|000027|Oakridge|Oakridge
+45|091|000028|Ogden|Ogden
+45|091|000029|Oakwood|Oakwood
+45|091|000030|Airport|Airport
+45|091|000031|Rock Hill No. 2|Rock Hill No. 2
+45|091|000032|Rock Hill No. 3|Rock Hill No. 3
+45|091|000033|Rock Hill No. 4|Rock Hill No. 4
+45|091|000034|Rock Hill No. 5|Rock Hill No. 5
+45|091|000035|Rock Hill No. 6|Rock Hill No. 6
+45|091|000036|Rock Hill No. 7|Rock Hill No. 7
+45|091|000037|Rock Hill No. 8|Rock Hill No. 8
+45|091|000038|Sharon|Sharon
+45|091|000039|Smyrna|Smyrna
+45|091|000040|Tirzah|Tirzah
+45|091|000041|York No. 1|York No. 1
+45|091|000042|York No. 2|York No. 2
+45|091|000043|India Hook|India Hook
+45|091|000044|Edgewood|Edgewood
+45|091|000045|Fewell Park|Fewell Park
+45|091|000046|Fort Mill No. 4|Fort Mill No. 4
+45|091|000047|Lesslie|Lesslie
+45|091|000048|Rosewood|Rosewood
+45|091|000049|Northwestern|Northwestern
+45|091|000050|Shoreline|Shoreline
+45|091|000051|Ebinport|Ebinport
+45|091|000052|University|University
+45|091|000053|Fort Mill No. 5|Fort Mill No. 5
+45|091|000054|Fort Mill No. 6|Fort Mill No. 6
+45|091|000055|Allison Creek|Allison Creek
+45|091|000056|Anderson Road|Anderson Road
+45|091|000057|New Home|New Home
+45|091|000058|Fort Mill No. 2|Fort Mill No. 2
+45|091|000059|Dobys Bridge|Dobys Bridge
+45|091|000060|Riverview|Riverview
+45|091|000061|Orchard Park|Orchard Park
+45|091|000062|Lakewood|Lakewood
+45|091|000063|Laurel Creek|Laurel Creek
+45|091|000064|Steele Creek|Steele Creek
+45|091|000065|Pleasant Road|Pleasant Road
+45|091|000066|Gold Hill|Gold Hill
+45|091|000067|Waterstone|Waterstone
+45|091|000068|Palmetto|Palmetto
+45|091|000069|Tega Cay|Tega Cay
+45|091|000070|Adnah|Adnah
+45|091|000071|Harvest|Harvest
+45|091|000072|Old Pointe|Old Pointe
+45|091|000073|Tools Fork|Tools Fork
+45|091|000074|Carolina|Carolina
+45|091|000075|Fairgrounds|Fairgrounds
+45|091|000076|Ferry Branch|Ferry Branch
+45|091|000077|Friendship|Friendship
+45|091|000078|Hollis Lakes|Hollis Lakes
+45|091|000079|Hopewell|Hopewell
+45|091|000080|Manchester|Manchester
+45|091|000081|Mill Creek|Mill Creek
+45|091|000082|Nation Ford|Nation Ford
+45|091|000083|Neelys Creek|Neelys Creek
+45|091|000084|Pole Branch|Pole Branch
+45|091|000085|Six Mile|Six Mile
+45|091|000086|Springdale|Springdale
+45|091|000087|Springfield|Springfield
+45|091|000088|Stateline|Stateline
+45|091|000089|Wylie|Wylie
+45|091|000090|Roosevelt|Roosevelt
+45|091|000091|Larne|Larne
+45|091|000092|Rock Creek|Rock Creek
+45|091|000093|River's Edge|River's Edge
+45|091|000094|Baxter|Baxter
+45|091|000095|Kanawha|Kanawha
+45|091|000096|Celanese|Celanese
+45|091|000097|Crescent|Crescent
+45|091|000098|Hands Mill|Hands Mill

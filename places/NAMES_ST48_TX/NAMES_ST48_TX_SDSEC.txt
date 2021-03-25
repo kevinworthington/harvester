@@ -1,0 +1,2 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+48|48285|Hallettsville Independent School District (9-12) in Vysehrad|Hallettsville Independent School District (9-12) in Vysehrad

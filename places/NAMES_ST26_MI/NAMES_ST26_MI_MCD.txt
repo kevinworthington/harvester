@@ -1,0 +1,1580 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+26|001|00000|County subdivisions not defined|County subdivisions not defined
+26|001|01040|Alcona|Alcona township
+26|001|12460|Caledonia|Caledonia township
+26|001|19320|Curtis|Curtis township
+26|001|34820|Greenbush|Greenbush township
+26|001|35740|Gustin|Gustin township
+26|001|36860|Harrisville|Harrisville city
+26|001|36880|Harrisville|Harrisville township
+26|001|37220|Hawes|Hawes township
+26|001|37380|Haynes|Haynes township
+26|001|53880|Mikado|Mikado township
+26|001|54060|Millen|Millen township
+26|001|54740|Mitchell|Mitchell township
+26|003|00000|County subdivisions not defined|County subdivisions not defined
+26|003|04460|Au Train|Au Train township
+26|003|11960|Burt|Burt township
+26|003|33380|Grand Island|Grand Island township
+26|003|47540|Limestone|Limestone township
+26|003|52360|Mathias|Mathias township
+26|003|56200|Munising|Munising city
+26|003|56220|Munising|Munising township
+26|003|60820|Onota|Onota township
+26|003|69160|Rock River|Rock River township
+26|005|00000|County subdivisions not defined|County subdivisions not defined
+26|005|01260|Allegan|Allegan city
+26|005|01280|Allegan|Allegan township
+26|005|13700|Casco|Casco township
+26|005|15200|Cheshire|Cheshire township
+26|005|16720|Clyde|Clyde township
+26|005|22680|Dorr|Dorr township
+26|005|22740|Douglas|Douglas city
+26|005|27740|Fennville|Fennville city
+26|005|28120|Fillmore|Fillmore township
+26|005|31360|Ganges|Ganges township
+26|005|35720|Gun Plain|Gun Plain township
+26|005|37460|Heath|Heath township
+26|005|38640|Holland|Holland city
+26|005|39200|Hopkins|Hopkins township
+26|005|45180|Laketown|Laketown township
+26|005|46600|Lee|Lee township
+26|005|46760|Leighton|Leighton township
+26|005|50840|Manlius|Manlius township
+26|005|52000|Martin|Martin township
+26|005|55200|Monterey|Monterey township
+26|005|61620|Otsego|Otsego city
+26|005|61640|Otsego|Otsego township
+26|005|61820|Overisel|Overisel township
+26|005|64740|Plainwell|Plainwell city
+26|005|71100|Salem|Salem township
+26|005|71700|Saugatuck|Saugatuck city
+26|005|71720|Saugatuck|Saugatuck township
+26|005|74980|South Haven|South Haven city
+26|005|80620|Trowbridge|Trowbridge township
+26|005|81580|Valley|Valley township
+26|005|84580|Watson|Watson township
+26|005|84880|Wayland|Wayland city
+26|005|84900|Wayland|Wayland township
+26|007|00000|County subdivisions not defined|County subdivisions not defined
+26|007|01740|Alpena|Alpena city
+26|007|01760|Alpena|Alpena township
+26|007|34740|Green|Green township
+26|007|49360|Long Rapids|Long Rapids township
+26|007|51220|Maple Ridge|Maple Ridge township
+26|007|61520|Ossineke|Ossineke township
+26|007|71240|Sanborn|Sanborn township
+26|007|85180|Wellington|Wellington township
+26|007|87680|Wilson|Wilson township
+26|009|00000|County subdivisions not defined|County subdivisions not defined
+26|009|05240|Banks|Banks township
+26|009|14420|Central Lake|Central Lake township
+26|009|15380|Chestonia|Chestonia township
+26|009|19400|Custer|Custer township
+26|009|24640|Echo|Echo township
+26|009|25340|Elk Rapids|Elk Rapids township
+26|009|29600|Forest Home|Forest Home township
+26|009|37500|Helena|Helena township
+26|009|41960|Jordan|Jordan township
+26|009|42400|Kearney|Kearney township
+26|009|50640|Mancelona|Mancelona township
+26|009|54440|Milton|Milton township
+26|009|76260|Star|Star township
+26|009|80100|Torch Lake|Torch Lake township
+26|009|83300|Warner|Warner township
+26|011|00000|County subdivisions not defined|County subdivisions not defined
+26|011|00280|Adams|Adams township
+26|011|03360|Arenac|Arenac township
+26|011|04120|Au Gres|Au Gres city
+26|011|04140|Au Gres|Au Gres township
+26|011|16240|Clayton|Clayton township
+26|011|21120|Deep River|Deep River township
+26|011|47580|Lincoln|Lincoln township
+26|011|52120|Mason|Mason township
+26|011|54800|Moffatt|Moffatt township
+26|011|60660|Omer|Omer city
+26|011|74020|Sims|Sims township
+26|011|76120|Standish|Standish city
+26|011|76140|Standish|Standish township
+26|011|80840|Turner|Turner township
+26|011|87080|Whitney|Whitney township
+26|013|00000|County subdivisions not defined|County subdivisions not defined
+26|013|03660|Arvon|Arvon township
+26|013|05340|Baraga|Baraga township
+26|013|18600|Covington|Covington township
+26|013|45560|L'Anse|L'Anse township
+26|013|76000|Spurr|Spurr township
+26|015|03860|Assyria|Assyria township
+26|015|05020|Baltimore|Baltimore township
+26|015|05560|Barry|Barry township
+26|015|13340|Carlton|Carlton township
+26|015|13960|Castleton|Castleton township
+26|015|37120|Hastings|Hastings city
+26|015|37140|Hastings|Hastings charter township
+26|015|39120|Hope|Hope township
+26|015|41120|Irving|Irving township
+26|015|41860|Johnstown|Johnstown township
+26|015|50960|Maple Grove|Maple Grove township
+26|015|60980|Orangeville|Orangeville township
+26|015|66260|Prairieville|Prairieville township
+26|015|70420|Rutland|Rutland charter township
+26|015|79620|Thornapple|Thornapple township
+26|015|88440|Woodland|Woodland township
+26|015|89020|Yankee Springs|Yankee Springs township
+26|017|00000|County subdivisions not defined|County subdivisions not defined
+26|017|04080|Auburn|Auburn city
+26|017|05120|Bangor|Bangor charter township
+26|017|06020|Bay City|Bay City city
+26|017|06540|Beaver|Beaver township
+26|017|26420|Essexville|Essexville city
+26|017|30180|Frankenlust|Frankenlust township
+26|017|30400|Fraser|Fraser township
+26|017|31540|Garfield|Garfield township
+26|017|32040|Gibson|Gibson township
+26|017|36260|Hampton|Hampton charter township
+26|017|42360|Kawkawlin|Kawkawlin township
+26|017|53220|Merritt|Merritt township
+26|017|53780|Midland|Midland city
+26|017|54980|Monitor|Monitor charter township
+26|017|55920|Mount Forest|Mount Forest township
+26|017|64160|Pinconning|Pinconning city
+26|017|64180|Pinconning|Pinconning township
+26|017|65980|Portsmouth|Portsmouth charter township
+26|017|87380|Williams|Williams charter township
+26|019|00000|County subdivisions not defined|County subdivisions not defined
+26|019|01640|Almira|Almira township
+26|019|07600|Benzonia|Benzonia township
+26|019|08840|Blaine|Blaine township
+26|019|17120|Colfax|Colfax township
+26|019|19180|Crystal Lake|Crystal Lake township
+26|019|30260|Frankfort|Frankfort city
+26|019|32180|Gilmore|Gilmore township
+26|019|39000|Homestead|Homestead township
+26|019|40700|Inland|Inland township
+26|019|42000|Joyfield|Joyfield township
+26|019|44240|Lake|Lake township
+26|019|64760|Platte|Platte township
+26|019|85160|Weldon|Weldon township
+26|021|00000|County subdivisions not defined|County subdivisions not defined
+26|021|04840|Bainbridge|Bainbridge township
+26|021|05520|Baroda|Baroda township
+26|021|07400|Benton|Benton charter township
+26|021|07520|Benton Harbor|Benton Harbor city
+26|021|07820|Berrien|Berrien township
+26|021|07920|Bertrand|Bertrand township
+26|021|10580|Bridgman|Bridgman city
+26|021|11400|Buchanan|Buchanan city
+26|021|11420|Buchanan|Buchanan township
+26|021|15480|Chikaming|Chikaming township
+26|021|17320|Coloma|Coloma city
+26|021|17340|Coloma|Coloma charter township
+26|021|31320|Galien|Galien township
+26|021|35860|Hagar|Hagar township
+26|021|44260|Lake|Lake charter township
+26|021|47600|Lincoln|Lincoln charter township
+26|021|57220|New Buffalo|New Buffalo city
+26|021|57230|New Buffalo|New Buffalo township
+26|021|57760|Niles|Niles city
+26|021|57780|Niles|Niles township
+26|021|61180|Oronoko|Oronoko charter township
+26|021|64480|Pipestone|Pipestone township
+26|021|70100|Royalton|Royalton township
+26|021|70960|St. Joseph|St. Joseph city
+26|021|70980|St. Joseph|St. Joseph charter township
+26|021|74440|Sodus|Sodus township
+26|021|79740|Three Oaks|Three Oaks township
+26|021|84500|Watervliet|Watervliet city
+26|021|84520|Watervliet|Watervliet township
+26|021|85120|Weesaw|Weesaw township
+26|023|01120|Algansee|Algansee township
+26|023|05800|Batavia|Batavia township
+26|023|08060|Bethel|Bethel township
+26|023|10860|Bronson|Bronson city
+26|023|10880|Bronson|Bronson township
+26|023|12140|Butler|Butler township
+26|023|12560|California|California township
+26|023|17020|Coldwater|Coldwater city
+26|023|17040|Coldwater|Coldwater township
+26|023|32120|Gilead|Gilead township
+26|023|32280|Girard|Girard township
+26|023|43260|Kinderhook|Kinderhook township
+26|023|52400|Matteson|Matteson township
+26|023|57860|Noble|Noble township
+26|023|61840|Ovid|Ovid township
+26|023|66660|Quincy|Quincy township
+26|023|73440|Sherwood|Sherwood township
+26|023|81280|Union|Union township
+26|025|00980|Albion|Albion city
+26|025|01000|Albion|Albion township
+26|025|03900|Athens|Athens township
+26|025|05920|Battle Creek|Battle Creek city
+26|025|06720|Bedford|Bedford charter township
+26|025|11820|Burlington|Burlington township
+26|025|15960|Clarence|Clarence township
+26|025|16020|Clarendon|Clarendon township
+26|025|17880|Convis|Convis township
+26|025|24700|Eckford|Eckford township
+26|025|25935|Emmett|Emmett charter township
+26|025|30500|Fredonia|Fredonia township
+26|025|38940|Homer|Homer township
+26|025|46620|Lee|Lee township
+26|025|47060|Leroy|Leroy township
+26|025|51520|Marengo|Marengo township
+26|025|51940|Marshall|Marshall city
+26|025|51960|Marshall|Marshall township
+26|025|57620|Newton|Newton township
+26|025|63440|Pennfield|Pennfield charter township
+26|025|72980|Sheridan|Sheridan township
+26|025|75700|Springfield|Springfield city
+26|025|79180|Tekonsha|Tekonsha township
+26|027|12620|Calvin|Calvin township
+26|027|22880|Dowagiac|Dowagiac city
+26|027|39480|Howard|Howard township
+26|027|41600|Jefferson|Jefferson township
+26|027|44140|LaGrange|LaGrange township
+26|027|51480|Marcellus|Marcellus township
+26|027|52140|Mason|Mason township
+26|027|54460|Milton|Milton township
+26|027|57120|Newberg|Newberg township
+26|027|57760|Niles|Niles city
+26|027|60900|Ontwa|Ontwa township
+26|027|63380|Penn|Penn township
+26|027|65300|Pokagon|Pokagon township
+26|027|65720|Porter|Porter township
+26|027|73940|Silver Creek|Silver Creek township
+26|027|82580|Volinia|Volinia township
+26|027|84920|Wayne|Wayne township
+26|029|00000|County subdivisions not defined|County subdivisions not defined
+26|029|06000|Bay|Bay township
+26|029|09820|Boyne City|Boyne City city
+26|029|09860|Boyne Valley|Boyne Valley township
+26|029|14560|Chandler|Chandler township
+26|029|14780|Charlevoix|Charlevoix city
+26|029|14800|Charlevoix|Charlevoix township
+26|029|24020|East Jordan|East Jordan city
+26|029|26580|Evangeline|Evangeline township
+26|029|26680|Eveline|Eveline township
+26|029|37320|Hayes|Hayes township
+26|029|39700|Hudson|Hudson township
+26|029|51620|Marion|Marion township
+26|029|52880|Melrose|Melrose township
+26|029|59340|Norwood|Norwood township
+26|029|63140|Peaine|Peaine township
+26|029|70920|St. James|St. James township
+26|029|74680|South Arm|South Arm township
+26|029|87700|Wilson|Wilson township
+26|031|00000|County subdivisions not defined|County subdivisions not defined
+26|031|01720|Aloha|Aloha township
+26|031|06500|Beaugrand|Beaugrand township
+26|031|07420|Benton|Benton township
+26|031|11980|Burt|Burt township
+26|031|15000|Cheboygan|Cheboygan city
+26|031|25400|Ellis|Ellis township
+26|031|29400|Forest|Forest township
+26|031|34200|Grant|Grant township
+26|031|37480|Hebron|Hebron township
+26|031|40820|Inverness|Inverness township
+26|031|43820|Koehler|Koehler township
+26|031|50300|Mackinaw|Mackinaw township
+26|031|53100|Mentor|Mentor township
+26|031|56100|Mullett|Mullett township
+26|031|56280|Munro|Munro township
+26|031|59500|Nunda|Nunda township
+26|031|80880|Tuscarora|Tuscarora township
+26|031|82940|Walker|Walker township
+26|031|84760|Waverly|Waverly township
+26|031|87640|Wilmot|Wilmot township
+26|033|00000|County subdivisions not defined|County subdivisions not defined
+26|033|06070|Bay Mills|Bay Mills township
+26|033|11280|Bruce|Bruce township
+26|033|15560|Chippewa|Chippewa township
+26|033|19540|Dafter|Dafter township
+26|033|21770|Detour|Detour township
+26|033|23080|Drummond|Drummond township
+26|033|39860|Hulbert|Hulbert township
+26|033|43480|Kinross|Kinross charter township
+26|033|63980|Pickford|Pickford township
+26|033|66760|Raber|Raber township
+26|033|70220|Rudyard|Rudyard township
+26|033|71740|Sault Ste. Marie|Sault Ste. Marie city
+26|033|74620|Soo|Soo township
+26|033|77020|Sugar Island|Sugar Island township
+26|033|77540|Superior|Superior township
+26|033|80600|Trout Lake|Trout Lake township
+26|033|86700|Whitefish|Whitefish township
+26|035|03620|Arthur|Arthur township
+26|035|15920|Clare|Clare city
+26|035|30280|Franklin|Franklin township
+26|035|30560|Freeman|Freeman township
+26|035|30900|Frost|Frost township
+26|035|31560|Garfield|Garfield township
+26|035|34220|Grant|Grant township
+26|035|35120|Greenwood|Greenwood township
+26|035|36140|Hamilton|Hamilton township
+26|035|36800|Harrison|Harrison city
+26|035|37160|Hatton|Hatton township
+26|035|37340|Hayes|Hayes township
+26|035|47620|Lincoln|Lincoln township
+26|035|67600|Redding|Redding township
+26|035|73000|Sheridan|Sheridan township
+26|035|77120|Summerfield|Summerfield township
+26|035|77580|Surrey|Surrey township
+26|035|87980|Winterfield|Winterfield township
+26|037|05900|Bath|Bath charter township
+26|037|07240|Bengal|Bengal township
+26|037|08400|Bingham|Bingham township
+26|037|19620|Dallas|Dallas township
+26|037|22120|DeWitt|DeWitt city
+26|037|22140|DeWitt|DeWitt charter township
+26|037|23460|Duplain|Duplain township
+26|037|23580|Eagle|Eagle township
+26|037|24120|East Lansing|East Lansing city
+26|037|26400|Essex|Essex township
+26|037|33420|Grand Ledge|Grand Ledge city
+26|037|34840|Greenbush|Greenbush township
+26|037|46000|Lansing|Lansing city
+26|037|46580|Lebanon|Lebanon township
+26|037|60440|Olive|Olive township
+26|037|61860|Ovid|Ovid city
+26|037|61880|Ovid|Ovid township
+26|037|68600|Riley|Riley township
+26|037|70940|St. Johns|St. Johns city
+26|037|82320|Victor|Victor township
+26|037|84400|Watertown|Watertown charter township
+26|037|86140|Westphalia|Westphalia township
+26|039|06600|Beaver Creek|Beaver Creek township
+26|039|30480|Frederic|Frederic township
+26|039|34640|Grayling|Grayling city
+26|039|34660|Grayling|Grayling charter township
+26|039|49520|Lovells|Lovells township
+26|039|50940|Maple Forest|Maple Forest township
+26|039|74760|South Branch|South Branch township
+26|041|00000|County subdivisions not defined|County subdivisions not defined
+26|041|04900|Baldwin|Baldwin township
+26|041|05420|Bark River|Bark River township
+26|041|06040|Bay de Noc|Bay de Noc township
+26|041|09980|Brampton|Brampton township
+26|041|18280|Cornell|Cornell township
+26|041|26140|Ensign|Ensign township
+26|041|26360|Escanaba|Escanaba city
+26|041|26380|Escanaba|Escanaba township
+26|041|26960|Fairbanks|Fairbanks township
+26|041|29380|Ford River|Ford River township
+26|041|31400|Garden|Garden township
+26|041|32300|Gladstone|Gladstone city
+26|041|51260|Maple Ridge|Maple Ridge township
+26|041|52220|Masonville|Masonville township
+26|041|56500|Nahma|Nahma township
+26|041|85240|Wells|Wells township
+26|043|10200|Breen|Breen township
+26|043|10220|Breitung|Breitung charter township
+26|043|27660|Felch|Felch township
+26|043|40960|Iron Mountain|Iron Mountain city
+26|043|43300|Kingsford|Kingsford city
+26|043|59220|Norway|Norway city
+26|043|59240|Norway|Norway township
+26|043|70600|Sagola|Sagola township
+26|043|84700|Waucedah|Waucedah township
+26|043|85520|West Branch|West Branch township
+26|045|07080|Bellevue|Bellevue township
+26|045|07440|Benton|Benton township
+26|045|10920|Brookfield|Brookfield township
+26|045|13380|Carmel|Carmel township
+26|045|14820|Charlotte|Charlotte city
+26|045|15260|Chester|Chester township
+26|045|21520|Delta|Delta charter township
+26|045|24520|Eaton|Eaton township
+26|045|24540|Eaton Rapids|Eaton Rapids city
+26|045|24560|Eaton Rapids|Eaton Rapids township
+26|045|33420|Grand Ledge|Grand Ledge city
+26|045|36200|Hamlin|Hamlin township
+26|045|42220|Kalamo|Kalamo township
+26|045|46000|Lansing|Lansing city
+26|045|60580|Olivet|Olivet city
+26|045|60700|Oneida|Oneida charter township
+26|045|66100|Potterville|Potterville city
+26|045|70020|Roxand|Roxand township
+26|045|77440|Sunfield|Sunfield township
+26|045|81980|Vermontville|Vermontville township
+26|045|83180|Walton|Walton township
+26|045|87840|Windsor|Windsor charter township
+26|047|00000|County subdivisions not defined|County subdivisions not defined
+26|047|06380|Bear Creek|Bear Creek township
+26|047|08980|Bliss|Bliss township
+26|047|13500|Carp Lake|Carp Lake township
+26|047|14300|Center|Center township
+26|047|18900|Cross Village|Cross Village township
+26|047|30860|Friendship|Friendship township
+26|047|36560|Harbor Springs|Harbor Springs city
+26|047|48020|Littlefield|Littlefield township
+26|047|48080|Little Traverse|Little Traverse township
+26|047|50340|McKinley|McKinley township
+26|047|51280|Maple River|Maple River township
+26|047|63820|Petoskey|Petoskey city
+26|047|64960|Pleasantview|Pleasantview township
+26|047|67540|Readmond|Readmond township
+26|047|68060|Resort|Resort township
+26|047|75900|Springvale|Springvale township
+26|047|84840|Wawatam|Wawatam township
+26|047|86300|West Traverse|West Traverse township
+26|049|03420|Argentine|Argentine township
+26|049|04000|Atlas|Atlas township
+26|049|12060|Burton|Burton city
+26|049|16260|Clayton|Clayton charter township
+26|049|16620|Clio|Clio city
+26|049|19880|Davison|Davison city
+26|049|19900|Davison|Davison township
+26|049|27760|Fenton|Fenton city
+26|049|27780|Fenton|Fenton charter township
+26|049|29000|Flint|Flint city
+26|049|29020|Flint|Flint charter township
+26|049|29200|Flushing|Flushing city
+26|049|29220|Flushing|Flushing charter township
+26|049|29420|Forest|Forest township
+26|049|31220|Gaines|Gaines township
+26|049|31800|Genesee|Genesee charter township
+26|049|33280|Grand Blanc|Grand Blanc city
+26|049|33300|Grand Blanc|Grand Blanc charter township
+26|049|47820|Linden|Linden city
+26|049|55280|Montrose|Montrose city
+26|049|55300|Montrose|Montrose charter township
+26|049|55960|Mount Morris|Mount Morris city
+26|049|55980|Mount Morris|Mount Morris township
+26|049|56160|Mundy|Mundy township
+26|049|68180|Richfield|Richfield township
+26|049|77700|Swartz Creek|Swartz Creek city
+26|049|79460|Thetford|Thetford township
+26|049|82380|Vienna|Vienna charter township
+26|051|06660|Beaverton|Beaverton city
+26|051|06680|Beaverton|Beaverton township
+26|051|07360|Bentley|Bentley township
+26|051|08360|Billings|Billings township
+26|051|09720|Bourret|Bourret township
+26|051|11440|Buckeye|Buckeye township
+26|051|12180|Butman|Butman township
+26|051|16360|Clement|Clement township
+26|051|32320|Gladwin|Gladwin city
+26|051|32340|Gladwin|Gladwin township
+26|051|35340|Grim|Grim township
+26|051|35620|Grout|Grout township
+26|051|37300|Hay|Hay township
+26|051|70500|Sage|Sage township
+26|051|72240|Secord|Secord township
+26|051|73140|Sherman|Sherman township
+26|051|79860|Tobacco|Tobacco township
+26|053|00000|County subdivisions not defined|County subdivisions not defined
+26|053|07960|Bessemer|Bessemer city
+26|053|07980|Bessemer|Bessemer township
+26|053|26340|Erwin|Erwin township
+26|053|41060|Ironwood|Ironwood city
+26|053|41080|Ironwood|Ironwood charter township
+26|053|51560|Marenisco|Marenisco township
+26|053|82780|Wakefield|Wakefield city
+26|053|82800|Wakefield|Wakefield township
+26|053|84380|Watersmeet|Watersmeet township
+26|055|00000|County subdivisions not defined|County subdivisions not defined
+26|055|00200|Acme|Acme township
+26|055|08880|Blair|Blair township
+26|055|23800|East Bay|East Bay township
+26|055|28020|Fife Lake|Fife Lake township
+26|055|31580|Garfield|Garfield charter township
+26|055|34240|Grant|Grant township
+26|055|34960|Green Lake|Green Lake township
+26|055|49240|Long Lake|Long Lake township
+26|055|52480|Mayfield|Mayfield township
+26|055|62320|Paradise|Paradise township
+26|055|63340|Peninsula|Peninsula township
+26|055|80340|Traverse City|Traverse City city
+26|055|81320|Union|Union township
+26|055|87040|Whitewater|Whitewater township
+26|057|01540|Alma|Alma city
+26|057|03260|Arcada|Arcada township
+26|057|08020|Bethany|Bethany township
+26|057|25120|Elba|Elba township
+26|057|25880|Emerson|Emerson township
+26|057|31080|Fulton|Fulton township
+26|057|36160|Hamilton|Hamilton township
+26|057|41340|Ithaca|Ithaca city
+26|057|44080|Lafayette|Lafayette township
+26|057|57040|Newark|Newark township
+26|057|57360|New Haven|New Haven township
+26|057|58800|North Shade|North Shade township
+26|057|58880|North Star|North Star township
+26|057|64360|Pine River|Pine River township
+26|057|71000|St. Louis|St. Louis city
+26|057|72580|Seville|Seville township
+26|057|77300|Sumner|Sumner township
+26|057|84080|Washington|Washington township
+26|057|86620|Wheeler|Wheeler township
+26|059|00300|Adams|Adams township
+26|059|01320|Allen|Allen township
+26|059|02020|Amboy|Amboy township
+26|059|12700|Cambria|Cambria township
+26|059|12780|Camden|Camden township
+26|059|27580|Fayette|Fayette township
+26|059|38460|Hillsdale|Hillsdale city
+26|059|38480|Hillsdale|Hillsdale township
+26|059|41620|Jefferson|Jefferson township
+26|059|41920|Jonesville|Jonesville city
+26|059|47980|Litchfield|Litchfield city
+26|059|48000|Litchfield|Litchfield township
+26|059|55640|Moscow|Moscow township
+26|059|64620|Pittsford|Pittsford township
+26|059|67120|Ransom|Ransom township
+26|059|67500|Reading|Reading city
+26|059|67520|Reading|Reading township
+26|059|71980|Scipio|Scipio township
+26|059|74560|Somerset|Somerset township
+26|059|86540|Wheatland|Wheatland township
+26|059|88300|Woodbridge|Woodbridge township
+26|059|88780|Wright|Wright township
+26|061|00000|County subdivisions not defined|County subdivisions not defined
+26|061|00320|Adams|Adams township
+26|061|12600|Calumet|Calumet charter township
+26|061|14920|Chassell|Chassell township
+26|061|23340|Duncan|Duncan township
+26|061|25660|Elm River|Elm River township
+26|061|30300|Franklin|Franklin township
+26|061|36300|Hancock|Hancock city
+26|061|36320|Hancock|Hancock township
+26|061|39360|Houghton|Houghton city
+26|061|44220|Laird|Laird township
+26|061|61260|Osceola|Osceola township
+26|061|65540|Portage|Portage charter township
+26|061|66680|Quincy|Quincy township
+26|061|71840|Schoolcraft|Schoolcraft township
+26|061|76200|Stanton|Stanton township
+26|061|80120|Torch Lake|Torch Lake township
+26|063|00000|County subdivisions not defined|County subdivisions not defined
+26|063|04740|Bad Axe|Bad Axe city
+26|063|08420|Bingham|Bingham township
+26|063|09060|Bloomfield|Bloomfield township
+26|063|10940|Brookfield|Brookfield township
+26|063|13760|Caseville|Caseville city
+26|063|13780|Caseville|Caseville township
+26|063|14600|Chandler|Chandler township
+26|063|17140|Colfax|Colfax township
+26|063|23540|Dwight|Dwight township
+26|063|27120|Fairhaven|Fairhaven township
+26|063|33080|Gore|Gore township
+26|063|34260|Grant|Grant township
+26|063|36460|Harbor Beach|Harbor Beach city
+26|063|39960|Hume|Hume township
+26|063|40020|Huron|Huron township
+26|063|44300|Lake|Lake township
+26|063|47640|Lincoln|Lincoln township
+26|063|50360|McKinley|McKinley township
+26|063|52600|Meade|Meade township
+26|063|60520|Oliver|Oliver township
+26|063|62360|Paris|Paris township
+26|063|65180|Pointe Aux Barques|Pointe Aux Barques township
+26|063|65700|Port Austin|Port Austin township
+26|063|70140|Rubicon|Rubicon township
+26|063|71260|Sand Beach|Sand Beach township
+26|063|72200|Sebewaing|Sebewaing township
+26|063|73040|Sheridan|Sheridan township
+26|063|73160|Sherman|Sherman township
+26|063|73880|Sigel|Sigel township
+26|063|82140|Verona|Verona township
+26|063|87960|Winsor|Winsor township
+26|065|00800|Alaiedon|Alaiedon township
+26|065|04240|Aurelius|Aurelius township
+26|065|11640|Bunker Hill|Bunker Hill township
+26|065|21420|Delhi|Delhi charter township
+26|065|24120|East Lansing|East Lansing city
+26|065|40640|Ingham|Ingham township
+26|065|46000|Lansing|Lansing city
+26|065|46020|Lansing|Lansing charter township
+26|065|47080|Leroy|Leroy township
+26|065|47180|Leslie|Leslie city
+26|065|47200|Leslie|Leslie township
+26|065|49040|Locke|Locke township
+26|065|52180|Mason|Mason city
+26|065|53140|Meridian|Meridian charter township
+26|065|60800|Onondaga|Onondaga township
+26|065|76580|Stockbridge|Stockbridge township
+26|065|82220|Vevay|Vevay township
+26|065|86520|Wheatfield|Wheatfield township
+26|065|86900|White Oak|White Oak township
+26|065|87420|Williamston|Williamston city
+26|065|87440|Williamstown|Williamstown township
+26|067|06900|Belding|Belding city
+26|067|07700|Berlin|Berlin township
+26|067|09680|Boston|Boston township
+26|067|12840|Campbell|Campbell township
+26|067|19720|Danby|Danby township
+26|067|24220|Easton|Easton township
+26|067|40860|Ionia|Ionia city
+26|067|40880|Ionia|Ionia township
+26|067|42520|Keene|Keene township
+26|067|49920|Lyons|Lyons township
+26|067|58720|North Plains|North Plains township
+26|067|60200|Odessa|Odessa township
+26|067|60920|Orange|Orange township
+26|067|61160|Orleans|Orleans township
+26|067|61580|Otisco|Otisco township
+26|067|65860|Portland|Portland city
+26|067|65880|Portland|Portland township
+26|067|69440|Ronald|Ronald township
+26|067|72120|Sebewa|Sebewa township
+26|069|00000|County subdivisions not defined|County subdivisions not defined
+26|069|00760|Alabaster|Alabaster township
+26|069|04300|Au Sable|Au Sable charter township
+26|069|04920|Baldwin|Baldwin township
+26|069|11740|Burleigh|Burleigh township
+26|069|24420|East Tawas|East Tawas city
+26|069|34280|Grant|Grant township
+26|069|61340|Oscoda|Oscoda charter township
+26|069|64640|Plainfield|Plainfield township
+26|069|67960|Reno|Reno township
+26|069|73180|Sherman|Sherman township
+26|069|78100|Tawas|Tawas township
+26|069|78140|Tawas City|Tawas City city
+26|069|87140|Whittemore|Whittemore city
+26|069|87180|Wilber|Wilber township
+26|071|05860|Bates|Bates township
+26|071|13860|Caspian|Caspian city
+26|071|19140|Crystal Falls|Crystal Falls city
+26|071|19150|Crystal Falls|Crystal Falls township
+26|071|31160|Gaastra|Gaastra city
+26|071|37580|Hematite|Hematite township
+26|071|40980|Iron River|Iron River city
+26|071|41000|Iron River|Iron River township
+26|071|50860|Mansfield|Mansfield township
+26|071|52300|Mastodon|Mastodon township
+26|071|76080|Stambaugh|Stambaugh township
+26|073|11140|Broomfield|Broomfield township
+26|073|15580|Chippewa|Chippewa township
+26|073|15920|Clare|Clare city
+26|073|16880|Coe|Coe township
+26|073|17060|Coldwater|Coldwater township
+26|073|21140|Deerfield|Deerfield township
+26|073|21680|Denver|Denver township
+26|073|30680|Fremont|Fremont township
+26|073|32200|Gilmore|Gilmore township
+26|073|41160|Isabella|Isabella township
+26|073|47660|Lincoln|Lincoln township
+26|073|56020|Mount Pleasant|Mount Pleasant city
+26|073|59360|Nottawa|Nottawa township
+26|073|69300|Rolland|Rolland township
+26|073|73200|Sherman|Sherman township
+26|073|81340|Union|Union charter township
+26|073|82000|Vernon|Vernon township
+26|073|88040|Wise|Wise township
+26|075|08760|Blackman|Blackman charter township
+26|075|17400|Columbia|Columbia township
+26|075|17760|Concord|Concord township
+26|075|34500|Grass Lake|Grass Lake charter township
+26|075|36400|Hanover|Hanover township
+26|075|37700|Henrietta|Henrietta township
+26|075|41420|Jackson|Jackson city
+26|075|46980|Leoni|Leoni township
+26|075|47360|Liberty|Liberty township
+26|075|56640|Napoleon|Napoleon township
+26|075|59180|Norvell|Norvell township
+26|075|62760|Parma|Parma township
+26|075|66440|Pulaski|Pulaski township
+26|075|68920|Rives|Rives township
+26|075|71500|Sandstone|Sandstone township
+26|075|75640|Spring Arbor|Spring Arbor township
+26|075|75880|Springport|Springport township
+26|075|77200|Summit|Summit township
+26|075|79980|Tompkins|Tompkins township
+26|075|84300|Waterloo|Waterloo township
+26|077|00840|Alamo|Alamo township
+26|077|09920|Brady|Brady township
+26|077|14720|Charleston|Charleston township
+26|077|16460|Climax|Climax township
+26|077|17680|Comstock|Comstock charter township
+26|077|17980|Cooper|Cooper charter township
+26|077|31260|Galesburg|Galesburg city
+26|077|42160|Kalamazoo|Kalamazoo city
+26|077|42180|Kalamazoo|Kalamazoo charter township
+26|077|61400|Oshtemo|Oshtemo charter township
+26|077|62340|Parchment|Parchment city
+26|077|62960|Pavilion|Pavilion township
+26|077|65560|Portage|Portage city
+26|077|66200|Prairie Ronde|Prairie Ronde township
+26|077|68260|Richland|Richland township
+26|077|69820|Ross|Ross township
+26|077|71880|Schoolcraft|Schoolcraft township
+26|077|79300|Texas|Texas charter township
+26|077|82840|Wakeshma|Wakeshma township
+26|079|06440|Bear Lake|Bear Lake township
+26|079|09320|Blue Lake|Blue Lake township
+26|079|09440|Boardman|Boardman township
+26|079|16340|Clearwater|Clearwater township
+26|079|17000|Coldsprings|Coldsprings township
+26|079|26860|Excelsior|Excelsior township
+26|079|31600|Garfield|Garfield township
+26|079|42280|Kalkaska|Kalkaska township
+26|079|60540|Oliver|Oliver township
+26|079|60940|Orange|Orange township
+26|079|67180|Rapid River|Rapid River township
+26|079|75720|Springfield|Springfield township
+26|081|00240|Ada|Ada township
+26|081|01160|Algoma|Algoma township
+26|081|01840|Alpine|Alpine township
+26|081|09780|Bowne|Bowne township
+26|081|12240|Byron|Byron township
+26|081|12500|Caledonia|Caledonia township
+26|081|13080|Cannon|Cannon township
+26|081|13660|Cascade|Cascade charter township
+26|081|14200|Cedar Springs|Cedar Springs city
+26|081|18500|Courtland|Courtland township
+26|081|23980|East Grand Rapids|East Grand Rapids city
+26|081|31240|Gaines|Gaines charter township
+26|081|34000|Grand Rapids|Grand Rapids city
+26|081|34020|Grand Rapids|Grand Rapids charter township
+26|081|34160|Grandville|Grandville city
+26|081|34560|Grattan|Grattan township
+26|081|42820|Kentwood|Kentwood city
+26|081|49540|Lowell|Lowell city
+26|081|49560|Lowell|Lowell charter township
+26|081|56920|Nelson|Nelson township
+26|081|59580|Oakfield|Oakfield township
+26|081|64660|Plainfield|Plainfield charter township
+26|081|69080|Rockford|Rockford city
+26|081|74460|Solon|Solon township
+26|081|75440|Sparta|Sparta township
+26|081|75560|Spencer|Spencer township
+26|081|81140|Tyrone|Tyrone township
+26|081|81920|Vergennes|Vergennes township
+26|081|82960|Walker|Walker city
+26|081|88940|Wyoming|Wyoming city
+26|083|00000|County subdivisions not defined|County subdivisions not defined
+26|083|01520|Allouez|Allouez township
+26|083|23620|Eagle Harbor|Eagle Harbor township
+26|083|34300|Grant|Grant township
+26|083|39380|Houghton|Houghton township
+26|083|73220|Sherman|Sherman township
+26|085|14880|Chase|Chase township
+26|085|15100|Cherry Valley|Cherry Valley township
+26|085|22800|Dover|Dover township
+26|085|24800|Eden|Eden township
+26|085|25260|Elk|Elk township
+26|085|25440|Ellsworth|Ellsworth township
+26|085|44320|Lake|Lake township
+26|085|57480|Newkirk|Newkirk township
+26|085|63120|Peacock|Peacock township
+26|085|64440|Pinora|Pinora township
+26|085|64880|Pleasant Plains|Pleasant Plains township
+26|085|71680|Sauble|Sauble township
+26|085|77740|Sweetwater|Sweetwater township
+26|085|85060|Webber|Webber township
+26|085|89040|Yates|Yates township
+26|087|01680|Almont|Almont township
+26|087|03280|Arcadia|Arcadia township
+26|087|04040|Attica|Attica township
+26|087|11180|Brown City|Brown City city
+26|087|11840|Burlington|Burlington township
+26|087|11900|Burnside|Burnside township
+26|087|21160|Deerfield|Deerfield township
+26|087|23160|Dryden|Dryden township
+26|087|25160|Elba|Elba township
+26|087|32960|Goodland|Goodland township
+26|087|35840|Hadley|Hadley township
+26|087|40300|Imlay|Imlay township
+26|087|40320|Imlay City|Imlay City city
+26|087|46040|Lapeer|Lapeer city
+26|087|46060|Lapeer|Lapeer township
+26|087|51420|Marathon|Marathon township
+26|087|52500|Mayfield|Mayfield township
+26|087|53360|Metamora|Metamora township
+26|087|58090|North Branch|North Branch township
+26|087|61060|Oregon|Oregon township
+26|087|68160|Rich|Rich township
+26|089|00000|County subdivisions not defined|County subdivisions not defined
+26|089|08440|Bingham|Bingham township
+26|089|14340|Centerville|Centerville township
+26|089|16400|Cleveland|Cleveland township
+26|089|25700|Elmwood|Elmwood charter township
+26|089|26000|Empire|Empire township
+26|089|32380|Glen Arbor|Glen Arbor township
+26|089|42320|Kasson|Kasson township
+26|089|46700|Leelanau|Leelanau township
+26|089|46820|Leland|Leland township
+26|089|74500|Solon|Solon township
+26|089|77620|Suttons Bay|Suttons Bay township
+26|089|80340|Traverse City|Traverse City city
+26|091|00440|Adrian|Adrian city
+26|091|00460|Adrian|Adrian township
+26|091|09020|Blissfield|Blissfield township
+26|091|12720|Cambridge|Cambridge township
+26|091|16500|Clinton|Clinton township
+26|091|21200|Deerfield|Deerfield township
+26|091|22820|Dover|Dover township
+26|091|27020|Fairfield|Fairfield township
+26|091|30320|Franklin|Franklin township
+26|091|39720|Hudson|Hudson city
+26|091|39740|Hudson|Hudson township
+26|091|50520|Macon|Macon township
+26|091|50540|Madison|Madison charter township
+26|091|52820|Medina|Medina township
+26|091|55500|Morenci|Morenci city
+26|091|60260|Ogden|Ogden township
+26|091|62240|Palmyra|Palmyra township
+26|091|66840|Raisin|Raisin township
+26|091|68540|Ridgeway|Ridgeway township
+26|091|68580|Riga|Riga township
+26|091|69340|Rollin|Rollin township
+26|091|69360|Rome|Rome township
+26|091|72440|Seneca|Seneca township
+26|091|79120|Tecumseh|Tecumseh city
+26|091|79140|Tecumseh|Tecumseh township
+26|091|88640|Woodstock|Woodstock township
+26|093|10620|Brighton|Brighton city
+26|093|10640|Brighton|Brighton township
+26|093|16920|Cohoctah|Cohoctah township
+26|093|17920|Conway|Conway township
+26|093|21220|Deerfield|Deerfield township
+26|093|27760|Fenton|Fenton city
+26|093|31860|Genoa|Genoa township
+26|093|35060|Green Oak|Green Oak township
+26|093|36100|Hamburg|Hamburg township
+26|093|36340|Handy|Handy township
+26|093|37040|Hartland|Hartland township
+26|093|39540|Howell|Howell city
+26|093|39560|Howell|Howell township
+26|093|40900|Iosco|Iosco township
+26|093|51640|Marion|Marion township
+26|093|60120|Oceola|Oceola township
+26|093|66540|Putnam|Putnam township
+26|093|81160|Tyrone|Tyrone township
+26|093|81240|Unadilla|Unadilla township
+26|095|00000|County subdivisions not defined|County subdivisions not defined
+26|095|17480|Columbus|Columbus township
+26|095|44540|Lakefield|Lakefield township
+26|095|50440|McMillan|McMillan township
+26|095|63500|Pentland|Pentland township
+26|097|00000|County subdivisions not defined|County subdivisions not defined
+26|097|09500|Bois Blanc|Bois Blanc township
+26|097|10360|Brevort|Brevort township
+26|097|16060|Clark|Clark township
+26|097|31620|Garfield|Garfield township
+26|097|37660|Hendricks|Hendricks township
+26|097|39760|Hudson|Hudson township
+26|097|50280|Mackinac Island|Mackinac Island city
+26|097|51880|Marquette|Marquette township
+26|097|55480|Moran|Moran township
+26|097|57640|Newton|Newton township
+26|097|65600|Portage|Portage township
+26|097|70840|St. Ignace|St. Ignace city
+26|097|70860|St. Ignace|St. Ignace township
+26|099|00000|County subdivisions not defined|County subdivisions not defined
+26|099|03540|Armada|Armada township
+26|099|11300|Bruce|Bruce township
+26|099|14320|Center Line|Center Line city
+26|099|15340|Chesterfield|Chesterfield township
+26|099|16520|Clinton|Clinton charter township
+26|099|24290|Eastpointe|Eastpointe city
+26|099|30420|Fraser|Fraser city
+26|099|36820|Harrison|Harrison charter township
+26|099|46900|Lenox|Lenox township
+26|099|50480|Macomb|Macomb township
+26|099|52960|Memphis|Memphis city
+26|099|55820|Mount Clemens|Mount Clemens city
+26|099|57100|New Baltimore|New Baltimore city
+26|099|67420|Ray|Ray township
+26|099|68380|Richmond|Richmond city
+26|099|68400|Richmond|Richmond township
+26|099|69800|Roseville|Roseville city
+26|099|70760|St. Clair Shores|St. Clair Shores city
+26|099|72820|Shelby|Shelby charter township
+26|099|76460|Sterling Heights|Sterling Heights city
+26|099|81540|Utica|Utica city
+26|099|82453|Village of Grosse Pointe Shores|Village of Grosse Pointe Shores city
+26|099|84000|Warren|Warren city
+26|099|84120|Washington|Washington charter township
+26|101|00000|County subdivisions not defined|County subdivisions not defined
+26|101|03320|Arcadia|Arcadia township
+26|101|06480|Bear Lake|Bear Lake township
+26|101|11160|Brown|Brown township
+26|101|16380|Cleon|Cleon township
+26|101|22320|Dickson|Dickson township
+26|101|28040|Filer|Filer charter township
+26|101|50720|Manistee|Manistee city
+26|101|50740|Manistee|Manistee township
+26|101|51000|Maple Grove|Maple Grove township
+26|101|51580|Marilla|Marilla township
+26|101|57900|Norman|Norman township
+26|101|60760|Onekama|Onekama township
+26|101|64860|Pleasanton|Pleasanton township
+26|101|75680|Springdale|Springdale township
+26|101|76840|Stronach|Stronach township
+26|103|00000|County subdivisions not defined|County subdivisions not defined
+26|103|14540|Champion|Champion township
+26|103|15660|Chocolay|Chocolay charter township
+26|103|25820|Ely|Ely township
+26|103|26840|Ewing|Ewing township
+26|103|29720|Forsyth|Forsyth township
+26|103|39940|Humboldt|Humboldt township
+26|103|41220|Ishpeming|Ishpeming city
+26|103|41240|Ishpeming|Ishpeming township
+26|103|51900|Marquette|Marquette city
+26|103|51920|Marquette|Marquette charter township
+26|103|53540|Michigamme|Michigamme township
+26|103|56860|Negaunee|Negaunee city
+26|103|56880|Negaunee|Negaunee township
+26|103|66120|Powell|Powell township
+26|103|68000|Republic|Republic township
+26|103|68420|Richmond|Richmond township
+26|103|71460|Sands|Sands township
+26|103|74110|Skandia|Skandia township
+26|103|79780|Tilden|Tilden township
+26|103|80780|Turin|Turin township
+26|103|85260|Wells|Wells township
+26|103|85540|West Branch|West Branch township
+26|105|00000|County subdivisions not defined|County subdivisions not defined
+26|105|01980|Amber|Amber township
+26|105|10020|Branch|Branch township
+26|105|19440|Custer|Custer township
+26|105|24820|Eden|Eden township
+26|105|30620|Free Soil|Free Soil township
+26|105|34320|Grant|Grant township
+26|105|36220|Hamlin|Hamlin township
+26|105|49140|Logan|Logan township
+26|105|49640|Ludington|Ludington city
+26|105|52640|Meade|Meade township
+26|105|63600|Pere Marquette|Pere Marquette charter township
+26|105|68860|Riverton|Riverton township
+26|105|72080|Scottville|Scottville city
+26|105|73060|Sheridan|Sheridan township
+26|105|73240|Sherman|Sherman township
+26|105|77220|Summit|Summit township
+26|105|82360|Victory|Victory township
+26|107|00500|Aetna|Aetna township
+26|107|04380|Austin|Austin township
+26|107|08300|Big Rapids|Big Rapids city
+26|107|08320|Big Rapids|Big Rapids charter township
+26|107|15600|Chippewa|Chippewa township
+26|107|17160|Colfax|Colfax township
+26|107|21240|Deerfield|Deerfield township
+26|107|29680|Fork|Fork township
+26|107|34340|Grant|Grant township
+26|107|34760|Green|Green charter township
+26|107|38540|Hinton|Hinton township
+26|107|52060|Martiny|Martiny township
+26|107|52780|Mecosta|Mecosta township
+26|107|54020|Millbrook|Millbrook township
+26|107|55600|Morton|Morton township
+26|107|73080|Sheridan|Sheridan township
+26|107|86560|Wheatland|Wheatland township
+26|109|00000|County subdivisions not defined|County subdivisions not defined
+26|109|14240|Cedarville|Cedarville township
+26|109|19580|Daggett|Daggett township
+26|109|27300|Faithorn|Faithorn township
+26|109|33160|Gourley|Gourley township
+26|109|36760|Harris|Harris township
+26|109|38760|Holmes|Holmes township
+26|109|40600|Ingallston|Ingallston township
+26|109|44360|Lake|Lake township
+26|109|52860|Mellen|Mellen township
+26|109|53020|Menominee|Menominee city
+26|109|53040|Menominee|Menominee township
+26|109|53460|Meyer|Meyer township
+26|109|56440|Nadeau|Nadeau township
+26|109|75350|Spalding|Spalding township
+26|109|76380|Stephenson|Stephenson city
+26|109|76400|Stephenson|Stephenson township
+26|111|17100|Coleman|Coleman city
+26|111|24830|Edenville|Edenville township
+26|111|31820|Geneva|Geneva township
+26|111|34860|Greendale|Greendale township
+26|111|38980|Homer|Homer township
+26|111|39160|Hope|Hope township
+26|111|40620|Ingersoll|Ingersoll township
+26|111|41560|Jasper|Jasper township
+26|111|41760|Jerome|Jerome township
+26|111|46160|Larkin|Larkin charter township
+26|111|46640|Lee|Lee township
+26|111|47680|Lincoln|Lincoln township
+26|111|53780|Midland|Midland city
+26|111|53800|Midland|Midland charter township
+26|111|54320|Mills|Mills township
+26|111|55940|Mount Haley|Mount Haley township
+26|111|65740|Porter|Porter township
+26|111|84020|Warren|Warren township
+26|113|00520|Aetna|Aetna township
+26|113|09080|Bloomfield|Bloomfield township
+26|113|12200|Butterfield|Butterfield township
+26|113|12440|Caldwell|Caldwell township
+26|113|15900|Clam Union|Clam Union township
+26|113|26200|Enterprise|Enterprise township
+26|113|29440|Forest|Forest township
+26|113|38620|Holland|Holland township
+26|113|44380|Lake|Lake township
+26|113|44480|Lake City|Lake City city
+26|113|49980|McBain|McBain city
+26|113|59280|Norwich|Norwich township
+26|113|64460|Pioneer|Pioneer township
+26|113|67840|Reeder|Reeder township
+26|113|68280|Richland|Richland township
+26|113|68820|Riverside|Riverside township
+26|113|85560|West Branch|West Branch township
+26|115|00000|County subdivisions not defined|County subdivisions not defined
+26|115|03680|Ash|Ash township
+26|115|06740|Bedford|Bedford township
+26|115|07720|Berlin|Berlin charter township
+26|115|23400|Dundee|Dundee township
+26|115|26320|Erie|Erie township
+26|115|26880|Exeter|Exeter township
+26|115|28360|Flat Rock|Flat Rock city
+26|115|30820|Frenchtown|Frenchtown township
+26|115|40260|Ida|Ida township
+26|115|46260|La Salle|La Salle township
+26|115|49180|London|London township
+26|115|49700|Luna Pier|Luna Pier city
+26|115|53900|Milan|Milan township
+26|115|53920|Milan|Milan city
+26|115|55020|Monroe|Monroe city
+26|115|55040|Monroe|Monroe charter township
+26|115|63800|Petersburg|Petersburg city
+26|115|66900|Raisinville|Raisinville township
+26|115|77140|Summerfield|Summerfield township
+26|115|86740|Whiteford|Whiteford township
+26|117|07200|Belvidere|Belvidere township
+26|117|09040|Bloomer|Bloomer township
+26|117|12120|Bushnell|Bushnell township
+26|117|13600|Carson City|Carson City city
+26|117|14000|Cato|Cato township
+26|117|19080|Crystal|Crystal township
+26|117|19920|Day|Day township
+26|117|22760|Douglass|Douglass township
+26|117|26520|Eureka|Eureka township
+26|117|26720|Evergreen|Evergreen township
+26|117|27180|Fairplain|Fairplain township
+26|117|27900|Ferris|Ferris township
+26|117|35100|Greenville|Greenville city
+26|117|38840|Home|Home township
+26|117|51340|Maple Valley|Maple Valley township
+26|117|55140|Montcalm|Montcalm township
+26|117|64040|Pierson|Pierson township
+26|117|64200|Pine|Pine township
+26|117|68120|Reynolds|Reynolds township
+26|117|68300|Richland|Richland township
+26|117|73840|Sidney|Sidney township
+26|117|76220|Stanton|Stanton city
+26|117|87880|Winfield|Winfield township
+26|119|00940|Albert|Albert township
+26|119|04580|Avery|Avery township
+26|119|10660|Briley|Briley township
+26|119|38400|Hillman|Hillman township
+26|119|49480|Loud|Loud township
+26|119|55240|Montmorency|Montmorency township
+26|119|70380|Rust|Rust township
+26|119|82420|Vienna|Vienna township
+26|121|00000|County subdivisions not defined|County subdivisions not defined
+26|121|09340|Blue Lake|Blue Lake township
+26|121|13840|Casnovia|Casnovia township
+26|121|14100|Cedar Creek|Cedar Creek township
+26|121|19660|Dalton|Dalton township
+26|121|25080|Egelston|Egelston township
+26|121|30980|Fruitland|Fruitland township
+26|121|31020|Fruitport|Fruitport charter township
+26|121|38820|Holton|Holton township
+26|121|45160|Laketon|Laketon township
+26|121|55100|Montague|Montague city
+26|121|55120|Montague|Montague township
+26|121|55440|Moorland|Moorland township
+26|121|56320|Muskegon|Muskegon city
+26|121|56340|Muskegon|Muskegon charter township
+26|121|56360|Muskegon Heights|Muskegon Heights city
+26|121|58640|North Muskegon|North Muskegon city
+26|121|59140|Norton Shores|Norton Shores city
+26|121|67300|Ravenna|Ravenna township
+26|121|69520|Roosevelt Park|Roosevelt Park city
+26|121|77100|Sullivan|Sullivan township
+26|121|86780|Whitehall|Whitehall city
+26|121|86800|Whitehall|Whitehall township
+26|121|86980|White River|White River township
+26|123|03700|Ashland|Ashland township
+26|123|05620|Barton|Barton township
+26|123|06580|Beaver|Beaver township
+26|123|08280|Big Prairie|Big Prairie township
+26|123|10500|Bridgeton|Bridgeton township
+26|123|11060|Brooks|Brooks township
+26|123|18980|Croton|Croton township
+26|123|19960|Dayton|Dayton township
+26|123|21700|Denver|Denver township
+26|123|26160|Ensley|Ensley township
+26|123|26700|Everett|Everett township
+26|123|30700|Fremont|Fremont city
+26|123|31640|Garfield|Garfield township
+26|123|33000|Goodwell|Goodwell township
+26|123|34360|Grant|Grant city
+26|123|34380|Grant|Grant township
+26|123|38860|Home|Home township
+26|123|47440|Lilley|Lilley township
+26|123|47700|Lincoln|Lincoln township
+26|123|53160|Merrill|Merrill township
+26|123|55060|Monroe|Monroe township
+26|123|57080|Newaygo|Newaygo city
+26|123|59300|Norwich|Norwich township
+26|123|73120|Sheridan|Sheridan charter township
+26|123|73260|Sherman|Sherman township
+26|123|80680|Troy|Troy township
+26|123|86680|White Cloud|White Cloud city
+26|123|87200|Wilcox|Wilcox township
+26|125|00400|Addison|Addison township
+26|125|04105|Auburn Hills|Auburn Hills city
+26|125|07660|Berkley|Berkley city
+26|125|08640|Birmingham|Birmingham city
+26|125|09110|Bloomfield|Bloomfield charter township
+26|125|09180|Bloomfield Hills|Bloomfield Hills city
+26|125|10040|Brandon|Brandon charter township
+26|125|16160|Clawson|Clawson city
+26|125|17640|Commerce|Commerce charter township
+26|125|27380|Farmington|Farmington city
+26|125|27440|Farmington Hills|Farmington Hills city
+26|125|27760|Fenton|Fenton city
+26|125|27880|Ferndale|Ferndale city
+26|125|35640|Groveland|Groveland township
+26|125|37420|Hazel Park|Hazel Park city
+26|125|38080|Highland|Highland charter township
+26|125|38720|Holly|Holly township
+26|125|40000|Huntington Woods|Huntington Woods city
+26|125|40400|Independence|Independence charter township
+26|125|42460|Keego Harbor|Keego Harbor city
+26|125|44440|Lake Angelus|Lake Angelus city
+26|125|46320|Lathrup Village|Lathrup Village city
+26|125|49820|Lyon|Lyon charter township
+26|125|50560|Madison Heights|Madison Heights city
+26|125|53980|Milford|Milford charter township
+26|125|58980|Northville|Northville city
+26|125|59440|Novi|Novi city
+26|125|59460|Novi|Novi township
+26|125|59820|Oakland|Oakland charter township
+26|125|59920|Oak Park|Oak Park city
+26|125|61020|Orchard Lake Village|Orchard Lake Village city
+26|125|61100|Orion|Orion charter township
+26|125|62040|Oxford|Oxford charter township
+26|125|64900|Pleasant Ridge|Pleasant Ridge city
+26|125|65440|Pontiac|Pontiac city
+26|125|69020|Rochester|Rochester city
+26|125|69035|Rochester Hills|Rochester Hills city
+26|125|69580|Rose|Rose township
+26|125|70040|Royal Oak|Royal Oak city
+26|125|70060|Royal Oak|Royal Oak charter township
+26|125|74900|Southfield|Southfield city
+26|125|74920|Southfield|Southfield township
+26|125|75100|South Lyon|South Lyon city
+26|125|75760|Springfield|Springfield charter township
+26|125|77860|Sylvan Lake|Sylvan Lake city
+26|125|80700|Troy|Troy city
+26|125|82450|Village of Clarkston|Village of Clarkston city
+26|125|83060|Walled Lake|Walled Lake city
+26|125|84240|Waterford|Waterford charter township
+26|125|85480|West Bloomfield|West Bloomfield charter township
+26|125|86860|White Lake|White Lake charter township
+26|125|88140|Wixom|Wixom city
+26|127|00000|County subdivisions not defined|County subdivisions not defined
+26|127|07300|Benona|Benona township
+26|127|16200|Claybanks|Claybanks township
+26|127|17180|Colfax|Colfax township
+26|127|19100|Crystal|Crystal township
+26|127|25200|Elbridge|Elbridge township
+26|127|27940|Ferry|Ferry township
+26|127|32780|Golden|Golden township
+26|127|34400|Grant|Grant township
+26|127|35160|Greenwood|Greenwood township
+26|127|36920|Hart|Hart city
+26|127|36940|Hart|Hart township
+26|127|46560|Leavitt|Leavitt township
+26|127|57300|Newfield|Newfield township
+26|127|61780|Otto|Otto township
+26|127|63560|Pentwater|Pentwater township
+26|127|72860|Shelby|Shelby township
+26|127|85040|Weare|Weare township
+26|129|15740|Churchill|Churchill township
+26|129|19260|Cumming|Cumming township
+26|129|25020|Edwards|Edwards township
+26|129|29860|Foster|Foster township
+26|129|32860|Goodar|Goodar township
+26|129|38300|Hill|Hill township
+26|129|39320|Horton|Horton township
+26|129|43640|Klacking|Klacking township
+26|129|49160|Logan|Logan township
+26|129|54340|Mills|Mills township
+26|129|60300|Ogemaw|Ogemaw township
+26|129|68320|Richland|Richland township
+26|129|69600|Rose|Rose township
+26|129|69680|Rose City|Rose City city
+26|129|85580|West Branch|West Branch city
+26|129|85600|West Branch|West Branch township
+26|131|00000|County subdivisions not defined|County subdivisions not defined
+26|131|07640|Bergland|Bergland township
+26|131|09460|Bohemia|Bohemia township
+26|131|13520|Carp Lake|Carp Lake township
+26|131|35000|Greenland|Greenland township
+26|131|35960|Haight|Haight township
+26|131|40760|Interior|Interior township
+26|131|50460|McMillan|McMillan township
+26|131|52320|Matchwood|Matchwood township
+26|131|60880|Ontonagon|Ontonagon township
+26|131|69140|Rockland|Rockland township
+26|131|76180|Stannard|Stannard township
+26|133|11680|Burdell|Burdell township
+26|133|14040|Cedar|Cedar township
+26|133|26640|Evart|Evart city
+26|133|26660|Evart|Evart township
+26|133|37060|Hartwick|Hartwick township
+26|133|37840|Hersey|Hersey township
+26|133|38100|Highland|Highland township
+26|133|47120|Le Roy|Le Roy township
+26|133|47720|Lincoln|Lincoln township
+26|133|51680|Marion|Marion township
+26|133|53660|Middle Branch|Middle Branch township
+26|133|61080|Orient|Orient township
+26|133|61280|Osceola|Osceola township
+26|133|67820|Reed City|Reed City city
+26|133|68440|Richmond|Richmond township
+26|133|69760|Rose Lake|Rose Lake township
+26|133|73280|Sherman|Sherman township
+26|133|77760|Sylvan|Sylvan township
+26|135|08220|Big Creek|Big Creek township
+26|135|16540|Clinton|Clinton township
+26|135|17600|Comins|Comins township
+26|135|25500|Elmer|Elmer township
+26|135|35200|Greenwood|Greenwood township
+26|135|53120|Mentor|Mentor township
+26|137|04780|Bagley|Bagley township
+26|137|14840|Charlton|Charlton township
+26|137|15280|Chester|Chester township
+26|137|18320|Corwith|Corwith township
+26|137|22840|Dover|Dover township
+26|137|25620|Elmira|Elmira township
+26|137|31720|Gaylord|Gaylord city
+26|137|37360|Hayes|Hayes township
+26|137|48140|Livingston|Livingston township
+26|137|61680|Otsego Lake|Otsego Lake township
+26|139|00000|County subdivisions not defined|County subdivisions not defined
+26|139|01360|Allendale|Allendale charter township
+26|139|08940|Blendon|Blendon township
+26|139|15300|Chester|Chester township
+26|139|18020|Coopersville|Coopersville city
+26|139|18800|Crockery|Crockery township
+26|139|27960|Ferrysburg|Ferrysburg city
+26|139|31880|Georgetown|Georgetown charter township
+26|139|33340|Grand Haven|Grand Haven city
+26|139|33360|Grand Haven|Grand Haven charter township
+26|139|38640|Holland|Holland city
+26|139|38660|Holland|Holland charter township
+26|139|39800|Hudsonville|Hudsonville city
+26|139|41520|Jamestown|Jamestown charter township
+26|139|60460|Olive|Olive township
+26|139|62460|Park|Park township
+26|139|65320|Polkton|Polkton charter township
+26|139|65940|Port Sheldon|Port Sheldon township
+26|139|69000|Robinson|Robinson township
+26|139|75840|Spring Lake|Spring Lake township
+26|139|77980|Tallmadge|Tallmadge charter township
+26|139|88820|Wright|Wright township
+26|139|89260|Zeeland|Zeeland city
+26|139|89280|Zeeland|Zeeland charter township
+26|141|00000|County subdivisions not defined|County subdivisions not defined
+26|141|01480|Allis|Allis township
+26|141|06400|Bearinger|Bearinger township
+26|141|06920|Belknap|Belknap township
+26|141|08700|Bismarck|Bismarck township
+26|141|13740|Case|Case township
+26|141|43900|Krakow|Krakow township
+26|141|53440|Metz|Metz township
+26|141|54860|Moltke|Moltke township
+26|141|57940|North Allis|North Allis township
+26|141|60160|Ocqueoc|Ocqueoc township
+26|141|60680|Onaway|Onaway city
+26|141|66020|Posen|Posen township
+26|141|66340|Presque Isle|Presque Isle township
+26|141|66460|Pulawski|Pulawski township
+26|141|69240|Rogers|Rogers township
+26|141|69260|Rogers City|Rogers City city
+26|143|04320|Au Sable|Au Sable township
+26|143|04720|Backus|Backus township
+26|143|21640|Denton|Denton township
+26|143|31960|Gerrish|Gerrish township
+26|143|38020|Higgins|Higgins township
+26|143|44400|Lake|Lake township
+26|143|49840|Lyon|Lyon township
+26|143|51780|Markey|Markey township
+26|143|56980|Nester|Nester township
+26|143|68200|Richfield|Richfield township
+26|143|69560|Roscommon|Roscommon township
+26|145|00920|Albee|Albee township
+26|145|08560|Birch Run|Birch Run township
+26|145|09400|Blumfield|Blumfield township
+26|145|09940|Brady|Brady township
+26|145|10100|Brant|Brant township
+26|145|10460|Bridgeport|Bridgeport charter township
+26|145|11560|Buena Vista|Buena Vista charter township
+26|145|13540|Carrollton|Carrollton township
+26|145|14660|Chapin|Chapin township
+26|145|15160|Chesaning|Chesaning township
+26|145|30200|Frankenmuth|Frankenmuth city
+26|145|30220|Frankenmuth|Frankenmuth township
+26|145|30720|Fremont|Fremont township
+26|145|41480|James|James township
+26|145|41900|Jonesfield|Jonesfield township
+26|145|43800|Kochville|Kochville township
+26|145|44560|Lakefield|Lakefield township
+26|145|51060|Maple Grove|Maple Grove township
+26|145|51700|Marion|Marion township
+26|145|68340|Richland|Richland township
+26|145|70520|Saginaw|Saginaw city
+26|145|70540|Saginaw|Saginaw charter township
+26|145|70660|St. Charles|St. Charles township
+26|145|75480|Spaulding|Spaulding township
+26|145|77660|Swan Creek|Swan Creek township
+26|145|79100|Taymouth|Taymouth township
+26|145|79520|Thomas|Thomas township
+26|145|79840|Tittabawassee|Tittabawassee township
+26|145|89320|Zilwaukee|Zilwaukee city
+26|145|89340|Zilwaukee|Zilwaukee township
+26|147|00000|County subdivisions not defined|County subdivisions not defined
+26|147|01180|Algonac|Algonac city
+26|147|07760|Berlin|Berlin township
+26|147|10820|Brockway|Brockway township
+26|147|12020|Burtchville|Burtchville township
+26|147|13720|Casco|Casco township
+26|147|15540|China|China township
+26|147|16180|Clay|Clay township
+26|147|16760|Clyde|Clyde township
+26|147|17520|Columbus|Columbus township
+26|147|18400|Cottrellville|Cottrellville township
+26|147|23820|East China|East China township
+26|147|25960|Emmett|Emmett township
+26|147|29760|Fort Gratiot|Fort Gratiot charter township
+26|147|34420|Grant|Grant township
+26|147|35220|Greenwood|Greenwood township
+26|147|40920|Ira|Ira township
+26|147|42740|Kenockee|Kenockee township
+26|147|43160|Kimball|Kimball township
+26|147|49800|Lynn|Lynn township
+26|147|51600|Marine City|Marine City city
+26|147|52080|Marysville|Marysville city
+26|147|52960|Memphis|Memphis city
+26|147|56380|Mussey|Mussey township
+26|147|65820|Port Huron|Port Huron city
+26|147|65840|Port Huron|Port Huron charter township
+26|147|68380|Richmond|Richmond city
+26|147|68620|Riley|Riley township
+26|147|70680|St. Clair|St. Clair city
+26|147|70700|St. Clair|St. Clair township
+26|147|82900|Wales|Wales township
+26|147|89000|Yale|Yale city
+26|149|11940|Burr Oak|Burr Oak township
+26|149|17370|Colon|Colon township
+26|149|17860|Constantine|Constantine township
+26|149|26920|Fabius|Fabius township
+26|149|27540|Fawn River|Fawn River township
+26|149|29060|Florence|Florence township
+26|149|29140|Flowerfield|Flowerfield township
+26|149|47020|Leonidas|Leonidas township
+26|149|49060|Lockport|Lockport township
+26|149|53000|Mendon|Mendon township
+26|149|55780|Mottville|Mottville township
+26|149|59400|Nottawa|Nottawa township
+26|149|62480|Park|Park township
+26|149|73300|Sherman|Sherman township
+26|149|76960|Sturgis|Sturgis city
+26|149|76980|Sturgis|Sturgis township
+26|149|79760|Three Rivers|Three Rivers city
+26|149|86940|White Pigeon|White Pigeon township
+26|151|00000|County subdivisions not defined|County subdivisions not defined
+26|151|03460|Argyle|Argyle township
+26|151|04400|Austin|Austin township
+26|151|10420|Bridgehampton|Bridgehampton township
+26|151|11180|Brown City|Brown City city
+26|151|11540|Buel|Buel township
+26|151|18920|Croswell|Croswell city
+26|151|19460|Custer|Custer township
+26|151|21380|Delaware|Delaware township
+26|151|25280|Elk|Elk township
+26|151|25540|Elmer|Elmer township
+26|151|26740|Evergreen|Evergreen township
+26|151|29240|Flynn|Flynn township
+26|151|29500|Forester|Forester township
+26|151|30740|Fremont|Fremont township
+26|151|35020|Greenleaf|Greenleaf township
+26|151|45460|Lamotte|Lamotte township
+26|151|47300|Lexington|Lexington township
+26|151|51380|Maple Valley|Maple Valley township
+26|151|51720|Marion|Marion township
+26|151|51820|Marlette|Marlette city
+26|151|51840|Marlette|Marlette township
+26|151|54540|Minden|Minden township
+26|151|55320|Moore|Moore township
+26|151|71540|Sandusky|Sandusky city
+26|151|71580|Sanilac|Sanilac township
+26|151|75500|Speaker|Speaker township
+26|151|84140|Washington|Washington township
+26|151|84440|Watertown|Watertown township
+26|151|86580|Wheatland|Wheatland township
+26|151|88760|Worth|Worth township
+26|153|00000|County subdivisions not defined|County subdivisions not defined
+26|153|22960|Doyle|Doyle township
+26|153|31940|Germfask|Germfask township
+26|153|37940|Hiawatha|Hiawatha township
+26|153|40840|Inwood|Inwood township
+26|153|50760|Manistique|Manistique city
+26|153|50780|Manistique|Manistique township
+26|153|56060|Mueller|Mueller township
+26|153|72500|Seney|Seney township
+26|153|79580|Thompson|Thompson township
+26|155|03120|Antrim|Antrim township
+26|155|07280|Bennington|Bennington township
+26|155|11880|Burns|Burns township
+26|155|12520|Caledonia|Caledonia charter township
+26|155|18300|Corunna|Corunna city
+26|155|23500|Durand|Durand city
+26|155|27040|Fairfield|Fairfield township
+26|155|37440|Hazelton|Hazelton township
+26|155|44200|Laingsburg|Laingsburg city
+26|155|53680|Middlebury|Middlebury township
+26|155|57400|New Haven|New Haven township
+26|155|61940|Owosso|Owosso city
+26|155|61960|Owosso|Owosso charter township
+26|155|63700|Perry|Perry city
+26|155|63720|Perry|Perry township
+26|155|70260|Rush|Rush township
+26|155|71960|Sciota|Sciota township
+26|155|73520|Shiawassee|Shiawassee township
+26|155|81880|Venice|Venice township
+26|155|82040|Vernon|Vernon township
+26|155|88400|Woodhull|Woodhull township
+26|157|00000|County subdivisions not defined|County subdivisions not defined
+26|157|00720|Akron|Akron township
+26|157|01620|Almer|Almer township
+26|157|03220|Arbela|Arbela township
+26|157|13420|Caro|Caro city
+26|157|17420|Columbia|Columbia township
+26|157|19980|Dayton|Dayton township
+26|157|21600|Denmark|Denmark township
+26|157|25300|Elkland|Elkland township
+26|157|25380|Ellington|Ellington township
+26|157|25720|Elmwood|Elmwood township
+26|157|27100|Fairgrove|Fairgrove township
+26|157|30760|Fremont|Fremont township
+26|157|32160|Gilford|Gilford township
+26|157|40440|Indianfields|Indianfields township
+26|157|42140|Juniata|Juniata township
+26|157|43400|Kingston|Kingston township
+26|157|43880|Koylton|Koylton township
+26|157|54240|Millington|Millington township
+26|157|59420|Novesta|Novesta township
+26|157|80940|Tuscola|Tuscola township
+26|157|81840|Vassar|Vassar city
+26|157|81860|Vassar|Vassar township
+26|157|84460|Watertown|Watertown township
+26|157|85280|Wells|Wells township
+26|157|88080|Wisner|Wisner township
+26|159|00000|County subdivisions not defined|County subdivisions not defined
+26|159|01600|Almena|Almena township
+26|159|03140|Antwerp|Antwerp township
+26|159|03500|Arlington|Arlington township
+26|159|05140|Bangor|Bangor city
+26|159|05160|Bangor|Bangor township
+26|159|09240|Bloomingdale|Bloomingdale township
+26|159|17440|Columbia|Columbia township
+26|159|18560|Covert|Covert township
+26|159|21060|Decatur|Decatur township
+26|159|31840|Geneva|Geneva township
+26|159|32640|Gobles|Gobles city
+26|159|36180|Hamilton|Hamilton township
+26|159|36960|Hartford|Hartford city
+26|159|36980|Hartford|Hartford township
+26|159|42500|Keeler|Keeler township
+26|159|46460|Lawrence|Lawrence township
+26|159|63000|Paw Paw|Paw Paw township
+26|159|64280|Pine Grove|Pine Grove township
+26|159|65760|Porter|Porter township
+26|159|74980|South Haven|South Haven city
+26|159|75000|South Haven|South Haven charter township
+26|159|84820|Waverly|Waverly township
+26|161|03000|Ann Arbor|Ann Arbor city
+26|161|03020|Ann Arbor|Ann Arbor charter township
+26|161|04180|Augusta|Augusta charter township
+26|161|10560|Bridgewater|Bridgewater township
+26|161|15020|Chelsea|Chelsea city
+26|161|22160|Dexter|Dexter city
+26|161|22180|Dexter|Dexter township
+26|161|30520|Freedom|Freedom township
+26|161|47460|Lima|Lima township
+26|161|49120|Lodi|Lodi township
+26|161|49780|Lyndon|Lyndon township
+26|161|50680|Manchester|Manchester township
+26|161|53920|Milan|Milan city
+26|161|58280|Northfield|Northfield township
+26|161|64560|Pittsfield|Pittsfield charter township
+26|161|71130|Salem|Salem township
+26|161|71140|Saline|Saline city
+26|161|71160|Saline|Saline township
+26|161|71940|Scio|Scio township
+26|161|72760|Sharon|Sharon township
+26|161|77560|Superior|Superior charter township
+26|161|77800|Sylvan|Sylvan township
+26|161|85100|Webster|Webster township
+26|161|89100|York|York charter township
+26|161|89140|Ypsilanti|Ypsilanti city
+26|161|89160|Ypsilanti|Ypsilanti charter township
+26|163|01380|Allen Park|Allen Park city
+26|163|07020|Belleville|Belleville city
+26|163|11220|Brownstown|Brownstown charter township
+26|163|13120|Canton|Canton charter township
+26|163|21000|Dearborn|Dearborn city
+26|163|21020|Dearborn Heights|Dearborn Heights city
+26|163|22000|Detroit|Detroit city
+26|163|24740|Ecorse|Ecorse city
+26|163|28360|Flat Rock|Flat Rock city
+26|163|31420|Garden City|Garden City city
+26|163|32020|Gibraltar|Gibraltar city
+26|163|35420|Grosse Ile|Grosse Ile township
+26|163|35480|Grosse Pointe|Grosse Pointe city
+26|163|35520|Grosse Pointe Farms|Grosse Pointe Farms city
+26|163|35540|Grosse Pointe Park|Grosse Pointe Park city
+26|163|35580|Grosse Pointe Woods|Grosse Pointe Woods city
+26|163|36280|Hamtramck|Hamtramck city
+26|163|36700|Harper Woods|Harper Woods city
+26|163|38180|Highland Park|Highland Park city
+26|163|40040|Huron|Huron charter township
+26|163|40680|Inkster|Inkster city
+26|163|47800|Lincoln Park|Lincoln Park city
+26|163|49000|Livonia|Livonia city
+26|163|52940|Melvindale|Melvindale city
+26|163|58980|Northville|Northville city
+26|163|59000|Northville|Northville township
+26|163|65060|Plymouth|Plymouth city
+26|163|65080|Plymouth|Plymouth charter township
+26|163|67625|Redford|Redford charter township
+26|163|68760|River Rouge|River Rouge city
+26|163|68880|Riverview|Riverview city
+26|163|69180|Rockwood|Rockwood city
+26|163|69420|Romulus|Romulus city
+26|163|74960|Southgate|Southgate city
+26|163|77360|Sumpter|Sumpter township
+26|163|79000|Taylor|Taylor city
+26|163|80420|Trenton|Trenton city
+26|163|81660|Van Buren|Van Buren charter township
+26|163|82453|Village of Grosse Pointe Shores|Village of Grosse Pointe Shores city
+26|163|84940|Wayne|Wayne city
+26|163|86000|Westland|Westland city
+26|163|88380|Woodhaven|Woodhaven city
+26|163|88900|Wyandotte|Wyandotte city
+26|165|03060|Antioch|Antioch township
+26|165|09580|Boon|Boon township
+26|165|12320|Cadillac|Cadillac city
+26|165|14120|Cedar Creek|Cedar Creek township
+26|165|15060|Cherry Grove|Cherry Grove township
+26|165|15860|Clam Lake|Clam Lake township
+26|165|17200|Colfax|Colfax township
+26|165|35240|Greenwood|Greenwood township
+26|165|36420|Hanover|Hanover township
+26|165|36600|Haring|Haring charter township
+26|165|37640|Henderson|Henderson township
+26|165|47380|Liberty|Liberty township
+26|165|50880|Manton|Manton city
+26|165|72380|Selma|Selma township
+26|165|74220|Slagle|Slagle township
+26|165|74820|South Branch|South Branch township
+26|165|75940|Springville|Springville township
+26|165|86500|Wexford|Wexford township

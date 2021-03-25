@@ -1,0 +1,174 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+09|001|00000|County subdivisions not defined|County subdivisions not defined
+09|001|04720|Bethel|Bethel town
+09|001|08070|Bridgeport|Bridgeport town
+09|001|08980|Brookfield|Brookfield town
+09|001|18500|Danbury|Danbury town
+09|001|18850|Darien|Darien town
+09|001|23890|Easton|Easton town
+09|001|26620|Fairfield|Fairfield town
+09|001|33620|Greenwich|Greenwich town
+09|001|48620|Monroe|Monroe town
+09|001|50580|New Canaan|New Canaan town
+09|001|50860|New Fairfield|New Fairfield town
+09|001|52980|Newtown|Newtown town
+09|001|56060|Norwalk|Norwalk town
+09|001|63480|Redding|Redding town
+09|001|63970|Ridgefield|Ridgefield town
+09|001|68170|Shelton|Shelton town
+09|001|68310|Sherman|Sherman town
+09|001|73070|Stamford|Stamford town
+09|001|74190|Stratford|Stratford town
+09|001|77200|Trumbull|Trumbull town
+09|001|83430|Weston|Weston town
+09|001|83500|Westport|Westport town
+09|001|86370|Wilton|Wilton town
+09|003|02060|Avon|Avon town
+09|003|04300|Berlin|Berlin town
+09|003|05910|Bloomfield|Bloomfield town
+09|003|08490|Bristol|Bristol town
+09|003|10100|Burlington|Burlington town
+09|003|12270|Canton|Canton town
+09|003|22070|East Granby|East Granby town
+09|003|22630|East Hartford|East Hartford town
+09|003|24800|East Windsor|East Windsor town
+09|003|25990|Enfield|Enfield town
+09|003|27600|Farmington|Farmington town
+09|003|31240|Glastonbury|Glastonbury town
+09|003|32640|Granby|Granby town
+09|003|37070|Hartford|Hartford town
+09|003|37140|Hartland|Hartland town
+09|003|44700|Manchester|Manchester town
+09|003|45820|Marlborough|Marlborough town
+09|003|50440|New Britain|New Britain town
+09|003|52140|Newington|Newington town
+09|003|60120|Plainville|Plainville town
+09|003|65370|Rocky Hill|Rocky Hill town
+09|003|68940|Simsbury|Simsbury town
+09|003|70550|Southington|Southington town
+09|003|71390|South Windsor|South Windsor town
+09|003|74540|Suffield|Suffield town
+09|003|82590|West Hartford|West Hartford town
+09|003|84900|Wethersfield|Wethersfield town
+09|003|87000|Windsor|Windsor town
+09|003|87070|Windsor Locks|Windsor Locks town
+09|005|02760|Barkhamsted|Barkhamsted town
+09|005|04930|Bethlehem|Bethlehem town
+09|005|08210|Bridgewater|Bridgewater town
+09|005|10940|Canaan|Canaan town
+09|005|16050|Colebrook|Colebrook town
+09|005|17240|Cornwall|Cornwall town
+09|005|32290|Goshen|Goshen town
+09|005|37280|Harwinton|Harwinton town
+09|005|40290|Kent|Kent town
+09|005|43370|Litchfield|Litchfield town
+09|005|49460|Morris|Morris town
+09|005|51350|New Hartford|New Hartford town
+09|005|52630|New Milford|New Milford town
+09|005|53470|Norfolk|Norfolk town
+09|005|54030|North Canaan|North Canaan town
+09|005|60750|Plymouth|Plymouth town
+09|005|65930|Roxbury|Roxbury town
+09|005|66420|Salisbury|Salisbury town
+09|005|67960|Sharon|Sharon town
+09|005|75730|Thomaston|Thomaston town
+09|005|76570|Torrington|Torrington town
+09|005|79510|Warren|Warren town
+09|005|79720|Washington|Washington town
+09|005|80490|Watertown|Watertown town
+09|005|86440|Winchester|Winchester town
+09|005|87910|Woodbury|Woodbury town
+09|007|00000|County subdivisions not defined|County subdivisions not defined
+09|007|14300|Chester|Chester town
+09|007|15350|Clinton|Clinton town
+09|007|18080|Cromwell|Cromwell town
+09|007|19130|Deep River|Deep River town
+09|007|20810|Durham|Durham town
+09|007|22280|East Haddam|East Haddam town
+09|007|22490|East Hampton|East Hampton town
+09|007|26270|Essex|Essex town
+09|007|35230|Haddam|Haddam town
+09|007|40710|Killingworth|Killingworth town
+09|007|47080|Middlefield|Middlefield town
+09|007|47360|Middletown|Middletown town
+09|007|57320|Old Saybrook|Old Saybrook town
+09|007|61800|Portland|Portland town
+09|007|81680|Westbrook|Westbrook town
+09|009|00000|County subdivisions not defined|County subdivisions not defined
+09|009|01220|Ansonia|Ansonia town
+09|009|03250|Beacon Falls|Beacon Falls town
+09|009|04580|Bethany|Bethany town
+09|009|07310|Branford|Branford town
+09|009|14160|Cheshire|Cheshire town
+09|009|19550|Derby|Derby town
+09|009|22910|East Haven|East Haven town
+09|009|34950|Guilford|Guilford town
+09|009|35650|Hamden|Hamden town
+09|009|44560|Madison|Madison town
+09|009|46520|Meriden|Meriden town
+09|009|46940|Middlebury|Middlebury town
+09|009|47535|Milford|Milford town
+09|009|49950|Naugatuck|Naugatuck town
+09|009|52070|New Haven|New Haven town
+09|009|53890|North Branford|North Branford town
+09|009|54870|North Haven|North Haven town
+09|009|57600|Orange|Orange town
+09|009|58300|Oxford|Oxford town
+09|009|62290|Prospect|Prospect town
+09|009|67610|Seymour|Seymour town
+09|009|69640|Southbury|Southbury town
+09|009|78740|Wallingford|Wallingford town
+09|009|80070|Waterbury|Waterbury town
+09|009|82870|West Haven|West Haven town
+09|009|87560|Wolcott|Wolcott town
+09|009|87700|Woodbridge|Woodbridge town
+09|011|00000|County subdivisions not defined|County subdivisions not defined
+09|011|06820|Bozrah|Bozrah town
+09|011|15910|Colchester|Colchester town
+09|011|23400|East Lyme|East Lyme town
+09|011|29910|Franklin|Franklin town
+09|011|33900|Griswold|Griswold town
+09|011|34250|Groton|Groton town
+09|011|42390|Lebanon|Lebanon town
+09|011|42600|Ledyard|Ledyard town
+09|011|43230|Lisbon|Lisbon town
+09|011|44210|Lyme|Lyme town
+09|011|48900|Montville|Montville town
+09|011|52350|New London|New London town
+09|011|55500|North Stonington|North Stonington town
+09|011|56270|Norwich|Norwich town
+09|011|57040|Old Lyme|Old Lyme town
+09|011|62150|Preston|Preston town
+09|011|66210|Salem|Salem town
+09|011|71670|Sprague|Sprague town
+09|011|73770|Stonington|Stonington town
+09|011|78600|Voluntown|Voluntown town
+09|011|80280|Waterford|Waterford town
+09|013|01080|Andover|Andover town
+09|013|06260|Bolton|Bolton town
+09|013|16400|Columbia|Columbia town
+09|013|17800|Coventry|Coventry town
+09|013|25360|Ellington|Ellington town
+09|013|37910|Hebron|Hebron town
+09|013|44910|Mansfield|Mansfield town
+09|013|69220|Somers|Somers town
+09|013|72090|Stafford|Stafford town
+09|013|76290|Tolland|Tolland town
+09|013|77830|Union|Union town
+09|013|78250|Vernon|Vernon town
+09|013|85950|Willington|Willington town
+09|015|01430|Ashford|Ashford town
+09|015|09190|Brooklyn|Brooklyn town
+09|015|12130|Canterbury|Canterbury town
+09|015|13810|Chaplin|Chaplin town
+09|015|21860|Eastford|Eastford town
+09|015|36000|Hampton|Hampton town
+09|015|40500|Killingly|Killingly town
+09|015|59980|Plainfield|Plainfield town
+09|015|61030|Pomfret|Pomfret town
+09|015|62710|Putnam|Putnam town
+09|015|67400|Scotland|Scotland town
+09|015|73420|Sterling|Sterling town
+09|015|75870|Thompson|Thompson town
+09|015|86790|Windham|Windham town
+09|015|88190|Woodstock|Woodstock town

@@ -1,0 +1,6 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+51|8150|Chickahominy|Chickahominy TDSA
+51|8160|Eastern Chickahominy|Eastern Chickahominy TDSA
+51|8700|Rappahannock|Rappahannock TDSA
+51|9230|Mattaponi|Mattaponi (state) Reservation
+51|9260|Pamunkey|Pamunkey (state) Reservation

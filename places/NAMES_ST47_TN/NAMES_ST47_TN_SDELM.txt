@@ -1,0 +1,17 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+47|00030|Alamo City School District|Alamo City School District
+47|00120|Athens City Schools|Athens City Schools
+47|00154|Lakeland School System District|Lakeland School System District
+47|00210|Bells City School District|Bells City School District
+47|00720|Clinton City School District|Clinton City School District
+47|00930|Dayton City Elementary School District|Dayton City Elementary School District
+47|01140|Etowah City School District|Etowah City School District
+47|01260|Franklin Special School District|Franklin Special School District
+47|02370|Lebanon Special School District|Lebanon Special School District
+47|02460|Lexington City School System|Lexington City School System
+47|02610|Manchester City School District|Manchester City School District
+47|03150|Murfreesboro City School District|Murfreesboro City School District
+47|03210|Newport City School District|Newport City School District
+47|03360|Paris Special School District|Paris Special School District
+47|03660|Rogersville City Schools|Rogersville City Schools
+47|04050|Sweetwater City School District|Sweetwater City School District

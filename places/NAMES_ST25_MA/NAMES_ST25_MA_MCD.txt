@@ -1,0 +1,358 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+25|001|00000|County subdivisions not defined|County subdivisions not defined
+25|001|03690|Barnstable Town|Barnstable Town city
+25|001|07175|Bourne|Bourne town
+25|001|07980|Brewster|Brewster town
+25|001|12995|Chatham|Chatham town
+25|001|16775|Dennis|Dennis town
+25|001|19295|Eastham|Eastham town
+25|001|23105|Falmouth|Falmouth town
+25|001|29020|Harwich|Harwich town
+25|001|39100|Mashpee|Mashpee town
+25|001|51440|Orleans|Orleans town
+25|001|55500|Provincetown|Provincetown town
+25|001|59735|Sandwich|Sandwich town
+25|001|70605|Truro|Truro town
+25|001|74385|Wellfleet|Wellfleet town
+25|001|82525|Yarmouth|Yarmouth town
+25|003|00555|Adams|Adams town
+25|003|00975|Alford|Alford town
+25|003|04545|Becket|Becket town
+25|003|13345|Cheshire|Cheshire town
+25|003|14010|Clarksburg|Clarksburg town
+25|003|16180|Dalton|Dalton town
+25|003|21360|Egremont|Egremont town
+25|003|24120|Florida|Florida town
+25|003|26815|Great Barrington|Great Barrington town
+25|003|28180|Hancock|Hancock town
+25|003|30315|Hinsdale|Hinsdale town
+25|003|34340|Lanesborough|Lanesborough town
+25|003|34655|Lee|Lee town
+25|003|34970|Lenox|Lenox town
+25|003|42460|Monterey|Monterey town
+25|003|43300|Mount Washington|Mount Washington town
+25|003|44385|New Ashford|New Ashford town
+25|003|45420|New Marlborough|New Marlborough town
+25|003|46225|North Adams|North Adams city
+25|003|51580|Otis|Otis town
+25|003|53050|Peru|Peru town
+25|003|53960|Pittsfield|Pittsfield city
+25|003|56795|Richmond|Richmond town
+25|003|59665|Sandisfield|Sandisfield town
+25|003|60225|Savoy|Savoy town
+25|003|61065|Sheffield|Sheffield town
+25|003|67595|Stockbridge|Stockbridge town
+25|003|71095|Tyringham|Tyringham town
+25|003|73335|Washington|Washington town
+25|003|77990|West Stockbridge|West Stockbridge town
+25|003|79985|Williamstown|Williamstown town
+25|003|80685|Windsor|Windsor town
+25|005|00000|County subdivisions not defined|County subdivisions not defined
+25|005|00520|Acushnet|Acushnet town
+25|005|02690|Attleboro|Attleboro city
+25|005|05280|Berkley|Berkley town
+25|005|16425|Dartmouth|Dartmouth town
+25|005|16950|Dighton|Dighton town
+25|005|20100|Easton|Easton town
+25|005|22130|Fairhaven|Fairhaven town
+25|005|23000|Fall River|Fall River city
+25|005|25240|Freetown|Freetown town
+25|005|38225|Mansfield|Mansfield town
+25|005|45000|New Bedford|New Bedford city
+25|005|46598|North Attleborough Town|North Attleborough Town city
+25|005|49970|Norton|Norton town
+25|005|56060|Raynham|Raynham town
+25|005|56375|Rehoboth|Rehoboth town
+25|005|60645|Seekonk|Seekonk town
+25|005|62430|Somerset|Somerset town
+25|005|68750|Swansea|Swansea town
+25|005|69170|Taunton|Taunton city
+25|005|77570|Westport|Westport town
+25|007|01585|Aquinnah|Aquinnah town
+25|007|13800|Chilmark|Chilmark town
+25|007|21150|Edgartown|Edgartown town
+25|007|26325|Gosnold|Gosnold town
+25|007|50390|Oak Bluffs|Oak Bluffs town
+25|007|69940|Tisbury|Tisbury town
+25|007|78235|West Tisbury|West Tisbury town
+25|009|00000|County subdivisions not defined|County subdivisions not defined
+25|009|01260|Amesbury Town|Amesbury Town city
+25|009|01465|Andover|Andover town
+25|009|05595|Beverly|Beverly city
+25|009|07420|Boxford|Boxford town
+25|009|16250|Danvers|Danvers town
+25|009|21850|Essex|Essex town
+25|009|25625|Georgetown|Georgetown town
+25|009|26150|Gloucester|Gloucester city
+25|009|27620|Groveland|Groveland town
+25|009|27900|Hamilton|Hamilton town
+25|009|29405|Haverhill|Haverhill city
+25|009|32310|Ipswich|Ipswich town
+25|009|34550|Lawrence|Lawrence city
+25|009|37490|Lynn|Lynn city
+25|009|37560|Lynnfield|Lynnfield town
+25|009|37995|Manchester-by-the-Sea|Manchester-by-the-Sea town
+25|009|38400|Marblehead|Marblehead town
+25|009|40430|Merrimac|Merrimac town
+25|009|40710|Methuen Town|Methuen Town city
+25|009|41095|Middleton|Middleton town
+25|009|43580|Nahant|Nahant town
+25|009|45175|Newbury|Newbury town
+25|009|45245|Newburyport|Newburyport city
+25|009|46365|North Andover|North Andover town
+25|009|52490|Peabody|Peabody city
+25|009|57880|Rockport|Rockport town
+25|009|58405|Rowley|Rowley town
+25|009|59105|Salem|Salem city
+25|009|59245|Salisbury|Salisbury town
+25|009|60015|Saugus|Saugus town
+25|009|68645|Swampscott|Swampscott town
+25|009|70150|Topsfield|Topsfield town
+25|009|74595|Wenham|Wenham town
+25|009|77150|West Newbury|West Newbury town
+25|011|02095|Ashfield|Ashfield town
+25|011|05560|Bernardston|Bernardston town
+25|011|09595|Buckland|Buckland town
+25|011|12505|Charlemont|Charlemont town
+25|011|14885|Colrain|Colrain town
+25|011|15200|Conway|Conway town
+25|011|16670|Deerfield|Deerfield town
+25|011|21780|Erving|Erving town
+25|011|25730|Gill|Gill town
+25|011|27060|Greenfield|Greenfield city
+25|011|29475|Hawley|Hawley town
+25|011|29650|Heath|Heath town
+25|011|35180|Leverett|Leverett town
+25|011|35285|Leyden|Leyden town
+25|011|42040|Monroe|Monroe town
+25|011|42285|Montague|Montague town
+25|011|45490|New Salem|New Salem town
+25|011|47835|Northfield|Northfield town
+25|011|51265|Orange|Orange town
+25|011|58335|Rowe|Rowe town
+25|011|61135|Shelburne|Shelburne town
+25|011|61905|Shutesbury|Shutesbury town
+25|011|68400|Sunderland|Sunderland town
+25|011|73265|Warwick|Warwick town
+25|011|74525|Wendell|Wendell town
+25|011|79110|Whately|Whately town
+25|013|00840|Agawam Town|Agawam Town city
+25|013|06085|Blandford|Blandford town
+25|013|08470|Brimfield|Brimfield town
+25|013|13485|Chester|Chester town
+25|013|13660|Chicopee|Chicopee city
+25|013|19645|East Longmeadow|East Longmeadow town
+25|013|26675|Granville|Granville town
+25|013|28075|Hampden|Hampden town
+25|013|30665|Holland|Holland town
+25|013|30840|Holyoke|Holyoke city
+25|013|36300|Longmeadow|Longmeadow town
+25|013|37175|Ludlow|Ludlow town
+25|013|42145|Monson|Monson town
+25|013|42530|Montgomery|Montgomery town
+25|013|52144|Palmer Town|Palmer Town city
+25|013|58650|Russell|Russell town
+25|013|65825|Southwick|Southwick town
+25|013|67000|Springfield|Springfield city
+25|013|70045|Tolland|Tolland town
+25|013|72390|Wales|Wales town
+25|013|76030|Westfield|Westfield city
+25|013|77890|West Springfield Town|West Springfield Town city
+25|013|79740|Wilbraham|Wilbraham town
+25|015|01370|Amherst Town|Amherst Town city
+25|015|04825|Belchertown|Belchertown town
+25|015|13590|Chesterfield|Chesterfield town
+25|015|16040|Cummington|Cummington town
+25|015|19370|Easthampton Town|Easthampton Town city
+25|015|26290|Goshen|Goshen town
+25|015|26535|Granby|Granby town
+25|015|27690|Hadley|Hadley town
+25|015|29265|Hatfield|Hatfield town
+25|015|31785|Huntington|Huntington town
+25|015|40990|Middlefield|Middlefield town
+25|015|46330|Northampton|Northampton city
+25|015|52560|Pelham|Pelham town
+25|015|54030|Plainfield|Plainfield town
+25|015|62745|Southampton|Southampton town
+25|015|64145|South Hadley|South Hadley town
+25|015|72880|Ware|Ware town
+25|015|76380|Westhampton|Westhampton town
+25|015|79915|Williamsburg|Williamsburg town
+25|015|82175|Worthington|Worthington town
+25|017|00380|Acton|Acton town
+25|017|01605|Arlington|Arlington town
+25|017|01955|Ashby|Ashby town
+25|017|02130|Ashland|Ashland town
+25|017|03005|Ayer|Ayer town
+25|017|04615|Bedford|Bedford town
+25|017|05070|Belmont|Belmont town
+25|017|05805|Billerica|Billerica town
+25|017|07350|Boxborough|Boxborough town
+25|017|09840|Burlington|Burlington town
+25|017|11000|Cambridge|Cambridge city
+25|017|11525|Carlisle|Carlisle town
+25|017|13135|Chelmsford|Chelmsford town
+25|017|15060|Concord|Concord town
+25|017|17475|Dracut|Dracut town
+25|017|17825|Dunstable|Dunstable town
+25|017|21990|Everett|Everett city
+25|017|24960|Framingham|Framingham city
+25|017|27480|Groton|Groton town
+25|017|30700|Holliston|Holliston town
+25|017|31085|Hopkinton|Hopkinton town
+25|017|31540|Hudson|Hudson town
+25|017|35215|Lexington|Lexington town
+25|017|35425|Lincoln|Lincoln town
+25|017|35950|Littleton|Littleton town
+25|017|37000|Lowell|Lowell city
+25|017|37875|Malden|Malden city
+25|017|38715|Marlborough|Marlborough city
+25|017|39625|Maynard|Maynard town
+25|017|39835|Medford|Medford city
+25|017|40115|Melrose|Melrose city
+25|017|43895|Natick|Natick town
+25|017|45560|Newton|Newton city
+25|017|48955|North Reading|North Reading town
+25|017|52805|Pepperell|Pepperell town
+25|017|56130|Reading|Reading town
+25|017|61380|Sherborn|Sherborn town
+25|017|61590|Shirley|Shirley town
+25|017|62535|Somerville|Somerville city
+25|017|67665|Stoneham|Stoneham town
+25|017|68050|Stow|Stow town
+25|017|68260|Sudbury|Sudbury town
+25|017|69415|Tewksbury|Tewksbury town
+25|017|70360|Townsend|Townsend town
+25|017|71025|Tyngsborough|Tyngsborough town
+25|017|72215|Wakefield|Wakefield town
+25|017|72600|Waltham|Waltham city
+25|017|73440|Watertown Town|Watertown Town city
+25|017|73790|Wayland|Wayland town
+25|017|76135|Westford|Westford town
+25|017|77255|Weston|Weston town
+25|017|80230|Wilmington|Wilmington town
+25|017|80510|Winchester|Winchester town
+25|017|81035|Woburn|Woburn city
+25|019|00000|County subdivisions not defined|County subdivisions not defined
+25|019|43790|Nantucket|Nantucket town
+25|021|02935|Avon|Avon town
+25|021|04930|Bellingham|Bellingham town
+25|021|07740|Braintree Town|Braintree Town city
+25|021|09175|Brookline|Brookline town
+25|021|11315|Canton|Canton town
+25|021|14640|Cohasset|Cohasset town
+25|021|16495|Dedham|Dedham town
+25|021|17405|Dover|Dover town
+25|021|24820|Foxborough|Foxborough town
+25|021|25172|Franklin Town|Franklin Town city
+25|021|30455|Holbrook|Holbrook town
+25|021|39765|Medfield|Medfield town
+25|021|39975|Medway|Medway town
+25|021|41515|Millis|Millis town
+25|021|41690|Milton|Milton town
+25|021|44105|Needham|Needham town
+25|021|46050|Norfolk|Norfolk town
+25|021|50250|Norwood|Norwood town
+25|021|54100|Plainville|Plainville town
+25|021|55745|Quincy|Quincy city
+25|021|56000|Randolph Town|Randolph Town city
+25|021|60785|Sharon|Sharon town
+25|021|67945|Stoughton|Stoughton town
+25|021|72495|Walpole|Walpole town
+25|021|74175|Wellesley|Wellesley town
+25|021|78690|Westwood|Westwood town
+25|021|78972|Weymouth Town|Weymouth Town city
+25|021|82315|Wrentham|Wrentham town
+25|023|00000|County subdivisions not defined|County subdivisions not defined
+25|023|00170|Abington|Abington town
+25|023|08130|Bridgewater Town|Bridgewater Town city
+25|023|09000|Brockton|Brockton city
+25|023|11665|Carver|Carver town
+25|023|17895|Duxbury|Duxbury town
+25|023|18455|East Bridgewater|East Bridgewater town
+25|023|27795|Halifax|Halifax town
+25|023|28285|Hanover|Hanover town
+25|023|28495|Hanson|Hanson town
+25|023|30210|Hingham|Hingham town
+25|023|31645|Hull|Hull town
+25|023|33220|Kingston|Kingston town
+25|023|33920|Lakeville|Lakeville town
+25|023|38540|Marion|Marion town
+25|023|38855|Marshfield|Marshfield town
+25|023|39450|Mattapoisett|Mattapoisett town
+25|023|40850|Middleborough|Middleborough town
+25|023|50145|Norwell|Norwell town
+25|023|52630|Pembroke|Pembroke town
+25|023|54310|Plymouth|Plymouth town
+25|023|54415|Plympton|Plympton town
+25|023|57600|Rochester|Rochester town
+25|023|57775|Rockland|Rockland town
+25|023|60330|Scituate|Scituate town
+25|023|72985|Wareham|Wareham town
+25|023|75260|West Bridgewater|West Bridgewater town
+25|023|79530|Whitman|Whitman town
+25|025|00000|County subdivisions not defined|County subdivisions not defined
+25|025|07000|Boston|Boston city
+25|025|13205|Chelsea|Chelsea city
+25|025|56585|Revere|Revere city
+25|025|81005|Winthrop Town|Winthrop Town city
+25|027|01885|Ashburnham|Ashburnham town
+25|027|02480|Athol|Athol town
+25|027|02760|Auburn|Auburn town
+25|027|03740|Barre|Barre town
+25|027|05490|Berlin|Berlin town
+25|027|06015|Blackstone|Blackstone town
+25|027|06365|Bolton|Bolton town
+25|027|07525|Boylston|Boylston town
+25|027|09105|Brookfield|Brookfield town
+25|027|12715|Charlton|Charlton town
+25|027|14395|Clinton|Clinton town
+25|027|17300|Douglas|Douglas town
+25|027|17685|Dudley|Dudley town
+25|027|18560|East Brookfield|East Brookfield town
+25|027|23875|Fitchburg|Fitchburg city
+25|027|25485|Gardner|Gardner city
+25|027|26430|Grafton|Grafton town
+25|027|28740|Hardwick|Hardwick town
+25|027|28950|Harvard|Harvard town
+25|027|30560|Holden|Holden town
+25|027|30945|Hopedale|Hopedale town
+25|027|31435|Hubbardston|Hubbardston town
+25|027|34165|Lancaster|Lancaster town
+25|027|34795|Leicester|Leicester town
+25|027|35075|Leominster|Leominster city
+25|027|37420|Lunenburg|Lunenburg town
+25|027|40255|Mendon|Mendon town
+25|027|41165|Milford|Milford town
+25|027|41340|Millbury|Millbury town
+25|027|41585|Millville|Millville town
+25|027|45105|New Braintree|New Braintree town
+25|027|46820|Northborough|Northborough town
+25|027|46925|Northbridge|Northbridge town
+25|027|47135|North Brookfield|North Brookfield town
+25|027|50670|Oakham|Oakham town
+25|027|51825|Oxford|Oxford town
+25|027|52420|Paxton|Paxton town
+25|027|53120|Petersham|Petersham town
+25|027|53225|Phillipston|Phillipston town
+25|027|55395|Princeton|Princeton town
+25|027|58580|Royalston|Royalston town
+25|027|58825|Rutland|Rutland town
+25|027|61800|Shrewsbury|Shrewsbury town
+25|027|63165|Southborough|Southborough town
+25|027|63345|Southbridge Town|Southbridge Town city
+25|027|66105|Spencer|Spencer town
+25|027|67385|Sterling|Sterling town
+25|027|68155|Sturbridge|Sturbridge town
+25|027|68610|Sutton|Sutton town
+25|027|69275|Templeton|Templeton town
+25|027|71480|Upton|Upton town
+25|027|71620|Uxbridge|Uxbridge town
+25|027|73090|Warren|Warren town
+25|027|73895|Webster|Webster town
+25|027|75015|Westborough|Westborough town
+25|027|75155|West Boylston|West Boylston town
+25|027|75400|West Brookfield|West Brookfield town
+25|027|77010|Westminster|Westminster town
+25|027|80405|Winchendon|Winchendon town
+25|027|82000|Worcester|Worcester city

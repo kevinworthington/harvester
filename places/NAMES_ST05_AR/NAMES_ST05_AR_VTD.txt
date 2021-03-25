@@ -1,0 +1,2748 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+05|001|000011|11 - McFall|11 - McFall
+05|001|000012|12 - Crockett|12 - Crockett
+05|001|000013|13 - Keaton|13 - Keaton
+05|001|000014|14 - Mill Bayou|14 - Mill Bayou
+05|001|000015|15 - Almyra|15 - Almyra
+05|001|000021|21 - Prairie|21 - Prairie
+05|001|000022|22 - Lagrue|22 - Lagrue
+05|001|000023|23 - St. Charles|23 - St. Charles
+05|001|000031|31 - Chester|31 - Chester
+05|001|000032|32 - Arkansas|32 - Arkansas
+05|001|000033|33 - Stanley|33 - Stanley
+05|001|000034|34 - Gillett Ward 1|34 - Gillett Ward 1
+05|001|000035|35 - Gillett Ward 2|35 - Gillett Ward 2
+05|001|000036|36 - Gillett Ward 3|36 - Gillett Ward 3
+05|001|000037|37 - PT Deluce|37 - PT Deluce
+05|001|000038|38 - Bayou Meto|38 - Bayou Meto
+05|001|000041|41 - Morris|41 - Morris
+05|001|000042|42 - Gum Pond|42 - Gum Pond
+05|001|000043|43 - Barton|43 - Barton
+05|001|000044|44 - Henton|44 - Henton
+05|001|000045|45 - Brewer|45 - Brewer
+05|001|000046|46 - Garland|46 - Garland
+05|001|000047|47 - Humphrey Ward 1|47 - Humphrey Ward 1
+05|001|000048|48 - Humphrey Ward 3|48 - Humphrey Ward 3
+05|001|000051|51 - DeWitt 1|51 - DeWitt 1
+05|001|000053|53 - Dewitt 2|53 - Dewitt 2
+05|001|000055|55 - Dewitt 3|55 - Dewitt 3
+05|001|000071|71 - Stuttgart 1|71 - Stuttgart 1
+05|001|000081|81 - Stuttgart 2|81 - Stuttgart 2
+05|001|000091|91 - Stuttgart 3|91 - Stuttgart 3
+05|003|000001|01 - Crossett Ward 1|01 - Crossett Ward 1
+05|003|000002|02 - Crossett Ward 2|02 - Crossett Ward 2
+05|003|000003|03 - Crossett Ward 3|03 - Crossett Ward 3
+05|003|000004|04 - North Crossett East|04 - North Crossett East
+05|003|000005|05 - North Crossett West|05 - North Crossett West
+05|003|000006|06 - West Crossett Rural|06 - West Crossett Rural
+05|003|000007|07 - VO - Tech|07 - VO - Tech
+05|003|000008|08 - Cooter|08 - Cooter
+05|003|000009|09 - Hickory Grove|09 - Hickory Grove
+05|003|000010|10 - Cross Roads|10 - Cross Roads
+05|003|000011|11 - Hamburg Ward 3|11 - Hamburg Ward 3
+05|003|000012|12 - Hamburg Ward 2|12 - Hamburg Ward 2
+05|003|000013|13 - Hamburg Ward 1|13 - Hamburg Ward 1
+05|003|000014|14 - Hamburg Rural|14 - Hamburg Rural
+05|003|000015|15 - Mt. Zion|15 - Mt. Zion
+05|003|000016|16 - Milo|16 - Milo
+05|003|000017|17 - Beech Creek|17 - Beech Creek
+05|003|000018|18 - Mist|18 - Mist
+05|003|000019|19 - Fountain Hill City|19 - Fountain Hill City
+05|003|000020|20 - Fountain Hill Rural|20 - Fountain Hill Rural
+05|003|000021|21 - Portland City|21 - Portland City
+05|003|000022|22 - Portland Rural|22 - Portland Rural
+05|003|000023|23 - Boydell|23 - Boydell
+05|003|000024|24 - Snyder / Trafalgar|24 - Snyder / Trafalgar
+05|003|000025|25 - Montrose City|25 - Montrose City
+05|003|000026|26 - Montrose Rural|26 - Montrose Rural
+05|003|000027|27 - Parkdale City|27 - Parkdale City
+05|003|000028|28 - Parkdale Rural|28 - Parkdale Rural
+05|003|000029|29 - Wilmot City|29 - Wilmot City
+05|003|000030|30 - Wilmot Rural|30 - Wilmot Rural
+05|005|0001-1|1-1|1-1
+05|005|0001-2|1-2|1-2
+05|005|0001-3|1-3|1-3
+05|005|0002-1|2-1|2-1
+05|005|0002-2|2-2|2-2
+05|005|0002-3|2-3|2-3
+05|005|0003-1|3-1|3-1
+05|005|0003-2|3-2|3-2
+05|005|0003-3|3-3|3-3
+05|005|0003-4|3-4|3-4
+05|005|0004-1|4-1|4-1
+05|005|0004-2|4-2|4-2
+05|005|0005-1|5-1|5-1
+05|005|0005-2|5-2|5-2
+05|005|0005-3|5-3|5-3
+05|005|0005-4|5-4|5-4
+05|005|0006-1|6-1|6-1
+05|005|0006-2|6-2|6-2
+05|005|0006-3|6-3|6-3
+05|005|0007-1|7-1|7-1
+05|005|0007-2|7-2|7-2
+05|005|0007-3|7-3|7-3
+05|005|0008-1|8-1|8-1
+05|005|0008-2|8-2|8-2
+05|005|0008-3|8-3|8-3
+05|005|0008-4|8-4|8-4
+05|005|0008-5|8-5|8-5
+05|005|0009-1|9-1|9-1
+05|005|0009-2|9-2|9-2
+05|005|0009-3|9-3|9-3
+05|005|0009-4|9-4|9-4
+05|005|0010-1|10-1|10-1
+05|005|0010-2|10-2|10-2
+05|005|0010-3|10-3|10-3
+05|005|0011-1|11-1|11-1
+05|005|0011-2|11-2|11-2
+05|005|0011-3|11-3|11-3
+05|005|0011-4|11-4|11-4
+05|005|0011-5|11-5|11-5
+05|005|0011-6|11-6|11-6
+05|005|0011-7|11-7|11-7
+05|005|0011-8|11-8|11-8
+05|005|0011-9|11-9|11-9
+05|007|000001|Precinct 01|Precinct 01
+05|007|000002|Precinct 02|Precinct 02
+05|007|000003|Precinct 03|Precinct 03
+05|007|000004|Precinct 04|Precinct 04
+05|007|000005|Precinct 05|Precinct 05
+05|007|000006|Precinct 06|Precinct 06
+05|007|000007|Precinct 07|Precinct 07
+05|007|000008|Precinct 08|Precinct 08
+05|007|000009|Precinct 09|Precinct 09
+05|007|000010|Precinct 10|Precinct 10
+05|007|000011|Precinct 11|Precinct 11
+05|007|000012|Precinct 12|Precinct 12
+05|007|000013|Precinct 13|Precinct 13
+05|007|000014|Precinct 14|Precinct 14
+05|007|000015|Precinct 15|Precinct 15
+05|007|000016|Precinct 16|Precinct 16
+05|007|000017|Precinct 17|Precinct 17
+05|007|000018|Precinct 18|Precinct 18
+05|007|000019|Precinct 19|Precinct 19
+05|007|000020|Precinct 20|Precinct 20
+05|007|000021|Precinct 21|Precinct 21
+05|007|000022|Precinct 22|Precinct 22
+05|007|000023|Precinct 23|Precinct 23
+05|007|000024|Precinct 24|Precinct 24
+05|007|000025|Precinct 25|Precinct 25
+05|007|000026|Precinct 26|Precinct 26
+05|007|000027|Precinct 27|Precinct 27
+05|007|000028|Precinct 28|Precinct 28
+05|007|000029|Precinct 29|Precinct 29
+05|007|000030|Precinct 30|Precinct 30
+05|007|000031|Precinct 31|Precinct 31
+05|007|000032|Precinct 32|Precinct 32
+05|007|000033|Precinct 33|Precinct 33
+05|007|000034|Precinct 34|Precinct 34
+05|007|000035|Precinct 35|Precinct 35
+05|007|000036|Precinct 36|Precinct 36
+05|007|000037|Precinct 37|Precinct 37
+05|007|000038|Precinct 38|Precinct 38
+05|007|000039|Precinct 39|Precinct 39
+05|007|000040|Precinct 40|Precinct 40
+05|007|000041|Precinct 41|Precinct 41
+05|007|000042|Precinct 42|Precinct 42
+05|007|000043|Precinct 43|Precinct 43
+05|007|000044|Precinct 44|Precinct 44
+05|007|000045|Precinct 45|Precinct 45
+05|007|000046|Precinct 46|Precinct 46
+05|007|000047|Precinct 47|Precinct 47
+05|007|000048|Precinct 48|Precinct 48
+05|007|000049|Precinct 49|Precinct 49
+05|007|000050|Precinct 50|Precinct 50
+05|007|000051|Precinct 51|Precinct 51
+05|007|000052|Precinct 52|Precinct 52
+05|007|000053|Precinct 53|Precinct 53
+05|007|000054|Precinct 54|Precinct 54
+05|007|000055|Precinct 55|Precinct 55
+05|007|000056|Precinct 56|Precinct 56
+05|007|000057|Precinct 57|Precinct 57
+05|007|000058|Precinct 58|Precinct 58
+05|007|000059|Precinct 59|Precinct 59
+05|007|000060|Precinct 60|Precinct 60
+05|007|000061|Precinct 61|Precinct 61
+05|007|000062|Precinct 62|Precinct 62
+05|007|000063|Precinct 63|Precinct 63
+05|007|000064|Precinct 64|Precinct 64
+05|007|000065|Precinct 65|Precinct 65
+05|007|000066|Precinct 66|Precinct 66
+05|007|000067|Precinct 67|Precinct 67
+05|007|000068|Precinct 68|Precinct 68
+05|007|000069|Precinct 69|Precinct 69
+05|007|000070|Precinct 70|Precinct 70
+05|007|000071|Precinct 71|Precinct 71
+05|007|000072|Precinct 72|Precinct 72
+05|007|000073|Precinct 73|Precinct 73
+05|007|000074|Precinct 74|Precinct 74
+05|007|000075|Precinct 75|Precinct 75
+05|007|000076|Precinct 76|Precinct 76
+05|007|000077|Precinct 77|Precinct 77
+05|007|000078|Precinct 78|Precinct 78
+05|007|000079|Precinct 79|Precinct 79
+05|007|000080|Precinct 80|Precinct 80
+05|007|000081|Precinct 81|Precinct 81
+05|007|000082|Precinct 82|Precinct 82
+05|007|000083|Precinct 83|Precinct 83
+05|007|000084|Precinct 84|Precinct 84
+05|007|000085|Precinct 85|Precinct 85
+05|007|000086|Precinct 86|Precinct 86
+05|007|000087|Precinct 87|Precinct 87
+05|007|000088|Precinct 88|Precinct 88
+05|007|000089|Precinct 89|Precinct 89
+05|007|000090|Precinct 90|Precinct 90
+05|007|000091|Precinct 91|Precinct 91
+05|007|000092|Precinct 92|Precinct 92
+05|007|000093|Precinct 93|Precinct 93
+05|007|000094|Precinct 94|Precinct 94
+05|007|000095|Precinct 95|Precinct 95
+05|007|000096|Precinct 96|Precinct 96
+05|007|000097|Precinct 97|Precinct 97
+05|007|000098|Precinct 98|Precinct 98
+05|007|000099|Precinct 99|Precinct 99
+05|007|000100|Precinct 100|Precinct 100
+05|007|000101|Precinct 101|Precinct 101
+05|007|000102|Precinct 102|Precinct 102
+05|007|000103|Precinct 103|Precinct 103
+05|007|000104|Precinct 104|Precinct 104
+05|007|000105|Precinct 105|Precinct 105
+05|007|000106|Precinct 106|Precinct 106
+05|007|000107|Precinct 107|Precinct 107
+05|007|000108|Precinct 108|Precinct 108
+05|007|000109|Precinct 109|Precinct 109
+05|007|000110|Precinct 110|Precinct 110
+05|007|000111|Precinct 111|Precinct 111
+05|007|000112|Precinct 112|Precinct 112
+05|007|000113|Precinct 113|Precinct 113
+05|007|000114|Precinct 114|Precinct 114
+05|007|000115|Precinct 115|Precinct 115
+05|007|000116|Precinct 116|Precinct 116
+05|007|000117|Precinct 117|Precinct 117
+05|009|000001|District 1|District 1
+05|009|000002|District 2|District 2
+05|009|000003|District 3|District 3
+05|009|000004|District 4|District 4
+05|009|000005|District 5|District 5
+05|009|000006|District 6|District 6
+05|009|000007|District 7|District 7
+05|009|000008|District 8|District 8
+05|009|000009|District 9|District 9
+05|009|000010|District 10|District 10
+05|009|000011|District 11|District 11
+05|009|000012|Diamond City (12)|Diamond City (12)
+05|011|000001|01 - Warren Ward 1|01 - Warren Ward 1
+05|011|000002|02 - Warren Ward 2|02 - Warren Ward 2
+05|011|000003|03 - Warren Ward 3|03 - Warren Ward 3
+05|011|000004|04 - North|04 - North
+05|011|000005|05 - South|05 - South
+05|011|000006|06 - Banks City|06 - Banks City
+05|011|000007|07 - Banks Rural|07 - Banks Rural
+05|011|000008|08 - Springhill|08 - Springhill
+05|011|000009|09 - Hermitage City|09 - Hermitage City
+05|011|000010|10 - Hermitage Rural|10 - Hermitage Rural
+05|011|000011|11 - Eagle Lake|11 - Eagle Lake
+05|011|000012|12 - Jersey|12 - Jersey
+05|011|000013|13 - Johnsville|13 - Johnsville
+05|011|000014|14 - Marion|14 - Marion
+05|013|000100|Thornton Rural|Thornton Rural
+05|013|000110|Thornton City|Thornton City
+05|013|000200|Chambersville|Chambersville
+05|013|000201|Chambersville West|Chambersville West
+05|013|000300|Tinsman Rural|Tinsman Rural
+05|013|000301|Tinsman West|Tinsman West
+05|013|000310|Tinsman City|Tinsman City
+05|013|000320|Tinsman Watson|Tinsman Watson
+05|013|000400|Harrell Rural 8|Harrell Rural 8
+05|013|000401|Harrell Rural 7|Harrell Rural 7
+05|013|000410|Harrell City|Harrell City
+05|013|000500|Champagnolle|Champagnolle
+05|013|000600|Locust|Locust
+05|013|000700|Woodberry|Woodberry
+05|013|000701|Locust North|Locust North
+05|013|000702|Dr. Rhine Park|Dr. Rhine Park
+05|013|000800|Hampton Rural|Hampton Rural
+05|013|000810|Hampton City|Hampton City
+05|013|000900|Hampton South Rural|Hampton South Rural
+05|013|000910|Hampton South City|Hampton South City
+05|015|000001|Berryville Ward 1|Berryville Ward 1
+05|015|000002|Berryville Ward 2|Berryville Ward 2
+05|015|000003|NE Prairie|NE Prairie
+05|015|000004|NW & SW Prairie|NW & SW Prairie
+05|015|000005|SE Prairie|SE Prairie
+05|015|000006|Eureka Springs Ward 1|Eureka Springs Ward 1
+05|015|000007|Eureka Springs Ward 2|Eureka Springs Ward 2
+05|015|000008|Eureka Springs Ward 3|Eureka Springs Ward 3
+05|015|000009|Johnson Springs|Johnson Springs
+05|015|000010|Green Forest Ward 1|Green Forest Ward 1
+05|015|000011|Green Forest Ward 2|Green Forest Ward 2
+05|015|000012|North East Hickory|North East Hickory
+05|015|000013|Northwest Hickory|Northwest Hickory
+05|015|000014|SW & SE Hickory|SW & SE Hickory
+05|015|000015|Beaver|Beaver
+05|015|000016|Cabanal|Cabanal
+05|015|000017|Carrollton|Carrollton
+05|015|000018|Coin|Coin
+05|015|000019|Dry Fork|Dry Fork
+05|015|000020|Holiday Island|Holiday Island
+05|015|000021|Kings River|Kings River
+05|015|000022|Liberty|Liberty
+05|015|000023|Long Creek|Long Creek
+05|015|000024|North Yocum|North Yocum
+05|015|000025|Omega|Omega
+05|015|000026|Osage|Osage
+05|015|000027|Packard Springs|Packard Springs
+05|015|000028|Piney|Piney
+05|015|000029|Polo|Polo
+05|015|000030|South Yocum|South Yocum
+05|015|000031|Winona|Winona
+05|017|000101|101 - Carlton|101 - Carlton
+05|017|000102|102 - Carlton 2|102 - Carlton 2
+05|017|000103|103 - Carlton 3|103 - Carlton 3
+05|017|000104|104 - Carlton Rural|104 - Carlton Rural
+05|017|000201|201 - Planters 1|201 - Planters 1
+05|017|000202|202 - Planters 2|202 - Planters 2
+05|017|000203|203 - Planters 3|203 - Planters 3
+05|017|000204|204 - Planters 4|204 - Planters 4
+05|017|000205|205 - Planters Rural|205 - Planters Rural
+05|017|000301|301 - Bowie 1|301 - Bowie 1
+05|017|000302|302 - Bowie 2|302 - Bowie 2
+05|017|000303|303 - Bowie 3|303 - Bowie 3
+05|017|000304|304 - Bowie Rural|304 - Bowie Rural
+05|019|000AW1|Arkadelphia Ward 1|Arkadelphia Ward 1
+05|019|000AW2|Arkadelphia Ward 2|Arkadelphia Ward 2
+05|019|000AW3|Arkadelphia Ward 3|Arkadelphia Ward 3
+05|019|000AW4|Arkadelphia Ward 4|Arkadelphia Ward 4
+05|019|000AW5|Arkadelphia Ward 5|Arkadelphia Ward 5
+05|019|000GW1|Gurdon Ward 1|Gurdon Ward 1
+05|019|000GW2|Gurdon Ward 2|Gurdon Ward 2
+05|019|000GW3|Gurdon Ward 3|Gurdon Ward 3
+05|019|000GW4|Gurdon Ward 4|Gurdon Ward 4
+05|019|000GW5|Gurdon Ward 5|Gurdon Ward 5
+05|019|00AMC1|Amity City|Amity City
+05|019|00CEN1|Central 1|Central 1
+05|019|00CRT1|Curtis 1|Curtis 1
+05|019|00CVW1|Caddo Valley Ward 1|Caddo Valley Ward 1
+05|019|00CVW2|Caddo Valley Ward 2|Caddo Valley Ward 2
+05|019|00CVW3|Caddo Valley Ward 3|Caddo Valley Ward 3
+05|019|00ECO1|East County 1|East County 1
+05|019|00GDG1|Gurdon Gen 1|Gurdon Gen 1
+05|019|00GMS1|Gum Springs 1|Gum Springs 1
+05|019|00GSO1|Gum Springs Outside 1|Gum Springs Outside 1
+05|019|00HWD1|Hollywood 1|Hollywood 1
+05|019|00NCO1|North County|North County
+05|019|00NEC1|North East County|North East County
+05|019|00OKC1|Okolona City 1|Okolona City 1
+05|019|00SCO1|South County 1|South County 1
+05|019|00WCO1|West County 1|West County 1
+05|019|00WHS1|Whelen Springs 1|Whelen Springs 1
+05|021|000001|01 - North St Francis|01 - North St Francis
+05|021|000002|02 - South St Francis|02 - South St Francis
+05|021|000003|03 - E Oak Bluff & Blue Cane|03 - E Oak Bluff & Blue Cane
+05|021|000004|04 - West Oak Bluff|04 - West Oak Bluff
+05|021|000005|05 - Bennett & Lemmons|05 - Bennett & Lemmons
+05|021|000006|06 - Bradshaw & Haywood|06 - Bradshaw & Haywood
+05|021|000007|07 - Johnson|07 - Johnson
+05|021|000008|08 - Knob|08 - Knob
+05|021|000009|09 - Liddell & chalk Bluff|09 - Liddell & chalk Bluff
+05|021|000010|10 - Payne & Swain|10 - Payne & Swain
+05|021|000011|11 - Pollard|11 - Pollard
+05|021|000012|12 - Brown & Carpenter|12 - Brown & Carpenter
+05|021|000013|13 - Cache & Wilson|13 - Cache & Wilson
+05|021|000014|14 - Clark|14 - Clark
+05|021|000015|15 - Nelson|15 - Nelson
+05|021|000016|16 - Cleveland & N Kilgore|16 - Cleveland & N Kilgore
+05|021|000017|17 - Gleghorn & S Kilgore|17 - Gleghorn & S Kilgore
+05|023|000002|02 - North Cadron Inside|02 - North Cadron Inside
+05|023|000003|03 - North Cadron Outside|03 - North Cadron Outside
+05|023|000004|04 - South Cadron Inside|04 - South Cadron Inside
+05|023|000005|05 - South Cadron Outside|05 - South Cadron Outside
+05|023|000006|06 - California|06 - California
+05|023|000007|07 - Center Post|07 - Center Post
+05|023|000008|08 - Clayton|08 - Clayton
+05|023|000009|09 - Francis|09 - Francis
+05|023|000010|10 - Grassey Inside|10 - Grassey Inside
+05|023|000011|11 - Grassey Outside|11 - Grassey Outside
+05|023|000012|12 - Greers Ferry Giles|12 - Greers Ferry Giles
+05|023|000013|13 - Giles|13 - Giles
+05|023|000014|14 - Healing Springs|14 - Healing Springs
+05|023|000015|15 - Heber Springs Ward 1|15 - Heber Springs Ward 1
+05|023|000016|16 - Heber Springs Ward 2|16 - Heber Springs Ward 2
+05|023|000017|17 - Heber Springs Ward 3|17 - Heber Springs Ward 3
+05|023|000018|18 - Heber Springs Ward 4|18 - Heber Springs Ward 4
+05|023|000019|19 - Heber Springs Outside|19 - Heber Springs Outside
+05|023|000020|20 - McJester|20 - McJester
+05|023|000021|21 - Morgan Outside|21 - Morgan Outside
+05|023|000022|22 - Mountain|22 - Mountain
+05|023|000023|23 - East Peter Creek|23 - East Peter Creek
+05|023|000024|24 - West Peter Creek|24 - West Peter Creek
+05|023|000025|25 - Pickens|25 - Pickens
+05|023|000026|26 - Pine|26 - Pine
+05|023|000027|27 - Piney|27 - Piney
+05|023|000028|28 - Poff|28 - Poff
+05|023|000029|29 - Saline Inside|29 - Saline Inside
+05|023|000030|30 - Saline Outside|30 - Saline Outside
+05|023|000031|31 - Sugar Camp|31 - Sugar Camp
+05|023|000032|32 - Sugar Loaf|32 - Sugar Loaf
+05|023|000033|33 - Valley|33 - Valley
+05|023|000034|34 - Wilburn|34 - Wilburn
+05|023|000035|35 - Morgan Inside|35 - Morgan Inside
+05|025|000003|03 - Bowman|03 - Bowman
+05|025|000004|04 - Harper|04 - Harper
+05|025|000005|05 - Hudgin|05 - Hudgin
+05|025|000006|06 - Hurricane|06 - Hurricane
+05|025|000007|07 - Lee|07 - Lee
+05|025|000008|08 - Miller|08 - Miller
+05|025|000009|09 - Niven|09 - Niven
+05|025|000010|10 - Redland|10 - Redland
+05|025|000011|11 - Rowell|11 - Rowell
+05|025|000012|12 - Saline|12 - Saline
+05|025|000014|14 - Smith|14 - Smith
+05|025|000015|15 - Whiteoak|15 - Whiteoak
+05|025|000016|16 - Whiteville|16 - Whiteville
+05|025|00001A|01A - Rison Inside|01A - Rison Inside
+05|025|00001B|01B - Rison Outside|01B - Rison Outside
+05|025|00002A|02A - Kingsland Inside|02A - Kingsland Inside
+05|025|00002B|02B - Kingsland Out|02B - Kingsland Out
+05|027|000001|Columbia North|Columbia North
+05|027|000002|Columbia South|Columbia South
+05|027|000003|Mag Ward 1|Mag Ward 1
+05|027|000004|Mag Ward 2|Mag Ward 2
+05|027|000005|Mag Ward 3|Mag Ward 3
+05|027|000006|Mag Ward 4|Mag Ward 4
+05|027|000007|McNeil Township|McNeil Township
+05|027|000008|McNeil City|McNeil City
+05|027|000009|Waldo Township|Waldo Township
+05|027|000010|Waldo City|Waldo City
+05|027|000011|Emerson Township|Emerson Township
+05|027|000012|Emerson City|Emerson City
+05|027|000013|Taylor Township|Taylor Township
+05|027|000014|Taylor City|Taylor City
+05|029|000001|001 - Austin|001 - Austin
+05|029|000002|002 - Bentley City|002 - Bentley City
+05|029|000003|003 - Welbourne West|003 - Welbourne West
+05|029|000004|004 - St Vincent|004 - St Vincent
+05|029|000005|005 - Steele|005 - Steele
+05|029|000006|006-Menifee City|006-Menifee City
+05|029|000007|007 - Howard City|007 - Howard City
+05|029|000008|008 - Higgins|008 - Higgins
+05|029|000009|009 - Cedar Falls|009 - Cedar Falls
+05|029|000010|010 - Gregory|010 - Gregory
+05|029|000011|011 - Griffin|011 - Griffin
+05|029|000012|012 - Lick Mountain|012 - Lick Mountain
+05|029|000013|013 - Washington East|013 - Washington East
+05|029|000014|014 - McClaren|014 - McClaren
+05|029|000015|015 - Howard Rural|015 - Howard Rural
+05|029|000016|016 - White Eagle|016 - White Eagle
+05|029|000017|017 - Morrilton Ward 3|017 - Morrilton Ward 3
+05|029|000018|018 - Morrilton Ward 4|018 - Morrilton Ward 4
+05|029|000019|019 - Martin|019 - Martin
+05|029|000020|020 - Morrilton Ward 2|020 - Morrilton Ward 2
+05|029|000021|021 - Union|021 - Union
+05|029|000022|022 - Bentley Rural|022 - Bentley Rural
+05|029|000023|023 - Washington West|023 - Washington West
+05|029|000024|024 - Bird|024 - Bird
+05|029|000025|025 - Catholic Point|025 - Catholic Point
+05|029|000026|026 - Petit Jean|026 - Petit Jean
+05|029|000027|027 - Nichols|027 - Nichols
+05|029|000028|028 - Old Hickory|028 - Old Hickory
+05|029|000029|029 - Morrilton Ward 1|029 - Morrilton Ward 1
+05|029|000030|030 - Welbourne East|030 - Welbourne East
+05|029|000031|031 - Menifee Rural|031 - Menifee Rural
+05|031|000001|1|1
+05|031|000002|2|2
+05|031|000003|3|3
+05|031|000004|4|4
+05|031|000005|5|5
+05|031|000006|6|6
+05|031|000007|7|7
+05|031|000008|8|8
+05|031|000009|9|9
+05|031|000010|10|10
+05|031|000011|11|11
+05|031|000012|12|12
+05|031|000013|13|13
+05|031|000014|14|14
+05|031|000015|15|15
+05|031|000016|16|16
+05|031|000017|17|17
+05|031|000018|18|18
+05|031|000019|19|19
+05|031|000020|20|20
+05|031|000021|21|21
+05|031|000022|22|22
+05|031|000023|23|23
+05|031|000024|24|24
+05|031|000025|25|25
+05|031|000026|26|26
+05|031|000027|27|27
+05|031|000028|28|28
+05|031|000029|29|29
+05|031|000030|30|30
+05|031|000031|31|31
+05|031|000032|32|32
+05|031|000033|33|33
+05|031|000034|34|34
+05|031|000035|35|35
+05|031|000036|36|36
+05|031|000037|37|37
+05|031|000038|38|38
+05|031|000039|39|39
+05|031|000040|40|40
+05|031|000041|41|41
+05|031|000042|42|42
+05|031|000043|43|43
+05|031|000044|44|44
+05|031|000045|45|45
+05|031|000046|46|46
+05|031|000047|47|47
+05|031|000048|48|48
+05|031|000049|49|49
+05|031|000050|50|50
+05|031|000051|51|51
+05|031|000052|52|52
+05|031|000053|53|53
+05|033|000001|Alma 01|Alma 01
+05|033|000002|Alma 02|Alma 02
+05|033|000003|Alma 03|Alma 03
+05|033|000004|Alma 04|Alma 04
+05|033|000005|Bidville|Bidville
+05|033|000006|Cedar Creek|Cedar Creek
+05|033|000007|Cedarville|Cedarville
+05|033|000008|Chester|Chester
+05|033|000009|Cove City|Cove City
+05|033|000010|Dean Springs|Dean Springs
+05|033|000011|Dora|Dora
+05|033|000012|Dyer|Dyer
+05|033|000013|Eagle Crest|Eagle Crest
+05|033|000014|Figure Five|Figure Five
+05|033|000015|Jasper|Jasper
+05|033|000016|Kibler|Kibler
+05|033|000017|Lancaster|Lancaster
+05|033|000018|Lee Creek|Lee Creek
+05|033|000019|Locke|Locke
+05|033|000020|Mountain|Mountain
+05|033|000021|Mulberry 01|Mulberry 01
+05|033|000022|Mulberry 02|Mulberry 02
+05|033|000023|Mulberry 03|Mulberry 03
+05|033|000024|Oliver Springs|Oliver Springs
+05|033|000025|Porter|Porter
+05|033|000026|Rudy|Rudy
+05|033|000027|Union|Union
+05|033|000028|Upper|Upper
+05|033|000029|Van Buren 01|Van Buren 01
+05|033|000030|Van Buren 02|Van Buren 02
+05|033|000031|Van Buren 03|Van Buren 03
+05|033|000032|Van Buren 04|Van Buren 04
+05|033|000033|Van Buren 05|Van Buren 05
+05|033|000034|Van Buren 06|Van Buren 06
+05|033|000035|Van Buren 07|Van Buren 07
+05|033|000036|Van Buren 08|Van Buren 08
+05|033|000037|Van Buren 09|Van Buren 09
+05|033|000038|Van Buren 10|Van Buren 10
+05|033|000039|Van Buren 11|Van Buren 11
+05|033|000040|Van Buren 12|Van Buren 12
+05|033|000041|Vine Prairie|Vine Prairie
+05|033|000042|Whitley|Whitley
+05|033|000043|Winfrey|Winfrey
+05|035|000011|11 - Ward 1 Precinct 1|11 - Ward 1 Precinct 1
+05|035|000012|12 - Ward 1 Precinct 2|12 - Ward 1 Precinct 2
+05|035|000013|13 - Ward 1 Precinct 3|13 - Ward 1 Precinct 3
+05|035|000014|14 - Ward 1 Precicnt 4|14 - Ward 1 Precicnt 4
+05|035|000021|21 - Ward 2 Precinct 1|21 - Ward 2 Precinct 1
+05|035|000022|22 - Ward 2 Precinct 2|22 - Ward 2 Precinct 2
+05|035|000023|23 - Ward 2 Precinct 3|23 - Ward 2 Precinct 3
+05|035|000031|31 - Ward 3 Precinct 1|31 - Ward 3 Precinct 1
+05|035|000032|32 - Ward 3 Precinct 2|32 - Ward 3 Precinct 2
+05|035|000033|33 - Ward 3 Precinct 3|33 - Ward 3 Precinct 3
+05|035|000041|41 - Ward 4 Precinct 1|41 - Ward 4 Precinct 1
+05|035|000042|42 - Ward 4 Precinct 2|42 - Ward 4 Precinct 2
+05|035|000051|51 - Ward 5 Precinct 1|51 - Ward 5 Precinct 1
+05|035|000052|52 - Ward 5 Precinct 2|52 - Ward 5 Precinct 2
+05|035|000054|54 - East Black Oak|54 - East Black Oak
+05|035|000055|55- West Black Oak|55- West Black Oak
+05|035|000056|56 - Bob Ward 1|56 - Bob Ward 1
+05|035|000057|57 - North Fogleman|57 - North Fogleman
+05|035|000058|58 - South Fogleman|58 - South Fogleman
+05|035|000059|59 - Earle Ward 1|59 - Earle Ward 1
+05|035|000060|60 - Earle Ward 2|60 - Earle Ward 2
+05|035|000061|61 - Earle Ward 3|61 - Earle Ward 3
+05|035|000062|62 - Earle Ward 4|62 - Earle Ward 4
+05|035|000063|63 - Jackson 1|63 - Jackson 1
+05|035|000064|64 - Jackson 2|64 - Jackson 2
+05|035|000065|65 - Jasper Country Box (Court|65 - Jasper Country Box (Court
+05|035|000066|66 - Mound City|66 - Mound City
+05|035|000067|67 - Jasper 1|67 - Jasper 1
+05|035|000068|68 - Jasper 2|68 - Jasper 2
+05|035|000069|69 - Jasper 3|69 - Jasper 3
+05|035|000070|70 - Lucas|70 - Lucas
+05|035|000071|71-Mississippi Country Box|71-Mississippi Country Box
+05|035|000072|72 - Proctor|72 - Proctor
+05|035|000073|73 - North Tyronza|73 - North Tyronza
+05|035|000074|74 - South Tyronza|74 - South Tyronza
+05|035|000075|75 - Jasper County Box, Sunset|75 - Jasper County Box, Sunset
+05|035|000076|76 - Wappanocca|76 - Wappanocca
+05|035|000077|77- Lucas Estate (H'shoe Lake)|77- Lucas Estate (H'shoe Lake)
+05|035|000078|78 - Jasper Country Box (Lakes|78 - Jasper Country Box (Lakes
+05|035|000079|79 - Bob Ward 2|79 - Bob Ward 2
+05|035|000080|80 - Wappanocca, Jericho|80 - Wappanocca, Jericho
+05|035|000081|81 - South Tyronza, Jeanette|81 - South Tyronza, Jeanette
+05|035|000082|82 - Wappanocca, Clarkdale|82 - Wappanocca, Clarkdale
+05|037|0000P1|Parkin Ward 1|Parkin Ward 1
+05|037|0000P2|Parkin Ward 2|Parkin Ward 2
+05|037|0000P3|Parkin Ward 3|Parkin Ward 3
+05|037|0000P4|Tyronza / Twist|Tyronza / Twist
+05|037|000C01|Bay Village / Birdeye|Bay Village / Birdeye
+05|037|000C10|Cherry Valley|Cherry Valley
+05|037|000C20|Hickory Ridge City|Hickory Ridge City
+05|037|000C21|Hickory Ridge Township|Hickory Ridge Township
+05|037|000C22|Mitchell|Mitchell
+05|037|000C23|Searcy|Searcy
+05|037|000W01|Wynne Ward 1|Wynne Ward 1
+05|037|000W02|Wynne Ward 2|Wynne Ward 2
+05|037|000W03|Wynne Ward 3|Wynne Ward 3
+05|037|000W04|Wynne Ward 4|Wynne Ward 4
+05|037|000W05|Wynne Ward 5|Wynne Ward 5
+05|037|000W06|Wynne Township|Wynne Township
+05|037|000W07|Bedford|Bedford
+05|037|000W08|Brushy Lake|Brushy Lake
+05|037|000W10|Ellis|Ellis
+05|037|000W11|Fair Oaks|Fair Oaks
+05|037|000W12|Smith|Smith
+05|039|000101|101 - District 1|101 - District 1
+05|039|000201|201 - District 2|201 - District 2
+05|039|000301|301 - District 3|301 - District 3
+05|039|000401|401 - District 4|401 - District 4
+05|039|000501|501 - District 5|501 - District 5
+05|039|000503|503 - District 5 -|503 - District 5 -
+05|039|000601|601 - District 6|601 - District 6
+05|039|000602|602- District 6|602- District 6
+05|039|000603|603 - District 6|603 - District 6
+05|039|000701|701 - District 7|701 - District 7
+05|039|000703|703 - District 7|703 - District 7
+05|039|000704|704 - District 7|704 - District 7
+05|039|000801|801- District 8|801- District 8
+05|039|000802|802 - District 8|802 - District 8
+05|039|000901|901 - District 9|901 - District 9
+05|039|000902|902 - District 9|902 - District 9
+05|041|000001|01 - Bowie W1|01 - Bowie W1
+05|041|000002|02 - Bowie W2|02 - Bowie W2
+05|041|000003|03 - Bowie W3|03 - Bowie W3
+05|041|000004|04 - Bowie Rural|04 - Bowie Rural
+05|041|000005|05 - Clayton McArthur|05 - Clayton McArthur
+05|041|000006|06 - Clayton Reed|06 - Clayton Reed
+05|041|000007|07 - Clayton Tillar|07 - Clayton Tillar
+05|041|000008|08 - Franklin|08 - Franklin
+05|041|000009|09 - Halley|09 - Halley
+05|041|000010|10 - Jefferson|10 - Jefferson
+05|041|000011|11 - Mississippi|11 - Mississippi
+05|041|000012|12 - Mitcheville|12 - Mitcheville
+05|041|000013|13 - Rand W1|13 - Rand W1
+05|041|000014|14 - Rand W2|14 - Rand W2
+05|041|000015|15 - Rand W3|15 - Rand W3
+05|041|000016|16 - Rand W4|16 - Rand W4
+05|041|000017|17 - Rand Rural|17 - Rand Rural
+05|041|000018|18 - Redfork|18 - Redfork
+05|041|000019|19 - Richland|19 - Richland
+05|041|000020|20 - Silver Lake|20 - Silver Lake
+05|041|000021|21 - Walnut Lake|21 - Walnut Lake
+05|043|000001|01 - Ward 1|01 - Ward 1
+05|043|000002|02 - Ward 2|02 - Ward 2
+05|043|000003|03 - Ward 3|03 - Ward 3
+05|043|000004|04 - Ward 4|04 - Ward 4
+05|043|000005|05 - Collins|05 - Collins
+05|043|000006|06 - enon|06 - enon
+05|043|000007|07 - Jerome|07 - Jerome
+05|043|000008|08 - Lacey|08 - Lacey
+05|043|000009|09 - Mar N Box 1|09 - Mar N Box 1
+05|043|000010|10 - Mar N Box 2|10 - Mar N Box 2
+05|043|000011|11 - Marion South|11 - Marion South
+05|043|000012|12 - Ozment|12 - Ozment
+05|043|000013|13 - Plantersville|13 - Plantersville
+05|043|000014|14 - Selma|14 - Selma
+05|043|000015|15 - Tillar|15 - Tillar
+05|043|000016|16 - Wilmar|16 - Wilmar
+05|043|000017|17 - Winchester|17 - Winchester
+05|045|000001|4a Conway City 01|4a Conway City 01
+05|045|000002|4b Conway City 02|4b Conway City 02
+05|045|000003|4e Conway City 03|4e Conway City 03
+05|045|000004|4d Conway City 04|4d Conway City 04
+05|045|000005|4f Conway City 05|4f Conway City 05
+05|045|000006|2b Conway City 06|2b Conway City 06
+05|045|000007|2a Conway City 07|2a Conway City 07
+05|045|000008|3b Conway City 08|3b Conway City 08
+05|045|000009|3c-East Conway City 09|3c-East Conway City 09
+05|045|000010|3a Conway City 10|3a Conway City 10
+05|045|000011|4c Conway City 11|4c Conway City 11
+05|045|000012|E Cadron A 12|E Cadron A 12
+05|045|000013|E Cadron B 13|E Cadron B 13
+05|045|000014|West Cadron 14|West Cadron 14
+05|045|000015|Benedict 15|Benedict 15
+05|045|000016|Benton 16|Benton 16
+05|045|000017|Bristol 17|Bristol 17
+05|045|000018|California 18|California 18
+05|045|000019|Clifton 19|Clifton 19
+05|045|000021|Vilonia City 21|Vilonia City 21
+05|045|000022|Cypress Rural 22|Cypress Rural 22
+05|045|000023|Danley Rural 23|Danley Rural 23
+05|045|000024|Danley City (Mayflower) 24|Danley City (Mayflower) 24
+05|045|000025|Eagle 25|Eagle 25
+05|045|000026|East Fork 26|East Fork 26
+05|045|000027|Enola 27|Enola 27
+05|045|000028|Hardin Rural 28|Hardin Rural 28
+05|045|000029|Hardin City East (GB) 29|Hardin City East (GB) 29
+05|045|000030|Harve 30|Harve 30
+05|045|000031|Matthews 31|Matthews 31
+05|045|000032|Mountain 32|Mountain 32
+05|045|000033|Mount Vernon 33|Mount Vernon 33
+05|045|000034|Newton 34|Newton 34
+05|045|000035|Wilson 35|Wilson 35
+05|045|000036|Pine Mt 36|Pine Mt 36
+05|045|000037|Union 37|Union 37
+05|045|000038|Walker 38|Walker 38
+05|045|000039|Palarm 39|Palarm 39
+05|045|000040|2d Conway City 40|2d Conway City 40
+05|045|000041|1c-North Conway City 41|1c-North Conway City 41
+05|045|000042|1c-South Conway City 42|1c-South Conway City 42
+05|045|000043|1e-East Conway City 43|1e-East Conway City 43
+05|045|000044|1e-West Conway City 44|1e-West Conway City 44
+05|045|000045|3e Conway City 45|3e Conway City 45
+05|045|000046|3c-West Conway City 46|3c-West Conway City 46
+05|045|000048|E Cadron C 48|E Cadron C 48
+05|045|000049|2c Conway City 49|2c Conway City 49
+05|045|000050|3d Conway City 50|3d Conway City 50
+05|045|000053|3f Conway City 53|3f Conway City 53
+05|045|000054|3g Conway City 54|3g Conway City 54
+05|045|000055|Hardin City West (GB) 55|Hardin City West (GB) 55
+05|047|0001-A|1-A (Oz Wd 1)|1-A (Oz Wd 1)
+05|047|0001-B|1-B (Oz Wd 3)|1-B (Oz Wd 3)
+05|047|0001-C|1-C (Oz WD 2)|1-C (Oz WD 2)
+05|047|0002-A|2-A (Oz Wd 2)|2-A (Oz Wd 2)
+05|047|0002-B|2-B (Oz Rural)|2-B (Oz Rural)
+05|047|0002-C|2-C (Lonelm/Cravens)|2-C (Lonelm/Cravens)
+05|047|0002-D|2-D (Wallace/Ivy)|2-D (Wallace/Ivy)
+05|047|0002-E|2-E (Oz Wd 3)|2-E (Oz Wd 3)
+05|047|0003-A|3-A (Lonelm/Cravens)|3-A (Lonelm/Cravens)
+05|047|0003-B|3-B (Fern)|3-B (Fern)
+05|047|0003-C|3-C (Boston)|3-C (Boston)
+05|047|0003-D|3-D (Jethro)|3-D (Jethro)
+05|047|0003-E|3-E (Watalula)|3-E (Watalula)
+05|047|0003-F|3-F (Mountain)|3-F (Mountain)
+05|047|0004-A|4-A (Philpot)|4-A (Philpot)
+05|047|0004-B|4-B (Watalula)|4-B (Watalula)
+05|047|0004-C|4-C (WV Rural)|4-C (WV Rural)
+05|047|0004-D|4-D (Oz Rural)|4-D (Oz Rural)
+05|047|0005-A|5-A (Wallace/Ivy)|5-A (Wallace/Ivy)
+05|047|0005-B|5-B (Oz Rural)|5-B (Oz Rural)
+05|047|0005-C|5-C (Webb City)|5-C (Webb City)
+05|047|0006-A|6-A (Altus Rural)|6-A (Altus Rural)
+05|047|0006-B|6-B (Altus City)|6-B (Altus City)
+05|047|0006-C|6-C (Denning)|6-C (Denning)
+05|047|0006-D|6-D (Weiderkehr Village)|6-D (Weiderkehr Village)
+05|047|0007-A|7-A (Cecil)|7-A (Cecil)
+05|047|0007-B|7-B (Webb City)|7-B (Webb City)
+05|047|0007-C|7-C (Etna)|7-C (Etna)
+05|047|0007-D|7-D (Donald Rural)|7-D (Donald Rural)
+05|047|0008-A|8-A (Branch City)|8-A (Branch City)
+05|047|0008-B|8-B (Charleston Wd 1)|8-B (Charleston Wd 1)
+05|047|0008-C|8-C (Charleston Rural)|8-C (Charleston Rural)
+05|047|0008-D|8-D (Vesta)|8-D (Vesta)
+05|047|0008-E|8-E (Donald Rural)|8-E (Donald Rural)
+05|047|0008-F|8-F (Cecil)|8-F (Cecil)
+05|047|0008-G|8-G (Donald Rural)|8-G (Donald Rural)
+05|047|0009-A|9-A (Charleston Wd 2)|9-A (Charleston Wd 2)
+05|047|0009-B|9-B (Charleston Wd 3)|9-B (Charleston Wd 3)
+05|047|0009-C|9-C (Charleston Rural)|9-C (Charleston Rural)
+05|049|000002|Benton - Union|Benton - Union
+05|049|000003|Vidette - Big Creek|Vidette - Big Creek
+05|049|000004|Cleveland|Cleveland
+05|049|000005|Fulton - Mt. Calm|Fulton - Mt. Calm
+05|049|000006|MS - Afton|MS - Afton
+05|049|000008|Myatt|Myatt
+05|049|000009|PR-SB|PR-SB
+05|049|000010|Cherokee Village|Cherokee Village
+05|049|000011|Southfork - Wilson|Southfork - Wilson
+05|049|000015|Washington|Washington
+05|051|000011|011|011
+05|051|000012|012|012
+05|051|000013|013|013
+05|051|000014|014|014
+05|051|000021|021|021
+05|051|000022|022|022
+05|051|000023|023|023
+05|051|000024|024|024
+05|051|000031|031|031
+05|051|000032|032|032
+05|051|000033|033|033
+05|051|000034|034|034
+05|051|000041|041|041
+05|051|000042|042|042
+05|051|000043|043|043
+05|051|000044|044|044
+05|051|000051|051|051
+05|051|000052|052|052
+05|051|000053|053|053
+05|051|000054|054|054
+05|051|000061|061|061
+05|051|000062|062|062
+05|051|000063|063|063
+05|051|000064|064|064
+05|051|000065|065|065
+05|051|000071|071|071
+05|051|000072|072|072
+05|051|000073|073|073
+05|051|000074|074|074
+05|051|000081|081|081
+05|051|000082|082|082
+05|051|000083|083|083
+05|051|000084|084|084
+05|051|000091|091|091
+05|051|000092|092|092
+05|051|000093|093|093
+05|051|000094|094|094
+05|051|000095|095|095
+05|051|000101|101|101
+05|051|000102|102|102
+05|051|000103|103|103
+05|051|000104|104|104
+05|051|000111|111|111
+05|051|000112|112|112
+05|051|000113|113|113
+05|051|000114|114|114
+05|051|000115|115|115
+05|051|000121|121|121
+05|051|000122|122|122
+05|051|000123|123|123
+05|051|000124|124|124
+05|051|000125|125|125
+05|051|000131|131|131
+05|051|000132|132|132
+05|051|000133|133|133
+05|051|000134|134|134
+05|053|000001|01 - Calvert|01 - Calvert
+05|053|000002|02 - Davis|02 - Davis
+05|053|000003|03 - Dekalb 1|03 - Dekalb 1
+05|053|000004|04 - Dekalb 2|04 - Dekalb 2
+05|053|000005|05 - Darysaw|05 - Darysaw
+05|053|000008|08 - Fenter|08 - Fenter
+05|053|000009|09 - Franklin|09 - Franklin
+05|053|000010|10 - Madison|10 - Madison
+05|053|000011|11 - Merry Green 1|11 - Merry Green 1
+05|053|000012|12 - Merry Green 2|12 - Merry Green 2
+05|053|000013|13 - River|13 - River
+05|053|000014|14 - Simpson 1|14 - Simpson 1
+05|053|000015|15 - Simpson 2|15 - Simpson 2
+05|053|000017|17 - Tennessee|17 - Tennessee
+05|053|000019|19 - Washington|19 - Washington
+05|053|000020|20 - Ward 1|20 - Ward 1
+05|053|000021|21 - Ward 2|21 - Ward 2
+05|053|000022|22 - Ward 3|22 - Ward 3
+05|055|000001|01 - Ward 1|01 - Ward 1
+05|055|000002|02 - Ward 2|02 - Ward 2
+05|055|000003|03 - Ward 3|03 - Ward 3
+05|055|000004|04 - Ward 4|04 - Ward 4
+05|055|000005|05 - Blue Cane|05 - Blue Cane
+05|055|000006|06 - Hopewell|06 - Hopewell
+05|055|000007|07 - Hurricane|07 - Hurricane
+05|055|000008|08 - Reynolds|08 - Reynolds
+05|055|000009|09 - Breckenridge|09 - Breckenridge
+05|055|000010|10 - Bryan|10 - Bryan
+05|055|000011|11 - Walnut Corner|11 - Walnut Corner
+05|055|000012|12 - Cache|12 - Cache
+05|055|000013|13 - Clark|13 - Clark
+05|055|000014|14 - Collier|14 - Collier
+05|055|000015|15 - St. Francis|15 - St. Francis
+05|055|000016|16 - Crowley|16 - Crowley
+05|055|000017|17 - Evening Shade|17 - Evening Shade
+05|055|000018|18 - Sugar Creek|18 - Sugar Creek
+05|055|000019|19 - Friendship|19 - Friendship
+05|055|00001A|01 - Ward 1A|01 - Ward 1A
+05|055|000020|20 - Hays|20 - Hays
+05|055|000021|21 - Mainshore|21 - Mainshore
+05|055|000022|22 - Jones|22 - Jones
+05|055|000023|23 - Lake|23 - Lake
+05|055|000024|24 - Poland|24 - Poland
+05|055|000025|25 - Salem|25 - Salem
+05|055|000026|26 - Spring Grove|26 - Spring Grove
+05|055|000027|27 - Union|27 - Union
+05|055|000028|28 - Shady Grove|28 - Shady Grove
+05|055|000029|29 - Delaplaine - Jones|29 - Delaplaine - Jones
+05|055|00002A|02 - Ward 2A|02 - Ward 2A
+05|055|000030|30 - Lafe - Breckenridge|30 - Lafe - Breckenridge
+05|055|000031|31 - Marmaduke - Hurricane|31 - Marmaduke - Hurricane
+05|055|000032|32 - Oak Grove - Union|32 - Oak Grove - Union
+05|055|00003A|03 - Ward 3A|03 - Ward 3A
+05|055|00004A|04 - Ward 4A|04 - Ward 4A
+05|055|00004B|04 - Ward 4B|04 - Ward 4B
+05|055|00004C|04 - Ward 4C|04 - Ward 4C
+05|057|000001|01 Hope 1|01 Hope 1
+05|057|000002|02 Hope 2|02 Hope 2
+05|057|000003|03 Hope 3|03 Hope 3
+05|057|000004|04 Hope 4|04 Hope 4
+05|057|000005|05 Hope 5|05 Hope 5
+05|057|000006|06 Hope 6|06 Hope 6
+05|057|000007|07 Hope 7|07 Hope 7
+05|057|000008|08 Bingen|08 Bingen
+05|057|000009|09 Blevins|09 Blevins
+05|057|000010|10 Columbus|10 Columbus
+05|057|000011|11 Cross Roads|11 Cross Roads
+05|057|000012|12 Deann|12 Deann
+05|057|000013|13 Fulton|13 Fulton
+05|057|000014|14 Guernsey|14 Guernsey
+05|057|000015|15 McCaskill|15 McCaskill
+05|057|000016|16 McNab|16 McNab
+05|057|000017|17 Ozan|17 Ozan
+05|057|000018|18 Patmos|18 Patmos
+05|057|000019|19 Perrytown|19 Perrytown
+05|057|000020|20 Rocky Mound|20 Rocky Mound
+05|057|000021|21 Saratoga|21 Saratoga
+05|057|000022|22 Shover Springs|22 Shover Springs
+05|057|000023|23 Spring Hill|23 Spring Hill
+05|057|000024|24 Washington|24 Washington
+05|059|000ANT|Antioch|Antioch
+05|059|000BIG|Big Creek|Big Creek
+05|059|000BIS|Bismarck|Bismarck
+05|059|000BRO|Brown Springs|Brown Springs
+05|059|000BUT|Butterfield|Butterfield
+05|059|000CEN|Central|Central
+05|059|000CLE|Clear Creek|Clear Creek
+05|059|000DER|Deroche|Deroche
+05|059|000DON|Donaldson City|Donaldson City
+05|059|000DOV|Dover|Dover
+05|059|000FRI|Friendship City|Friendship City
+05|059|000GIF|Gifford|Gifford
+05|059|000GRO|Glen Rose|Glen Rose
+05|059|000HAR|Harrison|Harrison
+05|059|000HEN|Henderson|Henderson
+05|059|000LON|Lone Hill|Lone Hill
+05|059|000MA2|Malvern W-2|Malvern W-2
+05|059|000MA3|Malvern W-3|Malvern W-3
+05|059|000MA4|Malvern W-4|Malvern W-4
+05|059|000MAG|Magnet|Magnet
+05|059|000MON|Montgomery|Montgomery
+05|059|000OUA|Ouachita|Ouachita
+05|059|000PER|Perla City|Perla City
+05|059|000PRA|Prairie|Prairie
+05|059|000RP1|Rockport W-1|Rockport W-1
+05|059|000RP2|Rockport W-2|Rockport W-2
+05|059|000VAL|Valley|Valley
+05|059|00FENA|Fenter A|Fenter A
+05|059|00FENB|Fenter B|Fenter B
+05|059|00FENC|Fenter C|Fenter C
+05|059|00MA1A|Malvern W-1A|Malvern W-1A
+05|059|00MA1B|Malvern W-1B|Malvern W-1B
+05|059|00MID1|Midway City|Midway City
+05|059|00MID2|Midway City 2|Midway City 2
+05|059|00RP14|Rockport W-1-4|Rockport W-1-4
+05|061|000001|01 - Umpire|01 - Umpire
+05|061|000002|02 - Umpire|02 - Umpire
+05|061|000003|03 - Burg|03 - Burg
+05|061|000004|04 - Burg|04 - Burg
+05|061|000005|05 - Mountain|05 - Mountain
+05|061|000006|06 - Clay|06 - Clay
+05|061|000007|07 - Clay|07 - Clay
+05|061|000008|08 - Blue Ridge|08 - Blue Ridge
+05|061|000009|09 - Madison|09 - Madison
+05|061|000010|10 - Holly Creek|10 - Holly Creek
+05|061|000011|11 - Holly Creek|11 - Holly Creek
+05|061|000012|12 - Muddy Fork|12 - Muddy Fork
+05|061|000013|13 - Muddy Fork|13 - Muddy Fork
+05|061|000014|14 - Brewer|14 - Brewer
+05|061|000016|16 - Center Point 1|16 - Center Point 1
+05|061|000018|18 - Center Point 2|18 - Center Point 2
+05|061|000019|19 - Saline|19 - Saline
+05|061|000020|20 - Blue Bayou|20 - Blue Bayou
+05|061|000021|21 - County Line|21 - County Line
+05|061|000022|22 - Dillard|22 - Dillard
+05|061|000023|23 - Dillard|23 - Dillard
+05|061|000024|24 - Nashville Ward 1|24 - Nashville Ward 1
+05|061|000025|25 - Nashville Ward 2|25 - Nashville Ward 2
+05|061|000026|26 - Nashville Ward 3|26 - Nashville Ward 3
+05|061|000028|28 - Nashville Ward 4|28 - Nashville Ward 4
+05|061|000030|30 - Nashville Ward 5|30 - Nashville Ward 5
+05|061|000032|32 - Nashville Ward 6|32 - Nashville Ward 6
+05|061|000034|34 - Nashville TWP II|34 - Nashville TWP II
+05|061|000035|35 - Nashville TWP II|35 - Nashville TWP II
+05|061|000038|38 - Nashville TWP I|38 - Nashville TWP I
+05|061|000039|39- Mineral Spring 3|39- Mineral Spring 3
+05|061|000040|40 - Mineral Springs TWP|40 - Mineral Springs TWP
+05|061|000041|41 - Mineral Springs 1|41 - Mineral Springs 1
+05|061|000042|42 - Mineral Springs 2|42 - Mineral Springs 2
+05|061|000043|43 - Buck Range|43 - Buck Range
+05|061|000044|44 - Buck Range|44 - Buck Range
+05|061|000045|45 - Blackland|45 - Blackland
+05|061|000046|46 - Backland|46 - Backland
+05|061|000047|47 - Saratoga|47 - Saratoga
+05|061|000048|48 - Franklin|48 - Franklin
+05|061|000050|50 - Dierks Ward 1|50 - Dierks Ward 1
+05|061|000051|51 - Dierks Ward 2|51 - Dierks Ward 2
+05|061|000052|52 - Dierks Ward 3|52 - Dierks Ward 3
+05|061|000053|53 - Tollette|53 - Tollette
+05|061|000054|54 - Tollette|54 - Tollette
+05|061|000055|55 - Duckett|55 - Duckett
+05|061|000056|56 - Saline|56 - Saline
+05|063|000009|Ruddell Rural|Ruddell Rural
+05|063|000010|Ashley|Ashley
+05|063|000011|Barren|Barren
+05|063|000012|Big Bottom Ward 1|Big Bottom Ward 1
+05|063|000013|Big Bottom Ward 2|Big Bottom Ward 2
+05|063|000014|Big Bottom Ward 3|Big Bottom Ward 3
+05|063|000016|Cushman / Union|Cushman / Union
+05|063|000017|Departee|Departee
+05|063|000018|Dota|Dota
+05|063|000019|Fairview|Fairview
+05|063|000020|Gainsboro|Gainsboro
+05|063|000021|Greenbrier - Jamestown|Greenbrier - Jamestown
+05|063|000022|Greenbrier - Locust Grove|Greenbrier - Locust Grove
+05|063|000023|Greenbrier - Desha|Greenbrier - Desha
+05|063|000024|Hill|Hill
+05|063|000025|Huff|Huff
+05|063|000026|Jefferson|Jefferson
+05|063|000027|Liberty|Liberty
+05|063|000029|Magness|Magness
+05|063|000030|Black River / Marshall|Black River / Marshall
+05|063|000033|Oil Trough|Oil Trough
+05|063|000034|Relief|Relief
+05|063|000035|Rosie|Rosie
+05|063|000036|Salado|Salado
+05|063|000038|Washington|Washington
+05|063|000039|White River|White River
+05|063|000040|Big Bottom / Wycough / Logan|Big Bottom / Wycough / Logan
+05|063|000041|McHue|McHue
+05|063|000042|McHue 3|McHue 3
+05|063|000043|Moorefield|Moorefield
+05|063|000100|Ruddell Ward 1|Ruddell Ward 1
+05|063|000101|Moorefield Ward 1|Moorefield Ward 1
+05|063|000200|Ruddell Ward 2|Ruddell Ward 2
+05|063|000300|Ruddell Ward 3|Ruddell Ward 3
+05|063|000400|Ruddell Ward 4|Ruddell Ward 4
+05|063|000401|Moorefield Ward 4|Moorefield Ward 4
+05|065|000001|Knob Creek|Knob Creek
+05|065|000002|Boswell|Boswell
+05|065|000003|Wiseman|Wiseman
+05|065|000004|Mt. Pleasant Rural|Mt. Pleasant Rural
+05|065|000005|Mt. Pleasant City|Mt. Pleasant City
+05|065|000006|Big Spring|Big Spring
+05|065|000007|Dolph|Dolph
+05|065|000008|Claiborne|Claiborne
+05|065|000009|Franklin Rural|Franklin Rural
+05|065|000010|Gid|Gid
+05|065|000011|Guion City|Guion City
+05|065|000012|Wideman|Wideman
+05|065|000013|Myron|Myron
+05|065|000014|Larkin|Larkin
+05|065|000015|Lacrosse|Lacrosse
+05|065|000016|Lafferty|Lafferty
+05|065|000018|Newburg|Newburg
+05|065|000019|Brockwell|Brockwell
+05|065|000020|Oxford City|Oxford City
+05|065|000021|Oxford Rural|Oxford Rural
+05|065|000022|Sage|Sage
+05|065|000023|Zion|Zion
+05|065|000024|Strawberry|Strawberry
+05|065|000025|Pineville City|Pineville City
+05|065|000026|Pineville Rural|Pineville Rural
+05|065|000027|Violet Hill|Violet Hill
+05|065|000028|Twin Creek|Twin Creek
+05|065|000029|Sylamore|Sylamore
+05|065|000030|Franklin City|Franklin City
+05|065|000031|Guion Rural|Guion Rural
+05|065|000100|Melbourne Rural|Melbourne Rural
+05|065|000101|Melbourne Ward 1|Melbourne Ward 1
+05|065|000102|Melbourne Ward 2|Melbourne Ward 2
+05|065|000103|Melbourne Ward 3|Melbourne Ward 3
+05|065|000104|Melbourne Ward 4|Melbourne Ward 4
+05|065|000200|Calico Rock Rural|Calico Rock Rural
+05|065|000201|Calico Rock Ward 1|Calico Rock Ward 1
+05|065|000202|Calico Rock Ward 2|Calico Rock Ward 2
+05|065|000203|Calico Rock Ward 3|Calico Rock Ward 3
+05|065|000204|Calico Rock Ward 4|Calico Rock Ward 4
+05|065|000300|Horseshoe Bend Rural|Horseshoe Bend Rural
+05|065|000301|Horseshoe Bend Ward 1|Horseshoe Bend Ward 1
+05|065|000302|Horseshoe Bend Ward 2|Horseshoe Bend Ward 2
+05|065|000303|Horseshoe Bend Ward 3|Horseshoe Bend Ward 3
+05|065|000304|Horseshoe Bend Ward 4|Horseshoe Bend Ward 4
+05|067|000001|01 - Airbase|01 - Airbase
+05|067|000002|02 - Alcorn|02 - Alcorn
+05|067|000003|03 - Algoa|03 - Algoa
+05|067|000004|04 - Amagon|04 - Amagon
+05|067|000005|05 - Auvergne|05 - Auvergne
+05|067|000007|07 - Beedeville|07 - Beedeville
+05|067|000008|08 - Blackville|08 - Blackville
+05|067|000009|09 - Campbell Station|09 - Campbell Station
+05|067|000011|11 - Crossroads -37|11 - Crossroads -37
+05|067|000012|12 - Denmark|12 - Denmark
+05|067|000014|14 - Diaz|14 - Diaz
+05|067|000015|15 - Gourdneck - Citizenship|15 - Gourdneck - Citizenship
+05|067|000016|16 - Greenhaw|16 - Greenhaw
+05|067|000017|17 - Grubbs|17 - Grubbs
+05|067|000018|18 - Hickory Grove|18 - Hickory Grove
+05|067|000019|19 - Horseshoe|19 - Horseshoe
+05|067|000020|20 - Ingleside|20 - Ingleside
+05|067|000021|21 - Island|21 - Island
+05|067|000022|22 - Jacksonport|22 - Jacksonport
+05|067|000024|24 - Liberty|24 - Liberty
+05|067|000025|25 - Macks|25 - Macks
+05|067|000026|26 - New Glaise|26 - New Glaise
+05|067|000028|28 - Newport Ward 2-A|28 - Newport Ward 2-A
+05|067|000030|30 - Newport Ward 1-B|30 - Newport Ward 1-B
+05|067|000031|31 - Newport Ward 1-A|31 - Newport Ward 1-A
+05|067|000033|33 - Newport Ward 3-C|33 - Newport Ward 3-C
+05|067|000034|34 - Newport Ward 3-B|34 - Newport Ward 3-B
+05|067|000035|35 - Newport Ward 3-C|35 - Newport Ward 3-C
+05|067|000036|36 - Newport Ward 2-C|36 - Newport Ward 2-C
+05|067|000037|37 - Newport Ward 2-B|37 - Newport Ward 2-B
+05|067|000038|38 - Newport Ward 4-A|38 - Newport Ward 4-A
+05|067|000039|39 - Newport Ward 4-B|39 - Newport Ward 4-B
+05|067|000040|40 - Old Glaise|40 - Old Glaise
+05|067|000041|41 - Olyphant|41 - Olyphant
+05|067|000042|42 - Penninghton Balch|42 - Penninghton Balch
+05|067|000043|43 - Remmel|43 - Remmel
+05|067|000044|44 - Shoffner|44 - Shoffner
+05|067|000045|45 - Swifton|45 - Swifton
+05|067|000046|46 - Tuckerman Ward 1|46 - Tuckerman Ward 1
+05|067|000047|47 - Tuckerman Ward 2|47 - Tuckerman Ward 2
+05|067|000048|48 - Tuckerman Ward 3|48 - Tuckerman Ward 3
+05|067|000049|49 - Tuckerman Outside|49 - Tuckerman Outside
+05|067|000050|50 - Tupelo|50 - Tupelo
+05|067|000051|51 - Waters Store|51 - Waters Store
+05|067|000052|52 - Weldon|52 - Weldon
+05|069|000001|0001|0001
+05|069|000002|0002|0002
+05|069|000003|0003|0003
+05|069|000004|0004|0004
+05|069|000005|0005|0005
+05|069|000007|0007|0007
+05|069|000008|0008|0008
+05|069|000009|0009|0009
+05|069|000010|0010|0010
+05|069|000011|0011|0011
+05|069|000026|0026|0026
+05|069|000027|0027|0027
+05|069|000028|0028|0028
+05|069|000029|0029|0029
+05|069|000030|0030|0030
+05|069|000031|0031|0031
+05|069|000032|0032|0032
+05|069|000033|0033|0033
+05|069|000034|0034|0034
+05|069|000036|0036|0036
+05|069|000037|0037|0037
+05|069|000040|0040|0040
+05|069|000041|0041|0041
+05|069|000045|0045|0045
+05|069|000050|0050|0050
+05|069|000051|0051|0051
+05|069|000053|0053|0053
+05|069|000054|0054|0054
+05|069|000055|0055|0055
+05|069|000056|0056|0056
+05|069|000057|0057|0057
+05|069|000058|0058|0058
+05|069|000059|0059|0059
+05|069|000060|0060|0060
+05|069|000061|0061|0061
+05|069|000062|0062|0062
+05|069|000064|0064|0064
+05|069|000065|0065|0065
+05|069|000066|0066|0066
+05|069|000067|0067|0067
+05|069|000073|0073|0073
+05|069|000074|0074|0074
+05|069|000075|0075|0075
+05|069|000076|0076|0076
+05|069|000077|0077|0077
+05|069|000078|0078|0078
+05|069|000079|0079|0079
+05|069|000080|0080|0080
+05|069|000081|0081|0081
+05|069|000082|0082|0082
+05|069|000083|0083|0083
+05|069|000084|0084|0084
+05|069|000085|0085|0085
+05|069|000086|0086|0086
+05|069|000087|0087|0087
+05|069|000088|88X|88X
+05|069|000089|0089|0089
+05|069|000090|0090|0090
+05|069|000091|91X|91X
+05|069|000092|0092|0092
+05|069|000093|0093|0093
+05|069|000094|0094|0094
+05|069|000101|0101|0101
+05|069|000102|0102|0102
+05|069|000103|103X|103X
+05|069|000104|0104|0104
+05|069|000105|0105|0105
+05|069|000106|106|106
+05|069|000107|0107|0107
+05|069|000108|0108|0108
+05|069|000109|109|109
+05|069|000110|0110|0110
+05|069|000111|0111|0111
+05|069|000112|0112|0112
+05|069|000113|0113|0113
+05|069|000114|0114|0114
+05|069|000115|0115|0115
+05|069|000116|0116|0116
+05|069|000117|0117|0117
+05|069|000119|0119|0119
+05|069|000120|0120|0120
+05|069|000121|0121|0121
+05|069|000122|0122|0122
+05|069|000123|0123|0123
+05|069|000124|0124|0124
+05|069|000125|0125|0125
+05|069|000126|0126|0126
+05|069|000128|0128|0128
+05|069|000130|0130|0130
+05|069|000201|0201|0201
+05|069|000202|0202|0202
+05|069|000203|0203|0203
+05|069|000204|0204|0204
+05|069|000205|0205|0205
+05|069|000206|0206|0206
+05|069|000207|0207|0207
+05|069|000208|0208|0208
+05|069|000209|0209|0209
+05|069|000210|0210|0210
+05|069|000211|0211|0211
+05|069|000212|0212|0212
+05|069|000213|0213|0213
+05|069|000214|0214|0214
+05|069|000215|0215|0215
+05|069|000216|0216|0216
+05|069|000217|0217|0217
+05|069|000218|0218|0218
+05|069|000219|0219|0219
+05|069|000220|0220|0220
+05|069|000221|0221|0221
+05|069|000222|0222|0222
+05|069|000223|0223|0223
+05|069|000224|0224|0224
+05|069|000225|0225|0225
+05|069|000226|226X|226X
+05|069|000227|0227|0227
+05|069|000301|0301|0301
+05|069|000302|0302|0302
+05|069|000303|0303|0303
+05|069|000304|0304|0304
+05|069|000306|0306|0306
+05|069|000307|0307|0307
+05|069|000308|0308|0308
+05|069|000309|0309|0309
+05|069|000310|0310|0310
+05|069|000311|0311|0311
+05|069|000312|0312|0312
+05|069|000313|0313|0313
+05|069|000314|0314|0314
+05|069|000315|0315|0315
+05|069|000316|0316|0316
+05|069|000317|0317|0317
+05|069|000318|0318|0318
+05|069|000319|0319|0319
+05|069|000320|0320|0320
+05|069|000321|0321|0321
+05|069|000322|0322|0322
+05|069|000323|0323|0323
+05|069|000324|0324|0324
+05|069|000325|0325|0325
+05|069|000326|0326|0326
+05|069|000327|0327|0327
+05|069|000328|0328|0328
+05|069|000329|0329|0329
+05|069|000330|0330|0330
+05|069|000331|0331|0331
+05|069|000332|0332|0332
+05|069|000401|0401|0401
+05|069|000403|0403|0403
+05|069|000404|0404|0404
+05|069|000405|0405|0405
+05|069|000406|0406|0406
+05|069|000407|0407|0407
+05|069|000408|0408|0408
+05|069|000409|0409|0409
+05|069|000410|0410|0410
+05|069|000412|0412|0412
+05|069|000413|413X|413X
+05|069|000414|0414|0414
+05|069|000415|0415|0415
+05|069|000416|0416|0416
+05|069|000417|0417|0417
+05|069|000418|418X|418X
+05|069|000419|0419|0419
+05|069|000420|0420|0420
+05|069|000421|0421|0421
+05|069|000422|0422|0422
+05|069|000423|0423|0423
+05|069|000424|424X|424X
+05|069|000425|0425|0425
+05|069|000426|0426|0426
+05|069|000510|0510|0510
+05|069|000530|0530|0530
+05|069|000620|620-1|620-1
+05|069|000711|711-1|711-1
+05|069|000721|721-1|721-1
+05|069|000810|810-1|810-1
+05|069|000900|0900|0900
+05|069|000950|0950|0950
+05|069|0610-1|610-1|610-1
+05|069|0712-1|712-1|712-1
+05|069|0713-1|713-1|713-1
+05|069|0714-1|714-1|714-1
+05|069|0731-1|731-1|731-1
+05|069|0732-1|732-1|732-1
+05|069|0733-1|733-1|733-1
+05|069|0820-1|820-1|820-1
+05|069|0830-1|830-1|830-1
+05|071|000BAT|BATSON|BATSON
+05|071|000D-H|DICKERSON-HILL|DICKERSON-HILL
+05|071|000GRA|GRANT|GRANT
+05|071|000HIC|HICKEY|HICKEY
+05|071|000HOR|HORSEHEAD|HORSEHEAD
+05|071|000HOW|HOWELL|HOWELL
+05|071|000LEE|LEE|LEE
+05|071|000LOW|LOWGAP|LOWGAP
+05|071|000MCK|MCKENNON|MCKENNON
+05|071|000MUL|MULBERRY|MULBERRY
+05|071|000PER|PERRY|PERRY
+05|071|000PIT|PITTSBURG|PITTSBURG
+05|071|000PRA|PRAIRIE|PRAIRIE
+05|071|000RED|REDLICK|REDLICK
+05|071|000SHE|SHERMAN|SHERMAN
+05|071|000SP1|SPADRA WARD 1|SPADRA WARD 1
+05|071|000SP2|SPADRA WARD 2|SPADRA WARD 2
+05|071|000SP3|SPADRA WARD 3|SPADRA WARD 3
+05|071|000SP4|SPADRA WARD 4|SPADRA WARD 4
+05|071|000STO|STONEWALL|STONEWALL
+05|071|000WAR|WARD|WARD
+05|071|00KING|KING|KING
+05|073|000005|005 - Lewisville Ward 1|005 - Lewisville Ward 1
+05|073|000010|010 - Lewisville Ward 2|010 - Lewisville Ward 2
+05|073|000015|015 - Lewisville Ward 3|015 - Lewisville Ward 3
+05|073|000020|020 - Stamps Ward 1, Prec 1|020 - Stamps Ward 1, Prec 1
+05|073|000025|025 - Stamps Ward 1, Prec 2|025 - Stamps Ward 1, Prec 2
+05|073|000030|030 - Stamps Ward 2|030 - Stamps Ward 2
+05|073|000035|035 - Stamps Ward 3|035 - Stamps Ward 3
+05|073|000040|040 - Boyd Hill|040 - Boyd Hill
+05|073|000045|045 - Bradley City|045 - Bradley City
+05|073|000050|050 - Buckner City|050 - Buckner City
+05|073|000055|055 - Canfield|055 - Canfield
+05|073|000060|060 - Center|060 - Center
+05|073|000065|065 - Gin City|065 - Gin City
+05|073|000070|070 - Mars Hill|070 - Mars Hill
+05|073|000075|075 - Oak Grove|075 - Oak Grove
+05|073|000080|080 - Piney Grove|080 - Piney Grove
+05|073|000085|085 - Red River|085 - Red River
+05|073|000090|090 - Sardis|090 - Sardis
+05|073|000095|095 - State Line|095 - State Line
+05|073|000100|100 - Walker Creek|100 - Walker Creek
+05|073|000105|105 - Lewisville Out|105 - Lewisville Out
+05|073|000110|110 - Stamps W1 P2 Out|110 - Stamps W1 P2 Out
+05|073|000115|115 - Stamps W2 Out|115 - Stamps W2 Out
+05|073|000120|120 - Buckner Out|120 - Buckner Out
+05|073|000125|125 - Bradley Out|125 - Bradley Out
+05|075|000001|01 - Annieville|01 - Annieville
+05|075|000002|02 - Ashland|02 - Ashland
+05|075|000003|03 - Black River|03 - Black River
+05|075|000004|04 - Black Rock|04 - Black Rock
+05|075|000005|05 - Boas #1|05 - Boas #1
+05|075|000006|06 - Boas #2|06 - Boas #2
+05|075|000007|07 - Boas #3|07 - Boas #3
+05|075|000008|08 - Cache|08 - Cache
+05|075|000009|09 - Campbell #1|09 - Campbell #1
+05|075|000010|10 - Campbell #2|10 - Campbell #2
+05|075|000011|11 - Campbell #3|11 - Campbell #3
+05|075|000012|12 - Campbell #4|12 - Campbell #4
+05|075|000013|13 - Dent|13 - Dent
+05|075|000014|14 - Dowell|14 - Dowell
+05|075|000015|15 - Duty|15 - Duty
+05|075|000016|16 - Eaton|16 - Eaton
+05|075|000017|17 - Flat Creek|17 - Flat Creek
+05|075|000018|18 - Jesup|18 - Jesup
+05|075|000019|19 - Lawrence|19 - Lawrence
+05|075|000020|20 - Marion|20 - Marion
+05|075|000021|21 - Morgan|21 - Morgan
+05|075|000022|22 - Promised Land|22 - Promised Land
+05|075|000023|23 - Reeds Creek Saffell|23 - Reeds Creek Saffell
+05|075|000024|24 - Reeds Creek Strawberry|24 - Reeds Creek Strawberry
+05|075|000025|25 - Richwoods|25 - Richwoods
+05|075|000026|26 - Spring River|26 - Spring River
+05|075|000027|27 - Strawberry|27 - Strawberry
+05|075|000028|28 - Thacker|28 - Thacker
+05|077|000001|Precinct 1|Precinct 1
+05|077|000002|Precinct 2|Precinct 2
+05|077|000003|Precinct 3|Precinct 3
+05|077|000004|Precinct 4|Precinct 4
+05|077|000005|Precinct 5|Precinct 5
+05|077|000006|Precinct 6|Precinct 6
+05|077|000007|Precinct 7|Precinct 7
+05|077|000008|Precinct 8|Precinct 8
+05|077|000009|Precinct 9|Precinct 9
+05|079|000001|001 - Auburn|001 - Auburn
+05|079|000002|002 - Tarry|002 - Tarry
+05|079|000003|003 - Yorktown|003 - Yorktown
+05|079|000004|004 - Cane Creek 1|004 - Cane Creek 1
+05|079|000005|005 - Cane Creek 2|005 - Cane Creek 2
+05|079|000006|006 - Choctaw|006 - Choctaw
+05|079|000007|007 - Kimbrough|007 - Kimbrough
+05|079|000008|008 - Lone Pine / Garnett|008 - Lone Pine / Garnett
+05|079|000009|009 - Lone Pine / Mt Home|009 - Lone Pine / Mt Home
+05|079|000010|010 - Mill Creek|010 - Mill Creek
+05|079|000011|011 - Owen / Glendale|011 - Owen / Glendale
+05|079|000012|012 - Owen / Palmyra|012 - Owen / Palmyra
+05|079|000013|013 - Smith|013 - Smith
+05|079|000014|014 - Spring 1|014 - Spring 1
+05|079|000015|015 - Spring 2|015 - Spring 2
+05|079|000016|016 -SE Lincoln Co FD|016 -SE Lincoln Co FD
+05|079|000017|017 -Wells Bayou|017 -Wells Bayou
+05|079|000018|018 - Gould|018 - Gould
+05|079|000019|019 -Gould City W1|019 -Gould City W1
+05|079|000020|020 - Gould City W2|020 - Gould City W2
+05|079|000021|021 - Gould City W3|021 - Gould City W3
+05|079|000022|022 - Grady City W1 & W2|022 - Grady City W1 & W2
+05|079|000023|023 - Star City W1|023 - Star City W1
+05|079|000024|024 - Star City W2|024 - Star City W2
+05|079|000025|025 - Star City W3|025 - Star City W3
+05|079|000026|026 - Cane Creek 3|026 - Cane Creek 3
+05|081|000ARD|Arden Township|Arden Township
+05|081|000ARK|Arkinda Township|Arkinda Township
+05|081|000AW1|Ashdown Ward 1|Ashdown Ward 1
+05|081|000AW2|Ashdown Ward 2|Ashdown Ward 2
+05|081|000AW3|Ashdown Ward 3|Ashdown Ward 3
+05|081|000BUR|Burke Township|Burke Township
+05|081|000CLE|Cleveland Township|Cleveland Township
+05|081|000CNY|Caney Township|Caney Township
+05|081|000FRK|Franklin Township|Franklin Township
+05|081|000FW1|Foreman Ward 1|Foreman Ward 1
+05|081|000FW2|Foreman Ward 2|Foreman Ward 2
+05|081|000FW3|Foreman Ward 3|Foreman Ward 3
+05|081|000JEF|Jefferson Township|Jefferson Township
+05|081|000JEW|Jewell Township|Jewell Township
+05|081|000JHN|Johnson Township|Johnson Township
+05|081|000JKS|Jackson Township|Jackson Township
+05|081|000L/C|Lick Creek Township|Lick Creek Township
+05|081|000L/R|Little River Township|Little River Township
+05|081|000R/R|Red River Township|Red River Township
+05|081|000W/R|Wallace / Richland|Wallace / Richland
+05|083|000100|100 - Cane Creek|100 - Cane Creek
+05|083|000101|101 - Clark Crossroads|101 - Clark Crossroads
+05|083|000102|102 - Clark City|102 - Clark City
+05|083|000103|103 - Clark Rural|103 - Clark Rural
+05|083|000104|104 - Delaware|104 - Delaware
+05|083|000105|105 - Driggs|105 - Driggs
+05|083|000106|106 - Ellsworth|106 - Ellsworth
+05|083|000107|107 - Johnson|107 - Johnson
+05|083|000108|108 - Logan|108 - Logan
+05|083|000109|109 - Mountain|109 - Mountain
+05|083|000110|110 - River City|110 - River City
+05|083|000111|111 - River Rural|111 - River Rural
+05|083|000113|113 - Shoal Creek|113 - Shoal Creek
+05|083|000114|114 - Sht Mtn WD 1|114 - Sht Mtn WD 1
+05|083|000115|115 - Sht Mtn WD 2|115 - Sht Mtn WD 2
+05|083|000116|116 - Sht Mtn WD 3|116 - Sht Mtn WD 3
+05|083|000117|117 - Sht Mtn WD 4|117 - Sht Mtn WD 4
+05|083|000118|118 - Caulksville City|118 - Caulksville City
+05|083|000119|119 - Caulksville Rural|119 - Caulksville Rural
+05|083|000120|120 - Ratcliff City|120 - Ratcliff City
+05|083|000121|121 - Ratcliff Rural|121 - Ratcliff Rural
+05|083|000122|122 - Morrison Bluff|122 - Morrison Bluff
+05|083|000132|132 - Blue Mountain City|132 - Blue Mountain City
+05|083|000133|133 - Blue Mountain Rural|133 - Blue Mountain Rural
+05|083|000134|134 - Boone WD 1|134 - Boone WD 1
+05|083|000135|135 - Boone WD 2|135 - Boone WD 2
+05|083|000136|136 - Boone WD 3|136 - Boone WD 3
+05|083|000137|137 - Boone WD 4|137 - Boone WD 4
+05|083|000138|138 - Cauthron|138 - Cauthron
+05|083|000139|139 - Petit Jean|139 - Petit Jean
+05|083|000140|140 - Reveille City|140 - Reveille City
+05|083|000141|141 - Reveille Rural|141 - Reveille Rural
+05|083|000144|144 - Sugar Creek|144 - Sugar Creek
+05|083|000145|145 - Washburn|145 - Washburn
+05|083|000146|146 - Barber|146 - Barber
+05|083|000147|147 - Tomlinson|147 - Tomlinson
+05|085|000001|01 - Allport City|01 - Allport City
+05|085|000002|02 - Caroline TWP|02 - Caroline TWP
+05|085|000003|03 - Austin City|03 - Austin City
+05|085|000004|04 - Butler TWP|04 - Butler TWP
+05|085|000005|05 - Cabot City Ward 1|05 - Cabot City Ward 1
+05|085|000006|06 - Cabot City Ward 2|06 - Cabot City Ward 2
+05|085|000007|07 - Cabot City Ward 3|07 - Cabot City Ward 3
+05|085|000008|08 - Cabot City Ward 4|08 - Cabot City Ward 4
+05|085|000009|09 - York TWP|09 - York TWP
+05|085|000010|10 - Carlisle City Ward 1|10 - Carlisle City Ward 1
+05|085|000011|11 - Carlisle City Ward 2|11 - Carlisle City Ward 2
+05|085|000012|12 - Carlisle City Ward 3|12 - Carlisle City Ward 3
+05|085|000013|13 - Carlisle TWP|13 - Carlisle TWP
+05|085|000014|14 - Cleveland TWP|14 - Cleveland TWP
+05|085|000015|15 - Dortch TWP|15 - Dortch TWP
+05|085|000016|16 - Eagle TWP|16 - Eagle TWP
+05|085|000017|17 - England City Ward 1|17 - England City Ward 1
+05|085|000018|18 - England City Ward 2|18 - England City Ward 2
+05|085|000019|19 - England City Ward 3|19 - England City Ward 3
+05|085|000020|20 - England City Ward 4|20 - England City Ward 4
+05|085|000021|21 - Fletcher TWP|21 - Fletcher TWP
+05|085|000022|22 - Furlow TWP|22 - Furlow TWP
+05|085|000023|23 - Goodrum TWP|23 - Goodrum TWP
+05|085|000024|24 - Gray TWP|24 - Gray TWP
+05|085|000025|25 - Gumwood TWP|25 - Gumwood TWP
+05|085|000026|26 - Hamilton TWP|26 - Hamilton TWP
+05|085|000027|27 - Crooked Creek TWP|27 - Crooked Creek TWP
+05|085|000028|28 - Humnoke City|28 - Humnoke City
+05|085|000029|29 - Indian Bayou TWP|29 - Indian Bayou TWP
+05|085|000030|30 - Coy City|30 - Coy City
+05|085|000031|31 - Isbell TWP|31 - Isbell TWP
+05|085|000032|32 - Lafayette TWP|32 - Lafayette TWP
+05|085|000033|33 - Keo City|33 - Keo City
+05|085|000034|34 - Lonoke City Ward 1|34 - Lonoke City Ward 1
+05|085|000035|35 - Lonoke City Ward 2|35 - Lonoke City Ward 2
+05|085|000036|36 - Lonoke City Ward 3|36 - Lonoke City Ward 3
+05|085|000037|37 - Lonoke City Ward 4|37 - Lonoke City Ward 4
+05|085|000038|38 - Lonoke TWP|38 - Lonoke TWP
+05|085|000039|39 - Magness TWP|39 - Magness TWP
+05|085|000040|40 - Oak Grove TWP|40 - Oak Grove TWP
+05|085|000041|41 - Pettus TWp|41 - Pettus TWp
+05|085|000042|42 - Prairie TWP|42 - Prairie TWP
+05|085|000043|43 - Pulaski TWP|43 - Pulaski TWP
+05|085|000044|44 - Richwood TWP|44 - Richwood TWP
+05|085|000045|45 - Totten TWP|45 - Totten TWP
+05|085|000046|46 - Walls TWP|46 - Walls TWP
+05|085|000047|47 - Ward City Ward 1|47 - Ward City Ward 1
+05|085|000048|48 - Ward City Ward 2|48 - Ward City Ward 2
+05|085|000049|49 - Ward City Ward 3|49 - Ward City Ward 3
+05|085|000050|50 - Ward TWP|50 - Ward TWP
+05|085|000051|51 - Williams TWP|51 - Williams TWP
+05|085|000053|53 - Lonoke City Ward 5|53 - Lonoke City Ward 5
+05|085|000054|54 - Lonoke City Ward 6|54 - Lonoke City Ward 6
+05|085|000055|55 - Lonoke City Ward 7|55 - Lonoke City Ward 7
+05|085|000056|56 - Lonoke City Ward 8|56 - Lonoke City Ward 8
+05|087|000001|Alabam|Alabam
+05|087|000006|Hilburn|Hilburn
+05|087|000009|Kings River|Kings River
+05|087|000010|Lamar|Lamar
+05|087|000014|Prairie|Prairie
+05|087|000019|War Eagle|War Eagle
+05|087|000021|Huntsville Ward 1|Huntsville Ward 1
+05|087|000022|Huntsville Ward 2|Huntsville Ward 2
+05|087|000023|Huntsville Ward 3|Huntsville Ward 3
+05|087|000024|Huntsville Ward 4|Huntsville Ward 4
+05|089|0MAP01|Precinct 01|Precinct 01
+05|089|0MAP02|Precinct 02|Precinct 02
+05|089|0MAP03|Precinct 03|Precinct 03
+05|089|0MAP04|Precinct 04|Precinct 04
+05|089|0MAP05|Precinct 05|Precinct 05
+05|089|0MAP06|Precinct 06|Precinct 06
+05|089|0MAP07|Precinct 07|Precinct 07
+05|089|0MAP08|Precinct 08|Precinct 08
+05|089|0MAP09|Precinct 09|Precinct 09
+05|089|0MAP10|Precinct 10|Precinct 10
+05|089|0MAP11|Precinct 11|Precinct 11
+05|089|0MAP12|Precinct 12|Precinct 12
+05|089|0MAP13|Precinct 13|Precinct 13
+05|089|0MAP14|Precinct 14|Precinct 14
+05|089|0MAP15|Precinct 15|Precinct 15
+05|089|0MAP16|Precinct 16|Precinct 16
+05|089|0MAP17|Precinct 17|Precinct 17
+05|089|0MAP18|Precinct 18|Precinct 18
+05|089|0MAP19|Precinct 19|Precinct 19
+05|089|0MAP20|Precinct 20|Precinct 20
+05|089|0MAP21|Precinct 21|Precinct 21
+05|089|0MAP22|Precinct 22|Precinct 22
+05|089|0MAP23|Precinct 23|Precinct 23
+05|089|0MAP24|Precinct 24|Precinct 24
+05|089|0MAP25|Precinct 25|Precinct 25
+05|089|0MAP26|Precinct 26|Precinct 26
+05|089|0MAP27|Precinct 27|Precinct 27
+05|089|0MAP28|Precinct 28|Precinct 28
+05|089|0MAP29|Precinct 29|Precinct 29
+05|089|0MAP30|Precinct 30|Precinct 30
+05|089|0MAP31|Precinct 31|Precinct 31
+05|091|000BRI|Bright Star|Bright Star
+05|091|000CEN|Central|Central
+05|091|000CHM|College Hill|College Hill
+05|091|000DOD|Doddridge|Doddridge
+05|091|000FOU|Fouke|Fouke
+05|091|000GAR|Garland|Garland
+05|091|000GEN|Genoa|Genoa
+05|091|000GRV|Greenwich Village|Greenwich Village
+05|091|000HIC|Hickory St|Hickory St
+05|091|000HSS|Hickory St South|Hickory St South
+05|091|000MAN|Mandeville|Mandeville
+05|091|000NHS|North Heights|North Heights
+05|091|000OZA|Ozan Inghram|Ozan Inghram
+05|091|000RON|Rondo|Rondo
+05|091|000SAN|Sandflat|Sandflat
+05|091|000SUG|Sugar Hill|Sugar Hill
+05|091|000TRI|Trice|Trice
+05|091|000UNI|Union|Union
+05|091|000WAS|Washington|Washington
+05|093|000001|01|01
+05|093|000002|02|02
+05|093|000003|03|03
+05|093|000006|06|06
+05|093|000010|10|10
+05|093|000012|12|12
+05|093|000013|13|13
+05|093|000014|14|14
+05|093|000015|15|15
+05|093|000016|16|16
+05|093|000017|17|17
+05|093|000018|18|18
+05|093|000019|19|19
+05|093|000021|21|21
+05|093|000022|22|22
+05|093|000023|23|23
+05|093|000024|24|24
+05|093|000025|25|25
+05|093|000027|27|27
+05|093|000030|30|30
+05|093|000032|32|32
+05|093|000033|33|33
+05|093|000034|34|34
+05|093|000035|35|35
+05|093|000036|36|36
+05|093|000038|38|38
+05|093|000039|39|39
+05|093|000040|40|40
+05|093|000041|41|41
+05|093|000042|42|42
+05|093|000044|44|44
+05|093|000045|45|45
+05|093|000046|46|46
+05|093|000047|47|47
+05|093|000048|48|48
+05|093|000050|50|50
+05|093|000054|54|54
+05|093|00007A|07A|07A
+05|093|00011A|11A|11A
+05|093|00011B|11B|11B
+05|093|00027A|27A|27A
+05|093|00030A|30A|30A
+05|093|00039A|39A|39A
+05|093|00046A|46A|46A
+05|093|00050A|50A|50A
+05|093|00054A|54A|54A
+05|093|0012-1|12-1|12-1
+05|093|0012-2|12-2|12-2
+05|093|0012-3|12-3|12-3
+05|093|0029-1|29-1|29-1
+05|093|0029-2|29-2|29-2
+05|093|0029-3|29-3|29-3
+05|093|0037-1|37-1|37-1
+05|093|0037-2|37-2|37-2
+05|095|000001|01 - Brinkley Ward 1|01 - Brinkley Ward 1
+05|095|000002|02 - Brinkley Ward 2|02 - Brinkley Ward 2
+05|095|000003|03 - Brinkley Ward 3|03 - Brinkley Ward 3
+05|095|000008|08 - Brinkley Township|08 - Brinkley Township
+05|095|000010|10 - Cache|10 - Cache
+05|095|000011|11 - Clarendon Ward 1|11 - Clarendon Ward 1
+05|095|000012|12 - Clarendon Ward 2|12 - Clarendon Ward 2
+05|095|000013|13 - Clarendon Ward 3|13 - Clarendon Ward 3
+05|095|000015|15 - Cleburne|15 - Cleburne
+05|095|000016|16 - Cypress Ridge|16 - Cypress Ridge
+05|095|000017|17 - Dixon Township|17 - Dixon Township
+05|095|000018|18 - Duncan Township|18 - Duncan Township
+05|095|000019|19 - Fargo|19 - Fargo
+05|095|000020|20 - Greenfield Township|20 - Greenfield Township
+05|095|000021|21 - Hindman Township|21 - Hindman Township
+05|095|000022|22 - Holly Grove Township|22 - Holly Grove Township
+05|095|000024|24 - Jackson Township|24 - Jackson Township
+05|095|000025|25 - Keevil Township|25 - Keevil Township
+05|095|000026|26 - Montgomery/Smalley Townsh|26 - Montgomery/Smalley Townsh
+05|095|000027|27 - Pine Ridge Township|27 - Pine Ridge Township
+05|095|000028|28 - Raymond Township|28 - Raymond Township
+05|095|000029|29 - Richland Township|29 - Richland Township
+05|095|000030|30 - Roc-Roe Township|30 - Roc-Roe Township
+05|095|000031|31 - Roc-Roe Township/City|31 - Roc-Roe Township/City
+05|097|000001|01 - ALAMO|01 - ALAMO
+05|097|000002|02 - BLACK SPRINGS|02 - BLACK SPRINGS
+05|097|000003|03 - CADDO GAP|03 - CADDO GAP
+05|097|000004|04 - CANEY|04 - CANEY
+05|097|000005|05 - CENTER|05 - CENTER
+05|097|000006|06 - FANNIE|06 - FANNIE
+05|097|000007|07 - HOPPER|07 - HOPPER
+05|097|000008|08 - MOUNT IDA - IN|08 - MOUNT IDA - IN
+05|097|000009|09 - MOUNT IDA - OUT|09 - MOUNT IDA - OUT
+05|097|000010|10 - NORMAN - IN|10 - NORMAN - IN
+05|097|000011|11 - NORMAN - OUT|11 - NORMAN - OUT
+05|097|000012|12 - ODEN - IN|12 - ODEN - IN
+05|097|000013|13 - ODEN - OUT|13 - ODEN - OUT
+05|097|000014|14 - PENCIL BLUFF|14 - PENCIL BLUFF
+05|097|000015|15 - SIMS|15 - SIMS
+05|097|000016|16 - WASHITA|16 - WASHITA
+05|099|0000EC|Emmet City|Emmet City
+05|099|0000ER|Emmet Rural|Emmet Rural
+05|099|0000RE|East Rural|East Rural
+05|099|0000RW|West Rural|West Rural
+05|099|0000W1|Ward 1|Ward 1
+05|099|0000W2|Ward 2|Ward 2
+05|099|0000W3|Ward 3|Ward 3
+05|099|0000W4|Ward 4|Ward 4
+05|099|0000WC|Willisville City|Willisville City
+05|099|0000WR|Willisville Rural|Willisville Rural
+05|099|000BCC|Bluff City|Bluff City
+05|099|000BCR|Bluff City Rural|Bluff City Rural
+05|099|000GEO|Georgia|Georgia
+05|099|000LAN|Laneburg|Laneburg
+05|099|00BODC|Bodcaw City|Bodcaw City
+05|099|00BODR|Bodcaw Rural|Bodcaw Rural
+05|099|00ROSC|Rosston City|Rosston City
+05|099|00ROSR|Rosston Rural|Rosston Rural
+05|101|000BIG|Big Creek|Big Creek
+05|101|000BOS|Boston|Boston
+05|101|000DOG|Dogpatch|Dogpatch
+05|101|000GRO|Grove|Grove
+05|101|000HAS|Hasty|Hasty
+05|101|000HIC|Hickory Grove|Hickory Grove
+05|101|000HUD|Hudson|Hudson
+05|101|000JAC|Jackson|Jackson
+05|101|000JEF|Jefferson|Jefferson
+05|101|000LIN|Lincoln|Lincoln
+05|101|000LOW|Low Gap|Low Gap
+05|101|000MTS|Mt Sherman|Mt Sherman
+05|101|000MUR|Murray|Murray
+05|101|000PLE|Pleasant Hill|Pleasant Hill
+05|101|000POL|Polk|Polk
+05|101|000PON|Ponca|Ponca
+05|101|000RIC|Richland|Richland
+05|101|000VAN|Van Buren|Van Buren
+05|101|000WHI|White|White
+05|103|000001|001-Camden|001-Camden
+05|103|000002|002-Camden|002-Camden
+05|103|000003|003-Camden|003-Camden
+05|103|000004|004-Camden|004-Camden
+05|103|000005|005-Bearden|005-Bearden
+05|103|000006|006-Chidester|006-Chidester
+05|103|000007|007-East Camden|007-East Camden
+05|103|000008|008-Louann|008-Louann
+05|103|000009|009-Stephens|009-Stephens
+05|103|000010|010-County 001|010-County 001
+05|103|000011|011-County 002|011-County 002
+05|103|000012|012-County 003|012-County 003
+05|103|000013|013-County 004|013-County 004
+05|103|000014|014-County 005|014-County 005
+05|103|000015|015-County 007|015-County 007
+05|103|000016|016-County 008|016-County 008
+05|103|000017|017-County 010|017-County 010
+05|103|000018|018-County 011|018-County 011
+05|105|000001|01 - Aplin|01 - Aplin
+05|105|000002|02 - Casa|02 - Casa
+05|105|000003|03 - Cherry Hill|03 - Cherry Hill
+05|105|000004|04 - Fourche|04 - Fourche
+05|105|000005|05 - Houston|05 - Houston
+05|105|000006|06 - Kenney|06 - Kenney
+05|105|000007|07 - Lake|07 - Lake
+05|105|000008|08 - Maumelle|08 - Maumelle
+05|105|000009|09 - New Tennessee|09 - New Tennessee
+05|105|000010|10 - Perry|10 - Perry
+05|105|000011|11 - Petit Jean|11 - Petit Jean
+05|105|000012|12 - Rankin|12 - Rankin
+05|105|000013|13 - Rose Creek|13 - Rose Creek
+05|105|000014|14 - Tyler|14 - Tyler
+05|105|000015|15 - Union|15 - Union
+05|105|000016|16 - Union Valley|16 - Union Valley
+05|105|000017|17 - Wye|17 - Wye
+05|107|001001|Helena West Helena 1|Helena West Helena 1
+05|107|001010|Helena West Helena 2|Helena West Helena 2
+05|107|001040|Helena West Helena 3|Helena West Helena 3
+05|107|001150|L-Anquille|L-Anquille
+05|107|001160|Hornor II|Hornor II
+05|107|001161|Hornor|Hornor
+05|107|001162|Hornor III|Hornor III
+05|107|001163|Hornor IV|Hornor IV
+05|107|001164|Hornor V|Hornor V
+05|107|001165|Hornor VI|Hornor VI
+05|107|001166|Honor VII|Honor VII
+05|107|001170|St Francis I|St Francis I
+05|107|001171|St Francis II|St Francis II
+05|107|001173|St Francis IV|St Francis IV
+05|107|001180|Cleburne I|Cleburne I
+05|107|001181|Cleburne II|Cleburne II
+05|107|001200|Spring Creek II|Spring Creek II
+05|107|001201|Spring Creek I|Spring Creek I
+05|107|001203|Lexa City|Lexa City
+05|107|001204|Spring Creek III|Spring Creek III
+05|107|001205|Spring Creek IV|Spring Creek IV
+05|107|001206|Spring Creek V|Spring Creek V
+05|107|001300|Marion|Marion
+05|107|001301|Marion I|Marion I
+05|107|001400|Hickory Ridge Marvell 1|Hickory Ridge Marvell 1
+05|107|001401|Hickory Ridge Marvell II|Hickory Ridge Marvell II
+05|107|001402|Hickory Ridge Marvell I|Hickory Ridge Marvell I
+05|107|001403|Hickory Ridge Marvell III|Hickory Ridge Marvell III
+05|107|001500|Hicksville|Hicksville
+05|107|001600|Cypress|Cypress
+05|107|001700|Cleveland|Cleveland
+05|107|001800|Upper Big Creek|Upper Big Creek
+05|107|001801|Lower Big Creek|Lower Big Creek
+05|107|001900|Lake|Lake
+05|107|001999|Bush|Bush
+05|107|002100|Searcy I|Searcy I
+05|107|002101|Lakeview City|Lakeview City
+05|107|002102|Searcy II|Searcy II
+05|107|002200|Searcy III|Searcy III
+05|107|002300|Tappan I|Tappan I
+05|107|002400|Tappan II|Tappan II
+05|107|002401|Elaine I|Elaine I
+05|107|002402|Elaine II|Elaine II
+05|107|002500|Mooney|Mooney
+05|109|000001|01 - Antoine|01 - Antoine
+05|109|000002|02 - Daisy|02 - Daisy
+05|109|000003|03 - Delight|03 - Delight
+05|109|000004|04 - Glenwood North|04 - Glenwood North
+05|109|000005|05 - Glenwood South|05 - Glenwood South
+05|109|000006|06 - Kirby|06 - Kirby
+05|109|000007|07 - Langley/Lodi|07 - Langley/Lodi
+05|109|000008|08 - Murfreesboro East|08 - Murfreesboro East
+05|109|000009|09 - Murfreesboro West|09 - Murfreesboro West
+05|109|000010|10 - Newhope|10 - Newhope
+05|109|000011|11 - Pisgah|11 - Pisgah
+05|111|000001|Bolivar Ward 1|Bolivar Ward 1
+05|111|000002|Bolivar Ward 2|Bolivar Ward 2
+05|111|000003|Bolivar Ward 3|Bolivar Ward 3
+05|111|000004|Bolivar Ward 4|Bolivar Ward 4
+05|111|000005|Bolivar North|Bolivar North
+05|111|000006|Bolivar South|Bolivar South
+05|111|000007|Dobson - Cooper Haynes|Dobson - Cooper Haynes
+05|111|000008|Dobson - Pitts|Dobson - Pitts
+05|111|000009|Greenfield - Greenfield|Greenfield - Greenfield
+05|111|000010|Greenfield - Buffalo Lick|Greenfield - Buffalo Lick
+05|111|000011|Greenwood Ward 1|Greenwood Ward 1
+05|111|000012|Greenwood Ward 2|Greenwood Ward 2
+05|111|000013|Greenwood Ward 3|Greenwood Ward 3
+05|111|000014|Greenwood Ward 4|Greenwood Ward 4
+05|111|000015|Greenwood Township|Greenwood Township
+05|111|000016|Greenwood - Rivervale|Greenwood - Rivervale
+05|111|000017|Little River Ward 1|Little River Ward 1
+05|111|000018|Little River Ward 2|Little River Ward 2
+05|111|000019|Little River Ward 3|Little River Ward 3
+05|111|000020|Little River Ward 4|Little River Ward 4
+05|111|000021|Little River Township|Little River Township
+05|111|000022|Little River - Payneway|Little River - Payneway
+05|111|000023|Lunsford - McCormick|Lunsford - McCormick
+05|111|000024|Lunsford - Tulot|Lunsford - Tulot
+05|111|000025|Lunsford - Weona|Lunsford - Weona
+05|111|000026|Owen - Fisher Rural|Owen - Fisher Rural
+05|111|000027|Owen - Fisher City|Owen - Fisher City
+05|111|000028|Owen - Waldenburg Rural|Owen - Waldenburg Rural
+05|111|000029|Owen - Waldenburg City|Owen - Waldenburg City
+05|111|000030|Tyronza City|Tyronza City
+05|111|000031|Tyronza Rural|Tyronza Rural
+05|111|000032|Scott - Valley View|Scott - Valley View
+05|111|000033|Scott - Whitehall|Scott - Whitehall
+05|111|000034|West Prairie City|West Prairie City
+05|111|000035|West Prairie Rural|West Prairie Rural
+05|111|000036|Willis Ward 1|Willis Ward 1
+05|111|000037|Willis Ward 2|Willis Ward 2
+05|111|000038|Willis Ward 3|Willis Ward 3
+05|111|000039|Willis Ward 4|Willis Ward 4
+05|111|000040|Willis Ward 5|Willis Ward 5
+05|111|000041|Willis Township|Willis Township
+05|113|000001|01- MENA|01- MENA
+05|113|000002|02- MENA|02- MENA
+05|113|000003|03- MENA|03- MENA
+05|113|000004|04 - ACORN|04 - ACORN
+05|113|000005|05 - INK|05 - INK
+05|113|000006|06 - BOARD CAMP|06 - BOARD CAMP
+05|113|000007|07 - CHERRY HILL|07 - CHERRY HILL
+05|113|000008|08 - BIG FORK|08 - BIG FORK
+05|113|000009|09 - DALLAS VALLEY/ SHADY|09 - DALLAS VALLEY/ SHADY
+05|113|000010|10 - SHADY GROVE|10 - SHADY GROVE
+05|113|000011|11 - ROCKY|11 - ROCKY
+05|113|000012|12 - POTTER|12 - POTTER
+05|113|000013|13 - HATFIELD|13 - HATFIELD
+05|113|000014|14 - COVE|14 - COVE
+05|113|000015|15 - VANDERVOORT|15 - VANDERVOORT
+05|113|000016|16 - WICKES|16 - WICKES
+05|113|000017|17 - GRANNIS|17 - GRANNIS
+05|115|000001|001- Appleton 1|001- Appleton 1
+05|115|000002|002- Appleton 2|002- Appleton 2
+05|115|000003|003- Atkins In|003- Atkins In
+05|115|000004|004- Atkins Out 1|004- Atkins Out 1
+05|115|000005|005- Atkins Out 2|005- Atkins Out 2
+05|115|000006|006- Atkins Out 3|006- Atkins Out 3
+05|115|000007|007- Bayliss|007- Bayliss
+05|115|000008|008- Buck Mountain|008- Buck Mountain
+05|115|000009|009- Caglesville 1|009- Caglesville 1
+05|115|000010|010- Caglesville 2|010- Caglesville 2
+05|115|000011|011- Crow Mountain East 1|011- Crow Mountain East 1
+05|115|000012|012- Crow Mountain East 2|012- Crow Mountain East 2
+05|115|000013|013- Crow Mountain West 1|013- Crow Mountain West 1
+05|115|000014|014- Crow Mountain West 2|014- Crow Mountain West 2
+05|115|000015|015- Dover In|015- Dover In
+05|115|000016|016- Dover Out|016- Dover Out
+05|115|000017|017- Economy|017- Economy
+05|115|000018|018- Freeman|018- Freeman
+05|115|000019|019- Hector In|019- Hector In
+05|115|000020|020- Hector Out|020- Hector Out
+05|115|000021|021- London In|021- London In
+05|115|000022|022- London Out|022- London Out
+05|115|000023|023- Martin 1|023- Martin 1
+05|115|000024|024- Martin 2|024- Martin 2
+05|115|000025|025- Martin 3|025- Martin 3
+05|115|000026|026- Moreland 1|026- Moreland 1
+05|115|000027|027- Moreland 2|027- Moreland 2
+05|115|000028|028- Pea Ridge|028- Pea Ridge
+05|115|000029|029- Pottsville In 1|029- Pottsville In 1
+05|115|000030|030- Pottsville In 2|030- Pottsville In 2
+05|115|000031|031- Pottsville Out 1|031- Pottsville Out 1
+05|115|000032|032- Pottsville Out 2|032- Pottsville Out 2
+05|115|000034|034- Russellville 1-A|034- Russellville 1-A
+05|115|000035|035- Russellville 1-B|035- Russellville 1-B
+05|115|000036|036- Russellville 1-C|036- Russellville 1-C
+05|115|000038|038- Russellville 2-A|038- Russellville 2-A
+05|115|000039|039- Russellville 2-B|039- Russellville 2-B
+05|115|000040|040- Russellville 2-C|040- Russellville 2-C
+05|115|000041|041- Russellville 3-A|041- Russellville 3-A
+05|115|000042|042- Russellville 3-B|042- Russellville 3-B
+05|115|000043|043- Russellville 4-A|043- Russellville 4-A
+05|115|000044|044- Russellville 4-B|044- Russellville 4-B
+05|115|000045|045- Russellville 4-C|045- Russellville 4-C
+05|115|000046|046- Russellville 4-D|046- Russellville 4-D
+05|115|000047|047- Russellville 4-E|047- Russellville 4-E
+05|115|000048|048- Russellville 4-F|048- Russellville 4-F
+05|115|000049|049- Russellville 4-G|049- Russellville 4-G
+05|115|000050|050- Russellville 4-H|050- Russellville 4-H
+05|115|000051|051- Russellville Out 1|051- Russellville Out 1
+05|115|000052|052- Russellville Out 2|052- Russellville Out 2
+05|115|000053|053- Russellville Out 3|053- Russellville Out 3
+05|115|000054|054- Russellville Out 4|054- Russellville Out 4
+05|115|000055|055- Scottsville 1|055- Scottsville 1
+05|115|000056|056- Scottsville 2|056- Scottsville 2
+05|115|000057|057- Nogo|057- Nogo
+05|117|0000BT|Belcher / Tyler|Belcher / Tyler
+05|117|0000BU|Bullard|Bullard
+05|117|0000CA|Calhoun|Calhoun
+05|117|0000CE|Center|Center
+05|117|0000DA|Des Arc|Des Arc
+05|117|0000H1|Hazen Ward 1|Hazen Ward 1
+05|117|0000H2|Hazen Ward 2|Hazen Ward 2
+05|117|0000H3|Hazen Ward 3|Hazen Ward 3
+05|117|0000HC|Hazen Country|Hazen Country
+05|117|0000HP|Hickory Plains|Hickory Plains
+05|117|0000LH|Lower Hill City|Lower Hill City
+05|117|0000RR|Roc Roe City|Roc Roe City
+05|117|0000UH|Upper Hill|Upper Hill
+05|117|0000UN|Union|Union
+05|117|0000WA|Wattensaw City Ward 1|Wattensaw City Ward 1
+05|117|000LHC|Lower Hill Country|Lower Hill Country
+05|117|000RRC|Roc Roe Country|Roc Roe Country
+05|117|000WA2|Wattensaw City Ward 2|Wattensaw City Ward 2
+05|117|000WA3|Wattensaw City Ward 3|Wattensaw City Ward 3
+05|117|000WAC|Wattensaw Country|Wattensaw Country
+05|117|000WR1|White River Ward 1|White River Ward 1
+05|117|000WR2|White River Ward 2|White River Ward 2
+05|117|000WR3|White River Ward 3|White River Ward 3
+05|117|000WRC|White River Country|White River Country
+05|119|000001|Precinct 001|Precinct 001
+05|119|000002|Precinct 002|Precinct 002
+05|119|000003|Precinct 003|Precinct 003
+05|119|000004|Precinct 004|Precinct 004
+05|119|000005|Precinct 005|Precinct 005
+05|119|000006|Precinct 006|Precinct 006
+05|119|000007|Precinct 007|Precinct 007
+05|119|000008|Precinct 008|Precinct 008
+05|119|000009|Precinct 009|Precinct 009
+05|119|000010|Precinct 010|Precinct 010
+05|119|000011|Precinct 011|Precinct 011
+05|119|000012|Precinct 012|Precinct 012
+05|119|000013|Precinct 013|Precinct 013
+05|119|000014|Precinct 014|Precinct 014
+05|119|000015|Precinct 015|Precinct 015
+05|119|000016|Precinct 016|Precinct 016
+05|119|000017|Precinct 017|Precinct 017
+05|119|000018|Precinct 018|Precinct 018
+05|119|000019|Precinct 019|Precinct 019
+05|119|000020|Precinct 020|Precinct 020
+05|119|000021|Precinct 021|Precinct 021
+05|119|000022|Precinct 022|Precinct 022
+05|119|000023|Precinct 023|Precinct 023
+05|119|000024|Precinct 024|Precinct 024
+05|119|000025|Precinct 025|Precinct 025
+05|119|000026|Precinct 026|Precinct 026
+05|119|000027|Precinct 027|Precinct 027
+05|119|000028|Precinct 028|Precinct 028
+05|119|000029|Precinct 029|Precinct 029
+05|119|000030|Precinct 030|Precinct 030
+05|119|000031|Precinct 031|Precinct 031
+05|119|000032|Precinct 032|Precinct 032
+05|119|000033|Precinct 033|Precinct 033
+05|119|000034|Precinct 034|Precinct 034
+05|119|000035|Precinct 035|Precinct 035
+05|119|000036|Precinct 036|Precinct 036
+05|119|000037|Precinct 037|Precinct 037
+05|119|000038|Precinct 038|Precinct 038
+05|119|000039|Precinct 039|Precinct 039
+05|119|000040|Precinct 040|Precinct 040
+05|119|000041|Precinct 041|Precinct 041
+05|119|000042|Precinct 042|Precinct 042
+05|119|000043|Precinct 043|Precinct 043
+05|119|000044|Precinct 044|Precinct 044
+05|119|000045|Precinct 045|Precinct 045
+05|119|000046|Precinct 046|Precinct 046
+05|119|000047|Precinct 047|Precinct 047
+05|119|000048|Precinct 048|Precinct 048
+05|119|000049|Precinct 049|Precinct 049
+05|119|000050|Precinct 050|Precinct 050
+05|119|000051|Precinct 051|Precinct 051
+05|119|000052|Precinct 052|Precinct 052
+05|119|000053|Precinct 053|Precinct 053
+05|119|000054|Precinct 054|Precinct 054
+05|119|000055|Precinct 055|Precinct 055
+05|119|000056|Precinct 056|Precinct 056
+05|119|000057|Precinct 057|Precinct 057
+05|119|000058|Precinct 058|Precinct 058
+05|119|000059|Precinct 059|Precinct 059
+05|119|000060|Precinct 060|Precinct 060
+05|119|000061|Precinct 061|Precinct 061
+05|119|000062|Precinct 062|Precinct 062
+05|119|000063|Precinct 063|Precinct 063
+05|119|000064|Precinct 064|Precinct 064
+05|119|000065|Precinct 065|Precinct 065
+05|119|000066|Precinct 066|Precinct 066
+05|119|000067|Precinct 067|Precinct 067
+05|119|000068|Precinct 068|Precinct 068
+05|119|000069|Precinct 069|Precinct 069
+05|119|000070|Precinct 070|Precinct 070
+05|119|000071|Precinct 071|Precinct 071
+05|119|000072|Precinct 072|Precinct 072
+05|119|000073|Precinct 073|Precinct 073
+05|119|000074|Precinct 074|Precinct 074
+05|119|000075|Precinct 075|Precinct 075
+05|119|000076|Precinct 076|Precinct 076
+05|119|000077|Precinct 077|Precinct 077
+05|119|000078|Precinct 078|Precinct 078
+05|119|000079|Precinct 079|Precinct 079
+05|119|000080|Precinct 080|Precinct 080
+05|119|000081|Precinct 081|Precinct 081
+05|119|000082|Precinct 082|Precinct 082
+05|119|000083|Precinct 083|Precinct 083
+05|119|000084|Precinct 084|Precinct 084
+05|119|000085|Precinct 085|Precinct 085
+05|119|000086|Precinct 086|Precinct 086
+05|119|000087|Precinct 087|Precinct 087
+05|119|000088|Precinct 088|Precinct 088
+05|119|000089|Precinct 089|Precinct 089
+05|119|000090|Precinct 090|Precinct 090
+05|119|000091|Precinct 091|Precinct 091
+05|119|000092|Precinct 092|Precinct 092
+05|119|000093|Precinct 093|Precinct 093
+05|119|000094|Precinct 094|Precinct 094
+05|119|000095|Precinct 095|Precinct 095
+05|119|000096|Precinct 096|Precinct 096
+05|119|000097|Precinct 097|Precinct 097
+05|119|000098|Precinct 098|Precinct 098
+05|119|000099|Precinct 099|Precinct 099
+05|119|000100|Precinct 100|Precinct 100
+05|119|000101|Precinct 101|Precinct 101
+05|119|000102|Precinct 102|Precinct 102
+05|119|000103|Precinct 103|Precinct 103
+05|119|000104|Precinct 104|Precinct 104
+05|119|000105|Precinct 105|Precinct 105
+05|119|000106|Precinct 106|Precinct 106
+05|119|000107|Precinct 107|Precinct 107
+05|119|000108|Precinct 108|Precinct 108
+05|119|000109|Precinct 109|Precinct 109
+05|119|000110|Precinct 110|Precinct 110
+05|119|000111|Precinct 111|Precinct 111
+05|119|000112|Precinct 112|Precinct 112
+05|119|000113|Precinct 113|Precinct 113
+05|119|000114|Precinct 114|Precinct 114
+05|119|000115|Precinct 115|Precinct 115
+05|119|000116|Precinct 116|Precinct 116
+05|119|000117|Precinct 117|Precinct 117
+05|119|000118|Precinct 118|Precinct 118
+05|119|000119|Precinct 119|Precinct 119
+05|119|000120|Precinct 120|Precinct 120
+05|119|000121|Precinct 121|Precinct 121
+05|119|000122|Precinct 122|Precinct 122
+05|119|000123|Precinct 123|Precinct 123
+05|119|000124|Precinct 124|Precinct 124
+05|119|000125|Precinct 125|Precinct 125
+05|119|000126|Precinct 126|Precinct 126
+05|119|000127|Precinct 127|Precinct 127
+05|119|000128|Precinct 128|Precinct 128
+05|119|000129|Precinct 129|Precinct 129
+05|119|000130|Precinct 130|Precinct 130
+05|119|000131|Precinct 131|Precinct 131
+05|119|000132|Precinct 132|Precinct 132
+05|119|000133|Precinct 133|Precinct 133
+05|119|000134|Precinct 134|Precinct 134
+05|119|000135|Precinct 135|Precinct 135
+05|119|000136|Precinct 136|Precinct 136
+05|119|000137|Precinct 137|Precinct 137
+05|121|000001|01 - Baker|01 - Baker
+05|121|000002|02 - Bristow|02 - Bristow
+05|121|000003|03 - Butler|03 - Butler
+05|121|000004|04 - Columbia|04 - Columbia
+05|121|000005|05 - Current River|05 - Current River
+05|121|000006|06 - Dalton|06 - Dalton
+05|121|000007|07 - Elevenpoint|07 - Elevenpoint
+05|121|000008|08 - Foster|08 - Foster
+05|121|000009|09 - Ingram|09 - Ingram
+05|121|000010|10 - Jackson|10 - Jackson
+05|121|000011|11 - Janes Creek|11 - Janes Creek
+05|121|000012|12 - Little Black|12 - Little Black
+05|121|000013|13 - Okean|13 - Okean
+05|121|000014|14 - Reyno|14 - Reyno
+05|121|000015|15 - Richardson|15 - Richardson
+05|121|000016|16 - East Roanoke|16 - East Roanoke
+05|121|000017|17 - West Roanoke|17 - West Roanoke
+05|121|000018|18 - Running Lake|18 - Running Lake
+05|121|000019|19 - Shiloh|19 - Shiloh
+05|121|000020|20 - Siloam|20 - Siloam
+05|121|000021|21 - Spring River|21 - Spring River
+05|121|000022|22 - Union|22 - Union
+05|121|000023|23 - Warm Springs|23 - Warm Springs
+05|121|000024|24 - Water Valley|24 - Water Valley
+05|121|000025|25 - Wiley|25 - Wiley
+05|121|000026|26 - Ward One|26 - Ward One
+05|121|000027|27 - Ward Two|27 - Ward Two
+05|121|000028|28 - Ward Three|28 - Ward Three
+05|121|000029|29 - Demun Rural|29 - Demun Rural
+05|123|000001|01 - Hughes Ward 1|01 - Hughes Ward 1
+05|123|000002|02 - Hughes Ward 2|02 - Hughes Ward 2
+05|123|000003|03 - Hughes Ward 3|03 - Hughes Ward 3
+05|123|000004|04 - Hughes Country|04 - Hughes Country
+05|123|000005|05 - Rawlison|05 - Rawlison
+05|123|000006|06 - Heth|06 - Heth
+05|123|000007|07 - Blackfish|07 - Blackfish
+05|123|000009|09 - Widener County GW|09 - Widener County GW
+05|123|000010|10 - Widener City GE|10 - Widener City GE
+05|123|000011|11 - Round Pond Mosley GE|11 - Round Pond Mosley GE
+05|123|000013|13 - Round Pond Mosley GW|13 - Round Pond Mosley GW
+05|123|000014|14 - Madison City|14 - Madison City
+05|123|000015|15 - Madison Country|15 - Madison Country
+05|123|000016|16 - Tuni|16 - Tuni
+05|123|000017|17 - Bonair|17 - Bonair
+05|123|000018|18 - Parrott|18 - Parrott
+05|123|000019|19 - Newcastle|19 - Newcastle
+05|123|000020|20 - Colt City|20 - Colt City
+05|123|000021|21 - Colt Country|21 - Colt Country
+05|123|000022|22 - Caldwell City|22 - Caldwell City
+05|123|000023|23 - Caldwell Country|23 - Caldwell Country
+05|123|000024|24-Bonair|24-Bonair
+05|123|000025|25-Parrot/Newcastle|25-Parrot/Newcastle
+05|123|000026|26-Forrest City Country West|26-Forrest City Country West
+05|123|000027|27 - Pine Tree|27 - Pine Tree
+05|123|000028|28 - Palestine City 1|28 - Palestine City 1
+05|123|000029|29 - Palestine City 2|29 - Palestine City 2
+05|123|000030|30 - Palestine City 3|30 - Palestine City 3
+05|123|000031|31 - Palestine Country|31 - Palestine Country
+05|123|000032|32 - Goodwin|32 - Goodwin
+05|123|000033|33 - Wheatley City|33 - Wheatley City
+05|123|000034|34 - Wheatley Country|34 - Wheatley Country
+05|123|000035|35 - Forrest City Ward 1-1|35 - Forrest City Ward 1-1
+05|123|000038|38 - Forrest City Ward 1-4|38 - Forrest City Ward 1-4
+05|123|000040|40 - Forrest City Ward 2-1|40 - Forrest City Ward 2-1
+05|123|000041|41 - Forrest City Ward 2-2|41 - Forrest City Ward 2-2
+05|123|000043|43 - Forrest City Ward 2-3|43 - Forrest City Ward 2-3
+05|123|000045|45 - Forrest City Ward 2-4|45 - Forrest City Ward 2-4
+05|123|000049|49- Forrest City Ward 3-1|49- Forrest City Ward 3-1
+05|123|000050|50 - Forrest City Ward 2-2|50 - Forrest City Ward 2-2
+05|123|000052|52 - Forrest City Ward 3-4|52 - Forrest City Ward 3-4
+05|123|000053|53 - Forrest City Ward 3-5|53 - Forrest City Ward 3-5
+05|123|000055|55 - Forrest City Ward 2-6|55 - Forrest City Ward 2-6
+05|123|000056|56 - Forrest City Ward 4-2|56 - Forrest City Ward 4-2
+05|123|000057|57 - Forrest City Ward 1-6|57 - Forrest City Ward 1-6
+05|123|000065|65 - Forrest City Ward 4-5|65 - Forrest City Ward 4-5
+05|123|000066|66 - Forrest City Ward 4-6|66 - Forrest City Ward 4-6
+05|123|0026-2|26 - Bonair|26 - Bonair
+05|125|000001|01|01
+05|125|000002|02|02
+05|125|000003|03|03
+05|125|000004|04|04
+05|125|000005|05|05
+05|125|000006|06|06
+05|125|000007|07|07
+05|125|000008|08|08
+05|125|000009|09|09
+05|125|000010|10|10
+05|125|000011|11|11
+05|125|000012|12|12
+05|125|000013|13|13
+05|125|000014|14|14
+05|125|000015|15|15
+05|125|000016|16|16
+05|125|000017|17|17
+05|125|000018|18|18
+05|125|000019|19|19
+05|125|000020|20|20
+05|125|000021|21|21
+05|125|000022|22|22
+05|125|000023|23|23
+05|125|000024|24|24
+05|125|000025|25|25
+05|125|000026|26|26
+05|125|000027|27|27
+05|125|000028|28|28
+05|125|000029|29|29
+05|125|000030|30|30
+05|125|000031|31|31
+05|125|000032|32|32
+05|125|000033|33|33
+05|125|000034|34|34
+05|125|000035|35|35
+05|125|000036|36|36
+05|125|000037|37|37
+05|125|000038|38|38
+05|125|000039|39|39
+05|125|000040|40|40
+05|125|000041|41|41
+05|125|000042|42|42
+05|127|000001|01 - Blackfork|01 - Blackfork
+05|127|000002|02 - Blansett|02 - Blansett
+05|127|000003|03 - Brawley|03 - Brawley
+05|127|000004|04 - Cauthron/Oliver|04 - Cauthron/Oliver
+05|127|000005|05 - Cedar Creek|05 - Cedar Creek
+05|127|000006|06 - Coal/Lafayette|06 - Coal/Lafayette
+05|127|000007|07 - Denton|07 - Denton
+05|127|000008|08 - Hickman Ward 1|08 - Hickman Ward 1
+05|127|000009|09 - Hickman Ward 2|09 - Hickman Ward 2
+05|127|000010|10 - Hickman Ward 3|10 - Hickman Ward 3
+05|127|000011|11 - Hickman Rural East|11 - Hickman Rural East
+05|127|000012|12 - Hickman Rural West|12 - Hickman Rural West
+05|127|000013|13 - Hon|13 - Hon
+05|127|000014|14 - Hunt|14 - Hunt
+05|127|000015|15 - James|15 - James
+05|127|000016|16 - Jones/Little Texas|16 - Jones/Little Texas
+05|127|000017|17 - Keener|17 - Keener
+05|127|000018|18 - Lamb|18 - Lamb
+05|127|000019|19 - Lafave|19 - Lafave
+05|127|000020|20 - Lewis 1|20 - Lewis 1
+05|127|000021|21 - Lewis 2|21 - Lewis 2
+05|127|000022|22 - Mill Creek|22 - Mill Creek
+05|127|000023|23 - Mountain|23 - Mountain
+05|127|000024|24 - Mt. Pleasant|24 - Mt. Pleasant
+05|127|000025|25 - Parks|25 - Parks
+05|127|000026|26 - Tomlinson/Tate|26 - Tomlinson/Tate
+05|129|000001|Bear Creek #4|Bear Creek #4
+05|129|000002|Bear Creek #5|Bear Creek #5
+05|129|000003|Bear Creek #6|Bear Creek #6
+05|129|000004|Calf Creek|Calf Creek
+05|129|000005|Long Creek|Long Creek
+05|129|000006|Mt. Pleasant|Mt. Pleasant
+05|129|000007|Oxley|Oxley
+05|129|000008|Prairie|Prairie
+05|129|000009|Red River|Red River
+05|129|000010|Rock Creek|Rock Creek
+05|129|000011|Shady Grove|Shady Grove
+05|129|000012|Spring|Spring
+05|129|000013|St. Joe|St. Joe
+05|129|000014|Tomahawk|Tomahawk
+05|129|000015|Wiley's Cove|Wiley's Cove
+05|131|0001-A|PRECINCT 1-A|PRECINCT 1-A
+05|131|0001-B|PRECINCT 1-B|PRECINCT 1-B
+05|131|0001-C|PRECINCT 1-C|PRECINCT 1-C
+05|131|0001-D|PRECINCT 1-D|PRECINCT 1-D
+05|131|0001-E|PRECINCT 1-E|PRECINCT 1-E
+05|131|0001-F|PRECINCT 1-F|PRECINCT 1-F
+05|131|0001-G|PRECINCT 1-G|PRECINCT 1-G
+05|131|0001-H|PRECINCT 1-H|PRECINCT 1-H
+05|131|0001-I|PRECINCT 1-I|PRECINCT 1-I
+05|131|0001-J|PRECINCT 1-J|PRECINCT 1-J
+05|131|0001-K|PRECINCT 1-K|PRECINCT 1-K
+05|131|0001-L|PRECINCT 1-L|PRECINCT 1-L
+05|131|0001-M|PRECINCT 1-M|PRECINCT 1-M
+05|131|0002-A|PRECINCT 2-A|PRECINCT 2-A
+05|131|0002-B|PRECINCT 2-B|PRECINCT 2-B
+05|131|0002-C|PRECINCT 2-C|PRECINCT 2-C
+05|131|0002-D|PRECINCT 2-D|PRECINCT 2-D
+05|131|0002-E|PRECINCT 2-E|PRECINCT 2-E
+05|131|0002-F|PRECINCT 2-F|PRECINCT 2-F
+05|131|0002-G|PRECINCT 2-G|PRECINCT 2-G
+05|131|0002-H|PRECINCT 2-H|PRECINCT 2-H
+05|131|0003-A|PRECINCT 3-A|PRECINCT 3-A
+05|131|0003-B|PRECINCT 3-B|PRECINCT 3-B
+05|131|0003-C|PRECINCT 3-C|PRECINCT 3-C
+05|131|0003-D|PRECINCT 3-D|PRECINCT 3-D
+05|131|0003-E|PRECINCT 3-E|PRECINCT 3-E
+05|131|0003-F|PRECINCT 3-F|PRECINCT 3-F
+05|131|0003-G|PRECINCT 3-G|PRECINCT 3-G
+05|131|0003-H|PRECINCT 3-H|PRECINCT 3-H
+05|131|0003-I|PRECINCT 3-I|PRECINCT 3-I
+05|131|0003-J|PRECINCT 3-J|PRECINCT 3-J
+05|131|0003-K|PRECINCT 3-K|PRECINCT 3-K
+05|131|0003-L|PRECINCT 3-L|PRECINCT 3-L
+05|131|0003-M|PRECINCT 3-M|PRECINCT 3-M
+05|131|0003-N|PRECINCT 3-N|PRECINCT 3-N
+05|131|0003-O|PRECINCT 3-O|PRECINCT 3-O
+05|131|0004-A|PRECINCT 4-A|PRECINCT 4-A
+05|131|0004-B|PRECINCT 4-B|PRECINCT 4-B
+05|131|0004-C|PRECINCT 4-C|PRECINCT 4-C
+05|131|0004-D|PRECINCT 4-D|PRECINCT 4-D
+05|131|0004-E|PRECINCT 4-E|PRECINCT 4-E
+05|131|0004-F|PRECINCT 4-F|PRECINCT 4-F
+05|131|0004-G|PRECINCT 4-G|PRECINCT 4-G
+05|131|0004-H|PRECINCT 4-H|PRECINCT 4-H
+05|131|0004-I|PRECINCT 4-I|PRECINCT 4-I
+05|131|0004-J|PRECINCT 4-J|PRECINCT 4-J
+05|131|0004-K|PRECINCT 4-K|PRECINCT 4-K
+05|131|0004-L|PRECINCT 4-L|PRECINCT 4-L
+05|131|0004-M|PRECINCT 4-M|PRECINCT 4-M
+05|131|0004-N|PRECINCT 4-N|PRECINCT 4-N
+05|131|0009-J|PRECINCT 9-J|PRECINCT 9-J
+05|131|0009-L|PRECINCT 9-L|PRECINCT 9-L
+05|131|009-1A|PRECINCT 9-1A|PRECINCT 9-1A
+05|131|009-1B|PRECINCT 9-1B|PRECINCT 9-1B
+05|131|009-1C|PRECINCT 9-1C|PRECINCT 9-1C
+05|131|009-1D|PRECINCT 9-1D|PRECINCT 9-1D
+05|131|009-1E|PRECINCT 9-1E|PRECINCT 9-1E
+05|131|009-1F|PRECINCT 9-1F|PRECINCT 9-1F
+05|131|009-1G|PRECINCT 9-1G|PRECINCT 9-1G
+05|131|009-1H|PRECINCT 9-1H|PRECINCT 9-1H
+05|131|009-1I|PRECINCT 9-1I|PRECINCT 9-1I
+05|131|009-1K|PRECINCT 9-1K|PRECINCT 9-1K
+05|131|009-1M|PRECINCT 9-1M|PRECINCT 9-1M
+05|131|009-1N|PRECINCT 9-1N|PRECINCT 9-1N
+05|131|009-1O|PRECINCT 9-1O|PRECINCT 9-1O
+05|131|009-2A|PRECINCT 9-2A|PRECINCT 9-2A
+05|131|009-2B|PRECINCT 9-2B|PRECINCT 9-2B
+05|131|009-2C|PRECINCT 9-2C|PRECINCT 9-2C
+05|131|009-2D|PRECINCT 9-2D|PRECINCT 9-2D
+05|131|009-2E|PRECINCT 9-2E|PRECINCT 9-2E
+05|131|009-2F|PRECINCT 9-2F|PRECINCT 9-2F
+05|131|009-2G|PRECINCT 9-2G|PRECINCT 9-2G
+05|131|009-2H|PRECINCT 9-2H|PRECINCT 9-2H
+05|131|009-2I|PRECINCT 9-2I|PRECINCT 9-2I
+05|131|009-2J|PRECINCT 9-2J|PRECINCT 9-2J
+05|131|009-2K|PRECINCT 9-2K|PRECINCT 9-2K
+05|131|009-2L|PRECINCT 9-2L|PRECINCT 9-2L
+05|131|009-2M|PRECINCT 9-2M|PRECINCT 9-2M
+05|131|009-3A|PRECINCT 9-3A|PRECINCT 9-3A
+05|131|009-3B|PRECINCT 9-3B|PRECINCT 9-3B
+05|131|009-3C|PRECINCT 9-3C|PRECINCT 9-3C
+05|131|009-3D|PRECINCT 9-3D|PRECINCT 9-3D
+05|131|009-3E|PRECINCT 9-3E|PRECINCT 9-3E
+05|131|009-3F|PRECINCT 9-3F|PRECINCT 9-3F
+05|131|009-3G|PRECINCT 9-3G|PRECINCT 9-3G
+05|131|009-3H|PRECINCT 9-3H|PRECINCT 9-3H
+05|131|009-3I|PRECINCT 9-3I|PRECINCT 9-3I
+05|131|009-3J|PRECINCT 9-3J|PRECINCT 9-3J
+05|131|009-3K|PRECINCT 9-3K|PRECINCT 9-3K
+05|131|009-3L|PRECINCT 9-3L|PRECINCT 9-3L
+05|131|009-3M|PRECINCT 9-3M|PRECINCT 9-3M
+05|131|009-3N|PRECINCT 9-3N|PRECINCT 9-3N
+05|131|009-3O|PRECINCT 9-3O|PRECINCT 9-3O
+05|131|009-3P|PRECINCT 9-3P|PRECINCT 9-3P
+05|131|009-4A|PRECINCT 9-4A|PRECINCT 9-4A
+05|131|009-4B|PRECINCT 9-4B|PRECINCT 9-4B
+05|131|009-4C|PRECINCT 9-4C|PRECINCT 9-4C
+05|131|009-4D|PRECINCT 9-4D|PRECINCT 9-4D
+05|131|009-4E|PRECINCT 9-4E|PRECINCT 9-4E
+05|131|009-4F|PRECINCT 9-4F|PRECINCT 9-4F
+05|131|009-4G|PRECINCT 9-4G|PRECINCT 9-4G
+05|131|009-4H|PRECINCT 9-4H|PRECINCT 9-4H
+05|131|009-4I|PRECINCT 9-4I|PRECINCT 9-4I
+05|131|009-4J|PRECINCT 9-4J|PRECINCT 9-4J
+05|131|009-4K|PRECINCT 9-4K|PRECINCT 9-4K
+05|131|009-4L|PRECINCT 9-4L|PRECINCT 9-4L
+05|131|009-5A|PRECINCT 9-5A|PRECINCT 9-5A
+05|131|009-5B|PRECINCT 9-5B|PRECINCT 9-5B
+05|131|009-6A|PRECINCT 9-6A|PRECINCT 9-6A
+05|131|009-6B|PRECINCT 9-6B|PRECINCT 9-6B
+05|131|009-6C|PRECINCT 9-6C|PRECINCT 9-6C
+05|133|000001|Bear Creek West|Bear Creek West
+05|133|000002|Bear Creek East|Bear Creek East
+05|133|000003|De Queen North Central|De Queen North Central
+05|133|000004|De Queen Northwest|De Queen Northwest
+05|133|000006|De Queen Southwest|De Queen Southwest
+05|133|000007|De Queen East|De Queen East
+05|133|000008|Ben Lomond|Ben Lomond
+05|133|000011|Clear Creek 2|Clear Creek 2
+05|133|000013|Clear Creek 1|Clear Creek 1
+05|133|000015|Jefferson|Jefferson
+05|133|000017|Mineral|Mineral
+05|133|000020|Monroe|Monroe
+05|133|000022|Paraclifta|Paraclifta
+05|133|000023|Red Colony|Red Colony
+05|133|000026|Saline West|Saline West
+05|133|000027|Saline East|Saline East
+05|133|000028|Washington|Washington
+05|135|000001|Big Creek|Big Creek
+05|135|000002|Cave|Cave
+05|135|000003|Cherokee|Cherokee
+05|135|000004|Davidson|Davidson
+05|135|000005|East Sullivan|East Sullivan
+05|135|000006|Hardy|Hardy
+05|135|000007|Highland|Highland
+05|135|000008|Jackson|Jackson
+05|135|000010|Lave Creek|Lave Creek
+05|135|000011|Lower North|Lower North
+05|135|000012|Morgan|Morgan
+05|135|000013|North Big Rock|North Big Rock
+05|135|000014|North Lebanon|North Lebanon
+05|135|000015|North Union|North Union
+05|135|000016|Ozark|Ozark
+05|135|000017|Piney Fork|Piney Fork
+05|135|000018|Richwood|Richwood
+05|135|000019|Scott|Scott
+05|135|000020|South Big Rock|South Big Rock
+05|135|000021|South Lebanon|South Lebanon
+05|135|000022|South Union|South Union
+05|135|000023|Strawberry|Strawberry
+05|135|000024|Upper North|Upper North
+05|135|000025|Washington|Washington
+05|135|000026|West Sullivan|West Sullivan
+05|137|000101|Arbanna|Arbanna
+05|137|000102|East Out|East Out
+05|137|000103|Ward 1|Ward 1
+05|137|000104|Ward 2|Ward 2
+05|137|000105|Ward 3|Ward 3
+05|137|000106|West Out|West Out
+05|137|000107|Dodd Mtn|Dodd Mtn
+05|137|000108|Bethany|Bethany
+05|137|000109|Fifty Six|Fifty Six
+05|137|000110|Angora Mtn|Angora Mtn
+05|137|000111|Pleasant Grove|Pleasant Grove
+05|137|000112|Foothills|Foothills
+05|137|000114|Liberty|Liberty
+05|137|000118|Northwest|Northwest
+05|137|000119|Old Lexington|Old Lexington
+05|137|000123|Fox|Fox
+05|137|000124|Red Doors|Red Doors
+05|137|000128|Ben|Ben
+05|137|000129|Northeast|Northeast
+05|139|0000W1|Ward 1|Ward 1
+05|139|0000W2|Ward 2|Ward 2
+05|139|0000W3|Ward 3|Ward 3
+05|139|0000W4|Ward 4|Ward 4
+05|139|000AUR|Aurelle|Aurelle
+05|139|000CAL|Caledonia|Caledonia
+05|139|000CB1|Country Box # 1|Country Box # 1
+05|139|000CB2|Country Box # 2|Country Box # 2
+05|139|000CB3|Country Box # 3|Country Box # 3
+05|139|000CB4|Country Box # 4|Country Box # 4
+05|139|000CB6|Country Box # 6|Country Box # 6
+05|139|000CB7|Country Box # 7|Country Box # 7
+05|139|000CLN|Calion|Calion
+05|139|000FEL|Felsenthal|Felsenthal
+05|139|000HIB|Hibanks|Hibanks
+05|139|000HUT|Huttig|Huttig
+05|139|000JUN|Junction City|Junction City
+05|139|000LAW|Lawson|Lawson
+05|139|000LIS|Lisbon|Lisbon
+05|139|000MTH|Mt Holly|Mt Holly
+05|139|000NLO|New London|New London
+05|139|000NOR|Norphlet|Norphlet
+05|139|000SMA|Smackover|Smackover
+05|139|000STR|Strong|Strong
+05|139|000THR|Three Creeks|Three Creeks
+05|139|000UNI|Union|Union
+05|139|000WES|Wesson|Wesson
+05|139|000WOS|Woolleys Store|Woolleys Store
+05|141|000002|02 BARNETT|02 BARNETT
+05|141|000003|03 BRADLEY|03 BRADLEY
+05|141|000004|04 CULPEPPER|04 CULPEPPER
+05|141|000005|05 HOLLY MOUNTAIN|05 HOLLY MOUNTAIN
+05|141|000006|06 CHOCTAW|06 CHOCTAW
+05|141|000007|07 WEST GRIGGS|07 WEST GRIGGS
+05|141|000008|08 CRAIG|08 CRAIG
+05|141|000009|09 CARGILE|09 CARGILE
+05|141|000010|10 DAVIS|10 DAVIS
+05|141|000011|11 FORMOSA|11 FORMOSA
+05|141|000012|12 EAST GRIGGS|12 EAST GRIGGS
+05|141|000015|15 MOUNTAIN|15 MOUNTAIN
+05|141|000017|17 LINN CREEK|17 LINN CREEK
+05|141|000019|19 RED RIVER|19 RED RIVER
+05|141|000020|20 UNION|20 UNION
+05|141|000021|21 WASHINGTON|21 WASHINGTON
+05|141|000022|22 WHEELER|22 WHEELER
+05|141|000023|23 MOUNTAIN RANCH|23 MOUNTAIN RANCH
+05|141|000024|24 SOUTH GRIGGS|24 SOUTH GRIGGS
+05|141|000025|25 INDIAN HILLS|25 INDIAN HILLS
+05|141|000026|26 LAKEWOOD|26 LAKEWOOD
+05|143|000020|Boston|Boston
+05|143|000040|Brush Creek|Brush Creek
+05|143|000060|Cane Hill|Cane Hill
+05|143|000080|Center|Center
+05|143|000082|Center-2|Center-2
+05|143|000085|Center House|Center House
+05|143|000100|Cove Creek|Cove Creek
+05|143|000110|Cove Creek-S|Cove Creek-S
+05|143|000120|Crawford|Crawford
+05|143|000140|Durham|Durham
+05|143|000160|Dutch Mills|Dutch Mills
+05|143|000180|Elkins|Elkins
+05|143|000181|Elkins-H|Elkins-H
+05|143|000200|Elm Springs Twp|Elm Springs Twp
+05|143|000210|Elm Springs City|Elm Springs City
+05|143|000220|Farmington-1|Farmington-1
+05|143|000221|Farmington-S|Farmington-S
+05|143|000222|Farmington-2|Farmington-2
+05|143|000223|Farmington-3|Farmington-3
+05|143|000240|Fay 01|Fay 01
+05|143|000250|Fay 02|Fay 02
+05|143|000260|Fay 03|Fay 03
+05|143|000270|Fay 04|Fay 04
+05|143|000280|Fay 05|Fay 05
+05|143|000290|Fay 06|Fay 06
+05|143|000300|Fay 07|Fay 07
+05|143|000310|Fay 08|Fay 08
+05|143|000320|Fay 09a|Fay 09a
+05|143|000321|Fay 09b|Fay 09b
+05|143|000330|Fay 10|Fay 10
+05|143|000331|Fay 11|Fay 11
+05|143|000332|Fay 12|Fay 12
+05|143|000333|Fay 13|Fay 13
+05|143|000334|Fay 14|Fay 14
+05|143|000335|Fay 15|Fay 15
+05|143|000336|Fay 16|Fay 16
+05|143|000337|Fay 17|Fay 17
+05|143|000338|Fay 18|Fay 18
+05|143|000339|Fay 19|Fay 19
+05|143|000340|Fay 20|Fay 20
+05|143|000341|Fay 21|Fay 21
+05|143|000342|Fay 22|Fay 22
+05|143|000343|Fay 23|Fay 23
+05|143|000344|Fay 24|Fay 24
+05|143|000345|Fay 25|Fay 25
+05|143|000346|Fay 26|Fay 26
+05|143|000347|Fay 27|Fay 27
+05|143|000348|Fay 28|Fay 28
+05|143|000349|Fay 29|Fay 29
+05|143|000350|Fay 30|Fay 30
+05|143|000351|Fay 31|Fay 31
+05|143|000352|Fay 32|Fay 32
+05|143|000353|Fay 33|Fay 33
+05|143|000354|Fay 34|Fay 34
+05|143|000355|Fay 35|Fay 35
+05|143|000356|Fay 36|Fay 36
+05|143|000357|Fay 37|Fay 37
+05|143|000358|Fay 38|Fay 38
+05|143|000359|Fay 39|Fay 39
+05|143|000360|Fay 40|Fay 40
+05|143|000361|Fay 41|Fay 41
+05|143|000362|Fay 42|Fay 42
+05|143|000363|Fay 43|Fay 43
+05|143|000364|Fay 44|Fay 44
+05|143|000365|Fay 45|Fay 45
+05|143|000366|Fay 46|Fay 46
+05|143|000367|Fay 47|Fay 47
+05|143|000368|Fay 48|Fay 48
+05|143|000369|Greenland City|Greenland City
+05|143|000370|Greenland Twp|Greenland Twp
+05|143|000373|Goshen City|Goshen City
+05|143|000375|Goshen Twp|Goshen Twp
+05|143|000380|Harmon|Harmon
+05|143|000381|Harmon-S|Harmon-S
+05|143|000400|Illinois|Illinois
+05|143|000419|Johnson Twp-H|Johnson Twp-H
+05|143|000420|Johnson Twp|Johnson Twp
+05|143|000421|Johnson City|Johnson City
+05|143|000422|Johnson City-S|Johnson City-S
+05|143|000440|Lees Creek|Lees Creek
+05|143|000460|Lincoln|Lincoln
+05|143|000480|Litteral|Litteral
+05|143|000500|Marrs Hill|Marrs Hill
+05|143|000520|Morrow|Morrow
+05|143|000541|Prairie Twp 1|Prairie Twp 1
+05|143|000542|Prairie Twp 2|Prairie Twp 2
+05|143|000543|Prairie Twp 3|Prairie Twp 3
+05|143|000544|Prairie Twp 4|Prairie Twp 4
+05|143|000545|Prairie Twp 5|Prairie Twp 5
+05|143|000550|Prairie Gr City-1|Prairie Gr City-1
+05|143|000560|Prairie Gr City-2|Prairie Gr City-2
+05|143|000561|Prairie Gr City - Senate|Prairie Gr City - Senate
+05|143|000562|Prairie Gr City - House|Prairie Gr City - House
+05|143|000580|Prairie Gr Twp|Prairie Gr Twp
+05|143|000581|Prairie Gr Twp-Senate|Prairie Gr Twp-Senate
+05|143|000620|Reed|Reed
+05|143|000640|Rheas Mill|Rheas Mill
+05|143|000660|Richland|Richland
+05|143|000661|Richland - Senate|Richland - Senate
+05|143|000680|Spg 01|Spg 01
+05|143|000690|Spg 02|Spg 02
+05|143|000700|Spg 03|Spg 03
+05|143|000710|Spg 04|Spg 04
+05|143|000720|Spg 05|Spg 05
+05|143|000730|Spg 06|Spg 06
+05|143|000740|Spg 07|Spg 07
+05|143|000741|Spg 08|Spg 08
+05|143|000742|Spg 09|Spg 09
+05|143|000743|Spg 10|Spg 10
+05|143|000744|Spg 11|Spg 11
+05|143|000745|Spg 12|Spg 12
+05|143|000746|Spg 13|Spg 13
+05|143|000747|Spg 14|Spg 14
+05|143|000748|Spg 15|Spg 15
+05|143|000749|Spg 16|Spg 16
+05|143|000752|Spg 17|Spg 17
+05|143|000753|Spg 18|Spg 18
+05|143|000754|Spg 19|Spg 19
+05|143|000755|Spg 20|Spg 20
+05|143|000756|Spg 21|Spg 21
+05|143|000757|Spg 22|Spg 22
+05|143|000758|Spg 23|Spg 23
+05|143|000759|Spg 24|Spg 24
+05|143|000760|Spg 25|Spg 25
+05|143|000761|Spg 26|Spg 26
+05|143|000762|Spg 27|Spg 27
+05|143|000779|Spg Twp|Spg Twp
+05|143|000780|Starr Hill|Starr Hill
+05|143|000800|Tontitown City-1|Tontitown City-1
+05|143|000801|Tontitown City-2|Tontitown City-2
+05|143|000802|Tontitown City-3|Tontitown City-3
+05|143|000803|Tontitown City-4|Tontitown City-4
+05|143|000804|Tontitown City-5|Tontitown City-5
+05|143|000807|Tontitown Twp|Tontitown Twp
+05|143|000810|Valley|Valley
+05|143|000811|Valley-S|Valley-S
+05|143|000812|Valley-H|Valley-H
+05|143|000820|Vineyard|Vineyard
+05|143|000830|War Eagle|War Eagle
+05|143|000840|Wedington|Wedington
+05|143|000860|West Fork City-1|West Fork City-1
+05|143|000861|West Fork City-2|West Fork City-2
+05|143|000862|West Fork City-3|West Fork City-3
+05|143|000880|West Fork Twp|West Fork Twp
+05|143|000881|West Fork Twp-H|West Fork Twp-H
+05|143|000900|Wheeler|Wheeler
+05|143|000901|Wheeler-S|Wheeler-S
+05|143|000902|Wheeler-H|Wheeler-H
+05|143|000920|White River|White River
+05|143|000930|White River-H|White River-H
+05|143|000931|White River-S|White River-S
+05|143|000940|Winslow Twp|Winslow Twp
+05|143|000950|Winslow City|Winslow City
+05|143|000960|Wyman|Wyman
+05|145|000001|01 - Albion|01 - Albion
+05|145|000002|02 - Antioch|02 - Antioch
+05|145|000003|03 - Bald Knob Ward 1|03 - Bald Knob Ward 1
+05|145|000004|04 - Bald Knob Ward 2|04 - Bald Knob Ward 2
+05|145|000005|05 - Bald knob Ward 3|05 - Bald knob Ward 3
+05|145|000006|06 - Bald Knob TWP|06 - Bald Knob TWP
+05|145|000007|07 - Beebe Ward 1|07 - Beebe Ward 1
+05|145|000008|08 - Beebe Ward 2|08 - Beebe Ward 2
+05|145|000009|09 - Beebe Ward 3|09 - Beebe Ward 3
+05|145|000010|10 - Big Creek|10 - Big Creek
+05|145|000011|11 - Bradford Ward 1|11 - Bradford Ward 1
+05|145|000012|12 - Bradford Ward 2|12 - Bradford Ward 2
+05|145|000013|13 - Bradford Ward 3|13 - Bradford Ward 3
+05|145|000014|14 - Cadron|14 - Cadron
+05|145|000015|15 - Cane|15 - Cane
+05|145|000016|16 - Chrisp|16 - Chrisp
+05|145|000017|17 - Clay|17 - Clay
+05|145|000018|18 - Cleveland|18 - Cleveland
+05|145|000019|19 - Coffey|19 - Coffey
+05|145|000020|20 - Coldwell|20 - Coldwell
+05|145|000021|21 - Crosby|21 - Crosby
+05|145|000022|22 - Cypert|22 - Cypert
+05|145|000023|23 - Denmark|23 - Denmark
+05|145|000024|24 - Des Arc|24 - Des Arc
+05|145|000025|25 - Dogwood TWP|25 - Dogwood TWP
+05|145|000026|26 - El Paso|26 - El Paso
+05|145|000027|27 - Francure|27 - Francure
+05|145|000028|28 - Garner TWP|28 - Garner TWP
+05|145|000029|29 - Garner City|29 - Garner City
+05|145|000030|30 - Gravel Hill|30 - Gravel Hill
+05|145|000031|31 - Gray A|31 - Gray A
+05|145|000032|32 - Gray B|32 - Gray B
+05|145|000033|33 - Griffithville City|33 - Griffithville City
+05|145|000034|34 - Gum Springs|34 - Gum Springs
+05|145|000035|35 - Guthrie|35 - Guthrie
+05|145|000036|36 - Harrison|36 - Harrison
+05|145|000037|37 - Hartsell|37 - Hartsell
+05|145|000038|38 - Higginson TWP|38 - Higginson TWP
+05|145|000039|39 - Higginson Ward 1|39 - Higginson Ward 1
+05|145|000040|40 - Jackson|40 - Jackson
+05|145|000041|41 - Jefferson|41 - Jefferson
+05|145|000042|42 - Joy|42 - Joy
+05|145|000043|43 - Judsonia Ward 1|43 - Judsonia Ward 1
+05|145|000044|44 - Judsonia Ward 2|44 - Judsonia Ward 2
+05|145|000045|45 - Judsonia Ward 3|45 - Judsonia Ward 3
+05|145|000046|46 - Kensett Ward 1|46 - Kensett Ward 1
+05|145|000047|47 - Kensett Ward 2|47 - Kensett Ward 2
+05|145|000048|48 - Kensett Ward 3|48 - Kensett Ward 3
+05|145|000049|49 - Kensett TWP|49 - Kensett TWP
+05|145|000050|50 - Kentucky|50 - Kentucky
+05|145|000051|51 - Letona|51 - Letona
+05|145|000052|52 - Liberty|52 - Liberty
+05|145|000053|53 - Marion|53 - Marion
+05|145|000054|54 - Marshall|54 - Marshall
+05|145|000055|55 - McRae Ward 1|55 - McRae Ward 1
+05|145|000056|56 - McRae Ward 2|56 - McRae Ward 2
+05|145|000057|57 - McRae TWP|57 - McRae TWP
+05|145|000058|58 - Mt. Pisgah|58 - Mt. Pisgah
+05|145|000059|59 - Pangburn Ward 1|59 - Pangburn Ward 1
+05|145|000060|60 - Pangburn Ward 2|60 - Pangburn Ward 2
+05|145|000061|61 - Red River|61 - Red River
+05|145|000062|62 - Rose Bud City|62 - Rose Bud City
+05|145|000063|63 - Royal|63 - Royal
+05|145|000064|64 - Russell City|64 - Russell City
+05|145|000065|65 - Russell TWP|65 - Russell TWP
+05|145|000066|66 - Searcy Ward 1 A|66 - Searcy Ward 1 A
+05|145|000068|68 - Searcy Ward 1 C|68 - Searcy Ward 1 C
+05|145|000069|69 - Searcy Ward 1 D|69 - Searcy Ward 1 D
+05|145|000071|71 - Searcy Ward 2 B|71 - Searcy Ward 2 B
+05|145|000072|72 - Searcy Ward 2 C|72 - Searcy Ward 2 C
+05|145|000073|73 - Searcy Ward 2 D|73 - Searcy Ward 2 D
+05|145|000074|74 - Searcy Ward 3 A|74 - Searcy Ward 3 A
+05|145|000075|75 - Searcy Ward 3 B|75 - Searcy Ward 3 B
+05|145|000076|76 - Searcy Ward 3 C|76 - Searcy Ward 3 C
+05|145|000077|77 - Searcy Ward 3 D|77 - Searcy Ward 3 D
+05|145|000078|78 - Searcy Ward 4 A|78 - Searcy Ward 4 A
+05|145|000079|79 - Searcy Ward 4 B|79 - Searcy Ward 4 B
+05|145|000080|80 - Searcy Ward 4 C|80 - Searcy Ward 4 C
+05|145|000081|81 - Searcy Ward 2 E|81 - Searcy Ward 2 E
+05|145|000082|82 - Union|82 - Union
+05|145|000083|83 - Velvet Ridge|83 - Velvet Ridge
+05|145|000084|84 - Walker|84 - Walker
+05|145|000085|85 - West Point|85 - West Point
+05|145|000086|86 - Georgetown City|86 - Georgetown City
+05|145|000087|87 - Bald Knob North|87 - Bald Knob North
+05|145|000090|90 - Beebe Ward 3 C|90 - Beebe Ward 3 C
+05|145|000091|91 - Harrison East|91 - Harrison East
+05|145|000092|92 - Searcy Ward 1 E|92 - Searcy Ward 1 E
+05|145|000093|93 - Searcy Ward 3 E|93 - Searcy Ward 3 E
+05|145|000094|94 - Pangburn Ward 3|94 - Pangburn Ward 3
+05|145|000095|95 - Higginson Ward 2|95 - Higginson Ward 2
+05|145|000096|96 - Higginson Ward 3|96 - Higginson Ward 3
+05|147|000001|Augusta - 01|Augusta - 01
+05|147|000002|Augusta - 02|Augusta - 02
+05|147|000003|Augusta - 03|Augusta - 03
+05|147|000004|North Rural Augusta - 04|North Rural Augusta - 04
+05|147|000005|South Rural Augusta - 05|South Rural Augusta - 05
+05|147|000006|Gregory - 06|Gregory - 06
+05|147|000007|Cotton Plant/ Freeman - 07|Cotton Plant/ Freeman - 07
+05|147|000008|Cotton Plant - 08|Cotton Plant - 08
+05|147|000009|Cotton Plant - 09|Cotton Plant - 09
+05|147|000010|Rural Hunter - 10|Rural Hunter - 10
+05|147|000011|Hunter - 11|Hunter - 11
+05|147|000012|Howell - 12|Howell - 12
+05|147|000013|Hilleman - 13|Hilleman - 13
+05|147|000014|Morton - 14|Morton - 14
+05|147|000015|McCrory Rural - 15|McCrory Rural - 15
+05|147|000016|Patterson - 16|Patterson - 16
+05|147|000017|McCrory - 17|McCrory - 17
+05|147|000018|McCrory - 18|McCrory - 18
+05|147|000019|Pumkin Bend - 19|Pumkin Bend - 19
+05|147|000020|Fakes Chapel - 20|Fakes Chapel - 20
+05|149|000001|01 - Bluffton|01 - Bluffton
+05|149|000002|02 - Briggsville|02 - Briggsville
+05|149|000003|03 - Centerville|03 - Centerville
+05|149|000004|04 - Compton|04 - Compton
+05|149|000005|05 - Crawford|05 - Crawford
+05|149|000006|06 - Danville|06 - Danville
+05|149|000007|07 - Dardanelle Outside|07 - Dardanelle Outside
+05|149|000008|08 - Dardanelle Ward 1|08 - Dardanelle Ward 1
+05|149|000009|09 - Dardanelle Ward 2|09 - Dardanelle Ward 2
+05|149|000010|10 - Dardanelle Ward 3|10 - Dardanelle Ward 3
+05|149|000011|11 - Dutch Creek|11 - Dutch Creek
+05|149|000012|12 - Ferguson|12 - Ferguson
+05|149|000013|13 - Galla Rock|13 - Galla Rock
+05|149|000014|14 - Gilkey|14 - Gilkey
+05|149|000015|15 - Gravelly|15 - Gravelly
+05|149|000016|16 - Herring|16 - Herring
+05|149|000017|17 - Lamar|17 - Lamar
+05|149|000018|18 - Magazine 1|18 - Magazine 1
+05|149|000019|19 - Magazine 2|19 - Magazine 2
+05|149|000020|20 - Mason|20 - Mason
+05|149|000021|21 - Mountain|21 - Mountain
+05|149|000022|22 - Prairie|22 - Prairie
+05|149|000023|23 - Richland|23 - Richland
+05|149|000024|24 - Waveland|24 - Waveland
+05|149|000025|25 - Riley|25 - Riley
+05|149|000026|26 - Rover|26 - Rover
+05|149|000028|28 - Ward|28 - Ward
+05|149|000029|29 - Ions Creek|29 - Ions Creek

@@ -1,0 +1,1838 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+01|001|000001|Jones Community Ctr|Jones Community Ctr
+01|001|000002|Heritage Baptist Church|Heritage Baptist Church
+01|001|000003|Billingsley Community Ctr|Billingsley Community Ctr
+01|001|000004|East Memorial Christian Academy|East Memorial Christian Academy
+01|001|000005|White City VF Station|White City VF Station
+01|001|000006|Marbury Middle School|Marbury Middle School
+01|001|000007|Boone's Chapel|Boone's Chapel
+01|001|000008|Independence VFD|Independence VFD
+01|001|000009|Booth VFD|Booth VFD
+01|001|000010|Trinity Methodist Church|Trinity Methodist Church
+01|001|000011|Central AL Electric Co-Op|Central AL Electric Co-Op
+01|001|000012|Old Kingston VFD|Old Kingston VFD
+01|001|000013|Upper Kingston Community Ctr|Upper Kingston Community Ctr
+01|001|000014|Autaugaville VFD|Autaugaville VFD
+01|001|000015|Prattmont Baptist Church|Prattmont Baptist Church
+01|001|000016|Doster Community Ctr|Doster Community Ctr
+01|001|000017|Camellia Baptist Church|Camellia Baptist Church
+01|001|000018|County Line Baptist Church|County Line Baptist Church
+01|003|000001|Little River VFD|Little River VFD
+01|003|000002|Tensaw VFD|Tensaw VFD
+01|003|000003|Old Vaughn School|Old Vaughn School
+01|003|000004|Crossroads Durant Chapel Bapt Church|Crossroads Durant Chapel Bapt Church
+01|003|000005|Douglasville Boykin Ctr|Douglasville Boykin Ctr
+01|003|000006|Bromley Substation-Crossroads VFD|Bromley Substation-Crossroads VFD
+01|003|000007|Spanish Fort New Life Assembly of God Church|Spanish Fort New Life Assembly of God Church
+01|003|000008|Loxley Ellisville Community Ctr|Loxley Ellisville Community Ctr
+01|003|000009|Loxley Civic Ctr|Loxley Civic Ctr
+01|003|000010|Point Clear St Francis Point Anglican Church|Point Clear St Francis Point Anglican Church
+01|003|000011|Lottie VFD|Lottie VFD
+01|003|000012|Stockton Civic Bldg|Stockton Civic Bldg
+01|003|000013|Rabun VFD|Rabun VFD
+01|003|000014|Peridido VFD Station #1|Peridido VFD Station #1
+01|003|000015|Bay Minette City Hall / Civic Ctr|Bay Minette City Hall / Civic Ctr
+01|003|000016|Pine Grove VFD Station #1|Pine Grove VFD Station #1
+01|003|000017|White House Fork VFD|White House Fork VFD
+01|003|000018|Stapleton VFD|Stapleton VFD
+01|003|000019|Gateswood VFD|Gateswood VFD
+01|003|000020|Daphne High School|Daphne High School
+01|003|000021|Clear Springs UM Church|Clear Springs UM Church
+01|003|000022|Rosinton UM Church|Rosinton UM Church
+01|003|000023|Belforest Community Ctr|Belforest Community Ctr
+01|003|000024|Silverhill Community Ctr|Silverhill Community Ctr
+01|003|000025|PZK Hall|PZK Hall
+01|003|000026|Bethel Bapt Church|Bethel Bapt Church
+01|003|000027|Seminole Fire House|Seminole Fire House
+01|003|000028|Lillian Community Club|Lillian Community Club
+01|003|000029|Peridido Beach VFD|Peridido Beach VFD
+01|003|000030|Marlow/Fish River VFD|Marlow/Fish River VFD
+01|003|000031|Sumerdale Community Ctr|Sumerdale Community Ctr
+01|003|000032|Elberta Civic Ctr|Elberta Civic Ctr
+01|003|000033|Graham Creek Interpretive Ctr|Graham Creek Interpretive Ctr
+01|003|000034|Josephine VFD|Josephine VFD
+01|003|000035|Daphne Civic Ctr|Daphne Civic Ctr
+01|003|000036|Magnolia Springs Wesleyan Church|Magnolia Springs Wesleyan Church
+01|003|000037|Bon Secour Morgan's Chapel UM Church|Bon Secour Morgan's Chapel UM Church
+01|003|000038|Foley Civic Ctr|Foley Civic Ctr
+01|003|000039|Gulf Shores Meyer Civic Ctr|Gulf Shores Meyer Civic Ctr
+01|003|000040|Fort Morgan VFD #1|Fort Morgan VFD #1
+01|003|000041|Orange Beach Community Ctr|Orange Beach Community Ctr
+01|003|000042|Fairhope Civic Ctr|Fairhope Civic Ctr
+01|003|000043|Fairhope 3 Circle Church|Fairhope 3 Circle Church
+01|003|000044|Barnwell VFD|Barnwell VFD
+01|003|000045|Spanish Fort Community Ctr|Spanish Fort Community Ctr
+01|003|000046|Spanish Fort Church of Christ|Spanish Fort Church of Christ
+01|003|000047|Foley UM Church|Foley UM Church
+01|003|000048|Gulf Shores Cultural Ctr|Gulf Shores Cultural Ctr
+01|003|000049|Fairhope Avenue Bapt Church|Fairhope Avenue Bapt Church
+01|005|000001|Baker Hill Town Hall|Baker Hill Town Hall
+01|005|000002|Sutton/Elamville VFD|Sutton/Elamville VFD
+01|005|000003|Clio City Hall|Clio City Hall
+01|005|000004|Bevill Ctr|Bevill Ctr
+01|005|000005|McCoo/Eufaula WB/Fellowship BC/Sanford|McCoo/Eufaula WB/Fellowship BC/Sanford
+01|005|000006|Clayton Courthouse|Clayton Courthouse
+01|005|000007|Eufaula Comm Ctr|Eufaula Comm Ctr
+01|005|000008|Mt. Andrew Comm Ctr.|Mt. Andrew Comm Ctr.
+01|005|000009|Louisville City Hall|Louisville City Hall
+01|005|000010|Texasville Comm Ctr|Texasville Comm Ctr
+01|005|000011|Springhill VFD|Springhill VFD
+01|005|00008A|Green's Cross VFD|Green's Cross VFD
+01|005|00010A|Blue Springs City Hall|Blue Springs City Hall
+01|007|000001|Green Pond FD|Green Pond FD
+01|007|000003|Eoline FD|Eoline FD
+01|007|000004|Brent City Hall|Brent City Hall
+01|007|000005|Centreville Rock Bdg|Centreville Rock Bdg
+01|007|000007|Lawley Comm Ctr|Lawley Comm Ctr
+01|007|000009|Brent NG Armory|Brent NG Armory
+01|007|000020|Alternative School|Alternative School
+01|007|000060|Six Mile Comm Ctr|Six Mile Comm Ctr
+01|009|000001|Mt. High|Mt. High
+01|009|000002|Smoke Rise|Smoke Rise
+01|009|000003|Blount Springs|Blount Springs
+01|009|000004|Hayden|Hayden
+01|009|000005|Sugar Creek|Sugar Creek
+01|009|000006|Nectar|Nectar
+01|009|000007|Blountsville|Blountsville
+01|009|000008|Summitt|Summitt
+01|009|000009|Royal|Royal
+01|009|000010|Brooksville|Brooksville
+01|009|000011|Snead Comm Ctr|Snead Comm Ctr
+01|009|000012|Susan Moore|Susan Moore
+01|009|000013|Murphree Valley|Murphree Valley
+01|009|000014|Straight Mountain|Straight Mountain
+01|009|000015|Holly Springs|Holly Springs
+01|009|000016|Cleveland|Cleveland
+01|009|000017|Locust Fork|Locust Fork
+01|009|000018|Dallas/Selfville|Dallas/Selfville
+01|009|000019|Remlap|Remlap
+01|009|000020|Pine Mountain|Pine Mountain
+01|009|000021|All Good Town Hall|All Good Town Hall
+01|009|000022|Oneonta|Oneonta
+01|009|000023|Rosa|Rosa
+01|009|000024|Rock Springs|Rock Springs
+01|011|000003|Union Springs Armory|Union Springs Armory
+01|011|000005|Indian Creek|Indian Creek
+01|011|000007|Inverness|Inverness
+01|011|000009|Cornerstone|Cornerstone
+01|011|000010|Post Oak|Post Oak
+01|011|0001-1|Midway|Midway
+01|011|0001-2|Three Notch|Three Notch
+01|011|0002-1|Guerryton|Guerryton
+01|011|0002-2|Peachburg|Peachburg
+01|011|0004-1|Aberfoil|Aberfoil
+01|011|0004-2|Sardis|Sardis
+01|011|0006-1|Perote|Perote
+01|011|0006-2|Corinth|Corinth
+01|011|0008-1|Fitzpatrick|Fitzpatrick
+01|011|0008-2|Thompson|Thompson
+01|013|000001|PROVIDENCE|PROVIDENCE
+01|013|000002|INDUSTRY SCHOOL HOUSE|INDUSTRY SCHOOL HOUSE
+01|013|000005|STEINER'S STORE|STEINER'S STORE
+01|013|000006|MIDWAY|MIDWAY
+01|013|000007|HARRISON'S|HARRISON'S
+01|013|000008|SEARCY VFD|SEARCY VFD
+01|013|000009|MANNINGHAM|MANNINGHAM
+01|013|000010|MONTEREY SCHOOL HOUSE|MONTEREY SCHOOL HOUSE
+01|013|000011|FOREST HOME|FOREST HOME
+01|013|000013|GARLAND|GARLAND
+01|013|000015|FRIENDSHIP SCHOOL HOUSE|FRIENDSHIP SCHOOL HOUSE
+01|013|000016|ROCKY CREEK|ROCKY CREEK
+01|013|000017|CENTER HILL|CENTER HILL
+01|013|000018|MCLAIN'S|MCLAIN'S
+01|013|000019|MCKENZIE CITY HALL|MCKENZIE CITY HALL
+01|013|000020|BOILING|BOILING
+01|013|0012.2|GREENVILLE POLICE DEPT|GREENVILLE POLICE DEPT
+01|013|0012.3|BUTLER CO HEALTH DEPT|BUTLER CO HEALTH DEPT
+01|013|0014.1|CHAPMAN POST OFFICE|CHAPMAN POST OFFICE
+01|013|0014.5|SR MULTI-PURPOSE CTR|SR MULTI-PURPOSE CTR
+01|013|012.4A|CENTRAL VFD|CENTRAL VFD
+01|013|012.4B|DUNBAR COMM CTR|DUNBAR COMM CTR
+01|015|000001|Jacksonville|Jacksonville
+01|015|000002|Alexandria Civitan Club|Alexandria Civitan Club
+01|015|000003|Hope Comm Ctr|Hope Comm Ctr
+01|015|000004|Eulaton/Bynum/West Park Heights/Betta View|Eulaton/Bynum/West Park Heights/Betta View
+01|015|000005|First UM Weaver/Angel Fire Station|First UM Weaver/Angel Fire Station
+01|015|000006|Friendship Bapt Church|Friendship Bapt Church
+01|015|000007|AP Hollingsworth Comm Ctr|AP Hollingsworth Comm Ctr
+01|015|000008|Asberry Bapt Church|Asberry Bapt Church
+01|015|000009|Piedmont|Piedmont
+01|015|000010|White Plains VFD|White Plains VFD
+01|015|000011|White Plains First Bapt|White Plains First Bapt
+01|015|000012|DeArmanville UM/Choccolocco|DeArmanville UM/Choccolocco
+01|015|000013|Oxford Civic Ctr/Cheaha Club|Oxford Civic Ctr/Cheaha Club
+01|015|000014|Boiling Springs Bapt|Boiling Springs Bapt
+01|015|000015|Anniston|Anniston
+01|015|000016|Trinity Bapt Church|Trinity Bapt Church
+01|015|000017|Ohatchee First Bapt Church|Ohatchee First Bapt Church
+01|015|000018|Oak Grove Bapt Church|Oak Grove Bapt Church
+01|015|000019|Saks High/ Leatherwood Civil Def|Saks High/ Leatherwood Civil Def
+01|015|000020|Friendship Comm Ctr|Friendship Comm Ctr
+01|015|000021|Mt. View Bapt Church|Mt. View Bapt Church
+01|015|000022|1st Presby/Golden Springs/Donoho/Hwy Dept|1st Presby/Golden Springs/Donoho/Hwy Dept
+01|017|000001|Standing Rock|Standing Rock
+01|017|000002|Mt Olive|Mt Olive
+01|017|000003|Milltown|Milltown
+01|017|000004|Union Hill|Union Hill
+01|017|000005|Five Points|Five Points
+01|017|000006|Fredonia|Fredonia
+01|017|000007|Lanette|Lanette
+01|017|000008|LaFayette|LaFayette
+01|017|000009|Ridge Grove|Ridge Grove
+01|017|000010|West Chambers|West Chambers
+01|017|000012|Cusseta|Cusseta
+01|017|000013|Huguley|Huguley
+01|017|000014|Valley Sportsplex|Valley Sportsplex
+01|017|0001-A|Stroud|Stroud
+01|017|0003-A|Sparkling Springs|Sparkling Springs
+01|017|0005-A|Buffalo|Buffalo
+01|017|0005-B|Penton|Penton
+01|017|0007-A|Lakeview|Lakeview
+01|017|0010-A|Waverly|Waverly
+01|019|000001|Friendship Church/Mt. Calvery Church|Friendship Church/Mt. Calvery Church
+01|019|000002|Broomtown VFD|Broomtown VFD
+01|019|000003|Valley Church|Valley Church
+01|019|000004|Unity Bapt Church|Unity Bapt Church
+01|019|000005|Gaylesville City Hall|Gaylesville City Hall
+01|019|000006|Tucker's Chapel VFW|Tucker's Chapel VFW
+01|019|000007|Daniel's Chapel|Daniel's Chapel
+01|019|000008|Cedar Bluff Church|Cedar Bluff Church
+01|019|000009|New Hope Church|New Hope Church
+01|019|000010|Sand Rock Town Hall|Sand Rock Town Hall
+01|019|000011|Leesburg VFD|Leesburg VFD
+01|019|000012|Rec Outreach Ctr|Rec Outreach Ctr
+01|019|000013|Ebenezer Church|Ebenezer Church
+01|019|000014|Shady Grove Church|Shady Grove Church
+01|019|000015|Mt. Weisner VFD/Mt Wesiner|Mt. Weisner VFD/Mt Wesiner
+01|019|000016|Congregational Church|Congregational Church
+01|019|000017|Spring Creek VFD|Spring Creek VFD
+01|019|000018|McCord's Crossroad VFD/ Rock Run Church|McCord's Crossroad VFD/ Rock Run Church
+01|019|000019|Goshen UM Church|Goshen UM Church
+01|019|000020|Spring Garden VFD|Spring Garden VFD
+01|021|000020|Maplesville Fire St|Maplesville Fire St
+01|021|000030|So. Chilton Fire Station|So. Chilton Fire Station
+01|021|000050|Fairview Fire St|Fairview Fire St
+01|021|000070|Enterprise Fire St|Enterprise Fire St
+01|021|000090|Verbena Fire Station|Verbena Fire Station
+01|021|000110|Providence , East Chilton Fire Station|Providence , East Chilton Fire Station
+01|021|000120|Cane Creek Fire St|Cane Creek Fire St
+01|021|000140|Union Grove Fire Station|Union Grove Fire Station
+01|021|000160|City of Jemison|City of Jemison
+01|021|000170|Providence, North Chilton Fire Station|Providence, North Chilton Fire Station
+01|021|000180|Mars Hill Fire St|Mars Hill Fire St
+01|021|000200|Thorsby Town Hall|Thorsby Town Hall
+01|021|000210|Collins Chapel Fire St|Collins Chapel Fire St
+01|021|000220|Isabella Fire St|Isabella Fire St
+01|021|000240|Douglas Glass Amer. Legion #6|Douglas Glass Amer. Legion #6
+01|021|000250|Clanton Library|Clanton Library
+01|021|000260|Clanton Rec Ctr|Clanton Rec Ctr
+01|021|000270|Chilton Courthouse|Chilton Courthouse
+01|023|000001|Pennington|Pennington
+01|023|000003|Pelham|Pelham
+01|023|000004|Crossroad|Crossroad
+01|023|000006|Halsell|Halsell
+01|023|000007|Yantley|Yantley
+01|023|000010|Lisman|Lisman
+01|023|000012|Pushmataha|Pushmataha
+01|023|000013|Butler|Butler
+01|023|000020|Hurricane|Hurricane
+01|023|000023|Mt. Sterling|Mt. Sterling
+01|023|000024|Lavaca|Lavaca
+01|023|000025|Bogueloosa|Bogueloosa
+01|023|000027|Toxey|Toxey
+01|023|000029|Gilbertown|Gilbertown
+01|023|000031|Melvin|Melvin
+01|023|000033|Barrytown|Barrytown
+01|023|000034|Womack Hill|Womack Hill
+01|023|000035|Chappell Hill|Chappell Hill
+01|023|000036|Cullomburg|Cullomburg
+01|023|000037|Bladon Springs|Bladon Springs
+01|023|000039|Silas|Silas
+01|023|000041|Souwilpa|Souwilpa
+01|023|000042|Isney|Isney
+01|023|000043|Toomey|Toomey
+01|023|000044|Lusk|Lusk
+01|023|000045|Pleasant Hill|Pleasant Hill
+01|023|000046|Ararat|Ararat
+01|023|000047|Riderwood|Riderwood
+01|023|000048|Rock Springs|Rock Springs
+01|023|000049|Branch|Branch
+01|025|000001|Goodhope/Choctaw Bluff|Goodhope/Choctaw Bluff
+01|025|000002|Saltworks/Rockville|Saltworks/Rockville
+01|025|000003|Jackson City Hall|Jackson City Hall
+01|025|000004|Walker Overstreet Groc|Walker Overstreet Groc
+01|025|000005|Morning Star Church|Morning Star Church
+01|025|000006|Gosport VFD|Gosport VFD
+01|025|000007|Skipper/Jackson|Skipper/Jackson
+01|025|000008|Salitpa FD|Salitpa FD
+01|025|000009|Winn VFD|Winn VFD
+01|025|000010|Grove Hill|Grove Hill
+01|025|000011|Nettlesboro VFD|Nettlesboro VFD
+01|025|000012|Whatley|Whatley
+01|025|000013|Coffeeville Town Hall|Coffeeville Town Hall
+01|025|000014|Thomasville NG Amory|Thomasville NG Amory
+01|025|000015|Hopewell Bapt Church|Hopewell Bapt Church
+01|025|000016|Opine-Tallahatta VFD|Opine-Tallahatta VFD
+01|025|000018|Fulton Fire Station|Fulton Fire Station
+01|025|000019|Walnut Grove Church|Walnut Grove Church
+01|025|000020|Bashi Meth Church|Bashi Meth Church
+01|025|000021|Thomasville|Thomasville
+01|025|000022|Fulton City Hall|Fulton City Hall
+01|027|000102|Shinbone VFD|Shinbone VFD
+01|027|000201|Delta Comm Ctr|Delta Comm Ctr
+01|027|000301|Barfield VFD|Barfield VFD
+01|027|000601|Highland-Coppermine FD|Highland-Coppermine FD
+01|027|000602|Idaho FD|Idaho FD
+01|027|000701|Hipine FD|Hipine FD
+01|027|000801|Millerville Fire Dept.|Millerville Fire Dept.
+01|027|000802|Coleta FD|Coleta FD
+01|027|000901|Bibb Graves Comm Ctr|Bibb Graves Comm Ctr
+01|027|001001|Hollins Comm Ctr|Hollins Comm Ctr
+01|027|001102|Mellow Valley H.S.|Mellow Valley H.S.
+01|027|001201|Cragford FD|Cragford FD
+01|027|001401|Bluff Springs FD|Bluff Springs FD
+01|027|001801|Ashland Guard Armory|Ashland Guard Armory
+01|027|002101|Lineville/Farmers Mrkt|Lineville/Farmers Mrkt
+01|027|002201|Ashland National Guard|Ashland National Guard
+01|027|002401|Tri-Community F.D.|Tri-Community F.D.
+01|029|0001-3|Muscadine VFD|Muscadine VFD
+01|029|000101|Borden Springs|Borden Springs
+01|029|000102|Piney Woods VFD|Piney Woods VFD
+01|029|000104|Fruithurst City Hall|Fruithurst City Hall
+01|029|000105|Edwardsville Comm Ctr|Edwardsville Comm Ctr
+01|029|000106|Plainview VFD|Plainview VFD
+01|029|000201|Heflin Rec Ctr|Heflin Rec Ctr
+01|029|000301|Hopewell School|Hopewell School
+01|029|000302|Ranburne FD|Ranburne FD
+01|029|000401|Abel|Abel
+01|029|000402|Chulafinnee Lodge|Chulafinnee Lodge
+01|029|000403|Greens Chapel|Greens Chapel
+01|029|000404|Micaville VFD|Micaville VFD
+01|029|000405|Turkey Heaven VFD|Turkey Heaven VFD
+01|031|000000|Unassigned|Unassigned
+01|031|000001|Kinston City Hall|Kinston City Hall
+01|031|000002|Basin|Basin
+01|031|000003|Elba National Grd.|Elba National Grd.
+01|031|000004|Pine Level Sr. Ctr.|Pine Level Sr. Ctr.
+01|031|000005|Newbia|Newbia
+01|031|000006|Bluff Springs|Bluff Springs
+01|031|000007|Zion Chapel Sr. Ctr.|Zion Chapel Sr. Ctr.
+01|031|000008|Lee Community|Lee Community
+01|031|000009|Wise Mill|Wise Mill
+01|031|000010|Victoria BC|Victoria BC
+01|031|000011|New Brockton Farm Ctr|New Brockton Farm Ctr
+01|031|000012|Chestnut Grove|Chestnut Grove
+01|031|000013|Frisco|Frisco
+01|031|000014|Eanon|Eanon
+01|031|000015|Heritage UMC|Heritage UMC
+01|031|000016|Elba Rec. Ctr.|Elba Rec. Ctr.
+01|031|000017|Damascus Sr. Ctr.|Damascus Sr. Ctr.
+01|031|000018|Pleasant Ridge|Pleasant Ridge
+01|031|000019|Ino Sr. Ctr.|Ino Sr. Ctr.
+01|031|000020|Goodman|Goodman
+01|031|000021|Holley's Store|Holley's Store
+01|031|000022|Enterprise State Comm. College|Enterprise State Comm. College
+01|031|000023|Mt. Pleasant Sr. Ctr.|Mt. Pleasant Sr. Ctr.
+01|031|000024|Cool Springs|Cool Springs
+01|031|000025|Elba Zion Christian Comm. Ctr.|Elba Zion Christian Comm. Ctr.
+01|031|000026|New Brocton Sr. Ctr.|New Brocton Sr. Ctr.
+01|031|000027|Johns Chapel AME|Johns Chapel AME
+01|031|000028|YMCA|YMCA
+01|031|000029|Enterprise Rec. Ctr.|Enterprise Rec. Ctr.
+01|033|0001-1|East Colbert Sr Ctr|East Colbert Sr Ctr
+01|033|0001-2|Hatton Bapt Church|Hatton Bapt Church
+01|033|0002-1|Tuscumbia Calvary Bapt|Tuscumbia Calvary Bapt
+01|033|0002-2|Parkview Church|Parkview Church
+01|033|0002-3|Tuscumbia Multi-Purp Ctr|Tuscumbia Multi-Purp Ctr
+01|033|0002-4|Hope Haven|Hope Haven
+01|033|0002-5|Westside Church|Westside Church
+01|033|0003-1|Barton First Bapt Church|Barton First Bapt Church
+01|033|0004-1|Cherokee Lions Den|Cherokee Lions Den
+01|033|0006-1|Margerum Comm Church|Margerum Comm Church
+01|033|0007-1|Mynot Church|Mynot Church
+01|033|0008-1|Srygley Church of Christ|Srygley Church of Christ
+01|033|0009-1|New Bethel FD|New Bethel FD
+01|033|0010-2|La Grange FD|La Grange FD
+01|033|0011-1|Leighton Civic Ctr|Leighton Civic Ctr
+01|033|0011-2|Leighton City Hall|Leighton City Hall
+01|033|0012-1|Littleville City Hall|Littleville City Hall
+01|033|0013-1|Pride Bapt Church|Pride Bapt Church
+01|033|0014-1|Spring Valley Church of God|Spring Valley Church of God
+01|033|0014-2|County Hwy Dept|County Hwy Dept
+01|033|0014-3|Cave Springs Bapt|Cave Springs Bapt
+01|033|0015-1|Allsboro Cumberland Church|Allsboro Cumberland Church
+01|033|0016-1|Sheffield Bd of Ed|Sheffield Bd of Ed
+01|033|0016-2|Sheffield FD 2nd St|Sheffield FD 2nd St
+01|033|0016-3|Sheffield Michael Ctr|Sheffield Michael Ctr
+01|033|0016-4|Sheffield Rec Ctr|Sheffield Rec Ctr
+01|033|0016-6|Sheffield COARMM|Sheffield COARMM
+01|033|0016-7|Tree House School|Tree House School
+01|033|0017-1|First Southern Bapt|First Southern Bapt
+01|033|0017-2|Gatman Park & Rec Ctr|Gatman Park & Rec Ctr
+01|033|0017-3|Woodward Ave Church|Woodward Ave Church
+01|033|0017-4|Plumbers/Steamfitters Hall|Plumbers/Steamfitters Hall
+01|033|0017-5|Grace Life Church|Grace Life Church
+01|033|0017-6|Muscle Shoals City Hall|Muscle Shoals City Hall
+01|033|0018-1|Colbert Heights Church|Colbert Heights Church
+01|035|000011|Annex|Annex
+01|035|000021|Lyeffion Fire Dept.|Lyeffion Fire Dept.
+01|035|000022|Skinnerton FD|Skinnerton FD
+01|035|000032|Robinson's Mill|Robinson's Mill
+01|035|000041|Belleville Church|Belleville Church
+01|035|000042|Old Field Church|Old Field Church
+01|035|000043|China Rec & Ed Ctr|China Rec & Ed Ctr
+01|035|000052|Lenox Comm House|Lenox Comm House
+01|035|000053|Sandcutt Fire Dept.|Sandcutt Fire Dept.
+01|035|000061|Castleberry Nutrition Ctr|Castleberry Nutrition Ctr
+01|035|000062|Castleberry Fire Dept.|Castleberry Fire Dept.
+01|035|000071|Brooklyn Fire Dept.|Brooklyn Fire Dept.
+01|035|000072|Paul Fire Dept.|Paul Fire Dept.
+01|035|000073|Johnsonville Fire Dept.|Johnsonville Fire Dept.
+01|035|000081|Antioch Fire Dept|Antioch Fire Dept
+01|035|000092|Herbert FD|Herbert FD
+01|035|000101|Brownville Fire Dept.|Brownville Fire Dept.
+01|035|000102|Flat Rock Fire Dept.|Flat Rock Fire Dept.
+01|035|000111|David Burt Building|David Burt Building
+01|035|000113|Carver Rec Ctr|Carver Rec Ctr
+01|035|000121|Nazarene Church|Nazarene Church
+01|035|000131|Repton City Hall|Repton City Hall
+01|035|000142|2nd Mt Zion Church|2nd Mt Zion Church
+01|035|000152|Bermuda Comm Ctr|Bermuda Comm Ctr
+01|035|000161|Little Zion Church|Little Zion Church
+01|035|000511|Range Fire Dept.|Range Fire Dept.
+01|035|001141|Health Dept.|Health Dept.
+01|037|000015|Community Life Ctr|Community Life Ctr
+01|037|000108|Equality Church|Equality Church
+01|037|000302|Kellyton Civic|Kellyton Civic
+01|037|000401|Goodwater Comm Ctr|Goodwater Comm Ctr
+01|037|000420|Mt Olive Comm Ctr|Mt Olive Comm Ctr
+01|037|000603|Hanover FD|Hanover FD
+01|037|000710|Courthouse|Courthouse
+01|037|001117|Weogufka|Weogufka
+01|037|001205|West Coosa Sr Ctr|West Coosa Sr Ctr
+01|037|001318|Marble Valley FD|Marble Valley FD
+01|037|001513|Richville Fire Dept|Richville Fire Dept
+01|037|001707|Ray Fire Dept|Ray Fire Dept
+01|039|000001|Andalusia Kiwanis|Andalusia Kiwanis
+01|039|000002|Hopewell|Hopewell
+01|039|000003|Opp Sr Center|Opp Sr Center
+01|039|000004|Harmony Masonic|Harmony Masonic
+01|039|000005|Marvin Adams|Marvin Adams
+01|039|000006|Loango|Loango
+01|039|000007|Lockhart City Hall|Lockhart City Hall
+01|039|000008|Babbie FD|Babbie FD
+01|039|000009|Florala NG|Florala NG
+01|039|000010|Wing Fire Dept|Wing Fire Dept
+01|039|000011|Buck Creek|Buck Creek
+01|039|000012|Red Level City Hall|Red Level City Hall
+01|039|000013|Blue Springs|Blue Springs
+01|039|000014|Union Grove FD|Union Grove FD
+01|039|000015|Gantt City Hall|Gantt City Hall
+01|039|000016|Straughn-Heath CH|Straughn-Heath CH
+01|039|000017|Rose Hill Comm Ctr|Rose Hill Comm Ctr
+01|039|000018|River Falls City Hall|River Falls City Hall
+01|039|000019|Red Oak|Red Oak
+01|039|000020|Sanford City Hall|Sanford City Hall
+01|039|000021|Carolina City Hall|Carolina City Hall
+01|039|000022|Libertyville|Libertyville
+01|039|000023|Beulah BC|Beulah BC
+01|041|000001|Panola Comm Ctr|Panola Comm Ctr
+01|041|000002|Danielsville School|Danielsville School
+01|041|000003|Petrey Comm Ctr|Petrey Comm Ctr
+01|041|000004|Honoraville VFD|Honoraville VFD
+01|041|000005|Patsburg Depot Bldg|Patsburg Depot Bldg
+01|041|000006|Rutledge Comm Ctr|Rutledge Comm Ctr
+01|041|000007|Vidette Comm Ctr|Vidette Comm Ctr
+01|041|000008|Bush's Grocery|Bush's Grocery
+01|041|000009|Brantley Comm Ctr|Brantley Comm Ctr
+01|041|000010|Glenwood City Hall|Glenwood City Hall
+01|041|000011|Weeds Store|Weeds Store
+01|041|000012|Pleasant Home School|Pleasant Home School
+01|041|000013|Highland Home VFD|Highland Home VFD
+01|041|000014|County Courthouse|County Courthouse
+01|041|000015|Dozier City Hall|Dozier City Hall
+01|041|000016|Harbin Farm Ctr|Harbin Farm Ctr
+01|041|000017|Lillery Store|Lillery Store
+01|041|000018|Chapel Hill Comm Ctr|Chapel Hill Comm Ctr
+01|043|000010|Cullman (1-1,1-2,1-3,1-4,1-5,1-6,1-7)|Cullman (1-1,1-2,1-3,1-4,1-5,1-6,1-7)
+01|043|000021|Good Hope City Hall|Good Hope City Hall
+01|043|000022|Dodge City Town Hall|Dodge City Town Hall
+01|043|000031|Hanceville City Hall|Hanceville City Hall
+01|043|000032|Hanceville Civic Ctr|Hanceville Civic Ctr
+01|043|000040|Garden City Town Hall|Garden City Town Hall
+01|043|000050|Stouts Mountain Church|Stouts Mountain Church
+01|043|000061|Moody Town Union Hill Church|Moody Town Union Hill Church
+01|043|000062|Colony Town Hall|Colony Town Hall
+01|043|000070|Arkedelphia FD|Arkedelphia FD
+01|043|000080|Beat 8 Comm Ctr|Beat 8 Comm Ctr
+01|043|000090|Cold Springs FD|Cold Springs FD
+01|043|000100|Bremen FD|Bremen FD
+01|043|000111|Trimble Fire Dept|Trimble Fire Dept
+01|043|000112|Valley Grove Comm Ctr|Valley Grove Comm Ctr
+01|043|000120|Crane Hill FD|Crane Hill FD
+01|043|000130|Bethsadia FD|Bethsadia FD
+01|043|000141|Logan FD|Logan FD
+01|043|000142|Bethel Comm Ctr|Bethel Comm Ctr
+01|043|000150|Jones Chapel FD|Jones Chapel FD
+01|043|000160|Battleground FD|Battleground FD
+01|043|000171|West Point Comm Ctr|West Point Comm Ctr
+01|043|000172|Friendship Church|Friendship Church
+01|043|000181|Vinemont Comm Ctr|Vinemont Comm Ctr
+01|043|000182|Providence FD|Providence FD
+01|043|000190|Gold Ridge Comm Ctr|Gold Ridge Comm Ctr
+01|043|000201|Baileyton Sr Ctr|Baileyton Sr Ctr
+01|043|000202|Brooklyn Comm Ctr|Brooklyn Comm Ctr
+01|043|000211|Joppa VFD|Joppa VFD
+01|043|000212|New Canaan|New Canaan
+01|043|000220|Holly Pond FD|Holly Pond FD
+01|043|000230|Berlin Comm Ctr|Berlin Comm Ctr
+01|043|000240|Walter Comm Ctr|Walter Comm Ctr
+01|043|000250|Welti Mt Zion Church|Welti Mt Zion Church
+01|043|000260|Brushy Pond Comm Ctr|Brushy Pond Comm Ctr
+01|043|000270|White City Comm Ctr|White City Comm Ctr
+01|043|000281|Fairview FD/Town Hall|Fairview FD/Town Hall
+01|043|000290|Grandview Comm Ctr|Grandview Comm Ctr
+01|043|000300|Kelley Comm CTR|Kelley Comm CTR
+01|043|000310|Center Hill Comm Ctr|Center Hill Comm Ctr
+01|043|000320|Simcoe Comm Ctr|Simcoe Comm Ctr
+01|043|000330|Baldwin Comm Ctr|Baldwin Comm Ctr
+01|043|000340|Cullman Co Health Dept.|Cullman Co Health Dept.
+01|043|000350|East Point Comm Ctr|East Point Comm Ctr
+01|043|000360|Belle Vue Hall|Belle Vue Hall
+01|045|000001|Ozark Civic Ctr|Ozark Civic Ctr
+01|045|000002|Clayhatchee Comm|Clayhatchee Comm
+01|045|000003|Daleville Cultural|Daleville Cultural
+01|045|000004|Newton Town Hall|Newton Town Hall
+01|045|000005|Arguta Comm Ctr|Arguta Comm Ctr
+01|045|000006|Pinckard Town Hall|Pinckard Town Hall
+01|045|000007|Rocky Head|Rocky Head
+01|045|000008|Midland City|Midland City
+01|045|000009|Echo Fire|Echo Fire
+01|045|000010|Clopton Comm|Clopton Comm
+01|045|000011|Skipperville Church|Skipperville Church
+01|045|000012|Ariton City Hall|Ariton City Hall
+01|045|000013|Bertha Church|Bertha Church
+01|045|000014|Ewell FD|Ewell FD
+01|045|000015|Marley Mill|Marley Mill
+01|045|000016|Level Plains|Level Plains
+01|045|0007-1|Rocky Head Ft Rucker|Rocky Head Ft Rucker
+01|045|0008-1|Sylvan Grove|Sylvan Grove
+01|045|0008-2|Grimes Comm Ctr|Grimes Comm Ctr
+01|047|000101|Plantersville VFD|Plantersville VFD
+01|047|000201|Summerfield VFD|Summerfield VFD
+01|047|000302|Valley Grande Comm Ctr|Valley Grande Comm Ctr
+01|047|000401|Orrville HS|Orrville HS
+01|047|000402|Beloit Comm Ctr|Beloit Comm Ctr
+01|047|000501|Tipton School|Tipton School
+01|047|000502|Selmont Water Works|Selmont Water Works
+01|047|000601|Tyler Comm Ctr|Tyler Comm Ctr
+01|047|000701|Good Hope Church|Good Hope Church
+01|047|000801|Mt. Zion Church|Mt. Zion Church
+01|047|000901|Union New NG Armory|Union New NG Armory
+01|047|001001|YMCA|YMCA
+01|047|001101|Safford Comm Ctr|Safford Comm Ctr
+01|047|001201|Marion Jct Exp|Marion Jct Exp
+01|047|001301|Shiloh School Bldg|Shiloh School Bldg
+01|047|001401|New St Johns Minist|New St Johns Minist
+01|047|001501|Carlowville Minter VFD|Carlowville Minter VFD
+01|047|009131|Dallas Co Courthouse|Dallas Co Courthouse
+01|047|009182|East End Fire Station|East End Fire Station
+01|047|009183|GWC Homes Ctr|GWC Homes Ctr
+01|047|009342|Selma Mall|Selma Mall
+01|047|009343|Woodrow Ave FD|Woodrow Ave FD
+01|047|009352|Rangedale Ctr|Rangedale Ctr
+01|047|009363|Broad Street Fire Station|Broad Street Fire Station
+01|047|009372|Broad St Fire|Broad St Fire
+01|047|009512|Memorial Stadium|Memorial Stadium
+01|047|009521|Barrett Rd Church|Barrett Rd Church
+01|047|009530|Christian Outaech Alliance|Christian Outaech Alliance
+01|047|009544|Queen of Peace School|Queen of Peace School
+01|049|000001|District One|District One
+01|049|000002|District Two|District Two
+01|049|000003|District Three|District Three
+01|049|000004|District Four|District Four
+01|051|000011|Tallaweka Church|Tallaweka Church
+01|051|000021|God's Congreg Church|God's Congreg Church
+01|051|000029|Wetumpka Civic Ctr|Wetumpka Civic Ctr
+01|051|000031|Friendship Comm Ctr|Friendship Comm Ctr
+01|051|000041|Asbury-Kent Comm Ctr|Asbury-Kent Comm Ctr
+01|051|000051|Kowaliga Fire Dept.|Kowaliga Fire Dept.
+01|051|000052|Redhill Comm Ctr|Redhill Comm Ctr
+01|051|000061|Eclectic Church|Eclectic Church
+01|051|000071|Seman Comm Ctr|Seman Comm Ctr
+01|051|000081|Santuck Comm Ctr|Santuck Comm Ctr
+01|051|000101|Wallsboro Comm Ctr|Wallsboro Comm Ctr
+01|051|000111|Weoka Comm Ctr|Weoka Comm Ctr
+01|051|000121|Buyck FD|Buyck FD
+01|051|000131|Titus Comm Ctr|Titus Comm Ctr
+01|051|000141|New Hope Church|New Hope Church
+01|051|000151|Cains Chapel Life Ctr|Cains Chapel Life Ctr
+01|051|000161|Deatsville VFD|Deatsville VFD
+01|051|000171|Crenshaw Park|Crenshaw Park
+01|051|000181|New Home Church|New Home Church
+01|051|000201|Coosada Town Hall|Coosada Town Hall
+01|051|000220|Grandview Pines Church|Grandview Pines Church
+01|051|000221|Nazarene|Nazarene
+01|051|000222|Victory Baptist|Victory Baptist
+01|051|000231|Millbrook Civic Ctr|Millbrook Civic Ctr
+01|051|000261|Fain Sr Ctr|Fain Sr Ctr
+01|051|000311|Rushenville Church|Rushenville Church
+01|051|000321|Blue Ridge Church|Blue Ridge Church
+01|051|000331|Mulder Church|Mulder Church
+01|051|000341|Rock Springs|Rock Springs
+01|053|000010|Alco-JD Museum|Alco-JD Museum
+01|053|000030|Brewton- Civic Ctr|Brewton- Civic Ctr
+01|053|000040|Appleton VFD|Appleton VFD
+01|053|000050|East Brewton Sail Ctr|East Brewton Sail Ctr
+01|053|000070|Riverview Town Hall|Riverview Town Hall
+01|053|000080|Rock Hill-Ridge VFD|Rock Hill-Ridge VFD
+01|053|000090|Bethel-Roberts VFD|Bethel-Roberts VFD
+01|053|000100|Bradley VFD|Bradley VFD
+01|053|000110|Dixie VFD|Dixie VFD
+01|053|000120|Damascus-Boykin School|Damascus-Boykin School
+01|053|000140|Flomaton Comm House|Flomaton Comm House
+01|053|000150|Flomaton Town Hall|Flomaton Town Hall
+01|053|000160|Little Escambia|Little Escambia
+01|053|000170|Pineview|Pineview
+01|053|000180|Barnett Crossroads VFD|Barnett Crossroads VFD
+01|053|000190|Huxford Masonic Lodge|Huxford Masonic Lodge
+01|053|000210|Wallace Church|Wallace Church
+01|053|000220|1st United Methodist|1st United Methodist
+01|053|000230|Pollard Town Hall|Pollard Town Hall
+01|053|000240|County Hwy Dept|County Hwy Dept
+01|053|000250|Catawba Springs|Catawba Springs
+01|053|000260|Atmore Public Library|Atmore Public Library
+01|053|000270|Canoe Civic Club|Canoe Civic Club
+01|053|000280|Little Rock Store|Little Rock Store
+01|053|000290|Poarch Sail Center|Poarch Sail Center
+01|053|000300|McCullough VFD|McCullough VFD
+01|053|000310|Atmore City Hall|Atmore City Hall
+01|053|000320|New Order Church|New Order Church
+01|053|000330|Nokomis VFD|Nokomis VFD
+01|055|000008|Tabernacle Church Act. Ctr.|Tabernacle Church Act. Ctr.
+01|055|000016|Fords Valley Wtr. CO-OP|Fords Valley Wtr. CO-OP
+01|055|000101|Noccalula Kiwanis Pavilion|Noccalula Kiwanis Pavilion
+01|055|000102|Elliott Comm. Ctr.|Elliott Comm. Ctr.
+01|055|000103|Carver Comm. Ctr.|Carver Comm. Ctr.
+01|055|000104|N. Gadsden Rec. Ctr.|N. Gadsden Rec. Ctr.
+01|055|000105|Old Gadsden High Sch.|Old Gadsden High Sch.
+01|055|000106|Walnut Park Rec. Ctr.|Walnut Park Rec. Ctr.
+01|055|000107|Downtown Civic Ctr|Downtown Civic Ctr
+01|055|000109|Wallace Hall GSCC|Wallace Hall GSCC
+01|055|000110|Meadowbrook BC|Meadowbrook BC
+01|055|000111|E. Gadsden Rec. Ctr.|E. Gadsden Rec. Ctr.
+01|055|000201|Southside Comm. Ctr.|Southside Comm. Ctr.
+01|055|000301|Tillison Bend Water Auth.|Tillison Bend Water Auth.
+01|055|000401|George Wallace Sr. Ctr|George Wallace Sr. Ctr
+01|055|000501|Hokes Bluff Comm. Ctr.|Hokes Bluff Comm. Ctr.
+01|055|000801|N.E. Etowah Comm. Ctr.|N.E. Etowah Comm. Ctr.
+01|055|001001|Lookout Mtn. Comm. Ctr.|Lookout Mtn. Comm. Ctr.
+01|055|001101|Reece City Town Hall|Reece City Town Hall
+01|055|001301|Cave Springs Comm. Ctr.|Cave Springs Comm. Ctr.
+01|055|001401|1st UMC|1st UMC
+01|055|001402|Attalla Rec. Ctr.|Attalla Rec. Ctr.
+01|055|001501|Mountainboro VFD|Mountainboro VFD
+01|055|001601|Sardis Comm. Ctr.|Sardis Comm. Ctr.
+01|055|001603|New Union Comm. Ctr.|New Union Comm. Ctr.
+01|055|001701|Egypt Comm. Ctr.|Egypt Comm. Ctr.
+01|055|001901|Walnut Grove VFD|Walnut Grove VFD
+01|055|002001|Altoona FD|Altoona FD
+01|055|002201|Gallant Comm. Ctr.|Gallant Comm. Ctr.
+01|055|002301|Rainbow City Comm. Ctr.|Rainbow City Comm. Ctr.
+01|055|002401|Whorton Bend FS|Whorton Bend FS
+01|055|002501|Rainbow City Fd #2|Rainbow City Fd #2
+01|055|002601|Ivalee VFD|Ivalee VFD
+01|057|000101|Fayette-Civic/Youth/Covin|Fayette-Civic/Youth/Covin
+01|057|000201|Ridge-Concord|Ridge-Concord
+01|057|000301|Studdard/Elm Grove|Studdard/Elm Grove
+01|057|000401|Stough Trinity Church|Stough Trinity Church
+01|057|000501|Russell-BoBo School|Russell-BoBo School
+01|057|000601|Cole-Killingswprth/Hubbert|Cole-Killingswprth/Hubbert
+01|057|000701|Hico-Newtonville|Hico-Newtonville
+01|057|000801|Collins Mt Vernon|Collins Mt Vernon
+01|057|000901|Berry Civic Ctr|Berry Civic Ctr
+01|057|001001|Lee-Belk/Palestine|Lee-Belk/Palestine
+01|057|001101|Browns-Glen Allen/White Chapel|Browns-Glen Allen/White Chapel
+01|057|001201|Webster-Wayside|Webster-Wayside
+01|057|001301|Boley Springs Church|Boley Springs Church
+01|057|001401|Gilpin -Lawrence Mill|Gilpin -Lawrence Mill
+01|057|001501|Clear Creek|Clear Creek
+01|057|001601|Thompson-Kirkland|Thompson-Kirkland
+01|057|001701|Stonewall_Cannon|Stonewall_Cannon
+01|057|001801|Bylar Voting Ctr|Bylar Voting Ctr
+01|057|001901|Fords-Rehobeth Church|Fords-Rehobeth Church
+01|057|002001|George's Creek|George's Creek
+01|057|002201|Sugar Creek|Sugar Creek
+01|059|000001|Union Comm Ctr|Union Comm Ctr
+01|059|000002|Russellville|Russellville
+01|059|000003|Frankfort Comm Ctr|Frankfort Comm Ctr
+01|059|000004|Pleasant Site VFD|Pleasant Site VFD
+01|059|000005|Red Bay|Red Bay
+01|059|000006|Vina FD|Vina FD
+01|059|000007|Belgreen FD|Belgreen FD
+01|059|000008|Hodges Comm Ctr|Hodges Comm Ctr
+01|059|000009|Phil Campbell Sr Ctr|Phil Campbell Sr Ctr
+01|059|000010|Rockwood|Rockwood
+01|059|000011|Mount Star Hills|Mount Star Hills
+01|059|000012|Quinns/Sts Crossroads|Quinns/Sts Crossroads
+01|059|000013|Tharptown School|Tharptown School
+01|059|000014|Halltown Comm Ctr|Halltown Comm Ctr
+01|059|000015|Lawlers Fire Dept|Lawlers Fire Dept
+01|059|000016|Waco Church|Waco Church
+01|059|000017|Jonesboro Comm Ctr|Jonesboro Comm Ctr
+01|059|000018|Spruce Pine|Spruce Pine
+01|059|000019|East Franklin|East Franklin
+01|059|000020|Newburg Masonic Ldg|Newburg Masonic Ldg
+01|061|000003|Malvery Comm Ctr|Malvery Comm Ctr
+01|061|000004|Fadette Comm Ctr|Fadette Comm Ctr
+01|061|000005|Tate-Slocomb|Tate-Slocomb
+01|061|000006|Hughes Comm Ctr|Hughes Comm Ctr
+01|061|000007|Hughes Voting House|Hughes Voting House
+01|061|000008|Black-Kelley Cross Roads|Black-Kelley Cross Roads
+01|061|000009|Bellwood-Chancellor|Bellwood-Chancellor
+01|061|000010|Geneva Courthouse|Geneva Courthouse
+01|061|000011|Coffee Springs|Coffee Springs
+01|061|000012|Lytle Comm Ctr|Lytle Comm Ctr
+01|061|000013|Piney Grove-Samson|Piney Grove-Samson
+01|061|000014|Gilmore Comm Ctr|Gilmore Comm Ctr
+01|061|000015|Lowery-Revels Store|Lowery-Revels Store
+01|061|000016|Hacoda-Flat Creek|Hacoda-Flat Creek
+01|061|000017|Devco Comm Ctr|Devco Comm Ctr
+01|063|000101|Greene County Courthouse|Greene County Courthouse
+01|063|000102|Mantua Fire Dept.|Mantua Fire Dept.
+01|063|000103|Jena Fire Dept|Jena Fire Dept
+01|063|000104|Union City Hall|Union City Hall
+01|063|000105|Knoxville Fire Dept|Knoxville Fire Dept
+01|063|000201|National Guard Armory|National Guard Armory
+01|063|000202|South Fork|South Fork
+01|063|000301|Eutaw Activity Ctr|Eutaw Activity Ctr
+01|063|000302|Brown-Morrow Branch|Brown-Morrow Branch
+01|063|000401|Forkland City Hall|Forkland City Hall
+01|063|000402|Tishabee Rec Center|Tishabee Rec Center
+01|063|000501|Boligee Fire Dept|Boligee Fire Dept
+01|063|000502|Mt. Hebron Pre-School|Mt. Hebron Pre-School
+01|063|000503|Clinton Comm Ctr|Clinton Comm Ctr
+01|065|000001|Havanna|Havanna
+01|065|000002|Akron City Hall|Akron City Hall
+01|065|000003|Bucksnort|Bucksnort
+01|065|000004|Greensboro Armory|Greensboro Armory
+01|065|000005|Newbern|Newbern
+01|065|000006|Sawyerville|Sawyerville
+01|065|000007|Lock 5 VFD|Lock 5 VFD
+01|065|000008|Gallion|Gallion
+01|065|000009|Mt Horeb Bapt|Mt Horeb Bapt
+01|065|000010|Mount Herman|Mount Herman
+01|065|000011|Valley|Valley
+01|065|000012|Moundville City Hall|Moundville City Hall
+01|065|000013|Phipps Work Center|Phipps Work Center
+01|065|000016|Stewart|Stewart
+01|067|000001|Headland Armory|Headland Armory
+01|067|000002|Tumbleton Vote Hse|Tumbleton Vote Hse
+01|067|000003|Douglas Crossroads|Douglas Crossroads
+01|067|000004|Haleburg Hall|Haleburg Hall
+01|067|000005|Union Voting House|Union Voting House
+01|067|000006|Capps Post Office|Capps Post Office
+01|067|000007|Newville Vote Hse|Newville Vote Hse
+01|067|000008|Wills Cross Roads|Wills Cross Roads
+01|067|000009|Edwin Clubhouse|Edwin Clubhouse
+01|067|000010|Abbevile Armory|Abbevile Armory
+01|067|000011|Shorterville House|Shorterville House
+01|067|000012|Judson Com.|Judson Com.
+01|067|000013|Lawrenceville|Lawrenceville
+01|069|000101|Ashford Depot|Ashford Depot
+01|069|000111|Bay Springs VFD|Bay Springs VFD
+01|069|000121|Rossie Purcell Library|Rossie Purcell Library
+01|069|000131|Cottonwood City Hall|Cottonwood City Hall
+01|069|000141|Cowarts City Hall|Cowarts City Hall
+01|069|000152|Doug Tew Comm Ctr|Doug Tew Comm Ctr
+01|069|000171|Enterprise Church|Enterprise Church
+01|069|000181|Farm Center|Farm Center
+01|069|000191|Gordon City Hall|Gordon City Hall
+01|069|000211|Hodgesville VFD|Hodgesville VFD
+01|069|000221|Walton Park|Walton Park
+01|069|000233|Kinsey Sr Ctr|Kinsey Sr Ctr
+01|069|000241|Dothan Civic Ctr|Dothan Civic Ctr
+01|069|000251|Andrew Belle Comm Ctr|Andrew Belle Comm Ctr
+01|069|000271|St Johns Pk|St Johns Pk
+01|069|000281|Madrid Sr Ctr|Madrid Sr Ctr
+01|069|000291|Pansey VFD|Pansey VFD
+01|069|000301|Rehobeth Complex|Rehobeth Complex
+01|069|000311|Taylor City Hall|Taylor City Hall
+01|069|000323|Vaughn Blumberg Ctr|Vaughn Blumberg Ctr
+01|069|000331|Water & Electric|Water & Electric
+01|069|000341|Webb City Hall|Webb City Hall
+01|069|000352|Westgate Park|Westgate Park
+01|069|000361|Wicksburg VFD|Wicksburg VFD
+01|069|000371|Wiregrass Park|Wiregrass Park
+01|069|000410|Dothan 1st Assembly|Dothan 1st Assembly
+01|069|000501|Mt Gilead Church|Mt Gilead Church
+01|071|000001|Bridgeport Comm Ctr|Bridgeport Comm Ctr
+01|071|000002|Long Island Comm Ctr|Long Island Comm Ctr
+01|071|000003|Stevenson City Park|Stevenson City Park
+01|071|000004|Bryant Comm Ctr|Bryant Comm Ctr
+01|071|000005|Flat Rock Ruritan Bldg.|Flat Rock Ruritan Bldg.
+01|071|000006|Flackler Fire Hall|Flackler Fire Hall
+01|071|000010|Hollywood City Hall|Hollywood City Hall
+01|071|000011|Pisgah City Hall|Pisgah City Hall
+01|071|000012|Langston City Hall|Langston City Hall
+01|071|000013|Tupelo-Pikeville Store|Tupelo-Pikeville Store
+01|071|000014|Larkinsville Stock Barn|Larkinsville Stock Barn
+01|071|000015|New Hope Church|New Hope Church
+01|071|000016|Woodville B Jones Ctr|Woodville B Jones Ctr
+01|071|000017|Trenton Fire Hall|Trenton Fire Hall
+01|071|000018|Estill Fork Store|Estill Fork Store
+01|071|000019|Bishop-Hall's Store|Bishop-Hall's Store
+01|071|000020|Christain Home|Christain Home
+01|071|000021|Scottsboro Rec Comm Bldg|Scottsboro Rec Comm Bldg
+01|071|000022|Skyline City Hall|Skyline City Hall
+01|071|000023|Paint Rock Sr Citizen Ctr|Paint Rock Sr Citizen Ctr
+01|071|000024|Section New City Hall|Section New City Hall
+01|071|000025|Hytop Fire Hall|Hytop Fire Hall
+01|071|000026|Garth Bapt Church|Garth Bapt Church
+01|071|000027|Hollytree Grocery|Hollytree Grocery
+01|071|000028|Dutton City Hall|Dutton City Hall
+01|071|000029|Higdon N Sand Mt School|Higdon N Sand Mt School
+01|071|000030|Macedonia School|Macedonia School
+01|071|000031|Holly Spring Church|Holly Spring Church
+01|071|000032|Limrock Fire Hall|Limrock Fire Hall
+01|071|000033|Hambrick Comm Ctr|Hambrick Comm Ctr
+01|071|000034|Pleasant Grove-Princeton Fire|Pleasant Grove-Princeton Fire
+01|071|000035|Crow Fire Hall|Crow Fire Hall
+01|071|000036|Aspel Jackson Water Wks|Aspel Jackson Water Wks
+01|071|000037|Letcher Church of God|Letcher Church of God
+01|071|000038|Rosalie Comm Ctr|Rosalie Comm Ctr
+01|071|000039|Dean's Chapel Comm Ctr|Dean's Chapel Comm Ctr
+01|073|000000|St Peter Apostle Church|St Peter Apostle Church
+01|073|000021|Glen Oaks Elem Sch|Glen Oaks Elem Sch
+01|073|001010|Our Lady of Lourdes Church|Our Lady of Lourdes Church
+01|073|001020|Tom Bradford Pk|Tom Bradford Pk
+01|073|001030|LM Smith Mid Sch|LM Smith Mid Sch
+01|073|001040|Bethel Bapt Church|Bethel Bapt Church
+01|073|001050|Midfield Comm Ctr|Midfield Comm Ctr
+01|073|001060|Sun Valley Elem Sch|Sun Valley Elem Sch
+01|073|001070|Crestwood Ed Ctr|Crestwood Ed Ctr
+01|073|001080|George French Student Ctr|George French Student Ctr
+01|073|001090|Forestdale Square|Forestdale Square
+01|073|001100|South Hampton Elem Sch|South Hampton Elem Sch
+01|073|001110|Don Hawkins Pk & Rec|Don Hawkins Pk & Rec
+01|073|001120|Robinson Elem Sch|Robinson Elem Sch
+01|073|001130|Martha Gaskins Elem Sch|Martha Gaskins Elem Sch
+01|073|001140|Birmingham FD #12|Birmingham FD #12
+01|073|001150|Adamsville Church of God|Adamsville Church of God
+01|073|001160|Faith Chapel Christian Ctr|Faith Chapel Christian Ctr
+01|073|001170|Hudson Mid Sch|Hudson Mid Sch
+01|073|001180|Barrett Elem Sch|Barrett Elem Sch
+01|073|001190|Inglenook Elem Sch|Inglenook Elem Sch
+01|073|001210|Norwood Comm Ctr|Norwood Comm Ctr
+01|073|001220|Willow Wood Rec Ctr|Willow Wood Rec Ctr
+01|073|001230|New Rising Star Church|New Rising Star Church
+01|073|001240|Mt Pilgrim Church|Mt Pilgrim Church
+01|073|001250|Hillview FD #1|Hillview FD #1
+01|073|001260|Shepherd Ctr E|Shepherd Ctr E
+01|073|001270|Hooper City Rec Ctr|Hooper City Rec Ctr
+01|073|001280|Oliver Elem Sch|Oliver Elem Sch
+01|073|001290|North Birmingham Rec|North Birmingham Rec
+01|073|001300|North Birmingham Library|North Birmingham Library
+01|073|001310|Brownsville Comm Ctr|Brownsville Comm Ctr
+01|073|001320|Sandusky Comm Ctr|Sandusky Comm Ctr
+01|073|001330|Morton Simpson Comm Ctr|Morton Simpson Comm Ctr
+01|073|001340|Mount Hebron Church|Mount Hebron Church
+01|073|001350|CJ Donald Elem Sch|CJ Donald Elem Sch
+01|073|001360|North Avondale Public Library|North Avondale Public Library
+01|073|001370|McAlpine Rec Ctr|McAlpine Rec Ctr
+01|073|001380|St Mary's Cath Church|St Mary's Cath Church
+01|073|002010|Legion Field Gate 7|Legion Field Gate 7
+01|073|002020|Homewood Sr Ctr|Homewood Sr Ctr
+01|073|002030|Highland Pk Golf Course|Highland Pk Golf Course
+01|073|002040|Ensley Pk Rec Ctr|Ensley Pk Rec Ctr
+01|073|002050|Harrison Pk Rec Ctr|Harrison Pk Rec Ctr
+01|073|002060|Charles Brown Elem Sch|Charles Brown Elem Sch
+01|073|002070|Central Pk Rec Ctr|Central Pk Rec Ctr
+01|073|002080|Ramsay Alt HS|Ramsay Alt HS
+01|073|002090|Sixth Ave Church|Sixth Ave Church
+01|073|002100|Memorial Rec Ctr|Memorial Rec Ctr
+01|073|002110|Southside Homes Comm Ctr|Southside Homes Comm Ctr
+01|073|002120|Dunbar-Abrams Comm Ctr|Dunbar-Abrams Comm Ctr
+01|073|002130|Minor Elem Sch|Minor Elem Sch
+01|073|002140|New Beginning Church|New Beginning Church
+01|073|002150|Brighton Sr Citizen Bldg|Brighton Sr Citizen Bldg
+01|073|002160|Jefferson Courthouse|Jefferson Courthouse
+01|073|002170|Hemphill Sch Bldg|Hemphill Sch Bldg
+01|073|002180|Avondale Public Library|Avondale Public Library
+01|073|002190|Wiggns Library|Wiggns Library
+01|073|002200|Central Pk Elem Sch|Central Pk Elem Sch
+01|073|002210|Jonesboro Elem Sch|Jonesboro Elem Sch
+01|073|002220|Glen Iris Elem Sch|Glen Iris Elem Sch
+01|073|002230|Avondale Elem Sch|Avondale Elem Sch
+01|073|002240|Fire Dept Admin Bldg|Fire Dept Admin Bldg
+01|073|002250|More Than Conquerors Church|More Than Conquerors Church
+01|073|002260|Wilkerson Mid Sch|Wilkerson Mid Sch
+01|073|002270|Mt Zion Church|Mt Zion Church
+01|073|002280|West End Academy|West End Academy
+01|073|002290|East Ensley Public Lib|East Ensley Public Lib
+01|073|002300|Bush Hill Academy|Bush Hill Academy
+01|073|002310|Mt Zion Comm Church|Mt Zion Comm Church
+01|073|002320|Virginia College|Virginia College
+01|073|002330|Henry Crumpton Rec Ctr|Henry Crumpton Rec Ctr
+01|073|002340|Thompson Manor Comm Ctr|Thompson Manor Comm Ctr
+01|073|002350|Oxmoor Valley Comm Ctr|Oxmoor Valley Comm Ctr
+01|073|002360|Bessemer City Hall|Bessemer City Hall
+01|073|002370|New Bethal Church|New Bethal Church
+01|073|002380|Five Pts W Public Lib|Five Pts W Public Lib
+01|073|002390|Roosevelt City Comm Ctr|Roosevelt City Comm Ctr
+01|073|002400|Wenonah HS|Wenonah HS
+01|073|002410|Bryant Chapel AME|Bryant Chapel AME
+01|073|002420|Bell Wallace Bldg|Bell Wallace Bldg
+01|073|002430|Southside Branch Public Lib|Southside Branch Public Lib
+01|073|002440|Southtown Housing Comm Ctr|Southtown Housing Comm Ctr
+01|073|003010|Hoover Met Stadium|Hoover Met Stadium
+01|073|003015|Hoover Met Sports Complex|Hoover Met Sports Complex
+01|073|003020|Pleasant Hill UM Church|Pleasant Hill UM Church
+01|073|003025|Bapt Church of McAdory|Bapt Church of McAdory
+01|073|003030|Pleasant Grove Church|Pleasant Grove Church
+01|073|003040|Prince of Peace Cath Church|Prince of Peace Cath Church
+01|073|003050|Pleasant Rdg Family Life|Pleasant Rdg Family Life
+01|073|003060|Bessemer Civic Ctr|Bessemer Civic Ctr
+01|073|003070|Mt Olive Comm Ctr|Mt Olive Comm Ctr
+01|073|003080|Morgan Rd UM Church|Morgan Rd UM Church
+01|073|003090|Brooklane Comm Church|Brooklane Comm Church
+01|073|003100|Bagley Jr HS|Bagley Jr HS
+01|073|003110|Oakmont Presb Church|Oakmont Presb Church
+01|073|003120|Adamsville Bapt Church|Adamsville Bapt Church
+01|073|003130|Shades Crest Bapt Church|Shades Crest Bapt Church
+01|073|003140|Valley Creek Bapt Church|Valley Creek Bapt Church
+01|073|003150|Union Hill Bapt Church|Union Hill Bapt Church
+01|073|003160|Ross Bridge Welcome Ctr|Ross Bridge Welcome Ctr
+01|073|003170|Alliance Comm Ctr|Alliance Comm Ctr
+01|073|003180|Corner Sch|Corner Sch
+01|073|003190|Dolomite W Field Comm Ctr|Dolomite W Field Comm Ctr
+01|073|003200|Maurice West Comm Ctr|Maurice West Comm Ctr
+01|073|003210|Minor FD|Minor FD
+01|073|003220|Oak Grove 1st Bapt Church|Oak Grove 1st Bapt Church
+01|073|003230|Grant St Bapt Church|Grant St Bapt Church
+01|073|003240|Sylvan Springs !st UM Church|Sylvan Springs !st UM Church
+01|073|003250|Bessemer FD #5|Bessemer FD #5
+01|073|003260|West Jeff Rec Ctr|West Jeff Rec Ctr
+01|073|003270|Muscoda Comm Ctr|Muscoda Comm Ctr
+01|073|003280|Brookside Comm Ctr|Brookside Comm Ctr
+01|073|003290|Mulga Town Hall|Mulga Town Hall
+01|073|003300|Johns Comm Ctr|Johns Comm Ctr
+01|073|003310|Parkwood Church of God|Parkwood Church of God
+01|073|003320|Maytown Bapt Church|Maytown Bapt Church
+01|073|003330|First Bapt Booker Heights|First Bapt Booker Heights
+01|073|004010|Gardendale Civic Ctr|Gardendale Civic Ctr
+01|073|004015|Gardendale Mt Vernon UM|Gardendale Mt Vernon UM
+01|073|004020|Trussville !st Bapt|Trussville !st Bapt
+01|073|004030|Center Pt 1st Bapt|Center Pt 1st Bapt
+01|073|004040|Trussville City Hall|Trussville City Hall
+01|073|004050|Clay Comm Ctr|Clay Comm Ctr
+01|073|004060|East Pinson Valley Ctr|East Pinson Valley Ctr
+01|073|004070|Tarrant City Hall|Tarrant City Hall
+01|073|004080|Trussville/North Park|Trussville/North Park
+01|073|004090|Fultondale 1st Bapt|Fultondale 1st Bapt
+01|073|004100|Mountain View Bapt|Mountain View Bapt
+01|073|004110|Rock School Ctr|Rock School Ctr
+01|073|004120|Life Church|Life Church
+01|073|004130|Warrior City Hall|Warrior City Hall
+01|073|004140|Leeds Civic Ctr|Leeds Civic Ctr
+01|073|004150|Palmerdale UM Church|Palmerdale UM Church
+01|073|004160|Center Pt Comm Ctr|Center Pt Comm Ctr
+01|073|004170|Kimberly UM church|Kimberly UM church
+01|073|004180|Bradford Sanctuary of Praise|Bradford Sanctuary of Praise
+01|073|004190|Church at Grants Mill|Church at Grants Mill
+01|073|004200|Fultondale Sr Citizens Bldg|Fultondale Sr Citizens Bldg
+01|073|004210|Morris Sr Citizens Bldg|Morris Sr Citizens Bldg
+01|073|004220|Irondale Sr Citizens Bldg|Irondale Sr Citizens Bldg
+01|073|004230|Guiding Light Church|Guiding Light Church
+01|073|004240|Irondale City Hall|Irondale City Hall
+01|073|004250|Trafford City Hall|Trafford City Hall
+01|073|005010|Hoover Pk & Rec Ctr|Hoover Pk & Rec Ctr
+01|073|005020|Vestavia Hills UM|Vestavia Hills UM
+01|073|005030|Shades Mtn Comm Church|Shades Mtn Comm Church
+01|073|005035|Fullness Christian Fellowship|Fullness Christian Fellowship
+01|073|005040|Metropolitan/Rocky Rdg|Metropolitan/Rocky Rdg
+01|073|005050|Homewood Public Lib|Homewood Public Lib
+01|073|005070|New Merkel Cahaba Hts Ctr|New Merkel Cahaba Hts Ctr
+01|073|005080|Brookwood Bapt Church|Brookwood Bapt Church
+01|073|005090|Leeds 1st UM Church|Leeds 1st UM Church
+01|073|005100|Bluff Pk UM Church|Bluff Pk UM Church
+01|073|005110|Mountain Brook City Hall|Mountain Brook City Hall
+01|073|005120|Horizon Church|Horizon Church
+01|073|005130|Mountain Brook Comm Church|Mountain Brook Comm Church
+01|073|005140|Liberty Pk Bapt Church|Liberty Pk Bapt Church
+01|073|005150|McElwain Bapt Church|McElwain Bapt Church
+01|073|005160|Saint Thomas Church|Saint Thomas Church
+01|073|005170|Edgewood Elem Sch|Edgewood Elem Sch
+01|073|005180|Saint Lukes Church|Saint Lukes Church
+01|073|005190|Cherokee Bend Elem Sch|Cherokee Bend Elem Sch
+01|073|005200|Mountaintop Comm Church|Mountaintop Comm Church
+01|073|005210|Homewood Excpt Foundation|Homewood Excpt Foundation
+01|073|005220|Town Village Vestavia|Town Village Vestavia
+01|073|005230|Hoover Public Library|Hoover Public Library
+01|073|005240|Shades Cahaba Elem Sch|Shades Cahaba Elem Sch
+01|073|005250|Church of the Highlands|Church of the Highlands
+01|073|005260|Mountain Brook Elem Sch|Mountain Brook Elem Sch
+01|073|005280|Birmingham Botanical Gardens|Birmingham Botanical Gardens
+01|073|005290|Afton Lee Comm Ctr|Afton Lee Comm Ctr
+01|075|000101|Vernon Armory East|Vernon Armory East
+01|075|000102|Vernon Armory West|Vernon Armory West
+01|075|000201|Crossville Lawrence|Crossville Lawrence
+01|075|000301|Fairview Sizemore|Fairview Sizemore
+01|075|000401|Beaverton City Hall North|Beaverton City Hall North
+01|075|000402|Beaverton City Hall South|Beaverton City Hall South
+01|075|000501|Crews Meth Church|Crews Meth Church
+01|075|000601|Henson Springs FS|Henson Springs FS
+01|075|000701|Detroit City Hall|Detroit City Hall
+01|075|000801|Pine Springs|Pine Springs
+01|075|000901|Sulligent City Hall North|Sulligent City Hall North
+01|075|000902|Sulligent City Hall South|Sulligent City Hall South
+01|075|001001|Bedford-Military|Bedford-Military
+01|075|001101|Molloy Betts|Molloy Betts
+01|075|001201|Trull|Trull
+01|075|001301|Vails|Vails
+01|075|001401|Millport Library|Millport Library
+01|075|001501|Kennedy Comm Ctr|Kennedy Comm Ctr
+01|075|001601|Strickland-Kingville|Strickland-Kingville
+01|075|001701|Fernbank Comm Ctr|Fernbank Comm Ctr
+01|075|001801|Hightogy Ridge|Hightogy Ridge
+01|075|002001|Mt. Pleasant-Curry|Mt. Pleasant-Curry
+01|075|002101|Guin Mt. Olive|Guin Mt. Olive
+01|075|002201|Blooming Grove|Blooming Grove
+01|075|002301|Star Comm Ctr|Star Comm Ctr
+01|077|000001|Anderson Town Hall|Anderson Town Hall
+01|077|000002|Rogersville Sr Ctr|Rogersville Sr Ctr
+01|077|000003|Lexington Sr Ctr|Lexington Sr Ctr
+01|077|000004|Elgin Senior Ctr|Elgin Senior Ctr
+01|077|000005|Atlas Ch of Christ|Atlas Ch of Christ
+01|077|000006|Center Star 1st Bapt|Center Star 1st Bapt
+01|077|000007|Killen Ch Christ Annex|Killen Ch Christ Annex
+01|077|000008|Zip City Comm Ctr|Zip City Comm Ctr
+01|077|000009|St Florian Sr Ctr|St Florian Sr Ctr
+01|077|000011|Lauderdale Co Bd|Lauderdale Co Bd
+01|077|000012|Underwood Comm Ctr|Underwood Comm Ctr
+01|077|000013|Cloverdale Comm Ctr|Cloverdale Comm Ctr
+01|077|000014|Central Comm Ctr|Central Comm Ctr
+01|077|000015|Oakland Fire St|Oakland Fire St
+01|077|000016|Stewartville Ch Christ|Stewartville Ch Christ
+01|077|000017|Waterloo Sr Bldg|Waterloo Sr Bldg
+01|077|000100|Grady Richards Ctr|Grady Richards Ctr
+01|077|000101|1st Presbyterian Church|1st Presbyterian Church
+01|077|000102|Handy Rec Ctr|Handy Rec Ctr
+01|077|000103|Sherrod Ave Ch Christ|Sherrod Ave Ch Christ
+01|077|000104|Florence first Bapt|Florence first Bapt
+01|077|000106|Central Bapt Church|Central Bapt Church
+01|077|000107|Hibbett School|Hibbett School
+01|077|000108|Fairgrounds Rd Senior Ctr|Fairgrounds Rd Senior Ctr
+01|077|000109|Florence Blvd Ch of Christ|Florence Blvd Ch of Christ
+01|077|000110|Broadway Rec Ctr|Broadway Rec Ctr
+01|077|000111|Highland Bapt Church|Highland Bapt Church
+01|077|000112|Christ Chapel Ch Annex|Christ Chapel Ch Annex
+01|077|000113|E Campus Woodmont BC|E Campus Woodmont BC
+01|077|000114|Florence High School|Florence High School
+01|077|000115|St James UM|St James UM
+01|079|000101|Hillsboro City Hall|Hillsboro City Hall
+01|079|000201|N. Courtland Sr Ctr|N. Courtland Sr Ctr
+01|079|000301|Red Bank Fire Station|Red Bank Fire Station
+01|079|000401|Hillsboro VFD|Hillsboro VFD
+01|079|000501|Town Creek Comm Ctr|Town Creek Comm Ctr
+01|079|000601|McCarley Ctr|McCarley Ctr
+01|079|000701|Donald Bapt Church|Donald Bapt Church
+01|079|000901|Mt. Hope Bapt Church|Mt. Hope Bapt Church
+01|079|001001|Wolf Springs Church|Wolf Springs Church
+01|079|001101|New Zion Baptist|New Zion Baptist
+01|079|001201|Landersville Church|Landersville Church
+01|079|001301|Hattan Church|Hattan Church
+01|079|001401|Pleasant Grove Church|Pleasant Grove Church
+01|079|001601|Loosier Church of Christ|Loosier Church of Christ
+01|079|001701|Chaleybeate FD|Chaleybeate FD
+01|079|001801|Pilgram Bapt Church|Pilgram Bapt Church
+01|079|001901|Lawrence Health Dept.|Lawrence Health Dept.
+01|079|002101|Mt Moriah Methodist|Mt Moriah Methodist
+01|079|002201|Fairfield Church|Fairfield Church
+01|079|002401|Moulton City Hall|Moulton City Hall
+01|079|002501|Board of Education|Board of Education
+01|079|002601|Freeman Tabernacle Church|Freeman Tabernacle Church
+01|079|002801|Speake VFD|Speake VFD
+01|079|002901|Kitchens Mill|Kitchens Mill
+01|079|003101|Lindsay Hall Church|Lindsay Hall Church
+01|079|003201|Piney Grove Church|Piney Grove Church
+01|079|003301|Caddo Fire Station|Caddo Fire Station
+01|079|003401|Caddo Sr. Ctr|Caddo Sr. Ctr
+01|079|003601|Pine Grove Church|Pine Grove Church
+01|081|000001|Beulah High School|Beulah High School
+01|081|000002|Covington Park Ctr|Covington Park Ctr
+01|081|000003|Opelika Learning Ctr|Opelika Learning Ctr
+01|081|000004|Opelika Rec Ctr|Opelika Rec Ctr
+01|081|000005|EAMC Health Ctr|EAMC Health Ctr
+01|081|000006|Opelika Sportsplex|Opelika Sportsplex
+01|081|000007|Farmville VFD|Farmville VFD
+01|081|000008|Uptown Waverly|Uptown Waverly
+01|081|000009|Loachapoka Comm Ctr|Loachapoka Comm Ctr
+01|081|000010|Boykin Comm Ctr|Boykin Comm Ctr
+01|081|000012|Frank Brown Ctr|Frank Brown Ctr
+01|081|000013|Dean Road Rec Ctr|Dean Road Rec Ctr
+01|081|000014|Clarion Inn|Clarion Inn
+01|081|000015|Providence Church|Providence Church
+01|081|000016|Wacoochee Jr High|Wacoochee Jr High
+01|081|000017|Crawford VFD|Crawford VFD
+01|081|000018|Downtown Marvyn|Downtown Marvyn
+01|081|000019|Beulah Fire Dept|Beulah Fire Dept
+01|081|000020|Senior Ctr Smith Station|Senior Ctr Smith Station
+01|081|000021|Pine Grove Church|Pine Grove Church
+01|081|000022|Smiths Station Auditorum|Smiths Station Auditorum
+01|081|000023|Glenwood School|Glenwood School
+01|083|000101|Athens Rec/Sr Ctr/Linsay/Friendship/Elkton|Athens Rec/Sr Ctr/Linsay/Friendship/Elkton
+01|083|000201|Isom's/Copeland/Bethel/Capshaw|Isom's/Copeland/Bethel/Capshaw
+01|083|000301|Ardmore/Mays/Woodley|Ardmore/Mays/Woodley
+01|083|000401|Elkmont FD|Elkmont FD
+01|083|000501|Pinchan-Lincoln|Pinchan-Lincoln
+01|083|000601|Goodsprings/Limestone/Lester|Goodsprings/Limestone/Lester
+01|083|000701|Pleasant Grove FD|Pleasant Grove FD
+01|083|000801|Westside Comm Ctr|Westside Comm Ctr
+01|083|000901|Clements/Riddles|Clements/Riddles
+01|083|001001|Round Island Church|Round Island Church
+01|083|001101|Belmore Church|Belmore Church
+01|083|001301|Lamb of God Luth Church|Lamb of God Luth Church
+01|083|001401|First Bapt Church Tanner|First Bapt Church Tanner
+01|085|000011|White Hall Town Hall|White Hall Town Hall
+01|085|000021|Lowndesboro CME Ch|Lowndesboro CME Ch
+01|085|000031|Bethel Church|Bethel Church
+01|085|000041|Mosses Town Hall|Mosses Town Hall
+01|085|000051|New Salem Church|New Salem Church
+01|085|000061|Hayneville Courthouse|Hayneville Courthouse
+01|085|000071|Burkville VFD|Burkville VFD
+01|085|000081|Lily Baptist Church|Lily Baptist Church
+01|085|000111|New Hope Church|New Hope Church
+01|085|000131|Fort Deposit Armory|Fort Deposit Armory
+01|085|000141|Sandy Ridge Comm Ctr|Sandy Ridge Comm Ctr
+01|085|000151|Lowndes City Dev Office|Lowndes City Dev Office
+01|087|000101|National Guard Armory|National Guard Armory
+01|087|000102|Chisholm Comm Ctr|Chisholm Comm Ctr
+01|087|000105|Margaret Murray Wash Hall|Margaret Murray Wash Hall
+01|087|000203|Brownville VFD|Brownville VFD
+01|087|000204|Warrior Dist 2 Rec Ctr|Warrior Dist 2 Rec Ctr
+01|087|000205|Cotton Valley Rec Ctr|Cotton Valley Rec Ctr
+01|087|000211|Tuskegee Municipal Complex|Tuskegee Municipal Complex
+01|087|000306|Volunteer Fire Station|Volunteer Fire Station
+01|087|000307|Prairie Farms Center|Prairie Farms Center
+01|087|000312|Sojourner Comm Ctr|Sojourner Comm Ctr
+01|087|000408|Franklin Town Hall|Franklin Town Hall
+01|087|000409|District 4 Comm Ctr|District 4 Comm Ctr
+01|087|000410|Notasulga Town Hall|Notasulga Town Hall
+01|087|000413|District 4 Rec Ctr|District 4 Rec Ctr
+01|089|000001|A&M Univ Gym|A&M Univ Gym
+01|089|000002|Charles Stone Ag Ctr|Charles Stone Ag Ctr
+01|089|000003|Jackson Way Bapt Church|Jackson Way Bapt Church
+01|089|000004|1st Bapt Church|1st Bapt Church
+01|089|000005|Optimist Park|Optimist Park
+01|089|000006|Northeast Huntsville|Northeast Huntsville
+01|089|000007|Cove Church at Chase|Cove Church at Chase
+01|089|000008|Clements Bapt Church|Clements Bapt Church
+01|089|000009|Trinity Presb Church|Trinity Presb Church
+01|089|000010|Monte Sano Fire Station|Monte Sano Fire Station
+01|089|000011|Cove UM Church|Cove UM Church
+01|089|000012|Hampton Cove Church|Hampton Cove Church
+01|089|000013|Covenant Presbyterian Church|Covenant Presbyterian Church
+01|089|000014|Southwood Presb Church|Southwood Presb Church
+01|089|000015|Willowbrook Bapt Church|Willowbrook Bapt Church
+01|089|000016|Westside Comm Ctr|Westside Comm Ctr
+01|089|000017|Trinity UM Church|Trinity UM Church
+01|089|000018|Whitesburg Ctr|Whitesburg Ctr
+01|089|000019|Weatherly Hgts Bapt Church|Weatherly Hgts Bapt Church
+01|089|000020|Aldersgate UM Church|Aldersgate UM Church
+01|089|000021|The Dwelling Place|The Dwelling Place
+01|089|000023|Hillwood Bapt Church|Hillwood Bapt Church
+01|089|000026|Community Fellowship|Community Fellowship
+01|089|000027|Oakwood Univ Church|Oakwood Univ Church
+01|089|000029|Madison Co Nature Trail|Madison Co Nature Trail
+01|089|000031|Fire & Rescue Training|Fire & Rescue Training
+01|089|000035|First Miss Bapt Church|First Miss Bapt Church
+01|089|000036|Dr Richard Showers Ctr|Dr Richard Showers Ctr
+01|089|000037|New Shiloh Church|New Shiloh Church
+01|089|000038|Bob Harrison Sr Ctr|Bob Harrison Sr Ctr
+01|089|000039|Calvary Hill Friendship Ctr|Calvary Hill Friendship Ctr
+01|089|000040|Lewis Chapel CP Church|Lewis Chapel CP Church
+01|089|000044|Pleasant Springs Bapt Church|Pleasant Springs Bapt Church
+01|089|000045|Lakewood Comm Ctr|Lakewood Comm Ctr
+01|089|000046|West Huntsville Bapt Church|West Huntsville Bapt Church
+01|089|000049|All Nations Church|All Nations Church
+01|089|000050|St Luke Christian Church|St Luke Christian Church
+01|089|000051|Grace UM Church|Grace UM Church
+01|089|000053|Intergraph Corp|Intergraph Corp
+01|089|000054|Sherwood Bapt Church|Sherwood Bapt Church
+01|089|000055|New Market Fire Station|New Market Fire Station
+01|089|000056|Maysville Church Christ|Maysville Church Christ
+01|089|000058|Little Indian Creek Church|Little Indian Creek Church
+01|089|000060|Triana City Hall|Triana City Hall
+01|089|000061|Rivertree Church|Rivertree Church
+01|089|000062|Gurley Senior Ctr|Gurley Senior Ctr
+01|089|000063|Madison Mission 7th Day Church|Madison Mission 7th Day Church
+01|089|000064|Pineview Bapt Church|Pineview Bapt Church
+01|089|000065|Toney UM Church|Toney UM Church
+01|089|000066|Mary Kelly Johnston Gym|Mary Kelly Johnston Gym
+01|089|000067|Plainview Church Christ|Plainview Church Christ
+01|089|000068|New Hope City Hall|New Hope City Hall
+01|089|000069|Madison Church Of Christ|Madison Church Of Christ
+01|089|000070|First Church of God - Madison|First Church of God - Madison
+01|089|000071|Madison City Hall|Madison City Hall
+01|089|000072|Locust Grove Bapt Church|Locust Grove Bapt Church
+01|089|000073|Plevna /New Market FD|Plevna /New Market FD
+01|089|000075|Owens Cross Rd City Hall|Owens Cross Rd City Hall
+01|089|000076|First Bapt Meridianville|First Bapt Meridianville
+01|089|000077|Brownsboro Bapt Church|Brownsboro Bapt Church
+01|089|000078|Monrovia Church Christ|Monrovia Church Christ
+01|089|000080|Co Commission Dist 1|Co Commission Dist 1
+01|089|000081|Bobo VFD|Bobo VFD
+01|089|000083|Meridianville Church of Christ|Meridianville Church of Christ
+01|089|000084|Mt Zion Bapt Church|Mt Zion Bapt Church
+01|089|000085|Harold Harbin Gym|Harold Harbin Gym
+01|089|000088|Faith Lutheran Church|Faith Lutheran Church
+01|089|000089|Madison Bapt Church|Madison Bapt Church
+01|089|000090|St John's Catholic School|St John's Catholic School
+01|089|000091|Restoration Church|Restoration Church
+01|089|000092|Monrovia Comm Ctr|Monrovia Comm Ctr
+01|089|000093|Harvest Bapt Church|Harvest Bapt Church
+01|091|000101|Demopolis Civic Ctr|Demopolis Civic Ctr
+01|091|000102|Demopolis Nat'l Guard|Demopolis Nat'l Guard
+01|091|000201|AFLAME Church|AFLAME Church
+01|091|000301|Providence Town Hall|Providence Town Hall
+01|091|000302|Faunsdale Town Office|Faunsdale Town Office
+01|091|000305|Linden Armory|Linden Armory
+01|091|000306|Rageline Bapt Ch|Rageline Bapt Ch
+01|091|000401|Thomaston|Thomaston
+01|091|000402|Flatwoods Comm Ctr|Flatwoods Comm Ctr
+01|091|000405|Magnolia Comm Ctr|Magnolia Comm Ctr
+01|091|000407|Surginer Comm Ctr|Surginer Comm Ctr
+01|091|000408|Dixon Mill VFD|Dixon Mill VFD
+01|091|000501|Jefferson VFD|Jefferson VFD
+01|091|000502|Linden Hwy 43|Linden Hwy 43
+01|091|000504|Sweet Water Town|Sweet Water Town
+01|091|000505|Nicholsville Bapt|Nicholsville Bapt
+01|091|000507|Putnam Vote|Putnam Vote
+01|091|000508|Nanafalia|Nanafalia
+01|091|000511|Myrtlewood Comm|Myrtlewood Comm
+01|093|000001|Hamilton Police Dept|Hamilton Police Dept
+01|093|000002|Rye Byrd FD|Rye Byrd FD
+01|093|000003|Kemp Pleasent Site Ch|Kemp Pleasent Site Ch
+01|093|000004|Bexar Behind Old Post|Bexar Behind Old Post
+01|093|000005|Shottsville Fire Dept|Shottsville Fire Dept
+01|093|000006|Shiloh Comm Ctr|Shiloh Comm Ctr
+01|093|000007|Hackleburg City Hall|Hackleburg City Hall
+01|093|000008|Bear Creek City Hall|Bear Creek City Hall
+01|093|000009|Kimbrough Craft Bldg N|Kimbrough Craft Bldg N
+01|093|000010|Howell Sullins Church|Howell Sullins Church
+01|093|000011|Pearces Mill Pea Ridge|Pearces Mill Pea Ridge
+01|093|000012|Kimbrough Craft Comm Bldg S|Kimbrough Craft Comm Bldg S
+01|093|000013|Baccus Union Hall|Baccus Union Hall
+01|093|000014|Winfield Comm Ctr|Winfield Comm Ctr
+01|093|000015|Guin City Hall|Guin City Hall
+01|093|000016|Pikeville Trailor|Pikeville Trailor
+01|093|000017|Barnsville Trailor|Barnsville Trailor
+01|093|000018|Brilliant Comm Ctr|Brilliant Comm Ctr
+01|093|000019|Wiginton Comm Bldg|Wiginton Comm Bldg
+01|093|000020|Clark Bldg Off|Clark Bldg Off
+01|095|000001|Guntersville Rec Center|Guntersville Rec Center
+01|095|000002|Boaz Rec Center|Boaz Rec Center
+01|095|000003|Sanctuary on the Mt|Sanctuary on the Mt
+01|095|000004|1st Baptist Church|1st Baptist Church
+01|095|000005|Dist. 4 County Shop|Dist. 4 County Shop
+01|095|000007|Henryvill Methodist Church|Henryvill Methodist Church
+01|095|000008|Boshart Prospect Cemetery|Boshart Prospect Cemetery
+01|095|000009|Alder Springs Comm Ctr|Alder Springs Comm Ctr
+01|095|000010|Albertville Rec Ctr|Albertville Rec Ctr
+01|095|000011|Hebron Comm Ctr|Hebron Comm Ctr
+01|095|000012|Honeycomb Bapt|Honeycomb Bapt
+01|095|000014|Midway Comm Ctr|Midway Comm Ctr
+01|095|000015|Georgia Mtn Rec|Georgia Mtn Rec
+01|095|000016|Pleasant Grove VFD|Pleasant Grove VFD
+01|095|000017|Wakefield Comm Ctr|Wakefield Comm Ctr
+01|095|000018|Asbury Fire Dept|Asbury Fire Dept
+01|095|000019|Bucksnort Comm Ctr|Bucksnort Comm Ctr
+01|095|000020|Liberty Hill Church|Liberty Hill Church
+01|095|000021|Cranford Ruth VFD|Cranford Ruth VFD
+01|095|000022|Douglas City Hall|Douglas City Hall
+01|095|000023|Swearengin Comm Center|Swearengin Comm Center
+01|095|000024|Dist 1 County Shop|Dist 1 County Shop
+01|095|000025|Friendship Pine Grove|Friendship Pine Grove
+01|095|000026|Arab Comm Center|Arab Comm Center
+01|095|000027|Union Grove Comm Ctr|Union Grove Comm Ctr
+01|095|000028|Lattiwood Comm Ctr|Lattiwood Comm Ctr
+01|095|000030|Grant City Hall|Grant City Hall
+01|095|000031|Mt Hebron Fire Dept|Mt Hebron Fire Dept
+01|097|000001|Fellowship Bapt Church|Fellowship Bapt Church
+01|097|000002|Citronelle Rec Ctr|Citronelle Rec Ctr
+01|097|000003|Mt. Vernon Civic Ctr|Mt. Vernon Civic Ctr
+01|097|000004|Mt Vernon Comm Ctr|Mt Vernon Comm Ctr
+01|097|000005|Chunchula Bapt Ch|Chunchula Bapt Ch
+01|097|000006|Turnerville Church|Turnerville Church
+01|097|000007|1st Bapt Ch of Wilmer|1st Bapt Ch of Wilmer
+01|097|000008|Georgetown Bapt Church|Georgetown Bapt Church
+01|097|000009|Creola Sr. Citizens Ctr|Creola Sr. Citizens Ctr
+01|097|000010|Havenwood Bapt Church|Havenwood Bapt Church
+01|097|000011|Lafitte Bapt Church|Lafitte Bapt Church
+01|097|000012|Satsuma High Sch.|Satsuma High Sch.
+01|097|000013|The River|The River
+01|097|000014|Indian Springs Church|Indian Springs Church
+01|097|000015|Shelton Beach Rd Bapt. Ch|Shelton Beach Rd Bapt. Ch
+01|097|000016|Collins Rhodes Elem Sch|Collins Rhodes Elem Sch
+01|097|000017|Saraland Civic Ctr|Saraland Civic Ctr
+01|097|000018|Semmes Comm Ctr|Semmes Comm Ctr
+01|097|000019|Greater Allenville Ch God|Greater Allenville Ch God
+01|097|000020|J C Davis Audit|J C Davis Audit
+01|097|000021|Tanner Williams Hist Soc|Tanner Williams Hist Soc
+01|097|000022|Holy Name of Jesus Church|Holy Name of Jesus Church
+01|097|000023|Semmes First Bapt Ch|Semmes First Bapt Ch
+01|097|000024|Azalea City Ch Christ|Azalea City Ch Christ
+01|097|000026|Vigor High School|Vigor High School
+01|097|000027|Bishop State Comm. College|Bishop State Comm. College
+01|097|000028|Moffett Rd Assembly God|Moffett Rd Assembly God
+01|097|000029|Forrest Hill Elem Sch|Forrest Hill Elem Sch
+01|097|000030|Prichard Comm Ctr|Prichard Comm Ctr
+01|097|000031|Robert L Hope Comm Ctr|Robert L Hope Comm Ctr
+01|097|000032|Joseph Dotch Comm Ctr|Joseph Dotch Comm Ctr
+01|097|000033|Sunlight Auditorium|Sunlight Auditorium
+01|097|000034|Toulminville Library|Toulminville Library
+01|097|000035|Michael Figures Comm Ctr|Michael Figures Comm Ctr
+01|097|000036|Thomas Sullivan Comm Ctr|Thomas Sullivan Comm Ctr
+01|097|000037|Friendship Miss Bapt Church|Friendship Miss Bapt Church
+01|097|000038|University Ch Christ|University Ch Christ
+01|097|000039|Mobile Museum of Art|Mobile Museum of Art
+01|097|000040|St. Ignatius Marion Ctr|St. Ignatius Marion Ctr
+01|097|000041|Boys & Girls Club|Boys & Girls Club
+01|097|000042|Carver Campus Bishop St|Carver Campus Bishop St
+01|097|000043|Three Circles Ch Midtown|Three Circles Ch Midtown
+01|097|000044|New Shiloh Miss Bapt|New Shiloh Miss Bapt
+01|097|000045|Via! Senior Ctr|Via! Senior Ctr
+01|097|000046|Sonrise Bapt Church|Sonrise Bapt Church
+01|097|000047|St. Joan of Arc Catholic|St. Joan of Arc Catholic
+01|097|000048|James Seals Jr. Rec. Ctr|James Seals Jr. Rec. Ctr
+01|097|000049|Gracepoint Church of God|Gracepoint Church of God
+01|097|000050|E. R. Dickson Elem|E. R. Dickson Elem
+01|097|000051|Seven Hills Church|Seven Hills Church
+01|097|000052|Dayspring Bapt Church|Dayspring Bapt Church
+01|097|000053|Volunteers of America|Volunteers of America
+01|097|000054|City Church Mobile|City Church Mobile
+01|097|000055|Westminster Presbyterian|Westminster Presbyterian
+01|097|000056|St. John's Episcopal Ch|St. John's Episcopal Ch
+01|097|000057|Rock of Faith Bapt Ch|Rock of Faith Bapt Ch
+01|097|000058|Seven Hills Ctr Fire|Seven Hills Ctr Fire
+01|097|000059|Our Savior Catholic|Our Savior Catholic
+01|097|000060|Regency Ch of Christ|Regency Ch of Christ
+01|097|000061|Apostolic Ch of God|Apostolic Ch of God
+01|097|000062|Ebenezer Bapt Church|Ebenezer Bapt Church
+01|097|000063|Eichold-Mertz Elem|Eichold-Mertz Elem
+01|097|000064|Revelation Miss Bapt Ch|Revelation Miss Bapt Ch
+01|097|000065|Living Word Church|Living Word Church
+01|097|000066|Creekwood Ch of Christ|Creekwood Ch of Christ
+01|097|000067|Mobile Regional Sr Ctr.|Mobile Regional Sr Ctr.
+01|097|000068|Dodge Elem|Dodge Elem
+01|097|000069|Tree of Life Christ|Tree of Life Christ
+01|097|000070|Christ Anglican Church|Christ Anglican Church
+01|097|000071|Palmer Pillans Mid Sch|Palmer Pillans Mid Sch
+01|097|000072|Riverside Bapt Church|Riverside Bapt Church
+01|097|000073|Union Bapt Church|Union Bapt Church
+01|097|000074|Meadowlake Elem|Meadowlake Elem
+01|097|000075|Travis Rd. Bapt Ch|Travis Rd. Bapt Ch
+01|097|000076|Tillmans Corner Comm|Tillmans Corner Comm
+01|097|000077|Cypress Shores Bapt Church|Cypress Shores Bapt Church
+01|097|000078|Hollingers Island Elem|Hollingers Island Elem
+01|097|000079|Magnolia Springs Church|Magnolia Springs Church
+01|097|000080|Grand Bay Middle Sch|Grand Bay Middle Sch
+01|097|000081|1st Bapt Ch St Elmo|1st Bapt Ch St Elmo
+01|097|000082|Mt. Ararat Bapt Church|Mt. Ararat Bapt Church
+01|097|000083|1st Bapt Ch Irvington|1st Bapt Ch Irvington
+01|097|000084|St. Phillip Neri Catholic Ch|St. Phillip Neri Catholic Ch
+01|097|000085|Friendship Bapt Church|Friendship Bapt Church
+01|097|000086|Bayou La Batre Comm Ctr|Bayou La Batre Comm Ctr
+01|097|000087|St. Michael Catholic|St. Michael Catholic
+01|097|000088|Dauphin Island UM Church|Dauphin Island UM Church
+01|097|00VP25|Hope Chapel A.M.E.|Hope Chapel A.M.E.
+01|099|000001|Chrysler/Eliska|Chrysler/Eliska
+01|099|000002|Perdue Hill Masonic Lodge|Perdue Hill Masonic Lodge
+01|099|000004|Excel/Coleman|Excel/Coleman
+01|099|000005|Philadelphia Ch/Peterman Water Dept|Philadelphia Ch/Peterman Water Dept
+01|099|000007|Franklin Fire/Wainwright Finch|Franklin Fire/Wainwright Finch
+01|099|000008|Lower Peach Tree|Lower Peach Tree
+01|099|000009|Buena Vista Vren|Buena Vista Vren
+01|099|000010|Beatrice T Hall|Beatrice T Hall
+01|099|000011|Old Texas Comm Ctr|Old Texas Comm Ctr
+01|099|000013|Goodway FD|Goodway FD
+01|099|000301|Mexia Fire Station|Mexia Fire Station
+01|099|000302|Church of Christ|Church of Christ
+01|099|000303|Monroeville Comm Ctr|Monroeville Comm Ctr
+01|099|000304|Bethel Bapt House|Bethel Bapt House
+01|099|000306|Monroeville Fire Station|Monroeville Fire Station
+01|099|000307|Monroeville Housing Auth|Monroeville Housing Auth
+01|099|000401|Burnt Corn FD|Burnt Corn FD
+01|099|000601|Antioch Bapt. Church|Antioch Bapt. Church
+01|099|001201|Limestone Faulk|Limestone Faulk
+01|099|001202|Mineola Church|Mineola Church
+01|099|001301|Uriah FD|Uriah FD
+01|099|001302|Shiloh Miss Church|Shiloh Miss Church
+01|099|001402|Frisco Bapt Church|Frisco Bapt Church
+01|099|001403|Megargel Assembly of God|Megargel Assembly of God
+01|099|001404|Oak Grove Bapt|Oak Grove Bapt
+01|099|001405|St John AME Church|St John AME Church
+01|101|000101|Drum Theater/Huntingdon College|Drum Theater/Huntingdon College
+01|101|000102|Vaughn Park Church of Christ|Vaughn Park Church of Christ
+01|101|000103|Montgomery Museum of Fine Arts|Montgomery Museum of Fine Arts
+01|101|000104|Whitfield UM Church|Whitfield UM Church
+01|101|000105|Aldersgate UM Church|Aldersgate UM Church
+01|101|000106|Peter Crump Elem School|Peter Crump Elem School
+01|101|000107|Trenholm State (Patterson Campus)|Trenholm State (Patterson Campus)
+01|101|000201|St Paul AME Church|St Paul AME Church
+01|101|000202|Beulah Baptist Church|Beulah Baptist Church
+01|101|000203|Hayneville Rd Comm Ctr|Hayneville Rd Comm Ctr
+01|101|000204|Fresh Anointing House of Worship|Fresh Anointing House of Worship
+01|101|000205|Southlawn Elem School|Southlawn Elem School
+01|101|000206|Fire Station #14|Fire Station #14
+01|101|000207|Hunter Station Comm Ctr|Hunter Station Comm Ctr
+01|101|000208|Catoma Elem School|Catoma Elem School
+01|101|000209|First Southern Bapt Church|First Southern Bapt Church
+01|101|000210|Pintlala VFD|Pintlala VFD
+01|101|000211|Rufus Lewis Library|Rufus Lewis Library
+01|101|000301|Dalraida Church of Christ|Dalraida Church of Christ
+01|101|000302|Flowers Elem School|Flowers Elem School
+01|101|000303|Eastmont Bapt Church|Eastmont Bapt Church
+01|101|000304|Lagoon Park Fire Station|Lagoon Park Fire Station
+01|101|000305|Frazer UM Church|Frazer UM Church
+01|101|000306|Eastdale Bapt Church|Eastdale Bapt Church
+01|101|000401|St James Bapt Church|St James Bapt Church
+01|101|000402|McIntyre Comm Ctr|McIntyre Comm Ctr
+01|101|000403|Cleveland Ave YMCA|Cleveland Ave YMCA
+01|101|000404|Al State Univ / Acadome|Al State Univ / Acadome
+01|101|000405|Houston Hills Comm Ctr|Houston Hills Comm Ctr
+01|101|000406|Newton Comm Ctr|Newton Comm Ctr
+01|101|000407|King Hill Comm Ctr|King Hill Comm Ctr
+01|101|000408|Highland Gardens Comm Ctr|Highland Gardens Comm Ctr
+01|101|000409|Chisholm Comm Ctr|Chisholm Comm Ctr
+01|101|000410|Sheridan Heights Comm Ctr|Sheridan Heights Comm Ctr
+01|101|000411|Union Academy Bapt Church|Union Academy Bapt Church
+01|101|000412|Union Chapel AME Church|Union Chapel AME Church
+01|101|000413|Wares Ferry Rd Elem School|Wares Ferry Rd Elem School
+01|101|000501|Landmark Church of Christ|Landmark Church of Christ
+01|101|000502|Snowdoun Women's Club|Snowdoun Women's Club
+01|101|000503|Lapine Bapt Church|Lapine Bapt Church
+01|101|000504|Ramer Library|Ramer Library
+01|101|000505|Fitzpatrick Elem School|Fitzpatrick Elem School
+01|101|000506|Davis Crossroads Fire Station|Davis Crossroads Fire Station
+01|101|000507|Dublin Fire Station|Dublin Fire Station
+01|101|000508|Pine Level Fire Station|Pine Level Fire Station
+01|101|000509|Woodland UM Church|Woodland UM Church
+01|101|000510|Georgia Washingtn Mid School|Georgia Washingtn Mid School
+01|101|000511|Arrowhead Country Club|Arrowhead Country Club
+01|101|000512|St James UM Church|St James UM Church
+01|103|000101|Macedonia C P Church|Macedonia C P Church
+01|103|000201|Decatur Fire (old Flint)|Decatur Fire (old Flint)
+01|103|000301|Morgan Co Courthouse|Morgan Co Courthouse
+01|103|000303|Aquadome Rec Ctr|Aquadome Rec Ctr
+01|103|000304|Ft Decatur Rec|Ft Decatur Rec
+01|103|000306|Westrmeade Bapt Church|Westrmeade Bapt Church
+01|103|000307|Decatur Utilities|Decatur Utilities
+01|103|000308|First Bapt Austinville|First Bapt Austinville
+01|103|000309|American Legion Bldg|American Legion Bldg
+01|103|000401|Decatur Fire & Rescue #8|Decatur Fire & Rescue #8
+01|103|000402|Epic Church|Epic Church
+01|103|000403|T.C. Almon Rec Ctr|T.C. Almon Rec Ctr
+01|103|000501|Priceville Municipal Bldg|Priceville Municipal Bldg
+01|103|000601|Center Springs Methodist|Center Springs Methodist
+01|103|000701|Cotaco Fire Station|Cotaco Fire Station
+01|103|000801|Lacy's Spring Sr Ctr|Lacy's Spring Sr Ctr
+01|103|000901|Union Hill Sr Ctr|Union Hill Sr Ctr
+01|103|001001|Tri County VFD|Tri County VFD
+01|103|001301|SAVES Fire Dept|SAVES Fire Dept
+01|103|001401|New Center Bapt Church|New Center Bapt Church
+01|103|001501|John J Sparkman Civic Ctr|John J Sparkman Civic Ctr
+01|103|001502|First Bapt Church|First Bapt Church
+01|103|001601|Trinity Municipal Bldg|Trinity Municipal Bldg
+01|103|001701|W Morgan/E Lawrence WS|W Morgan/E Lawrence WS
+01|103|001801|Neel VFD|Neel VFD
+01|103|001901|Danville VF Station|Danville VF Station
+01|103|002001|Massey Fire Station|Massey Fire Station
+01|103|002101|Falkville Municipal Bldg|Falkville Municipal Bldg
+01|103|002201|Morgan Co Dist 3|Morgan Co Dist 3
+01|103|002301|Oden Ridge VFD|Oden Ridge VFD
+01|103|002401|Florette VFD|Florette VFD
+01|103|002501|Eva VFD|Eva VFD
+01|103|002701|Gum Pond Fire Dept|Gum Pond Fire Dept
+01|103|002801|Lebanon Bapt Church|Lebanon Bapt Church
+01|103|003010|Decatur Bapt Church|Decatur Bapt Church
+01|103|003011|Carrie Matthews Rec Ctr|Carrie Matthews Rec Ctr
+01|103|003012|Turner Surles Comm Ctr|Turner Surles Comm Ctr
+01|103|003014|Austinville Ch of Christ|Austinville Ch of Christ
+01|103|003015|First Bible Church|First Bible Church
+01|105|000001|Armory|Armory
+01|105|000002|Uniontown City Hall|Uniontown City Hall
+01|105|000003|Community Life Bldg|Community Life Bldg
+01|105|000004|OFS Fire St|OFS Fire St
+01|105|000006|North Perry Fire St|North Perry Fire St
+01|105|000007|Heiberger-W Perry|Heiberger-W Perry
+01|105|000008|Severe|Severe
+01|105|000009|Hinton Hall-East Perry|Hinton Hall-East Perry
+01|105|000011|Hamburg VFD|Hamburg VFD
+01|105|000013|Radforville|Radforville
+01|107|001100|Liberty School|Liberty School
+01|107|001200|Bethlehem|Bethlehem
+01|107|001300|Forest Comm Center|Forest Comm Center
+01|107|001400|McShan Comm Center|McShan Comm Center
+01|107|001500|Reform Bill Dollar Store|Reform Bill Dollar Store
+01|107|001800|Ethelsville City Hall|Ethelsville City Hall
+01|107|002100|Cochrane-Dancy|Cochrane-Dancy
+01|107|002200|Aliceville Armory|Aliceville Armory
+01|107|003100|Palmetto Comm Ctr|Palmetto Comm Ctr
+01|107|003200|Fairview-Zion|Fairview-Zion
+01|107|004100|Macedonia Masonic|Macedonia Masonic
+01|107|004200|Carrollton-Speedsmill|Carrollton-Speedsmill
+01|107|004300|Pine Grove Comm Center|Pine Grove Comm Center
+01|107|004400|Spring Hill Comm Ctr|Spring Hill Comm Ctr
+01|107|004500|Pickensville City Hall|Pickensville City Hall
+01|107|004600|Sapps Comm Ctr|Sapps Comm Ctr
+01|107|005105|Gordo City Hall|Gordo City Hall
+01|107|005300|Kirk Fire Dept|Kirk Fire Dept
+01|107|005400|Benevola Comm Ctr|Benevola Comm Ctr
+01|109|000001|Troy Public Library|Troy Public Library
+01|109|000002|Meeksville VFD|Meeksville VFD
+01|109|000003|China Grove Co Bldg|China Grove Co Bldg
+01|109|000004|Hamilton Cross Rds|Hamilton Cross Rds
+01|109|000005|Dunns Voting Ctr 1|Dunns Voting Ctr 1
+01|109|000006|Troy Adams Armory|Troy Adams Armory
+01|109|000007|Saco VFD|Saco VFD
+01|109|000008|Ebenezer Voting Ctr 1|Ebenezer Voting Ctr 1
+01|109|000009|Josie Co Bldg|Josie Co Bldg
+01|109|000010|Enon Co Bldg|Enon Co Bldg
+01|109|000011|Sweet Pilgram Church|Sweet Pilgram Church
+01|109|000012|Banks Voting Ctr 1|Banks Voting Ctr 1
+01|109|000013|Troy Rec Dept|Troy Rec Dept
+01|109|000014|Brundidge-Haisten Bldg|Brundidge-Haisten Bldg
+01|109|000015|Tennille Meth Ch|Tennille Meth Ch
+01|109|000016|Tarentum Comm Club|Tarentum Comm Club
+01|109|000017|Springhill VFD|Springhill VFD
+01|109|000018|Little Oak Co Bldg|Little Oak Co Bldg
+01|109|000019|Galloway Rd Comm Ctr|Galloway Rd Comm Ctr
+01|109|000020|Springhill Hse Auth|Springhill Hse Auth
+01|109|000021|Pike Co Courthouse|Pike Co Courthouse
+01|109|000022|First Bapt Church|First Bapt Church
+01|109|000023|Henderson Voting Ctr 1|Henderson Voting Ctr 1
+01|109|000024|Goshen Town Hall|Goshen Town Hall
+01|109|000025|Rural Home Co Bldg|Rural Home Co Bldg
+01|109|000026|Antioch Church|Antioch Church
+01|109|000027|Oak Bowery Church|Oak Bowery Church
+01|109|000028|Dunns Voting Ctr 2|Dunns Voting Ctr 2
+01|109|000030|Banks Voting Ctr 2|Banks Voting Ctr 2
+01|109|000031|Golden/Satelllite Bldg|Golden/Satelllite Bldg
+01|109|000032|Ebenezer Voting Ctr 2|Ebenezer Voting Ctr 2
+01|109|000033|Henderson Voting Ctr 2|Henderson Voting Ctr 2
+01|109|000034|Saco Voting Ctr 2|Saco Voting Ctr 2
+01|111|000001|Graham|Graham
+01|111|000002|Corinth-Tin Shop|Corinth-Tin Shop
+01|111|000003|Cavers Grove-Swagg|Cavers Grove-Swagg
+01|111|000004|Bethel Moores Store Woodland|Bethel Moores Store Woodland
+01|111|000005|Omaha-Wehadkee|Omaha-Wehadkee
+01|111|000006|Midway-Morison-Wedowee|Midway-Morison-Wedowee
+01|111|000007|Ophelia|Ophelia
+01|111|000008|Wadley|Wadley
+01|111|000009|Level Road|Level Road
+01|111|000010|National Guard Armory|National Guard Armory
+01|111|000011|Rock Mills-Wilson's Store|Rock Mills-Wilson's Store
+01|111|000012|Bacon Level|Bacon Level
+01|111|000013|Wesley Chapel|Wesley Chapel
+01|111|000014|Pine Hill|Pine Hill
+01|113|000001|Roy Martin Ctr|Roy Martin Ctr
+01|113|000002|Ladonia Fire Dept|Ladonia Fire Dept
+01|113|000301|Central Activities Ctr|Central Activities Ctr
+01|113|000402|Claude Parkman Bdg|Claude Parkman Bdg
+01|113|000405|Russell Co Courthouse|Russell Co Courthouse
+01|113|000501|Spencer Rec Ctr|Spencer Rec Ctr
+01|113|000502|Fort Mitchell Comm Ctr|Fort Mitchell Comm Ctr
+01|113|000601|CVCC|CVCC
+01|113|000603|Dixie VFD|Dixie VFD
+01|113|000701|Cottonton Fire St|Cottonton Fire St
+01|113|000702|Pittsview Fire Dept|Pittsview Fire Dept
+01|113|000703|Old Seale Courthouse|Old Seale Courthouse
+01|113|000704|Hatchechubbee Fire Dept|Hatchechubbee Fire Dept
+01|113|000705|Fire Dept Hurtsboro|Fire Dept Hurtsboro
+01|113|000706|Austin Sumbry Park|Austin Sumbry Park
+01|113|000707|Golden Acres Bapt|Golden Acres Bapt
+01|115|000001|Ashville City Hall|Ashville City Hall
+01|115|000002|Shoal Creek Comm Ctr|Shoal Creek Comm Ctr
+01|115|000003|Odenville Civic Ctr|Odenville Civic Ctr
+01|115|000004|1st United Meth Church|1st United Meth Church
+01|115|000005|Friendship VFD|Friendship VFD
+01|115|000006|Steele Comm Ctr|Steele Comm Ctr
+01|115|000007|Branchville Church|Branchville Church
+01|115|000009|Ragland Town Hall|Ragland Town Hall
+01|115|000010|Wattsville VFD|Wattsville VFD
+01|115|000011|Poplar Springs Church|Poplar Springs Church
+01|115|000012|Celebrations|Celebrations
+01|115|000013|New London VFD|New London VFD
+01|115|000014|Wolf Creek VFD|Wolf Creek VFD
+01|115|000015|Pell City Comm Ctr|Pell City Comm Ctr
+01|115|000016|Cook Springs VFD|Cook Springs VFD
+01|115|000017|Moody Civic Center|Moody Civic Center
+01|115|000018|Pinedale VFD|Pinedale VFD
+01|115|000019|Pell City Civic Ctr|Pell City Civic Ctr
+01|115|000020|Riverside Town Hall|Riverside Town Hall
+01|115|000021|Fairview Church|Fairview Church
+01|115|000022|Gum Springs Church|Gum Springs Church
+01|115|000023|Prescott Comm Ctr|Prescott Comm Ctr
+01|115|000024|New Hope Church|New Hope Church
+01|115|000025|North Valley Church|North Valley Church
+01|115|000026|Whites Chapel Town Hall|Whites Chapel Town Hall
+01|115|000027|Chandler Mt.Comm Ctr|Chandler Mt.Comm Ctr
+01|115|000028|Gallant VFD|Gallant VFD
+01|115|000029|Slate Union Church|Slate Union Church
+01|115|000030|Cedar Grove Church|Cedar Grove Church
+01|115|000031|Argo Town Hall|Argo Town Hall
+01|117|000001|Dunnavant Comm Ctr|Dunnavant Comm Ctr
+01|117|000002|Vandier-Sterrett Sr Ctr|Vandier-Sterrett Sr Ctr
+01|117|000003|Turner-Hollis Legion #195|Turner-Hollis Legion #195
+01|117|000004|Vincent Revival Ctr|Vincent Revival Ctr
+01|117|000005|Harpersville Town Hall|Harpersville Town Hall
+01|117|000006|New Life Assembly of God|New Life Assembly of God
+01|117|000007|Chelsea Church of God|Chelsea Church of God
+01|117|000008|North Shelby Bapt|North Shelby Bapt
+01|117|000009|Asbury United Meth|Asbury United Meth
+01|117|000010|Blackwatch Sports|Blackwatch Sports
+01|117|000011|Shoal Creek Town Hall|Shoal Creek Town Hall
+01|117|000012|Greystone Farms CH|Greystone Farms CH
+01|117|000013|Hoover Fire #8|Hoover Fire #8
+01|117|000014|The Church at Brook Hills|The Church at Brook Hills
+01|117|000015|MeadowBrook Bapt|MeadowBrook Bapt
+01|117|000016|New Hope Cumberland Presby|New Hope Cumberland Presby
+01|117|000017|1st Christian Church|1st Christian Church
+01|117|000018|Valleydale Bapt Church|Valleydale Bapt Church
+01|117|000019|Riverchase Church Christ|Riverchase Church Christ
+01|117|000020|Pelham Civic Complex|Pelham Civic Complex
+01|117|000021|Helena Comm Ctr|Helena Comm Ctr
+01|117|000022|Southcrest Bapt Church|Southcrest Bapt Church
+01|117|000023|Church of Jesus Christ|Church of Jesus Christ
+01|117|000024|Restore-1st UM|Restore-1st UM
+01|117|000025|Alabaster Liberty Bapt|Alabaster Liberty Bapt
+01|117|000026|Evangel Presby Church|Evangel Presby Church
+01|117|000027|1st Pres Church|1st Pres Church
+01|117|000028|Chelsea Comm Ctr|Chelsea Comm Ctr
+01|117|000029|Pelham Park Rec Ctr|Pelham Park Rec Ctr
+01|117|000030|Stewart Student Retreat|Stewart Student Retreat
+01|117|000031|Pea Ridge Comm Ctr|Pea Ridge Comm Ctr
+01|117|000032|Riverchase Bapt|Riverchase Bapt
+01|117|000033|Montevallo Prk & Rec|Montevallo Prk & Rec
+01|117|000034|Roy Downs Memorial Library|Roy Downs Memorial Library
+01|117|000035|Concord Bapt Church|Concord Bapt Church
+01|117|000036|Camp Branch Civic Ctr|Camp Branch Civic Ctr
+01|117|000037|Columbiana Rec Bldg|Columbiana Rec Bldg
+01|117|000038|Fourmile VFD|Fourmile VFD
+01|117|000039|Wilsonville UM Church|Wilsonville UM Church
+01|117|000040|Shelby Iron Wrks Prk|Shelby Iron Wrks Prk
+01|117|000041|Bay Springs Bapt|Bay Springs Bapt
+01|117|000042|Christ United Meth|Christ United Meth
+01|117|000043|Faith Presby Church|Faith Presby Church
+01|119|000003|Cuba City Hall|Cuba City Hall
+01|119|000007|Livingston Civic Ctr|Livingston Civic Ctr
+01|119|000105|Whitfield Comm Ctr|Whitfield Comm Ctr
+01|119|000213|Ward Fire Station|Ward Fire Station
+01|119|000413|York Sumter Rescue|York Sumter Rescue
+01|119|000512|Bellamy Comm Ctr|Bellamy Comm Ctr
+01|119|000802|Boyd Trailer|Boyd Trailer
+01|119|000911|Emelle Town Hall|Emelle Town Hall
+01|119|001011|Epes Comm Ctr|Epes Comm Ctr
+01|119|001101|Gainesville Comm Ctr|Gainesville Comm Ctr
+01|119|001201|Geiger City Hall|Geiger City Hall
+01|119|001301|Panola Comm Ctr|Panola Comm Ctr
+01|119|006012|Coatopa Fire Dept|Coatopa Fire Dept
+01|121|000001|Eastaboga/Lincoln|Eastaboga/Lincoln
+01|121|000002|Antioch Bapt Church|Antioch Bapt Church
+01|121|000003|Ironaton|Ironaton
+01|121|000004|Brecon/Spring St.|Brecon/Spring St.
+01|121|000005|Mabra/Kingston/TC|Mabra/Kingston/TC
+01|121|000006|Bethel Bapt Church|Bethel Bapt Church
+01|121|000007|Winterboro/Berney St.|Winterboro/Berney St.
+01|121|000008|Lay Lake/St. Andrews|Lay Lake/St. Andrews
+01|121|000009|J. Craig Smith|J. Craig Smith
+01|121|000010|Limbaugh/Bon Air/Oak Grove|Limbaugh/Bon Air/Oak Grove
+01|121|000011|Sycamore Nutr Ctr|Sycamore Nutr Ctr
+01|121|000012|Waldo City Hall|Waldo City Hall
+01|121|000013|Fayetteville/County Line|Fayetteville/County Line
+01|121|000014|Stemley/Renfroe|Stemley/Renfroe
+01|121|000015|Munford|Munford
+01|123|000101|A/C Hous Auth Y&A|A/C Hous Auth Y&A
+01|123|000102|Cooper Comm Ctr|Cooper Comm Ctr
+01|123|000201|Ourtown VFD|Ourtown VFD
+01|123|000202|Alex City Natl Guard|Alex City Natl Guard
+01|123|000203|Alex City Fire Lakehill|Alex City Fire Lakehill
+01|123|000301|Hillabee Bapt Church|Hillabee Bapt Church
+01|123|000303|Hackneyville Comm Ctr|Hackneyville Comm Ctr
+01|123|000401|Rocky Creek Bapt|Rocky Creek Bapt
+01|123|000501|New Site Town Hall|New Site Town Hall
+01|123|000601|Eagle Creek VH|Eagle Creek VH
+01|123|000701|Dadeville Rec Ctr|Dadeville Rec Ctr
+01|123|000801|Manoy Voting House|Manoy Voting House
+01|123|000901|New Paces Pt VFD|New Paces Pt VFD
+01|123|000902|Moncrief|Moncrief
+01|123|001001|Union Comm Bldg|Union Comm Bldg
+01|123|001101|Sardis Comm Bldg|Sardis Comm Bldg
+01|123|001201|Reeltown VFD|Reeltown VFD
+01|123|001203|Tallassee City Hall|Tallassee City Hall
+01|123|001204|Wall Street Comm Ctr|Wall Street Comm Ctr
+01|123|001301|Pentecost UM Church|Pentecost UM Church
+01|123|001401|Mary's Cross Road VH|Mary's Cross Road VH
+01|123|001501|Mt. Lovely Bapt Church|Mt. Lovely Bapt Church
+01|123|001601|Fellowship Bapt Church|Fellowship Bapt Church
+01|123|001701|Daviston Comm Ctr|Daviston Comm Ctr
+01|123|001801|Jackson's Gap VFD|Jackson's Gap VFD
+01|125|000001|Whitson Place Church|Whitson Place Church
+01|125|000002|Windham Springs Church|Windham Springs Church
+01|125|000003|Sheriffs Firing Range|Sheriffs Firing Range
+01|125|000004|Mayfield VFD|Mayfield VFD
+01|125|000005|Montgomery VFD|Montgomery VFD
+01|125|000006|Northside Lions Club|Northside Lions Club
+01|125|000007|County Rd Camp #3|County Rd Camp #3
+01|125|000008|Station #2 Carroll Creek|Station #2 Carroll Creek
+01|125|000009|Yellow Creek Church|Yellow Creek Church
+01|125|000010|Kellerman Antioch Church|Kellerman Antioch Church
+01|125|000011|Tannehill Valley Church|Tannehill Valley Church
+01|125|000012|Lakeview Church|Lakeview Church
+01|125|000013|Abernant Bapt Church|Abernant Bapt Church
+01|125|000014|G G Hardin Comm Ctr|G G Hardin Comm Ctr
+01|125|000015|Mary Phelps Ctr|Mary Phelps Ctr
+01|125|000016|Carroll Creek Church|Carroll Creek Church
+01|125|000017|Chapel Hill Church|Chapel Hill Church
+01|125|000018|Echola FD|Echola FD
+01|125|000019|Mt Olive Church|Mt Olive Church
+01|125|000020|Flatwoods Church|Flatwoods Church
+01|125|000021|Northport City Hall|Northport City Hall
+01|125|000022|Vestavia Hills Elem School|Vestavia Hills Elem School
+01|125|000023|Church of Highlands|Church of Highlands
+01|125|000024|Holt Elem School|Holt Elem School
+01|125|000025|Peterson Church|Peterson Church
+01|125|000026|Alberta Bapt Church|Alberta Bapt Church
+01|125|000027|UA Rec Ctr|UA Rec Ctr
+01|125|000028|Tuscaloosa Courthouse|Tuscaloosa Courthouse
+01|125|000029|New Zion Church|New Zion Church
+01|125|000030|Northport Comm Ctr|Northport Comm Ctr
+01|125|000031|Coker VFD|Coker VFD
+01|125|000032|Buhl VFD|Buhl VFD
+01|125|000033|Elrod VFD|Elrod VFD
+01|125|000034|Romulus VFD|Romulus VFD
+01|125|000035|Unity Bapt Church|Unity Bapt Church
+01|125|000036|Stillman College|Stillman College
+01|125|000037|McDonald Hughes Ctr|McDonald Hughes Ctr
+01|125|000038|Cornerstone Church|Cornerstone Church
+01|125|000039|Forrest Lake Church|Forrest Lake Church
+01|125|000040|University Mall|University Mall
+01|125|000041|McAbee Ctr|McAbee Ctr
+01|125|000042|Cottondale Comm Church|Cottondale Comm Church
+01|125|000043|Cottondale Meth Church|Cottondale Meth Church
+01|125|000044|Belk Activity Ctr|Belk Activity Ctr
+01|125|000045|Mt Pilgram Church|Mt Pilgram Church
+01|125|000046|New Life Church|New Life Church
+01|125|000047|Bobby Miller Activity Ctr|Bobby Miller Activity Ctr
+01|125|000048|Duncanville School|Duncanville School
+01|125|000049|Coaling Town Hall|Coaling Town Hall
+01|125|000050|Vance Town Hall|Vance Town Hall
+01|125|000051|Hagler VFD|Hagler VFD
+01|125|000052|Big Sandy Church|Big Sandy Church
+01|125|000053|Fosters VFD|Fosters VFD
+01|125|000054|Ralph VFD|Ralph VFD
+01|127|000001|Jasper Mall|Jasper Mall
+01|127|000002|Farmstead Bapt Ch|Farmstead Bapt Ch
+01|127|000003|Bethel Assembly|Bethel Assembly
+01|127|000004|Meadow Smith Library/Frisco|Meadow Smith Library/Frisco
+01|127|000005|Carbon Hill Comm Ctr|Carbon Hill Comm Ctr
+01|127|000006|Townley Comm Ctr|Townley Comm Ctr
+01|127|000007|Memorial Park|Memorial Park
+01|127|000008|Westside Bapt Church|Westside Bapt Church
+01|127|000009|Oakman Comm Ctr|Oakman Comm Ctr
+01|127|000010|Tutwiler Fire Dept|Tutwiler Fire Dept
+01|127|000011|Union Chapel Comm Ctr|Union Chapel Comm Ctr
+01|127|000012|Cordova VFW|Cordova VFW
+01|127|000013|Dora Civic Ctr|Dora Civic Ctr
+01|127|000014|Union Hall Goodsprings|Union Hall Goodsprings
+01|127|000015|Sipsey School|Sipsey School
+01|127|000016|Empire Union Bldg|Empire Union Bldg
+01|127|000017|Curry Comm Ctr|Curry Comm Ctr
+01|127|000018|Corona Baptist Ch|Corona Baptist Ch
+01|127|000019|Copeland Ferry Ch God|Copeland Ferry Ch God
+01|127|000020|Liberty Hill Church|Liberty Hill Church
+01|127|000021|Twilly Town Church|Twilly Town Church
+01|127|000022|Parrish HS Gym|Parrish HS Gym
+01|127|000023|Saragoosa Comm Ctr|Saragoosa Comm Ctr
+01|127|000024|Pocahontas Church|Pocahontas Church
+01|127|000025|Eldridge City Hall|Eldridge City Hall
+01|127|000026|Kansas City Hall|Kansas City Hall
+01|127|000027|Rices Chapel Ch|Rices Chapel Ch
+01|127|000028|Boldo Comm Bldg|Boldo Comm Bldg
+01|127|000029|Townley VFD|Townley VFD
+01|127|000030|Abundant Life Church|Abundant Life Church
+01|127|000031|Thach School|Thach School
+01|127|000032|Prospect Meth Ch|Prospect Meth Ch
+01|127|000033|Crossroads Ch Christ|Crossroads Ch Christ
+01|127|000034|Nauvoo City Hall|Nauvoo City Hall
+01|127|000035|New Bethany Ch God|New Bethany Ch God
+01|127|000036|McCollum NG Armory|McCollum NG Armory
+01|127|000037|Bevill St Comm College|Bevill St Comm College
+01|127|000038|Dillworth Comm Bldg|Dillworth Comm Bldg
+01|127|000039|New Hope Missionary Ch|New Hope Missionary Ch
+01|127|000040|McCollum Midway Fire|McCollum Midway Fire
+01|127|000041|Pleasant Field Comm Ctr|Pleasant Field Comm Ctr
+01|127|000042|Argo Fire Depart|Argo Fire Depart
+01|127|000043|Pineywoods Fire Dept|Pineywoods Fire Dept
+01|127|000044|Manchester Comm Bldg|Manchester Comm Bldg
+01|127|000045|Old Herman Church|Old Herman Church
+01|129|000001|Hobson Fire House|Hobson Fire House
+01|129|000003|Frankville Fire Hse|Frankville Fire Hse
+01|129|000004|Millry Fire Hse|Millry Fire Hse
+01|129|000005|Red Creek Fire Hse|Red Creek Fire Hse
+01|129|000006|Copeland Assembly God|Copeland Assembly God
+01|129|000007|Yarbo Fire Hse|Yarbo Fire Hse
+01|129|000008|Laton Hill Fire Hse|Laton Hill Fire Hse
+01|129|000010|Fruitdale Fire Hse|Fruitdale Fire Hse
+01|129|000011|Deer Park Fire Hse|Deer Park Fire Hse
+01|129|000012|Charity Chapel Fire Hse|Charity Chapel Fire Hse
+01|129|000013|Tibbie Fire Hse|Tibbie Fire Hse
+01|129|000014|Fairford Fire Hse|Fairford Fire Hse
+01|129|000015|Malcolm Ctr|Malcolm Ctr
+01|129|000016|McIntosh Comm Ctr|McIntosh Comm Ctr
+01|129|000018|Wagarville Fire Hse|Wagarville Fire Hse
+01|129|000019|MOWA Choctaw Comm Ctr|MOWA Choctaw Comm Ctr
+01|129|000020|Leroy Fire Hse|Leroy Fire Hse
+01|129|000022|St. Stephens Fire Hse|St. Stephens Fire Hse
+01|129|000025|Chatom Courthouse|Chatom Courthouse
+01|131|001001|Natl Guard Armory Camden|Natl Guard Armory Camden
+01|131|001004|Furman Tates Chapel D1|Furman Tates Chapel D1
+01|131|001005|Clifton Voc Bdg|Clifton Voc Bdg
+01|131|001006|Hwy 10/8 D1|Hwy 10/8 D1
+01|131|002001|Pine Apple AWIN D1 D2|Pine Apple AWIN D1 D2
+01|131|002002|Furman Tates Chapel D2|Furman Tates Chapel D2
+01|131|002003|St Paul AME D2|St Paul AME D2
+01|131|002004|Hwy /28 D2|Hwy /28 D2
+01|131|002007|National Guard Bridgeport|National Guard Bridgeport
+01|131|003001|Holy Cross D3|Holy Cross D3
+01|131|003002|Pine Apple Comm D1 D2|Pine Apple Comm D1 D2
+01|131|003003|Coy Public Sch|Coy Public Sch
+01|131|003004|Sedan Port_Bldg|Sedan Port_Bldg
+01|131|003005|Caldonia|Caldonia
+01|131|004001|Gees Bend Ferry|Gees Bend Ferry
+01|131|004002|Faith Fellowship|Faith Fellowship
+01|131|004003|Prairie Bluff Cathrine|Prairie Bluff Cathrine
+01|131|004006|Millers Ferry|Millers Ferry
+01|131|005001|Voc Bldg Annemanie|Voc Bldg Annemanie
+01|131|005002|Pine Hill Mid Sch|Pine Hill Mid Sch
+01|131|005003|Yellow Bluff|Yellow Bluff
+01|131|005004|St Wisdom|St Wisdom
+01|131|005005|Lower Peachtree D5|Lower Peachtree D5
+01|131|005006|Holy Cross D5|Holy Cross D5
+01|131|006001|Arlington Comm Ctr|Arlington Comm Ctr
+01|131|006002|Pine Hill City Hall|Pine Hill City Hall
+01|131|006004|Lower Peachtree D6|Lower Peachtree D6
+01|131|006005|Sunny Side Bapt|Sunny Side Bapt
+01|133|000001|Double Springs Mun bldg|Double Springs Mun bldg
+01|133|000002|Haleyville Sr Ctr|Haleyville Sr Ctr
+01|133|000003|Lynn City Hall|Lynn City Hall
+01|133|000004|Black Pond Fire|Black Pond Fire
+01|133|000005|Arley Fire Dept|Arley Fire Dept
+01|133|000006|Houston Fire Dept|Houston Fire Dept
+01|133|000007|Addison Comm Ctr|Addison Comm Ctr
+01|133|000008|Moreland Fire Dep|Moreland Fire Dep
+01|133|000009|Helicon Fire Station|Helicon Fire Station
+01|133|000010|Delmar-Natural Bridge|Delmar-Natural Bridge
+01|133|000011|Ashridge Fire Dept|Ashridge Fire Dept

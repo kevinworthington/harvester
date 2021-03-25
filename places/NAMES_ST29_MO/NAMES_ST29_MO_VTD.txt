@@ -1,0 +1,4605 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+29|001|000002|Brashear|Brashear Voting District
+29|001|000003|Northeast 4|Northeast 4 Voting District
+29|001|000004|Northeast 5|Northeast 5 Voting District
+29|001|000005|Northeast 6|Northeast 6 Voting District
+29|001|000006|Novinger|Novinger Voting District
+29|001|000007|Rural Benton|Rural Benton Voting District
+29|001|000008|Southeast 2|Southeast 2 Voting District
+29|001|000009|Southeast 3|Southeast 3 Voting District
+29|001|000010|Southwest 1|Southwest 1 Voting District
+29|001|000011|Truman State University|Truman State University Voting District
+29|003|000002|John Glenn A|John Glenn A Voting District
+29|003|000003|Country Club|Country Club Voting District
+29|003|000004|Monroe East|Monroe East Voting District
+29|003|000005|Monroe West|Monroe West Voting District
+29|003|000006|John Glenn|John Glenn Voting District
+29|003|000007|Beeler|Beeler Voting District
+29|003|000008|Savannah Southeast|Savannah Southeast Voting District
+29|003|000009|Savannah Southwest|Savannah Southwest Voting District
+29|003|000010|Helena|Helena Voting District
+29|003|000011|Lincoln|Lincoln Voting District
+29|003|000012|Rochester|Rochester Voting District
+29|003|000013|Savannah Northwest|Savannah Northwest Voting District
+29|003|000014|Savannah Northeast|Savannah Northeast Voting District
+29|003|000015|Empire East|Empire East Voting District
+29|003|000016|Fillmore|Fillmore Voting District
+29|003|000017|Rosendale|Rosendale Voting District
+29|003|000018|Platte East|Platte East Voting District
+29|003|000019|Platte West|Platte West Voting District
+29|003|000020|Bolckow|Bolckow Voting District
+29|003|000021|Clay|Clay Voting District
+29|005|000002|Fairfax|Fairfax Voting District
+29|005|000004|Rock Port|Rock Port Voting District
+29|005|000005|Tarkio|Tarkio Voting District
+29|005|000006|Watson|Watson Voting District
+29|005|000007|Westboro|Westboro Voting District
+29|007|000502|Friendship|Friendship Voting District
+29|007|000506|Thompson|Thompson Voting District
+29|007|000508|Community|Community Voting District
+29|007|000510|Laddonia|Laddonia Voting District
+29|007|000512|Farber|Farber Voting District
+29|007|000513|I E Cuivre|I E Cuivre Voting District
+29|007|000545|South Fork|South Fork Voting District
+29|007|000616|Mexico No. 4|Mexico No. 4 Voting District
+29|007|000623|Mexico No. 1|Mexico No. 1 Voting District
+29|007|000632|Mexico No. 2|Mexico No. 2 Voting District
+29|007|000633|Mexico No. 3|Mexico No. 3 Voting District
+29|007|000641|Mexico No. 5|Mexico No. 5 Voting District
+29|007|000642|Mexico No. 6|Mexico No. 6 Voting District
+29|007|000657|Martinsburg|Martinsburg Voting District
+29|007|000658|Benton City|Benton City Voting District
+29|007|000667|Wilson/Salt River|Wilson/Salt River Voting District
+29|009|000002|Ash|Ash Voting District
+29|009|000003|Butterfield|Butterfield Voting District
+29|009|000004|Capps Creek|Capps Creek Voting District
+29|009|000005|Cassville City|Cassville City Voting District
+29|009|000006|Cassville Rural|Cassville Rural Voting District
+29|009|000007|Crane Creek|Crane Creek Voting District
+29|009|000008|Exeter|Exeter Voting District
+29|009|000009|Golden|Golden Voting District
+29|009|000010|Jenkins|Jenkins Voting District
+29|009|000011|Kings Prairie|Kings Prairie Voting District
+29|009|000012|McDonald|McDonald Voting District
+29|009|000013|McDowell|McDowell Voting District
+29|009|000014|Mineral|Mineral Voting District
+29|009|000015|Monett|Monett Voting District
+29|009|000016|Ozark|Ozark Voting District
+29|009|000017|Pleasant Ridge|Pleasant Ridge Voting District
+29|009|000018|Purdy|Purdy Voting District
+29|009|000019|Roaring River|Roaring River Voting District
+29|009|000020|Seligman|Seligman Voting District
+29|009|000021|Shell Knob|Shell Knob Voting District
+29|009|000022|Washburn|Washburn Voting District
+29|009|000023|Wheaton|Wheaton Voting District
+29|011|000004|Vote Center #5|Vote Center #5
+29|011|000008|Vote Center #8|Vote Center #8
+29|011|000010|Vote Center #1|Vote Center #1
+29|011|000011|Vote Center #2|Vote Center #2
+29|011|000015|Vote Center #6|Vote Center #6
+29|011|000016|Vote Center #7|Vote Center #7
+29|011|16-018|Vote Center #3|Vote Center #3
+29|011|16-021|Vote Center #4|Vote Center #4
+29|013|002701|Drexel|Drexel Voting District
+29|013|002703|Adrian South|Adrian South Voting District
+29|013|002705|Adrian North|Adrian North Voting District
+29|013|002722|Ballard|Ballard Voting District
+29|013|002767|Amsterdam|Amsterdam Voting District
+29|013|002801|Butler No. 1|Butler No. 1 Voting District
+29|013|002814|Butler No. 2|Butler No. 2 Voting District
+29|013|002825|Amoret|Amoret Voting District
+29|013|002847|Hudson|Hudson Voting District
+29|013|002849|Butler No. 3|Butler No. 3 Voting District
+29|013|002850|Butler No. 4|Butler No. 4 Voting District
+29|013|002868|Hume|Hume Voting District
+29|013|002892|Rich Hill South|Rich Hill South Voting District
+29|013|002904|Rich Hill North|Rich Hill North Voting District
+29|013|002930|Rockville|Rockville Voting District
+29|015|000001|UNION|UNION
+29|015|000002|WILLIAMS|WILLIAMS
+29|015|000004|ALEXANDER|ALEXANDER
+29|015|000005|COLE|COLE
+29|015|000007|TOM|TOM
+29|015|000008|FRISTOE|FRISTOE
+29|015|000009|WHITE|WHITE
+29|015|0012-6|LINDSEY|LINDSEY
+29|017|000003|Drum-Dongola|Drum-Dongola Voting District
+29|017|000005|Hurricane|Hurricane Voting District
+29|017|000006|Lutesville|Lutesville Voting District
+29|017|000007|Marble Hill|Marble Hill Voting District
+29|017|000009|Patton|Patton Voting District
+29|017|000010|Scopus|Scopus Voting District
+29|017|000011|Sedgewickville|Sedgewickville Voting District
+29|017|000012|Sitze|Sitze Voting District
+29|017|000015|Zalma|Zalma Voting District
+29|019|000007|07|Voting District 07
+29|019|000008|08|Voting District 08
+29|019|000009|09|Voting District 09
+29|019|000010|10|Voting District 10
+29|019|000011|11|11
+29|019|000012|12|Voting District 12
+29|019|000015|15|Voting District 15
+29|019|000016|16|Voting District 16
+29|019|000017|17|Voting District 17
+29|019|000018|18|Voting District 18
+29|019|000019|19|Voting District 19
+29|019|00001A|1A|Voting District 1A
+29|019|00001B|1B|Voting District 1B
+29|019|00001C|1C|Voting District 1C
+29|019|00001D|1D|Voting District 1D
+29|019|00001E|1E|Voting District 1E
+29|019|00001F|1F|Voting District 1F
+29|019|00001G|1G|Voting District 1G
+29|019|00001I|1I|Voting District 1I
+29|019|000020|20|Voting District 20
+29|019|000021|21|Voting District 21
+29|019|000022|22|Voting District 22
+29|019|000023|23|Voting District 23
+29|019|000024|24|Voting District 24
+29|019|000025|25|Voting District 25
+29|019|000026|26|Voting District 26
+29|019|000027|27|Voting District 27
+29|019|000028|28|Voting District 28
+29|019|000029|29|Voting District 29
+29|019|00002A|2A|Voting District 2A
+29|019|00002B|2B|Voting District 2B
+29|019|00002C|2C|Voting District 2C
+29|019|00002D|2D|Voting District 2D
+29|019|00002F|2F|Voting District 2F
+29|019|00002G|2G|Voting District 2G
+29|019|00002H|2H|Voting District 2H
+29|019|00002I|2I|Voting District 2I
+29|019|00002J|2J|Voting District 2J
+29|019|00002K|2K|Voting District 2K
+29|019|000030|30|Voting District 30
+29|019|000031|31|Voting District 31
+29|019|000032|32|Voting District 32
+29|019|000033|33|Voting District 33
+29|019|000034|34|Voting District 34
+29|019|000035|35|Voting District 35
+29|019|000036|36|Voting District 36
+29|019|000037|37|Voting District 37
+29|019|000038|38|Voting District 38
+29|019|000039|39|Voting District 39
+29|019|00003A|3A|Voting District 3A
+29|019|00003B|3B|Voting District 3B
+29|019|00003C|3C|Voting District 3C
+29|019|00003D|3D|Voting District 3D
+29|019|00003E|3E|Voting District 3E
+29|019|00003F|3F|Voting District 3F
+29|019|000040|40|Voting District 40
+29|019|000041|41|Voting District 41
+29|019|000042|42|Voting District 42
+29|019|00004A|4A|Voting District 4A
+29|019|00004B|4B|Voting District 4B
+29|019|00004C|4C|Voting District 4C
+29|019|00004D|4D|Voting District 4D
+29|019|00004E|4E|Voting District 4E
+29|019|00004F|4F|Voting District 4F
+29|019|00004G|4G|Voting District 4G
+29|019|00004H|4H|Voting District 4H
+29|019|00004I|4I|Voting District 4I
+29|019|00004J|4J|Voting District 4J
+29|019|00004K|4K|Voting District 4K
+29|019|00004L|4L|Voting District 4L
+29|019|00005A|5A|Voting District 5A
+29|019|00005B|5B|Voting District 5B
+29|019|00005C|5C|Voting District 5C
+29|019|00005D|5D|Voting District 5D
+29|019|00005E|5E|Voting District 5E
+29|019|00005F|5F|Voting District 5F
+29|019|00005G|5G|Voting District 5G
+29|019|00005H|5H|Voting District 5H
+29|019|00005I|5I|Voting District 5I
+29|019|00005J|5J|Voting District 5J
+29|019|00005K|5K|Voting District 5K
+29|019|00005L|5L|Voting District 5L
+29|019|00005M|5M|Voting District 5M
+29|019|00006A|6A|Voting District 6A
+29|019|00006B|6B|Voting District 6B
+29|019|00006C|6C|Voting District 6C
+29|019|00006D|6D|Voting District 6D
+29|019|00006E|6E|Voting District 6E
+29|019|00006F|6F|Voting District 6F
+29|019|00006G|6G|Voting District 6G
+29|019|00006H|6H|Voting District 6H
+29|019|00006I|6I|Voting District 6I
+29|019|16-01J|1J|Voting District 1J
+29|019|16-01K|1K|Voting District 1K
+29|019|16-01L|1L|Voting District 1L
+29|019|16-01M|1M|Voting District 1M
+29|019|16-02L|2L|Voting District 2L
+29|019|16-03G|3G|Voting District 3G
+29|019|16-03H|3H|Voting District 3H
+29|019|16-03I|3I|Voting District 3I
+29|019|16-03J|3J|Voting District 3J
+29|019|16-03L|3L|Voting District 3L
+29|019|16-03M|3M|Voting District 3M
+29|019|16-03N|3N|Voting District 3N
+29|019|16-043|43|Voting District 43
+29|019|16-044|44|Voting District 44
+29|019|16-045|45|Voting District 45
+29|019|16-04M|4M|Voting District 4M
+29|019|16-05N|5N|Voting District 5N
+29|019|16-05P|5P|Voting District 5P
+29|019|16-06J|6J|Voting District 6J
+29|019|16-06K|6K|Voting District 6K
+29|019|16-06L|6L|Voting District 6L
+29|019|16-06M|6M|Voting District 6M
+29|021|000001|St. Peter Lutheran Church|St. Peter Lutheran Church
+29|021|000002|Savannah Avenue Baptist Church|Savannah Avenue Baptist Church
+29|021|000004|Central Assembly of God|Central Assembly of God
+29|021|000006|St. Joseph City Hall|St. Joseph City Hall
+29|021|000008|Wyatt Park Christian Church|Wyatt Park Christian Church
+29|021|000010|Brookdale Student Ministry|Brookdale Student Ministry
+29|021|000011|Pony Express Museum|Pony Express Museum
+29|021|000012|Copeland Baptist Church|Copeland Baptist Church
+29|021|000014|Huffman United Methodist Church|Huffman United Methodist Church
+29|021|000016|The Evolution United Methodist Church|The Evolution United Methodist Church
+29|021|000018|The Keys Christian Fellowship|The Keys Christian Fellowship
+29|021|000020|Faith United Church|Faith United Church
+29|021|000021|Ashland United Methodist Church|Ashland United Methodist Church
+29|021|000022|Our Lady of Guadalupe Church|Our Lady of Guadalupe Church
+29|021|000023|Wesley United Methodist Church|Wesley United Methodist Church
+29|021|000024|Bible Baptist Temple|Bible Baptist Temple
+29|021|000027|Agency Methodist Church|Agency Methodist Church
+29|021|000028|DeKalb Community Center|DeKalb Community Center
+29|021|000029|Willowbrook Community Center|Willowbrook Community Center
+29|021|000030|Faucett Lions Club|Faucett Lions Club
+29|021|000031|St. Joseph Catholic Church|St. Joseph Catholic Church
+29|021|000032|Frazier Baptist Church|Frazier Baptist Church
+29|021|000033|Rushville Masonic Lodge|Rushville Masonic Lodge
+29|021|000034|Frederick Boulevard Baptist Church|Frederick Boulevard Baptist Church
+29|021|000035|Grace Evangelical Church|Grace Evangelical Church
+29|023|000002|Broseley|Broseley Voting District
+29|023|000003|Cane Creek|Cane Creek Voting District
+29|023|000004|Coon Island|Coon Island Voting District
+29|023|000005|Fagus|Fagus Voting District
+29|023|000006|Fisk|Fisk Voting District
+29|023|000007|Hendrickson|Hendrickson Voting District
+29|023|000008|Hill View|Hill View Voting District
+29|023|000009|Kinyon|Kinyon Voting District
+29|023|000010|Lake Road|Lake Road Voting District
+29|023|000011|Moark|Moark Voting District
+29|023|000012|Neelyville|Neelyville Voting District
+29|023|000013|Oak Brier|Oak Brier Voting District
+29|023|000014|Oak Grove|Oak Grove Voting District
+29|023|000015|Oglesville|Oglesville Voting District
+29|023|000016|Poplar Bluff Ward 1|Poplar Bluff Ward 1
+29|023|000017|Poplar Bluff Ward 2|Poplar Bluff Ward 2
+29|023|000018|Poplar Bluff Ward 3|Poplar Bluff Ward 3
+29|023|000019|Poplar Bluff Ward 4|Poplar Bluff Ward 4
+29|023|000020|Poplar Bluff Ward 5|Poplar Bluff Ward 5
+29|023|000021|Qulin|Qulin Voting District
+29|023|000022|Rombauer|Rombauer Voting District
+29|023|000023|Sale Barn|Sale Barn Voting District
+29|023|000024|Twin Springs|Twin Springs Voting District
+29|023|000025|Walton Chapel|Walton Chapel Voting District
+29|023|000026|Wappapello|Wappapello Voting District
+29|025|000277|Kidder|Kidder Voting District
+29|025|000280|Gomer|Gomer Voting District
+29|025|000281|Breckenridge|Breckenridge Voting District
+29|025|000284|Hamilton|Hamilton Voting District
+29|025|000353|Mirabile/Rockford|Mirabile/Rockford Voting District
+29|025|000356|New York|New York Voting District
+29|025|000357|Davis/Fairview|Davis/Fairview Voting District
+29|025|000358|Kingston|Kingston Voting District
+29|025|000389|Lincoln|Lincoln Voting District
+29|025|000390|Grant|Grant Voting District
+29|027|000826|Stephens|Stephens Voting District
+29|027|000828|Hatton|Hatton Voting District
+29|027|000839|Auxvasse|Auxvasse Voting District
+29|027|000842|Shamrock|Shamrock Voting District
+29|027|000998|McCredie|McCredie Voting District
+29|027|001069|Millersburg|Millersburg Voting District
+29|027|001081|Calwood|Calwood Voting District
+29|027|001083|Williamsburg|Williamsburg Voting District
+29|027|001189|West Fulton|West Fulton Voting District
+29|027|001190|East Fulton|East Fulton Voting District
+29|027|001271|Fulton No. 4|Fulton No. 4 Voting District
+29|027|001272|Fulton No. 1|Fulton No. 1 Voting District
+29|027|001292|Fulton No. 2|Fulton No. 2 Voting District
+29|027|001297|Carrington/Guthrie|Carrington/Guthrie Voting District
+29|027|001306|Fulton No. 3|Fulton No. 3 Voting District
+29|027|001350|Readsville|Readsville Voting District
+29|027|001351|Portland|Portland Voting District
+29|027|001438|Hams Prairie|Hams Prairie Voting District
+29|027|001543|Dixie|Dixie Voting District
+29|027|001584|New Bloomfield|New Bloomfield Voting District
+29|027|001595|Mokane|Mokane Voting District
+29|027|001763|Tebbetts|Tebbetts Voting District
+29|027|001843|Holts Summit Rural/Cedar City|Holts Summit Rural/Cedar City Voting District
+29|027|001989|Holts Summit No. 1|Holts Summit No. 1 Voting District
+29|027|001991|Holts Summit No. 2|Holts Summit No. 2 Voting District
+29|029|000002|Barnumton|Barnumton Voting District
+29|029|000003|Camdenton 1|Camdenton 1 Voting District
+29|029|000004|Camdenton 2|Camdenton 2 Voting District
+29|029|000005|Camdenton 3|Camdenton 3 Voting District
+29|029|000006|Climax Springs|Climax Springs Voting District
+29|029|000007|Decaturville|Decaturville Voting District
+29|029|000008|Freedom|Freedom Voting District
+29|029|000009|Greenview|Greenview Voting District
+29|029|000010|Ha Ha Tonka|Ha Ha Tonka Voting District
+29|029|000011|Hillhouse|Hillhouse Voting District
+29|029|000012|Horseshoe Bend|Horseshoe Bend Voting District
+29|029|000013|Linn Creek|Linn Creek Voting District
+29|029|000014|Macks Creek|Macks Creek Voting District
+29|029|000015|Montreal|Montreal Voting District
+29|029|000016|Osage Beach 1|Osage Beach 1 Voting District
+29|029|000017|Osage Beach 2|Osage Beach 2 Voting District
+29|029|000018|Osage Beach 3|Osage Beach 3 Voting District
+29|029|000019|Roach|Roach Voting District
+29|029|000020|Stoutland|Stoutland Voting District
+29|029|000021|Sunny Slope|Sunny Slope Voting District
+29|029|000022|Sunrise Beach 1|Sunrise Beach 1 Voting District
+29|029|000023|Sunrise Beach 2|Sunrise Beach 2 Voting District
+29|029|000024|Sunrise Beach 3|Sunrise Beach 3 Voting District
+29|029|000025|Wilson Bend|Wilson Bend Voting District
+29|031|000002|Brown Owl|Brown Owl Voting District
+29|031|000003|Burfordville|Burfordville Voting District
+29|031|000004|Byrd No. 1|Byrd No. 1 Voting District
+29|031|000005|Byrd No. 2|Byrd No. 2 Voting District
+29|031|000006|Byrd No. 3|Byrd No. 3 Voting District
+29|031|000007|Byrd No. 4|Byrd No. 4 Voting District
+29|031|000008|Byrd No. 5|Byrd No. 5 Voting District
+29|031|000009|Byrd No. 6|Byrd No. 6 Voting District
+29|031|000010|Campster/Pecan Grove|Campster/Pecan Grove Voting District
+29|031|000011|Cape Girardeau Precinct 1|Cape Girardeau Precinct 1
+29|031|000012|Cape Girardeau Precinct 12|Cape Girardeau Precinct 12
+29|031|000013|Cape Girardeau Precinct 13|Cape Girardeau Precinct 13
+29|031|000014|Cape Girardeau Precinct 14|Cape Girardeau Precinct 14
+29|031|000015|Cape Girardeau Precinct 15|Cape Girardeau Precinct 15
+29|031|000016|Cape Girardeau Precinct 16|Cape Girardeau Precinct 16
+29|031|000017|Cape Girardeau Precinct 17|Cape Girardeau Precinct 17
+29|031|000018|Cape Girardeau Precinct 18|Cape Girardeau Precinct 18
+29|031|000019|Cape Girardeau Precinct 2|Cape Girardeau Precinct 2
+29|031|000020|Cape Girardeau Precinct 4|Cape Girardeau Precinct 4
+29|031|000021|Cape Girardeau Precinct 6|Cape Girardeau Precinct 6
+29|031|000022|Cape Girardeau Precinct 7|Cape Girardeau Precinct 7
+29|031|000023|Cape Girardeau Precinct 8|Cape Girardeau Precinct 8
+29|031|000024|Cape Girardeau Precinct 9|Cape Girardeau Precinct 9
+29|031|000025|Delta City No. 1|Delta City No. 1 Voting District
+29|031|000026|Delta City No. 2|Delta City No. 2 Voting District
+29|031|000027|Delta Out County|Delta Out County Voting District
+29|031|000028|Friedheim|Friedheim Voting District
+29|031|000029|Fruitland|Fruitland Voting District
+29|031|000030|Gordonville|Gordonville Voting District
+29|031|000031|Hanover|Hanover Voting District
+29|031|000032|Millersville|Millersville Voting District
+29|031|000033|Neelys Landing/Oriole|Neelys Landing/Oriole Voting District
+29|031|000034|Nell Holcomb|Nell Holcomb Voting District
+29|031|000035|New Wells|New Wells Voting District
+29|031|000036|Oak Ridge|Oak Ridge Voting District
+29|031|000037|Pocahontas|Pocahontas Voting District
+29|031|000038|Scott City|Scott City Voting District
+29|031|000039|Whitewater|Whitewater Voting District
+29|033|000006|Combs/Eugene|Combs/Eugene Voting District
+29|033|000007|Dewitt|Dewitt Voting District
+29|033|000009|Hurricane|Hurricane Voting District
+29|033|000010|Leslie/Van Horn|Leslie/Van Horn Voting District
+29|033|000012|Ridge/Rockford|Ridge/Rockford Voting District
+29|033|000013|Stokes Mound/Hill|Stokes Mound/Hill Voting District
+29|033|000014|Trotter/Moss Creek/Wakenda/Sugartree|Trotter/Moss Creek/Wakenda/Sugartree Voting District
+29|033|16-001|Carrollton Ward 1|Carrollton Ward 1 Voting District
+29|033|16-003|Carrollton Ward 3|Carrollton Ward 3 Voting District
+29|033|16-004|Carrollton Ward 4|Carrollton Ward 4 Voting District
+29|033|16-016|Washington/Fairfield|Washington/Fairfield Voting District
+29|033|16-017|Prarie/Egypt|Prarie/Egypt Voting District
+29|033|16-019|Carrollton Ward 2|Carrollton Ward 2 Voting District
+29|035|003611|Van Buren|Van Buren Voting District
+29|035|003628|Fremont|Fremont Voting District
+29|035|003668|Colemansville|Colemansville Voting District
+29|035|003694|Eastwood|Eastwood Voting District
+29|035|003731|Ellsinore|Ellsinore Voting District
+29|035|003756|Hunter|Hunter Voting District
+29|035|003789|Grandin|Grandin Voting District
+29|037|000001|No. 1 - Sherman|No. 1 - Sherman
+29|037|000002|No. 2 - Dayton|No. 2 - Dayton
+29|037|000003|No. 3 - Garden City|No. 3 - Garden City
+29|037|000004|No. 4 - Austin|No. 4 - Austin
+29|037|000005|No. 5 - Austin|No. 5 - Austin
+29|037|000006|No. 6 - Everett|No. 6 - Everett
+29|037|000007|No. 7 - Coldwater|No. 7 - Coldwater
+29|037|000008|No. 8 - West Dolan|No. 8 - West Dolan
+29|037|000009|No. 9 - Dolan|No. 9 - Dolan
+29|037|000010|No. 10 - Grand River|No. 10 - Grand River
+29|037|000011|No. 11 - Grand River, Ward 1|No. 11 - Grand River, Ward 1
+29|037|000012|No. 12 - Grand River, Ward 2|No. 12 - Grand River, Ward 2
+29|037|000013|No. 13 - Grand River, Ward 3|No. 13 - Grand River, Ward 3
+29|037|000014|No. 14 - Grand River, Ward 4|No. 14 - Grand River, Ward 4
+29|037|000015|No. 15 - Camp Branch|No. 15 - Camp Branch
+29|037|000016|No. 16 - Camp Branch|No. 16 - Camp Branch
+29|037|000017|No. 17 - Index|No. 17 - Index
+29|037|000018|No. 18 - Index|No. 18 - Index
+29|037|000019|No. 19 - Polk|No. 19 - Polk
+29|037|000020|No. 20 - Pleasant Hill|No. 20 - Pleasant Hill
+29|037|000021|No. 21 - Pleasant Hill|No. 21 - Pleasant Hill
+29|037|000022|No. 22 - Pleasant Hill|No. 22 - Pleasant Hill
+29|037|000023|No. 23 - Pleasant Hill|No. 23 - Pleasant Hill
+29|037|000024|No. 24 - Peculiar|No. 24 - Peculiar
+29|037|000025|No. 25 - West Peculiar|No. 25 - West Peculiar
+29|037|000026|No. 26 - West Peculiar|No. 26 - West Peculiar
+29|037|000027|No. 27 - Union|No. 27 - Union
+29|037|000028|No. 28 - Big Creek|No. 28 - Big Creek
+29|037|000029|No. 29 - Big Creek|No. 29 - Big Creek
+29|037|000030|No. 30 - Raymore|No. 30 - Raymore
+29|037|000031|No. 31 - Raymore, Ward 3|No. 31 - Raymore, Ward 3
+29|037|000032|No. 32 - Raymore, Ward 2|No. 32 - Raymore, Ward 2
+29|037|000033|No. 33 - Raymore, Ward 2|No. 33 - Raymore, Ward 2
+29|037|000034|No. 34 - Raymore, Wards 3 & 4|No. 34 - Raymore, Wards 3 & 4
+29|037|000035|No. 35 - Raymore, Ward 4|No. 35 - Raymore, Ward 4
+29|037|000036|No. 36 - Kansas City|No. 36 - Kansas City
+29|037|000037|No. 37 - Mt Pleasant|No. 37 - Mt Pleasant
+29|037|000038|No. 38 - Mt Pleasant, NE Ward 1|No. 38 - Mt Pleasant, NE Ward 1
+29|037|000039|No. 39 - Mt Pleasant, NE Ward 1|No. 39 - Mt Pleasant, NE Ward 1
+29|037|000040|No. 40 - Mt Pleasant, NW Ward 2|No. 40 - Mt Pleasant, NW Ward 2
+29|037|000041|No. 41 - Mt Pleasant, NW Ward 2|No. 41 - Mt Pleasant, NW Ward 2
+29|037|000042|No. 42 - Mt Pleasant, SW Ward 3|No. 42 - Mt Pleasant, SW Ward 3
+29|037|000043|No. 43 - Mt Pleasant, SW Ward 3|No. 43 - Mt Pleasant, SW Ward 3
+29|037|000044|No. 44 - Mt Pleasant, SW Ward 4|No. 44 - Mt Pleasant, SW Ward 4
+29|037|000045|No. 45 - Mt Pleasant, SE Ward 4|No. 45 - Mt Pleasant, SE Ward 4
+29|037|000046|No. 46 - Mt Pleasant|No. 46 - Mt Pleasant
+29|037|000047|No. 47 - Raymore, Ward 1|No. 47 - Raymore, Ward 1
+29|039|003052|Box No. 2|Box No. 2 Voting District
+29|039|003054|Box No. 1|Box No. 1 Voting District
+29|039|003057|Cedar|Cedar Voting District
+29|039|003092|Washington|Washington Voting District
+29|039|003129|Jefferson|Jefferson Voting District
+29|039|003139|North Linn|North Linn Voting District
+29|039|003178|South Linn|South Linn Voting District
+29|039|003191|Benton|Benton Voting District
+29|039|003192|Madison|Madison Voting District
+29|041|000344|Yellow Creek|Yellow Creek Voting District
+29|041|000346|Cunningham|Cunningham Voting District
+29|041|000352|Clark|Clark Voting District
+29|041|000354|Bee Branch|Bee Branch Voting District
+29|041|000381|Mendon|Mendon Voting District
+29|041|000386|Musselfork|Musselfork Voting District
+29|041|000392|Wayland|Wayland Voting District
+29|041|000418|Brunswick|Brunswick Voting District
+29|041|000424|Keytesville|Keytesville Voting District
+29|041|000431|Salisbury No. 1|Salisbury No. 1 Voting District
+29|041|000465|Salisbury No. 2|Salisbury No. 2 Voting District
+29|041|000503|Chariton|Chariton Voting District
+29|043|000002|BRUNER|BRUNER Voting District
+29|043|000003|CASSIDY|CASSIDY Voting District
+29|043|000004|CASSIDY 2|CASSIDY 2 Voting District
+29|043|000005|CHADWICK|CHADWICK Voting District
+29|043|000006|EAST BENTON|EAST BENTON Voting District
+29|043|000007|EAST FINLEY|EAST FINLEY Voting District
+29|043|000008|GARDEN GROVE|GARDEN GROVE Voting District
+29|043|000009|GARRISON|GARRISON Voting District
+29|043|000010|LEAD HILL|LEAD HILL Voting District
+29|043|000011|LINCOLN|LINCOLN Voting District
+29|043|000012|LINCOLN 2|LINCOLN 2 Voting District
+29|043|000013|LINDEN|LINDEN Voting District
+29|043|000014|MCCRACKEN|MCCRACKEN Voting District
+29|043|000015|NORTH GALLOWAY|NORTH GALLOWAY Voting District
+29|043|000016|NORTH LINN|NORTH LINN Voting District
+29|043|000017|NORTHVIEW 1|NORTHVIEW 1 Voting District
+29|043|000018|NORTHVIEW 2|NORTHVIEW 2 Voting District
+29|043|000019|OLDFIELD|OLDFIELD Voting District
+29|043|000020|POLK|POLK Voting District
+29|043|000021|RIVERSIDE|RIVERSIDE Voting District
+29|043|000022|RIVERSIDE 2|RIVERSIDE 2 Voting District
+29|043|000023|ROSEDALE 1A|ROSEDALE 1A Voting District
+29|043|000024|ROSEDALE 1B|ROSEDALE 1B Voting District
+29|043|000025|ROSEDALE 2|ROSEDALE 2 Voting District
+29|043|000026|SADDLEBROOKE|SADDLEBROOKE Voting District
+29|043|000027|SENECA|SENECA Voting District
+29|043|000028|SOUTH GALLOWAY|SOUTH GALLOWAY Voting District
+29|043|000029|SOUTH LINN|SOUTH LINN Voting District
+29|043|000030|SPARTA|SPARTA Voting District
+29|043|000031|UNION CHAPEL 1|UNION CHAPEL 1 Voting District
+29|043|000032|UNION CHAPEL 2|UNION CHAPEL 2 Voting District
+29|043|000033|WEST BENTON|WEST BENTON Voting District
+29|043|000034|WEST FINLEY|WEST FINLEY Voting District
+29|045|000002|Union|Union Voting District
+29|045|000003|Vernon|Vernon Voting District
+29|045|000004|Wyaconda No. 1/Folker|Wyaconda No. 1/Folker Voting District
+29|045|000005|Wyaconda No. 2/Washington|Wyaconda No. 2/Washington Voting District
+29|045|000006|Clay/Des Moines No. 1/Des Moines No. 2|Clay/Des Moines No. 1/Des Moines No. 2 Voting District
+29|045|000007|Sweet Home/Grant|Sweet Home/Grant Voting District
+29|045|000008|Jackson No. 1/Jefferson/Madison|Jackson No. 1/Jefferson/Madison Voting District
+29|045|000009|Jackson No. 2|Jackson No. 2 Voting District
+29|045|000010|Lincoln|Lincoln Voting District
+29|047|000002|Chou 8|Chou 8 Voting District
+29|047|000003|FR 1|FR 1 Voting District
+29|047|000004|FR 2|FR 2 Voting District
+29|047|000005|FR 3|FR 3 Voting District
+29|047|000006|FR 4|FR 4 Voting District
+29|047|000007|FR 5|FR 5 Voting District
+29|047|000009|Gal 10|Gal 10 Voting District
+29|047|000010|Gal 11|Gal 11 Voting District
+29|047|000011|Gal 12|Gal 12 Voting District
+29|047|000012|Gal 13|Gal 13 Voting District
+29|047|000013|Gal 14|Gal 14 Voting District
+29|047|000014|Gal 15|Gal 15 Voting District
+29|047|000015|Gal 16|Gal 16 Voting District
+29|047|000016|Gal 17|Gal 17 Voting District
+29|047|000017|Gal 18|Gal 18 Voting District
+29|047|000020|Gal 4|Gal 4 Voting District
+29|047|000021|Gal 5|Gal 5 Voting District
+29|047|000022|Gal 6|Gal 6 Voting District
+29|047|000023|Gal 7|Gal 7 Voting District
+29|047|000024|Gal 9|Gal 9 Voting District
+29|047|000025|KC 21 Lib 1|KC 21 Lib 1 Voting District
+29|047|000026|KC 21 Lib 2|KC 21 Lib 2 Voting District
+29|047|000027|KC 21 Lib 3|KC 21 Lib 3 Voting District
+29|047|000028|KC 21 Pl 1|KC 21 Pl 1 Voting District
+29|047|000029|KC 21-1|KC 21-1 Voting District
+29|047|000030|KC 21-10|KC 21-10 Voting District
+29|047|000031|KC 21-11|KC 21-11 Voting District
+29|047|000032|KC 21-12|KC 21-12 Voting District
+29|047|000033|KC 21-13|KC 21-13 Voting District
+29|047|000034|KC 21-14|KC 21-14 Voting District
+29|047|000035|KC 21-15|KC 21-15 Voting District
+29|047|000036|KC 21-16|KC 21-16 Voting District
+29|047|000037|KC 21-17|KC 21-17 Voting District
+29|047|000038|KC 21-18|KC 21-18 Voting District
+29|047|000039|KC 21-19|KC 21-19 Voting District
+29|047|000040|KC 21-2|KC 21-2 Voting District
+29|047|000041|KC 21-20|KC 21-20 Voting District
+29|047|000042|KC 21-21|KC 21-21 Voting District
+29|047|000043|KC 21-22|KC 21-22 Voting District
+29|047|000044|KC 21-23|KC 21-23 Voting District
+29|047|000045|KC 21-24|KC 21-24 Voting District
+29|047|000046|KC 21-25|KC 21-25 Voting District
+29|047|000047|KC 21-26|KC 21-26 Voting District
+29|047|000048|KC 21-3|KC 21-3 Voting District
+29|047|000049|KC 21-4|KC 21-4 Voting District
+29|047|000050|KC 21-5|KC 21-5 Voting District
+29|047|000051|KC 21-6|KC 21-6 Voting District
+29|047|000052|KC 21-7|KC 21-7 Voting District
+29|047|000053|KC 21-8|KC 21-8 Voting District
+29|047|000054|KC 21-9|KC 21-9 Voting District
+29|047|000055|Kry 1|Kry 1 Voting District
+29|047|000056|Kry 2|Kry 2 Voting District
+29|047|000057|Kry 3|Kry 3 Voting District
+29|047|000058|Kry 4|Kry 4 Voting District
+29|047|000059|Lib 4|Lib 4 Voting District
+29|047|000060|Lib 1|Lib 1 Voting District
+29|047|000061|Lib 10|Lib 10 Voting District
+29|047|000062|Lib 11|Lib 11 Voting District
+29|047|000063|Lib 12|Lib 12 Voting District
+29|047|000064|Lib 13|Lib 13 Voting District
+29|047|000065|Lib 14|Lib 14 Voting District
+29|047|000066|Lib 2|Lib 2 Voting District
+29|047|000067|Lib 3|Lib 3 Voting District
+29|047|000068|Lib 5|Lib 5 Voting District
+29|047|000069|Lib 6|Lib 6 Voting District
+29|047|000070|Lib 7|Lib 7 Voting District
+29|047|000071|Lib 8|Lib 8 Voting District
+29|047|000072|Lib 9|Lib 9 Voting District
+29|047|000073|Pl 1|Pl 1 Voting District
+29|047|000074|Pl 2|Pl 2 Voting District
+29|047|000075|Pl 3|Pl 3 Voting District
+29|047|000076|Wash 1|Wash 1 Voting District
+29|047|000077|Wash 2|Wash 2 Voting District
+29|047|000078|Wash 3|Wash 3 Voting District
+29|047|16-214|KC 21 Lib 4|KC 21 Lib 4 Voting District
+29|047|16-215|KC 21 Lib 5|KC 21 Lib 5 Voting District
+29|047|16-216|KC 21 Lib 6|KC 21 Lib 6 Voting District
+29|047|162127|KC 21-27|KC 21-27 Voting District
+29|049|000002|Shoal - Cameron|Shoal - Cameron Voting District
+29|049|000003|Atchison - Gower|Atchison - Gower Voting District
+29|049|000005|Concord - Concord|Concord - Concord Voting District
+29|049|000006|Hardin - Trimble|Hardin - Trimble Voting District
+29|049|000007|Jackson - Holt|Jackson - Holt Voting District
+29|049|000008|Lathrop - Lathrop|Lathrop - Lathrop Voting District
+29|051|000002|Jefferson Township Apache Flats Precinct|Jefferson Township Apache Flats Precinct Voting District
+29|051|000003|Clark Township Brazito Precinct|Clark Township Brazito Precinct Voting District
+29|051|000004|Jefferson Township CC General Precinct|Jefferson Township CC General Precinct Voting District
+29|051|000005|Marion Township Centertown Precinct|Marion Township Centertown Precinct Voting District
+29|051|000006|Marion Township Centertown Precinct Ward 1|Marion Township Centertown Precinct Ward 1 Voting District
+29|051|000007|Clark Township Eugene Precinct|Clark Township Eugene Precinct Voting District
+29|051|000008|Jefferson Township Expressway Rental Precinct|Jefferson Township Expressway Rental Precinct Voting District
+29|051|000009|JC-Ward 1 Precinct 1|JC-Ward 1 Precinct 1
+29|051|000010|JC-Ward 1 Precinct 2|JC-Ward 1 Precinct 2
+29|051|000011|JC-Ward 1 Precinct 3|JC-Ward 1 Precinct 3
+29|051|000016|JC-Ward 2 Precinct 1|JC-Ward 2 Precinct 1
+29|051|000032|Jefferson Township JC Fair Precinct|Jefferson Township JC Fair Precinct Voting District
+29|051|000034|Moreau Township Lohman Precinct|Moreau Township Lohman Precinct Voting District
+29|051|000035|Moreau Township Lohman Precinct Ward 1|Moreau Township Lohman Precinct Ward 1 Voting District
+29|051|000036|Moreau Township Lohman Precinct Ward 2|Moreau Township Lohman Precinct Ward 2 Voting District
+29|051|000037|Moreau Township Russellville Precinct|Moreau Township Russellville Precinct Voting District
+29|051|000038|Moreau Township Russellville Precinct Ward East|Moreau Township Russellville Precinct Ward East Voting District
+29|051|000039|Moreau Township Russellville Precinct Ward West|Moreau Township Russellville Precinct Ward West Voting District
+29|051|000040|Jefferson Township Scott Station Precinct|Jefferson Township Scott Station Precinct Voting District
+29|051|000041|Marion Township St Martins Precinct|Marion Township St Martins Precinct Voting District
+29|051|000042|Marion Township St Martins Precinct Ward North|Marion Township St Martins Precinct Ward North Voting District
+29|051|000043|Marion Township St Martins Precinct Ward South|Marion Township St Martins Precinct Ward South Voting District
+29|051|000044|Osage Township St. Thomas Precinct|Osage Township St. Thomas Precinct Voting District
+29|051|000045|Osage Township St. Thomas Precinct Ward 1|Osage Township St. Thomas Precinct Ward 1 Voting District
+29|051|000046|Liberty Township Taos Precinct|Liberty Township Taos Precinct Voting District
+29|051|000049|Osage Township Wardsville Precinct|Osage Township Wardsville Precinct Voting District
+29|051|000050|Osage Township Wardsville Precinct Ward 1|Osage Township Wardsville Precinct Ward 1 Voting District
+29|051|000051|Jefferson Township Apache Flats Precinct Ward North|Jefferson Township Apache Flats Precinct Ward North
+29|051|000052|Jefferson Township Apache Flats Precinct Ward South|Jefferson Township Apache Flats Precinct Ward South
+29|051|16-001|Liberty Township Taos Precinct Ward 1|Liberty Township Taos Precinct Ward 1
+29|051|16-002|Liberty Township Taos Precinct Ward 2|Liberty Township Taos Precinct Ward 2
+29|051|16-2-5|Ward 2 Precinct 2|Ward 2 Precinct 2
+29|051|16-2-6|JC-Ward 2 Precinct 3|JC-Ward 2 Precinct 3
+29|051|16-3-7|JC-Ward 3 Precinct 1|JC-Ward 3 Precinct 1
+29|051|16-3-8|JC-Ward 3 Precinct 2|JC-Ward 3 Precinct 2
+29|051|16-3-9|JC-Ward 3 Precinct 3|JC-Ward 3 Precinct 3
+29|051|16-410|JC-Ward 4 Precinct 1|JC-Ward 4 Precinct 1
+29|051|16-411|JC-Ward 4 Precinct 2|JC-Ward 4 Precinct 2
+29|051|16-512|JC-Ward 5 Precinct 1|JC-Ward 5 Precinct 1
+29|051|16-513|JC-Ward 5 Precinct 2|JC-Ward 5 Precinct 2
+29|051|16-514|JC-Ward 5 Precinct 3|JC-Ward 5 Precinct 3
+29|053|000002|Otterville|Otterville Voting District
+29|053|000004|Pilot Grove|Pilot Grove Voting District
+29|053|000005|Prairie Home|Prairie Home Voting District
+29|053|000006|Boonville Rural No. 1|Boonville Rural No. 1 Voting District
+29|053|000007|Blackwater|Blackwater Voting District
+29|053|000008|Boonville|Boonville Voting District
+29|053|000009|Boonville Rural No. 2|Boonville Rural No. 2 Voting District
+29|053|000010|Boonville Rural No. 3|Boonville Rural No. 3 Voting District
+29|053|000011|Boonville Rural No. 4|Boonville Rural No. 4 Voting District
+29|053|000012|Clarks Fork|Clarks Fork Voting District
+29|053|000013|Kelly|Kelly Voting District
+29|055|000002|Benton North|Benton North Voting District
+29|055|000003|Benton South|Benton South Voting District
+29|055|000004|Blue Springs|Blue Springs Voting District
+29|055|000005|Bourbon|Bourbon Voting District
+29|055|000006|Cherryville|Cherryville Voting District
+29|055|000007|Cook Station|Cook Station Voting District
+29|055|000008|Davisville|Davisville Voting District
+29|055|000009|Delhi|Delhi Voting District
+29|055|000010|Fanning|Fanning Voting District
+29|055|000011|Gibbs|Gibbs Voting District
+29|055|000012|Huzzah|Huzzah Voting District
+29|055|000013|Keysville|Keysville Voting District
+29|055|000014|Leasburg|Leasburg Voting District
+29|055|000015|Liberty|Liberty Voting District
+29|055|000016|Meramec North|Meramec North Voting District
+29|055|000017|Meramec South|Meramec South Voting District
+29|055|000018|Sullivan|Sullivan Voting District
+29|055|000019|Taylor|Taylor Voting District
+29|057|003243|Cedar & Ernest|Cedar & Ernest Voting District
+29|057|003244|North & North Sac|North & North Sac Voting District
+29|057|003246|Polk/North Morgan & South Morgan|Polk/North Morgan & South Morgan Voting District
+29|057|003263|South & Smith R-4/Washington/West Center/S. Ward City/S. Sac|South & Smith R-4/Washington/West Center/S. Ward City/S. Sac Voting District
+29|057|003289|Polk/East Center/N. Ward City/Pilgrim & Rock Prairie|Polk/East Center/N. Ward City/Pilgrim & Rock Prairie Voting District
+29|057|003294|West Lockwood/W. Ward City/Marion|West Lockwood/W. Ward City/Marion Voting District
+29|057|003300|Grant & Smith R-1/East Lockwood/E. Ward City|Grant & Smith R-1/East Lockwood/E. Ward City Voting District
+29|057|003330|Polk/South & Smith R-4/Pilgrim & Rock Prairie|Polk/South & Smith R-4/Pilgrim & Rock Prairie Voting District
+29|059|000002|Miller|Miller Voting District
+29|059|000003|Sheridan|Sheridan Voting District
+29|059|000004|Sherman|Sherman Voting District
+29|059|000005|Washington|Washington Voting District
+29|059|000006|Wilson|Wilson Voting District
+29|059|000007|Benton North|Benton North Voting District
+29|059|000008|Benton South|Benton South Voting District
+29|059|000009|Grant|Grant Voting District
+29|059|000010|Jackson|Jackson Voting District
+29|059|000011|Jasper|Jasper Voting District
+29|059|000012|Lincoln|Lincoln Voting District
+29|061|000002|Altamont|Altamont Voting District
+29|061|000008|Jameson|Jameson Voting District
+29|061|000009|Jamesport|Jamesport Voting District
+29|061|000012|Pattonsburg|Pattonsburg Voting District
+29|061|000016|Winston|Winston Voting District
+29|061|16-017|Gallatin|Gallatin Voting District
+29|063|000002|Sherman|Sherman Voting District
+29|063|000003|North Washington|North Washington Voting District
+29|063|000004|South Washington|South Washington Voting District
+29|063|000005|Adams|Adams Voting District
+29|063|000006|Middle Camden|Middle Camden Voting District
+29|063|000007|West Camden|West Camden Voting District
+29|063|000008|Colfax|Colfax Voting District
+29|063|000009|Dallas|Dallas Voting District
+29|063|000010|Grand River|Grand River Voting District
+29|063|000011|Grant|Grant Voting District
+29|063|000012|Polk|Polk Voting District
+29|065|000002|Bunker|Bunker Voting District
+29|065|000003|R-1|R-1
+29|065|000004|R-2|R-2
+29|065|000005|R-3|R-3
+29|065|000006|R-4|R-4
+29|065|000007|Spring Creek East|Spring Creek East Voting District
+29|065|000008|Spring Creek West|Spring Creek West Voting District
+29|067|000002|Cass|Cass Voting District
+29|067|000003|Champion|Champion Voting District
+29|067|000004|Clay|Clay Voting District
+29|067|000005|Clinton|Clinton Voting District
+29|067|000006|Findley|Findley Voting District
+29|067|000007|Jackson|Jackson Voting District
+29|067|000008|Lincoln|Lincoln Voting District
+29|067|000009|McKinley|McKinley Voting District
+29|067|000010|McMurtrey|McMurtrey Voting District
+29|067|000011|Miller|Miller Voting District
+29|067|000012|Benton No. 1|Benton No. 1 Voting District
+29|067|000013|Richland|Richland Voting District
+29|067|000014|Spencer|Spencer Voting District
+29|067|000015|Spring Creek|Spring Creek Voting District
+29|067|000016|Walls|Walls Voting District
+29|067|000017|Washington|Washington Voting District
+29|067|000018|Wood|Wood Voting District
+29|067|000019|Benton No. 2|Benton No. 2 Voting District
+29|067|000020|Boone|Boone Voting District
+29|067|000021|Brown|Brown Voting District
+29|067|000022|Brush Creek|Brush Creek Voting District
+29|067|000023|Bryan|Bryan Voting District
+29|067|000024|Buchanan|Buchanan Voting District
+29|067|000025|Campbell|Campbell Voting District
+29|069|000002|Arbyrd|Arbyrd Voting District
+29|069|000003|Campbell Ward 1|Campbell Ward 1
+29|069|000004|Campbell Ward 2 & Rural|Campbell Ward 2 & Rural
+29|069|000005|Cardwell|Cardwell Voting District
+29|069|000006|Caruth|Caruth Voting District
+29|069|000007|Clarkton|Clarkton Voting District
+29|069|000008|Glennonville|Glennonville Voting District
+29|069|000009|Holcomb|Holcomb Voting District
+29|069|000010|Hornersville|Hornersville Voting District
+29|069|000011|Independence Rural|Independence Rural Voting District
+29|069|000012|Kennett Ward 1|Kennett Ward 1
+29|069|000013|Kennett Ward 2|Kennett Ward 2
+29|069|000014|Kennett Ward 3|Kennett Ward 3
+29|069|000015|Kennett Ward 4|Kennett Ward 4
+29|069|000016|Kennett Ward 5|Kennett Ward 5
+29|069|000017|Malden Ward 1 & 2|Malden Ward 1 & 2
+29|069|000018|Malden Ward 3 & Rural|Malden Ward 3 & Rural
+29|069|000019|Malden Ward 4|Malden Ward 4
+29|069|000020|Rives|Rives Voting District
+29|069|000021|Senath|Senath Voting District
+29|069|000022|Sunnyvale|Sunnyvale Voting District
+29|071|000002|BEAUFORT- LYON|BEAUFORT- LYON Voting District
+29|071|000003|BEAUFORT/ UNION|BEAUFORT/ UNION Voting District
+29|071|000004|BERGER OUT OF TOWN|BERGER OUT OF TOWN Voting District
+29|071|000005|BERGER WARD 1|BERGER WARD 1
+29|071|000006|BERGER WARD 2|BERGER WARD 2
+29|071|000007|CATAWISSA|CATAWISSA Voting District
+29|071|000008|CLOVER BOTTOM EAST|CLOVER BOTTOM EAST Voting District
+29|071|000009|CLOVER BOTTOM WEST|CLOVER BOTTOM WEST Voting District
+29|071|000010|DETMOLD|DETMOLD Voting District
+29|071|000011|DRY BRANCH|DRY BRANCH Voting District
+29|071|000012|DUEMLER|DUEMLER Voting District
+29|071|000013|ELMONT|ELMONT Voting District
+29|071|000014|EXCELSIOR|EXCELSIOR Voting District
+29|071|000015|GERALD OUT OF TOWN|GERALD OUT OF TOWN Voting District
+29|071|000016|GERALD WARD 1|GERALD WARD 1
+29|071|000017|GERALD WARD 2|GERALD WARD 2
+29|071|000018|GILDEHAUS|GILDEHAUS Voting District
+29|071|000019|GRAY SUMMIT|GRAY SUMMIT Voting District
+29|071|000020|JAEGERS SHOP|JAEGERS SHOP Voting District
+29|071|000021|JAPAN|JAPAN Voting District
+29|071|000022|JEFFRIESBURG|JEFFRIESBURG Voting District
+29|071|000023|KRAKOW|KRAKOW Voting District
+29|071|000024|LABADIE|LABADIE Voting District
+29|071|000025|LESLIE OUT OF TOWN|LESLIE OUT OF TOWN Voting District
+29|071|000026|LESLIE VILLAGE|LESLIE VILLAGE Voting District
+29|071|000027|LUEBBERING|LUEBBERING Voting District
+29|071|000028|LYON|LYON Voting District
+29|071|000029|MIRAMIGUOA VILLAGE|MIRAMIGUOA VILLAGE Voting District
+29|071|000030|NEW HAVEN WARD 1|NEW HAVEN WARD 1
+29|071|000031|NEW HAVEN WARD 2|NEW HAVEN WARD 2
+29|071|000032|OAK GROVE VILLAGE|OAK GROVE VILLAGE Voting District
+29|071|000033|PACIFIC OUT OF TOWN|PACIFIC OUT OF TOWN Voting District
+29|071|000034|PACIFIC WARD 1|PACIFIC WARD 1
+29|071|000035|PACIFIC WARD 2|PACIFIC WARD 2
+29|071|000036|PACIFIC WARD 3|PACIFIC WARD 3
+29|071|000037|PARKWAY VILLAGE|PARKWAY VILLAGE Voting District
+29|071|000038|PEA RIDGE|PEA RIDGE Voting District
+29|071|000039|PRAIRIE DELL|PRAIRIE DELL Voting District
+29|071|000040|ROBERTSVILLE|ROBERTSVILLE Voting District
+29|071|000041|SOUTH POINT|SOUTH POINT Voting District
+29|071|000042|SPRING BLUFF|SPRING BLUFF Voting District
+29|071|000043|ST ALBANS|ST ALBANS Voting District
+29|071|000044|ST CLAIR OUT OF TOWN|ST CLAIR OUT OF TOWN Voting District
+29|071|000045|ST CLAIR WARD 1|ST CLAIR WARD 1
+29|071|000046|ST CLAIR WARD 2|ST CLAIR WARD 2
+29|071|000047|STANTON|STANTON Voting District
+29|071|000048|SULLIVAN OUT OF TOWN|SULLIVAN OUT OF TOWN Voting District
+29|071|000049|SULLIVAN WARD 1|SULLIVAN WARD 1
+29|071|000050|SULLIVAN WARD 2|SULLIVAN WARD 2
+29|071|000051|SULLIVAN WARD 3|SULLIVAN WARD 3
+29|071|000052|UNION OUT OF TOWN|UNION OUT OF TOWN Voting District
+29|071|000053|UNION WARD 1|UNION WARD 1
+29|071|000054|UNION WARD 2|UNION WARD 2
+29|071|000055|UNION WARD 3|UNION WARD 3
+29|071|000056|UNION WARD 4|UNION WARD 4
+29|071|000057|VILLA RIDGE|VILLA RIDGE Voting District
+29|071|000058|WASHINGTON WARD 1|WASHINGTON WARD 1
+29|071|000059|WASHINGTON WARD 2|WASHINGTON WARD 2
+29|071|000060|WASHINGTON WARD 3|WASHINGTON WARD 3
+29|071|000061|WASHINGTON WARD 4|WASHINGTON WARD 4
+29|071|000062|YEATES|YEATES Voting District
+29|071|000063|ZIEGENMEYER|ZIEGENMEYER Voting District
+29|071|16-064|CHARMWOOD|CHARMWOOD Voting District
+29|073|000002|Owensville Ward No. 1|Owensville Ward No. 1
+29|073|000003|Owensville Ward No. 2|Owensville Ward No. 2
+29|073|000004|Redbird|Redbird Voting District
+29|073|000005|Rosebud Ward Nos. 1 & 2|Rosebud Ward Nos. 1 & 2
+29|073|000006|Rural Canaan|Rural Canaan Voting District
+29|073|000007|Stolpe/Gasconade|Stolpe/Gasconade Voting District
+29|073|000008|Boulware|Boulware Voting District
+29|073|000009|Swiss|Swiss Voting District
+29|073|000010|Tayloe|Tayloe Voting District
+29|073|000011|Third Creek|Third Creek Voting District
+29|073|000012|Canaan/Bland Ward Nos. 1 & 2|Canaan/Bland Ward Nos. 1 & 2
+29|073|000013|Drake|Drake Voting District
+29|073|000014|Hermann Ward No. 1|Hermann Ward No. 1
+29|073|000015|Hermann Ward No. 2|Hermann Ward No. 2
+29|073|000016|Little Berger|Little Berger Voting District
+29|073|000017|Morrison Ward Nos. 1 & 2 & Rural|Morrison Ward Nos. 1 & 2 & Rural
+29|075|000002|Athens North|Athens North Voting District
+29|075|000003|Athens South|Athens South Voting District
+29|075|000004|Bogle/Gentry|Bogle/Gentry Voting District
+29|075|000005|Cooper East|Cooper East Voting District
+29|075|000006|Cooper West|Cooper West Voting District
+29|075|000007|Darlington|Darlington Voting District
+29|075|000008|Howard/Lone Star|Howard/Lone Star Voting District
+29|075|000009|Huggins/Carmack|Huggins/Carmack Voting District
+29|075|000010|Jackson East|Jackson East Voting District
+29|075|000011|Jackson West|Jackson West Voting District
+29|075|000012|Miller/Berlin|Miller/Berlin Voting District
+29|075|000013|Miller/McFall|Miller/McFall Voting District
+29|075|000014|Wilson/Alanthus|Wilson/Alanthus Voting District
+29|077|000002|11|Voting District 11
+29|077|000003|12A|Voting District 12A
+29|077|000004|12B|Voting District 12B
+29|077|000005|16A|Voting District 16A
+29|077|000006|16B|Voting District 16B
+29|077|000007|16C|Voting District 16C
+29|077|000008|1A|Voting District 1A
+29|077|000009|1B|Voting District 1B
+29|077|000010|1C|Voting District 1C
+29|077|000011|1st Boone|1st Boone Voting District
+29|077|000012|1st Camp|1st Camp Voting District
+29|077|000013|1st Center|1st Center Voting District
+29|077|000014|1st Franklin|1st Franklin Voting District
+29|077|000015|1st Jackson|1st Jackson Voting District
+29|077|000016|1st N Camp|1st N Camp Voting District
+29|077|000017|1st Robberson A|1st Robberson A Voting District
+29|077|000018|1st Robberson B|1st Robberson B Voting District
+29|077|000019|20A|Voting District 20A
+29|077|000020|20B|Voting District 20B
+29|077|000021|22A|Voting District 22A
+29|077|000022|22B|Voting District 22B
+29|077|000023|22C|Voting District 22C
+29|077|000024|26A|Voting District 26A
+29|077|000025|26B|Voting District 26B
+29|077|000026|26C|Voting District 26C
+29|077|000027|27A|Voting District 27A
+29|077|000028|27B|Voting District 27B
+29|077|000029|27C|Voting District 27C
+29|077|000030|29A|Voting District 29A
+29|077|000031|29B|Voting District 29B
+29|077|000032|29C|Voting District 29C
+29|077|000033|2A|Voting District 2A
+29|077|000034|2B|Voting District 2B
+29|077|000035|2nd Boone|2nd Boone Voting District
+29|077|000036|2nd Camp A|2nd Camp A Voting District
+29|077|000037|2nd Camp B|2nd Camp B Voting District
+29|077|000038|2nd Camp C|2nd Camp C Voting District
+29|077|000039|2nd Camp CN|2nd Camp CN Voting District
+29|077|000040|2nd Franklin|2nd Franklin Voting District
+29|077|000041|2nd Jackson|2nd Jackson Voting District
+29|077|000042|2nd N Camp|2nd N Camp Voting District
+29|077|000043|2nd Robberson|2nd Robberson Voting District
+29|077|000044|30A|Voting District 30A
+29|077|000045|30B|Voting District 30B
+29|077|000046|31A|Voting District 31A
+29|077|000047|31B|Voting District 31B
+29|077|000048|31C|Voting District 31C
+29|077|000049|32A|Voting District 32A
+29|077|000050|32B|Voting District 32B
+29|077|000051|32C|Voting District 32C
+29|077|000052|33A|Voting District 33A
+29|077|000053|33B|Voting District 33B
+29|077|000054|34A|Voting District 34A
+29|077|000055|34B|Voting District 34B
+29|077|000056|34C|Voting District 34C
+29|077|000057|35A|Voting District 35A
+29|077|000058|35B|Voting District 35B
+29|077|000059|36A|Voting District 36A
+29|077|000060|37A|Voting District 37A
+29|077|000061|37B|Voting District 37B
+29|077|000062|37C|Voting District 37C
+29|077|000063|38A|Voting District 38A
+29|077|000064|38B|Voting District 38B
+29|077|000065|39A|Voting District 39A
+29|077|000066|39B|Voting District 39B
+29|077|000067|39C|Voting District 39C
+29|077|000068|3A|Voting District 3A
+29|077|000069|3B|Voting District 3B
+29|077|000070|3rd Center|3rd Center Voting District
+29|077|000071|3rd N Camp A|3rd N Camp A Voting District
+29|077|000072|3rd N Camp B|3rd N Camp B Voting District
+29|077|000073|40A|Voting District 40A
+29|077|000074|40B|Voting District 40B
+29|077|000075|41A|Voting District 41A
+29|077|000076|41B|Voting District 41B
+29|077|000077|42A|Voting District 42A
+29|077|000078|42B|Voting District 42B
+29|077|000079|42C|Voting District 42C
+29|077|000080|44A|Voting District 44A
+29|077|000081|44B|Voting District 44B
+29|077|000082|44C|Voting District 44C
+29|077|000083|45A|Voting District 45A
+29|077|000084|45B|Voting District 45B
+29|077|000085|4A|Voting District 4A
+29|077|000086|4B|Voting District 4B
+29|077|000087|5A|Voting District 5A
+29|077|000088|5B|Voting District 5B
+29|077|000089|6A|Voting District 6A
+29|077|000090|6B|Voting District 6B
+29|077|000091|7A|Voting District 7A
+29|077|000092|7B|Voting District 7B
+29|077|000093|7C|Voting District 7C
+29|077|000094|9A|Voting District 9A
+29|077|000095|9B|Voting District 9B
+29|077|000096|Battlefield A|Battlefield A Voting District
+29|077|000097|Battlefield B|Battlefield B Voting District
+29|077|000098|Brookline|Brookline Voting District
+29|077|000099|Cass|Cass Voting District
+29|077|000100|Cherokee|Cherokee Voting District
+29|077|000101|Clay B|Clay B Voting District
+29|077|000102|Clay C|Clay C Voting District
+29|077|000103|East Clay A|East Clay A Voting District
+29|077|000104|East Republic|East Republic Voting District
+29|077|000105|Murray|Murray Voting District
+29|077|000106|Pond Creek|Pond Creek Voting District
+29|077|000107|Republic North|Republic North Voting District
+29|077|000108|Taylor|Taylor Voting District
+29|077|000109|Walnut Grove|Walnut Grove Voting District
+29|077|000110|Washington|Washington Voting District
+29|077|000111|West Republic|West Republic Voting District
+29|077|000112|Wilson A|Wilson A Voting District
+29|077|000113|Wilson C|Wilson C Voting District
+29|077|000114|Wilson CW|Wilson CW Voting District
+29|079|000002|Franklin|Franklin Voting District
+29|079|000003|Harrison|Harrison Voting District
+29|079|000004|Jackson|Jackson Voting District
+29|079|000005|Jefferson|Jefferson Voting District
+29|079|000006|Liberty|Liberty Voting District
+29|079|000007|Lincoln|Lincoln Voting District
+29|079|000008|Madison|Madison Voting District
+29|079|000009|Marion|Marion Voting District
+29|079|000010|Myers|Myers Voting District
+29|079|000011|Taylor|Taylor Voting District
+29|079|000012|Trenton Ward 1|Trenton Ward 1
+29|079|000013|Trenton Ward 2|Trenton Ward 2
+29|079|000014|Trenton Ward 3|Trenton Ward 3
+29|079|000015|Trenton Ward 4|Trenton Ward 4
+29|079|000016|Washington|Washington Voting District
+29|079|000017|Wilson|Wilson Voting District
+29|081|000003|New Hampton|New Hampton Voting District
+29|081|000004|Ridgeway|Ridgeway Voting District
+29|081|000008|Cainsville|Cainsville Voting District
+29|081|000009|Eagleville|Eagleville Voting District
+29|081|000010|Gilman City|Gilman City Voting District
+29|081|16-012|Bethany|Bethany Voting District
+29|083|000002|Bearcreek / Deepwater|Bearcreek / Deepwater Voting District
+29|083|000003|Benson Center|Benson Center Voting District
+29|083|000004|Urich|Urich Voting District
+29|083|000009|Fairview|Fairview Voting District
+29|083|000010|Leesville|Leesville Voting District
+29|083|000011|Osage|Osage Voting District
+29|083|000013|Springfield / Tebo|Springfield / Tebo Voting District
+29|083|000015|Windsor|Windsor Voting District
+29|083|16-020|Clinton 1|Clinton 1 Voting District
+29|085|000002|Carson's Corner|Carson's Corner Voting District
+29|085|000003|Cross Timbers-Jordan|Cross Timbers-Jordan Voting District
+29|085|000004|Elkton|Elkton Voting District
+29|085|000005|Hermitage|Hermitage Voting District
+29|085|000006|Pittsburg|Pittsburg Voting District
+29|085|000007|Pleasant Ridge|Pleasant Ridge Voting District
+29|085|000008|Preston|Preston Voting District
+29|085|000009|Quincy|Quincy Voting District
+29|085|000010|Weaubleau|Weaubleau Voting District
+29|085|000011|Wheatland|Wheatland Voting District
+29|087|000002|Central|Central Voting District
+29|087|000003|Northeast|Northeast Voting District
+29|087|000004|Northwest|Northwest Voting District
+29|087|000005|Southeast|Southeast Voting District
+29|087|000006|Southwest|Southwest Voting District
+29|087|000007|West|West Voting District
+29|089|000002|Prairie|Prairie Voting District
+29|089|000003|Richmond|Richmond Voting District
+29|089|000004|Burton|Burton Voting District
+29|089|000005|Bonne Femme|Bonne Femme Voting District
+29|089|000006|Moniteau|Moniteau Voting District
+29|089|000007|Boonslick|Boonslick Voting District
+29|089|000008|Chariton|Chariton Voting District
+29|089|000009|Franklin|Franklin Voting District
+29|091|000002|Howell No. 4|Howell No. 4 Voting District
+29|091|000003|Howell No. 5|Howell No. 5 Voting District
+29|091|000004|Howell No. 6|Howell No. 6 Voting District
+29|091|000005|Howell No. 7|Howell No. 7 Voting District
+29|091|000006|Hutton Valley|Hutton Valley Voting District
+29|091|000007|Myatt 1|Myatt 1 Voting District
+29|091|000008|Siloam Springs|Siloam Springs Voting District
+29|091|000009|Sisson|Sisson Voting District
+29|091|000010|South Fork|South Fork Voting District
+29|091|000011|Spring Creek|Spring Creek Voting District
+29|091|000012|Benton No. 1|Benton No. 1 Voting District
+29|091|000013|Willow Springs No. 1|Willow Springs No. 1 Voting District
+29|091|000014|Willow Springs No. 2|Willow Springs No. 2 Voting District
+29|091|000015|Benton No. 2|Benton No. 2 Voting District
+29|091|000016|Chapel|Chapel Voting District
+29|091|000017|Dry Creek|Dry Creek Voting District
+29|091|000018|Goldsberry|Goldsberry Voting District
+29|091|000019|Howell No. 1|Howell No. 1 Voting District
+29|091|000020|Howell No. 2|Howell No. 2 Voting District
+29|091|000021|Howell No. 3|Howell No. 3 Voting District
+29|091|012-22|Myatt 2|Myatt 2 Voting District
+29|093|000002|Ironton|Ironton Voting District
+29|093|000003|Pilot Knob|Pilot Knob Voting District
+29|093|000004|Viburnum|Viburnum Voting District
+29|093|000005|Vulcan|Vulcan Voting District
+29|093|000006|Annapolis|Annapolis Voting District
+29|093|000007|Arcadia|Arcadia Voting District
+29|093|000008|Belleview|Belleview Voting District
+29|093|000009|Des Arc|Des Arc Voting District
+29|093|000010|Ghermanville|Ghermanville Voting District
+29|095|000002|Blue 01-01|Blue 01-01 Voting District
+29|095|000003|Blue 01-06|Blue 01-06 Voting District
+29|095|000006|Blue 04-01|Blue 04-01 Voting District
+29|095|000007|Blue 01-08|Blue 01-08 Voting District
+29|095|000008|Blue 01-09|Blue 01-09 Voting District
+29|095|000010|Blue 04-02|Blue 04-02 Voting District
+29|095|000015|Blue 01-07|Blue 01-07 Voting District
+29|095|000016|Blue 01-05|Blue 01-05 Voting District
+29|095|000017|Blue 02-01|Blue 02-01 Voting District
+29|095|000019|Blue 02-02|Blue 02-02 Voting District
+29|095|000020|Blue 02-03|Blue 02-03 Voting District
+29|095|000022|Blue 02-04|Blue 02-04 Voting District
+29|095|000023|Blue 02-05|Blue 02-05 Voting District
+29|095|000024|Blue 02-06|Blue 02-06 Voting District
+29|095|000025|Blue 02-07|Blue 02-07 Voting District
+29|095|000026|Blue 04-05|Blue 04-05 Voting District
+29|095|000029|Blue 03-01|Blue 03-01 Voting District
+29|095|000030|Blue 03-09|Blue 03-09 Voting District
+29|095|000031|Blue 03-08|Blue 03-08 Voting District
+29|095|000032|Blue 03-06|Blue 03-06 Voting District
+29|095|000033|Blue 03-07|Blue 03-07 Voting District
+29|095|000034|Blue 03-02|Blue 03-02 Voting District
+29|095|000035|Blue 03-03|Blue 03-03 Voting District
+29|095|000036|Blue 03-04|Blue 03-04 Voting District
+29|095|000037|Blue 03-05|Blue 03-05 Voting District
+29|095|000043|Blue 04-10|Blue 04-10 Voting District
+29|095|000044|Blue 04-03|Blue 04-03 Voting District
+29|095|000045|Blue 04-04|Blue 04-04 Voting District
+29|095|000047|Blue 04-07|Blue 04-07 Voting District
+29|095|000050|Blue 04-08|Blue 04-08 Voting District
+29|095|000052|Blue 05-01|Blue 05-01 Voting District
+29|095|000054|Blue 05-08|Blue 05-08 Voting District
+29|095|000055|Blue 05-02|Blue 05-02 Voting District
+29|095|000056|Blue 05-04|Blue 05-04 Voting District
+29|095|000057|Blue 05-03|Blue 05-03 Voting District
+29|095|000059|Blue 05-05|Blue 05-05 Voting District
+29|095|000060|Blue 05-09|Blue 05-09 Voting District
+29|095|000061|Blue 04-09|Blue 04-09 Voting District
+29|095|000062|Blue 05-07|Blue 05-07 Voting District
+29|095|000064|Blue 05-06|Blue 05-06 Voting District
+29|095|000066|Blue 06-05|Blue 06-05 Voting District
+29|095|000067|Blue 06-06|Blue 06-06 Voting District
+29|095|000069|Blue 06-01|Blue 06-01 Voting District
+29|095|000071|Blue 06-02|Blue 06-02 Voting District
+29|095|000072|Blue 06-03|Blue 06-03 Voting District
+29|095|000076|Blue 06-07|Blue 06-07 Voting District
+29|095|000079|Blue 06-04|Blue 06-04 Voting District
+29|095|000081|Blue 07-07|Blue 07-07 Voting District
+29|095|000082|Blue 07-08|Blue 07-08 Voting District
+29|095|000084|Blue 07-06|Blue 07-06 Voting District
+29|095|000086|Blue 08-03|Blue 08-03 Voting District
+29|095|000087|Blue 07-05|Blue 07-05 Voting District
+29|095|000088|Blue 07-01|Blue 07-01 Voting District
+29|095|000090|Blue 07-02|Blue 07-02 Voting District
+29|095|000091|Blue 07-03|Blue 07-03 Voting District
+29|095|000092|Blue 07-04|Blue 07-04 Voting District
+29|095|000095|Blue 08-01|Blue 08-01 Voting District
+29|095|000096|Blue 08-06|Blue 08-06 Voting District
+29|095|000097|Blue 08-07|Blue 08-07 Voting District
+29|095|000099|Blue 08-08|Blue 08-08 Voting District
+29|095|000100|Blue 08-02|Blue 08-02 Voting District
+29|095|000103|Blue 08-04|Blue 08-04 Voting District
+29|095|000104|Blue 08-05|Blue 08-05 Voting District
+29|095|000107|Blue 07-09|Blue 07-09 Voting District
+29|095|000109|Brooking No. 1|Brooking No. 1 Voting District
+29|095|000116|Brooking No. 16|Brooking No. 16 Voting District
+29|095|000120|Brooking No. 2|Brooking No. 2 Voting District
+29|095|000123|Brooking No. 14|Brooking No. 14 Voting District
+29|095|000125|Brooking No. 15|Brooking No. 15 Voting District
+29|095|000128|Brooking No. 18|Brooking No. 18 Voting District
+29|095|000129|Brooking No. 17|Brooking No. 17 Voting District
+29|095|000130|Brooking No. 3|Brooking No. 3 Voting District
+29|095|000131|Brooking No. 4|Brooking No. 4 Voting District
+29|095|000132|Brooking No. 5|Brooking No. 5 Voting District
+29|095|000134|Brooking No. 7|Brooking No. 7 Voting District
+29|095|000136|Brooking No. 9|Brooking No. 9 Voting District
+29|095|000138|Fort Osage 02|Fort Osage 02 Voting District
+29|095|000140|Fort Osage 08|Fort Osage 08 Voting District
+29|095|000142|Fort Osage 10|Fort Osage 10 Voting District
+29|095|000143|Fort Osage 07|Fort Osage 07 Voting District
+29|095|000144|Fort Osage 03|Fort Osage 03 Voting District
+29|095|000145|Fort Osage 04|Fort Osage 04 Voting District
+29|095|000146|Fort Osage 05|Fort Osage 05 Voting District
+29|095|000147|Fort Osage 06|Fort Osage 06 Voting District
+29|095|000148|KC 101|KC 101
+29|095|000149|KC 1112|KC 1112
+29|095|000150|KC 103|KC 103
+29|095|000151|KC 104|KC 104
+29|095|000152|KC 105|KC 105
+29|095|000153|KC 106|KC 106
+29|095|000154|KC 107|KC 107
+29|095|000155|KC 102|KC 102
+29|095|000156|KC 411|KC 411
+29|095|000157|KC 217|KC 217
+29|095|000159|KC 511|KC 511
+29|095|000160|KC 1001|KC 1001
+29|095|000161|KC 1002|KC 1002
+29|095|000162|KC 1003|KC 1003
+29|095|000163|KC 1007|KC 1007
+29|095|000164|KC 1005|KC 1005
+29|095|000165|KC 1006|KC 1006
+29|095|000166|KC 1008|KC 1008
+29|095|000167|KC 1009|KC 1009
+29|095|000168|KC 1922|KC 1922
+29|095|000169|KC 1923|KC 1923
+29|095|000172|KC 1908|KC 1908
+29|095|000173|KC 1921|KC 1921
+29|095|000174|KC 1011|KC 1011
+29|095|000175|KC 1101|KC 1101
+29|095|000176|KC 1102|KC 1102
+29|095|000177|KC 1103|KC 1103
+29|095|000178|KC 1104|KC 1104
+29|095|000179|KC 1105|KC 1105
+29|095|000180|KC 1106|KC 1106
+29|095|000181|KC 1204|KC 1204
+29|095|000182|KC 1108|KC 1108
+29|095|000183|KC 1109|KC 1109
+29|095|000184|KC 1114|KC 1114
+29|095|000185|KC 1211|KC 1211
+29|095|000186|KC 1201|KC 1201
+29|095|000187|KC 1202|KC 1202
+29|095|000188|KC 1203|KC 1203
+29|095|000189|KC 1312|KC 1312
+29|095|000190|KC 1205|KC 1205
+29|095|000191|KC 1206|KC 1206
+29|095|000192|KC 1207|KC 1207
+29|095|000193|KC 1208|KC 1208
+29|095|000194|KC 1210|KC 1210
+29|095|000195|KC 1305|KC 1305
+29|095|000196|KC 1306|KC 1306
+29|095|000197|KC 1307|KC 1307
+29|095|000198|KC 1308|KC 1308
+29|095|000200|KC 1309|KC 1309
+29|095|000201|KC 1301|KC 1301
+29|095|000202|KC WD13 PCT1302|KC WD13 PCT1302
+29|095|000203|KC 1303|KC 1303
+29|095|000204|KC 1304|KC 1304
+29|095|000205|KC 1501|KC 1501
+29|095|000206|KC 1502|KC 1502
+29|095|000207|KC 1401|KC 1401
+29|095|000208|KC 1402|KC 1402
+29|095|000209|KC 1403|KC 1403
+29|095|000210|KC 1404|KC 1404
+29|095|000211|KC 1405|KC 1405
+29|095|000212|KC 1406|KC 1406
+29|095|000213|KC 1407|KC 1407
+29|095|000214|KC 1408|KC 1408
+29|095|000215|KC 1409|KC 1409
+29|095|000216|KC 1410|KC 1410
+29|095|000217|KC 1411|KC 1411
+29|095|000218|KC 1412|KC 1412
+29|095|000219|KC 1413|KC 1413
+29|095|000220|KC 1414|KC 1414
+29|095|000221|KC 1503|KC 1503
+29|095|000222|KC 1415|KC 1415
+29|095|000223|KC 1505|KC 1505
+29|095|000224|KC 1506|KC 1506
+29|095|000225|KC 1524|KC 1524
+29|095|000226|KC 1508|KC 1508
+29|095|000227|KC 1509|KC 1509
+29|095|000228|KC 1512|KC 1512
+29|095|000229|KC 1513|KC 1513
+29|095|000230|KC 1514|KC 1514
+29|095|000231|KC 311|KC 311
+29|095|000232|KC 314|KC 314
+29|095|000233|KC 1510|KC 1510
+29|095|000234|KC 1511|KC 1511
+29|095|000235|KC 708|KC 708
+29|095|000236|KC 1602|KC 1602
+29|095|000238|KC 710|KC 710
+29|095|000239|KC 711|KC 711
+29|095|000241|KC 715|KC 715
+29|095|000242|KC 1609|KC 1609
+29|095|000243|KC 716|KC 716
+29|095|000244|KC 1611|KC 1611
+29|095|000245|KC 1612|KC 1612
+29|095|000246|KC 1613|KC 1613
+29|095|000247|KC 1610|KC 1610
+29|095|000248|KC 1615|KC 1615
+29|095|000249|KC 1614|KC 1614
+29|095|000250|KC 717|KC 717
+29|095|000251|KC 1606|KC 1606
+29|095|000253|1603|1603
+29|095|000254|KC 1701|KC 1701
+29|095|000255|KC 1601|KC 1601
+29|095|000256|KC 1604|KC 1604
+29|095|000257|KC 1605|KC 1605
+29|095|000258|KC 1608|KC 1608
+29|095|000259|KC 1706|KC 1706
+29|095|000260|KC 1707|KC 1707
+29|095|000261|KC 1708|KC 1708
+29|095|000263|KC 1702|KC 1702
+29|095|000264|KC 1703|KC 1703
+29|095|000265|KC 1710|KC 1710
+29|095|000266|KC 1704|KC 1704
+29|095|000267|KC 1705|KC 1705
+29|095|000268|KC 1711|KC 1711
+29|095|000269|KC 1713|KC 1713
+29|095|000270|KC 1714|KC 1714
+29|095|000271|KC 1712|KC 1712
+29|095|000272|KC 1809|KC 1809
+29|095|000273|KC 1810|KC 1810
+29|095|000275|KC 1813|KC 1813
+29|095|000276|KC 1816|KC 1816
+29|095|000277|KC 1814|KC 1814
+29|095|000278|KC 1811|KC 1811
+29|095|000279|KC 1815|KC 1815
+29|095|000280|KC 1812|KC 1812
+29|095|000281|KC 1807|KC 1807
+29|095|000282|KC 1806|KC 1806
+29|095|000283|KC 1906|KC 1906
+29|095|000284|KC 1804|KC 1804
+29|095|000285|KC 1803|KC 1803
+29|095|000286|KC 1802|KC 1802
+29|095|000287|KC 1910|KC 1910
+29|095|000288|KC 1911|KC 1911
+29|095|000289|KC 1912|KC 1912
+29|095|000290|KC 1913|KC 1913
+29|095|000291|KC 1914|KC 1914
+29|095|000292|KC 1808|KC 1808
+29|095|000293|KC 1917|KC 1917
+29|095|000295|KC 1918|KC 1918
+29|095|000296|KC 1012|KC 1012
+29|095|000298|KC 201|KC 201
+29|095|000299|KC 202|KC 202
+29|095|000300|KC 203|KC 203
+29|095|000301|KC 204|KC 204
+29|095|000302|KC WD2 PCT205|KC WD2 PCT205
+29|095|000303|KC WD2 PCT206|KC WD2 PCT206
+29|095|000304|KC 317|KC 317
+29|095|000305|KC 318|KC 318
+29|095|000306|KC 209|KC 209
+29|095|000307|KC 210|KC 210
+29|095|000308|KC WD2 PCT211|KC WD2 PCT211
+29|095|000310|KC 213|KC 213
+29|095|000311|KC 214|KC 214
+29|095|000312|KC 215|KC 215
+29|095|000313|KC 216|KC 216
+29|095|000314|KC 1901|KC 1901
+29|095|000315|KC 1909|KC 1909
+29|095|000316|KC 1919|KC 1919
+29|095|000317|KC 2004|KC 2004
+29|095|000318|KC 2005|KC 2005
+29|095|000319|KC 2006|KC 2006
+29|095|000320|KC 2007|KC 2007
+29|095|000321|KC 2008|KC 2008
+29|095|000322|KC 2009|KC 2009
+29|095|000324|KC 2002|KC 2002
+29|095|000326|KC 2203|KC 2203
+29|095|000327|KC 2204|KC 2204
+29|095|000328|KC 2205|KC 2205
+29|095|000329|KC 2206|KC 2206
+29|095|000330|KC 2207|KC 2207
+29|095|000331|KC 2202|KC 2202
+29|095|000332|KC 2208|KC 2208
+29|095|000333|KC 2210|KC 2210
+29|095|000334|KC 2211|KC 2211
+29|095|000335|KC 2209|KC 2209
+29|095|000337|KC 1517|KC 1517
+29|095|000338|KC 1518|KC 1518
+29|095|000339|KC 1519|KC 1519
+29|095|000340|KC 1521|KC 1521
+29|095|000341|KC 2305|KC 2305
+29|095|000342|KC 2306|KC 2306
+29|095|000343|KC 2307|KC 2307
+29|095|000344|KC 2303|KC 2303
+29|095|000345|KC 2309|KC 2309
+29|095|000346|KC 2310|KC 2310
+29|095|000347|KC 2311|KC 2311
+29|095|000348|KC 1522|KC 1522
+29|095|000349|KC 2313|KC 2313
+29|095|000350|KC 1709|KC 1709
+29|095|000353|KC 2316|KC 2316
+29|095|000354|KC 2315|KC 2315
+29|095|000355|KC 2401|KC 2401
+29|095|000356|KC 2402|KC 2402
+29|095|000357|KC 2314|KC 2314
+29|095|000358|KC 2404|KC 2404
+29|095|000359|KC 2405|KC 2405
+29|095|000360|KC 2406|KC 2406
+29|095|000361|KC 2407|KC 2407
+29|095|000362|KC 2408|KC 2408
+29|095|000363|KC 2409|KC 2409
+29|095|000364|KC 2410|KC 2410
+29|095|000365|KC 2412|KC 2412
+29|095|000366|KC 2413|KC 2413
+29|095|000368|KC 2415|KC 2415
+29|095|000369|KC 2424|KC 2424
+29|095|000370|KC 2417|KC 2417
+29|095|000371|KC 2418|KC 2418
+29|095|000372|KC 2514|KC 2514
+29|095|000373|KC 2420|KC 2420
+29|095|000374|KC 2421|KC 2421
+29|095|000375|KC 2422|KC 2422
+29|095|000378|KC 2425|KC 2425
+29|095|000379|KC 2426|KC 2426
+29|095|000382|KC 2429|KC 2429
+29|095|000383|KC 2411|KC 2411
+29|095|000385|KC 2431|KC 2431
+29|095|000386|KC 2601|KC 2601
+29|095|000387|KC 2001|KC 2001
+29|095|000388|KC 2501|KC 2501
+29|095|000389|KC 2503|KC 2503
+29|095|000390|KC 2504|KC 2504
+29|095|000391|KC 2505|KC 2505
+29|095|000392|KC 2506|KC 2506
+29|095|000393|KC 2507|KC 2507
+29|095|000394|KC 2508|KC 2508
+29|095|000395|KC 2509|KC 2509
+29|095|000396|KC 2510|KC 2510
+29|095|000397|KC 2511|KC 2511
+29|095|000398|KC 2513|KC 2513
+29|095|000399|KC 1805|KC 1805
+29|095|000400|KC 1902|KC 1902
+29|095|000401|KC 2502|KC 2502
+29|095|000402|KC 1903|KC 1903
+29|095|000403|KC 2604|KC 2604
+29|095|000404|KC 2605|KC 2605
+29|095|000405|KC 2606|KC 2606
+29|095|000406|KC 2602|KC 2602
+29|095|000407|KC 2603|KC 2603
+29|095|000408|KC 2609|KC 2609
+29|095|000409|KC 2610|KC 2610
+29|095|000412|KC 301|KC 301
+29|095|000413|KC 302|KC 302
+29|095|000414|KC 303|KC 303
+29|095|000415|KC 304|KC 304
+29|095|000416|KC 305|KC 305
+29|095|000417|KC 306|KC 306
+29|095|000418|KC 307|KC 307
+29|095|000419|KC 308|KC 308
+29|095|000420|KC 309|KC 309
+29|095|000421|KC 310|KC 310
+29|095|000422|KC 312|KC 312
+29|095|000423|KC 313|KC 313
+29|095|000424|KC 315|KC 315
+29|095|000425|KC 401|KC 401
+29|095|000426|KC 402|KC 402
+29|095|000427|KC 403|KC 403
+29|095|000428|KC 404|KC 404
+29|095|000429|KC 405|KC 405
+29|095|000430|KC 406|KC 406
+29|095|000431|KC 407|KC 407
+29|095|000432|KC 408|KC 408
+29|095|000433|KC 409|KC 409
+29|095|000434|KC 410|KC 410
+29|095|000435|KC 502|KC 502
+29|095|000436|KC 503|KC 503
+29|095|000437|KC 504|KC 504
+29|095|000438|KC 505|KC 505
+29|095|000439|KC 506|KC 506
+29|095|000440|KC 507|KC 507
+29|095|000441|KC 508|KC 508
+29|095|000442|KC 509|KC 509
+29|095|000443|KC 510|KC 510
+29|095|000444|KC 501|KC 501
+29|095|000446|KC 602|KC 602
+29|095|000447|KC 603|KC 603
+29|095|000448|KC 604|KC 604
+29|095|000449|KC 605|KC 605
+29|095|000450|KC 606|KC 606
+29|095|000451|KC 607|KC 607
+29|095|000452|KC 608|KC 608
+29|095|000453|KC 609|KC 609
+29|095|000454|KC 610|KC 610
+29|095|000455|KC 614|KC 614
+29|095|000456|KC 612|KC 612
+29|095|000457|KC 801|KC 801
+29|095|000458|KC 701|KC 701
+29|095|000459|KC 702|KC 702
+29|095|000460|KC 703|KC 703
+29|095|000461|KC 704|KC 704
+29|095|000462|KC 705|KC 705
+29|095|000463|KC 706|KC 706
+29|095|000464|KC 707|KC 707
+29|095|000467|KC 709|KC 709
+29|095|000469|KC 712|KC 712
+29|095|000470|KC 713|KC 713
+29|095|000471|KC 714|KC 714
+29|095|000474|KC 613|KC 613
+29|095|000475|KC 802|KC 802
+29|095|000476|KC 803|KC 803
+29|095|000477|KC 804|KC 804
+29|095|000478|KC 805|KC 805
+29|095|000479|KC 806|KC 806
+29|095|000480|KC 807|KC 807
+29|095|000481|KC 808|KC 808
+29|095|000482|KC 809|KC 809
+29|095|000483|KC WD8 PCT810|KC WD8 PCT810
+29|095|000484|KC 811|KC 811
+29|095|000485|KC 813|KC 813
+29|095|000486|KC 1801|KC 1801
+29|095|000488|KC 901|KC 901
+29|095|000489|KC 902|KC 902
+29|095|000490|KC 904|KC 904
+29|095|000491|KC 905|KC 905
+29|095|000492|KC 906|KC 906
+29|095|000493|KC 907|KC 907
+29|095|000494|KC 908|KC 908
+29|095|000495|KC 909|KC 909
+29|095|000496|KC 910|KC 910
+29|095|000497|KC 911|KC 911
+29|095|000499|Prairie 13|Prairie 13 Voting District
+29|095|000500|Prairie 17|Prairie 17 Voting District
+29|095|000501|Prairie 14|Prairie 14 Voting District
+29|095|000503|Prairie 15|Prairie 15 Voting District
+29|095|000505|Prairie 16|Prairie 16 Voting District
+29|095|000506|Prairie 18|Prairie 18 Voting District
+29|095|000508|Prairie 19|Prairie 19 Voting District
+29|095|000509|Prairie 20|Prairie 20 Voting District
+29|095|000510|Prairie 23|Prairie 23 Voting District
+29|095|000511|Prairie 21|Prairie 21 Voting District
+29|095|000512|Prairie 22|Prairie 22 Voting District
+29|095|000514|Prairie 08|Prairie 08 Voting District
+29|095|000515|Prairie 24|Prairie 24 Voting District
+29|095|000516|Prairie 11|Prairie 11 Voting District
+29|095|000517|Prairie 12|Prairie 12 Voting District
+29|095|000518|Prairie 26|Prairie 26 Voting District
+29|095|000519|Prairie 27|Prairie 27 Voting District
+29|095|000520|Prairie 04|Prairie 04 Voting District
+29|095|000523|Prairie 29|Prairie 29 Voting District
+29|095|000524|Prairie 28|Prairie 28 Voting District
+29|095|000525|Prairie 31|Prairie 31 Voting District
+29|095|000527|Prairie 30|Prairie 30 Voting District
+29|095|000529|Prairie 34|Prairie 34 Voting District
+29|095|000531|Prairie 36|Prairie 36 Voting District
+29|095|000532|Prairie 33|Prairie 33 Voting District
+29|095|000534|Prairie 35|Prairie 35 Voting District
+29|095|000536|Prairie 32|Prairie 32 Voting District
+29|095|000537|Prairie 37|Prairie 37 Voting District
+29|095|000538|Prairie 03|Prairie 03 Voting District
+29|095|000539|Prairie 40|Prairie 40 Voting District
+29|095|000540|Prairie 42|Prairie 42 Voting District
+29|095|000542|Prairie 44|Prairie 44 Voting District
+29|095|000543|Prairie 43|Prairie 43 Voting District
+29|095|000544|Prairie 45|Prairie 45 Voting District
+29|095|000546|Prairie 46|Prairie 46 Voting District
+29|095|000547|Prairie 59|Prairie 59 Voting District
+29|095|000548|Prairie 47|Prairie 47 Voting District
+29|095|000550|Prairie 49|Prairie 49 Voting District
+29|095|000551|Prairie 60|Prairie 60 Voting District
+29|095|000552|Prairie 50|Prairie 50 Voting District
+29|095|000554|Prairie 62|Prairie 62 Voting District
+29|095|000555|Prairie 52|Prairie 52 Voting District
+29|095|000556|Prairie 51|Prairie 51 Voting District
+29|095|000557|Prairie 56|Prairie 56 Voting District
+29|095|000558|Prairie 05|Prairie 05 Voting District
+29|095|000561|Prairie 38|Prairie 38 Voting District
+29|095|000562|Prairie 39|Prairie 39 Voting District
+29|095|000563|Prairie 41|Prairie 41 Voting District
+29|095|000564|Prairie 06|Prairie 06 Voting District
+29|095|000566|Prairie 09|Prairie 09 Voting District
+29|095|000567|Prairie 07|Prairie 07 Voting District
+29|095|000568|Prairie 48|Prairie 48 Voting District
+29|095|000569|Sni-A-Bar 01|Sni-A-Bar 01 Voting District
+29|095|000570|Sni-A-Bar 13|Sni-A-Bar 13 Voting District
+29|095|000572|Sni-A-Bar 12|Sni-A-Bar 12 Voting District
+29|095|000573|Sni-A-Bar 15|Sni-A-Bar 15 Voting District
+29|095|000578|Sni-A-Bar 17|Sni-A-Bar 17 Voting District
+29|095|000579|Sni-A-Bar 18|Sni-A-Bar 18 Voting District
+29|095|000580|Sni-A-Bar 20|Sni-A-Bar 20 Voting District
+29|095|000581|Sni-A-Bar 03|Sni-A-Bar 03 Voting District
+29|095|000582|Sni-A-Bar 04|Sni-A-Bar 04 Voting District
+29|095|000584|Sni-A-Bar 21|Sni-A-Bar 21 Voting District
+29|095|000586|Sni-A-Bar 22|Sni-A-Bar 22 Voting District
+29|095|000587|Sni-A-Bar 23|Sni-A-Bar 23 Voting District
+29|095|000590|Sni-A-Bar 25|Sni-A-Bar 25 Voting District
+29|095|000591|Sni-A-Bar 24|Sni-A-Bar 24 Voting District
+29|095|000592|Sni-A-Bar 26|Sni-A-Bar 26 Voting District
+29|095|000593|Sni-A-Bar 05|Sni-A-Bar 05 Voting District
+29|095|000595|Sni-A-Bar 27|Sni-A-Bar 27 Voting District
+29|095|000596|Sni-A-Bar 29|Sni-A-Bar 29 Voting District
+29|095|000599|Sni-A-Bar 30|Sni-A-Bar 30 Voting District
+29|095|000601|Sni-A-Bar 28|Sni-A-Bar 28 Voting District
+29|095|000603|Sni-A-Bar 31|Sni-A-Bar 31 Voting District
+29|095|000604|Sni-A-Bar 33|Sni-A-Bar 33 Voting District
+29|095|000605|Sni-A-Bar 36|Sni-A-Bar 36 Voting District
+29|095|000606|Sni-A-Bar 06|Sni-A-Bar 06 Voting District
+29|095|000607|Sni-A-Bar 38|Sni-A-Bar 38 Voting District
+29|095|000608|Sni-A-Bar 39|Sni-A-Bar 39 Voting District
+29|095|000610|Sni-A-Bar 41|Sni-A-Bar 41 Voting District
+29|095|000612|Sni-A-Bar 50|Sni-A-Bar 50 Voting District
+29|095|000613|Sni-A-Bar 09|Sni-A-Bar 09 Voting District
+29|095|000614|Sni-A-Bar 44|Sni-A-Bar 44 Voting District
+29|095|000616|Sni-A-Bar 46|Sni-A-Bar 46 Voting District
+29|095|000617|Sni-A-Bar 47|Sni-A-Bar 47 Voting District
+29|095|000619|Sni-A-Bar 48|Sni-A-Bar 48 Voting District
+29|095|000620|Sni-A-Bar 08|Sni-A-Bar 08 Voting District
+29|095|000622|Sni-A-Bar 07|Sni-A-Bar 07 Voting District
+29|095|000623|Sni-A-Bar 19|Sni-A-Bar 19 Voting District
+29|095|000625|Sni-A-Bar 11|Sni-A-Bar 11 Voting District
+29|095|000626|Sni-A-Bar 14|Sni-A-Bar 14 Voting District
+29|095|000629|Sni-A-Bar 32|Sni-A-Bar 32 Voting District
+29|095|000630|Sni-A-Bar 10|Sni-A-Bar 10 Voting District
+29|095|000631|Sni-A-Bar 51|Sni-A-Bar 51 Voting District
+29|095|000632|Sni-A-Bar 42|Sni-A-Bar 42 Voting District
+29|095|000633|Sni-A-Bar 40|Sni-A-Bar 40 Voting District
+29|095|000634|Sni-A-Bar 37|Sni-A-Bar 37 Voting District
+29|095|000637|Sni-A-Bar 43|Sni-A-Bar 43 Voting District
+29|095|000638|Sni-A-Bar 45|Sni-A-Bar 45 Voting District
+29|095|000639|Van Buren 12|Van Buren 12 Voting District
+29|095|000640|Van Buren 14|Van Buren 14 Voting District
+29|095|000641|Van Buren 15|Van Buren 15 Voting District
+29|095|000642|Van Buren 02|Van Buren 02 Voting District
+29|095|000643|Van Buren 16|Van Buren 16 Voting District
+29|095|000644|Van Buren 17|Van Buren 17 Voting District
+29|095|000645|Van Buren 19|Van Buren 19 Voting District
+29|095|000648|Washington 01|Washington 01 Voting District
+29|095|000650|Washington 08|Washington 08 Voting District
+29|095|000651|Washington 09|Washington 09 Voting District
+29|095|000654|Washington 10|Washington 10 Voting District
+29|095|000655|Washington 11|Washington 11 Voting District
+29|095|000656|Washington 12|Washington 12 Voting District
+29|095|000658|Washington 03|Washington 03 Voting District
+29|095|000660|Washington 02|Washington 02 Voting District
+29|095|000661|Washington 04|Washington 04 Voting District
+29|095|000662|Washington 05|Washington 05 Voting District
+29|095|000663|Washington 06|Washington 06 Voting District
+29|095|000664|Washington 07|Washington 07 Voting District
+29|095|16-100|Prarie 53|Prarie 53 Voting District
+29|095|16-101|Sni-A-Bar 52|Sni-A-Bar 52 Voting District
+29|095|160102|Blue 01-02|Blue 01-02 Voting District
+29|095|160103|Blue 01-03|Blue 01-03 Voting District
+29|095|160104|Blue 01-04|Blue 01-04 Voting District
+29|095|160406|Blue 04-06|Blue 04-06 Voting District
+29|095|BR1608|Brooking No. 8|Brooking No. 8 Voting District
+29|095|BR1610|Brooking No. 10|Brooking No. 10 Voting District
+29|095|BR1611|Brooking No. 11|Brooking No. 11 Voting District
+29|095|BR1612|Brooking No. 12|Brooking No. 12 Voting District
+29|095|BR1613|Brooking No. 13|Brooking No. 13 Voting District
+29|095|BR1619|Brooking No. 19|Brooking No. 19 Voting District
+29|095|BR1620|Brooking No. 20|Brooking No. 20 Voting District
+29|095|BRNO06|Brooking No. 6|Brooking No. 6 Voting District
+29|095|FO1601|Fort Osage 01|Fort Osage 01 Voting District
+29|095|FO1609|Fort Osage 09|Fort Osage 09 Voting District
+29|095|K16106|KC 212|KC 212
+29|095|K16207|KC 207|KC 207
+29|095|K16218|KC 218|KC 218
+29|095|K16316|KC 316|KC 316
+29|095|K16419|KC 208|KC 208
+29|095|K16439|413|413
+29|095|K16449|414|414
+29|095|K16457|617|617
+29|095|K16459|415|415
+29|095|K16463|616|616
+29|095|K16467|618|618
+29|095|K16469|619|619
+29|095|K16512|KC 512|KC 512
+29|095|K16513|KC 513|KC 513
+29|095|K16611|KC 611|KC 611
+29|095|K16615|KC 615|KC 615
+29|095|K16718|KC 718|KC 718
+29|095|K16804|KC 812|KC 812
+29|095|K16811|KC 811|KC 811
+29|095|K16814|KC 814|KC 814
+29|095|K16815|KC 815|KC 815
+29|095|K16903|KC 903|KC 903
+29|095|K16913|KC 913|KC 913
+29|095|KC1004|KC 1004|KC 1004
+29|095|KC1010|KC 1010|KC 1010
+29|095|KC1042|KC 601|KC 601
+29|095|KC1107|KC 1107|KC 1107
+29|095|KC1110|KC 1110|KC 1110
+29|095|KC1111|KC 1111|KC 1111
+29|095|KC1113|KC 1113|KC 1113
+29|095|KC1209|KC 1209|KC 1209
+29|095|KC1212|KC 1212|KC 1212
+29|095|KC1310|KC 1310|KC 1310
+29|095|KC1311|KC 1311|KC 1311
+29|095|KC1313|KC 1313|KC 1313
+29|095|KC1314|KC1314|KC1314
+29|095|KC1504|KC 1504|KC 1504
+29|095|KC1507|KC 1507|KC 1507
+29|095|KC1515|KC 1515|KC 1515
+29|095|KC1516|KC 1516|KC 1516
+29|095|KC1520|KC 1520|KC 1520
+29|095|KC1523|KC 1523|KC 1523
+29|095|KC1607|KC 1607|KC 1607
+29|095|KC1904|KC 1904|KC 1904
+29|095|KC1905|KC 1905|KC 1905
+29|095|KC1907|KC 1907|KC 1907
+29|095|KC1915|KC 1915|KC 1915
+29|095|KC1916|KC 1916|KC 1916
+29|095|KC1920|KC 1920|KC 1920
+29|095|KC2003|KC 2003|KC 2003
+29|095|KC2010|KC 2010|KC 2010
+29|095|KC2201|KC 2201|KC 2201
+29|095|KC2212|KC 2212|KC 2212
+29|095|KC2213|KC 2213|KC 2213
+29|095|KC2301|KC 2301|KC 2301
+29|095|KC2302|KC 2302|KC 2302
+29|095|KC2304|KC 2304|KC 2304
+29|095|KC2308|KC 2308|KC 2308
+29|095|KC2312|KC 2312|KC 2312
+29|095|KC2403|KC 2403|KC 2403
+29|095|KC2414|KC 2414|KC 2414
+29|095|KC2416|KC 2416|KC 2416
+29|095|KC2419|KC 2419|KC 2419
+29|095|KC2423|KC 2423|KC 2423
+29|095|KC2427|KC 2427|KC 2427
+29|095|KC2428|KC 2428|KC 2428
+29|095|KC2430|KC 2430|KC 2430
+29|095|KC2512|KC 2512|KC 2512
+29|095|KC2607|KC 2607|KC 2607
+29|095|KC2608|KC 2608|KC 2608
+29|095|KC2611|KC 2611|KC 2611
+29|095|KC2612|KC 2612|KC 2612
+29|095|KC2613|KC 2613|KC 2613
+29|095|PR1601|Prarie 01|Prarie 01 Voting District
+29|095|PR1602|Prarie 02|Prarie 02 Voting District
+29|095|PR1610|Prarie 10|Prarie 10 Voting District
+29|095|PR1625|Prarie 25|Prarie 25 Voting District
+29|095|PR1654|Prarie 54|Prarie 54 Voting District
+29|095|PR1655|Prarie 55|Prarie 55 Voting District
+29|095|PR1657|Prarie 57|Prarie 57 Voting District
+29|095|PR1658|Prarie 58|Prarie 58 Voting District
+29|095|PR1661|Prarie 61|Prarie 61 Voting District
+29|095|PR1663|Prarie 63|Prarie 63 Voting District
+29|095|SB1602|Sni-A-Bar 02|Sni-A-Bar 02 Voting District
+29|095|SB1616|Sni-A-Bar 16|Sni-A-Bar 16 Voting District
+29|095|SB1634|Sni-A-Bar 34|Sni-A-Bar 34 Voting District
+29|095|SB1635|Sni-A-Bar 35|Sni-A-Bar 35 Voting District
+29|095|SB1649|Sni-A-Bar 49|Sni-A-Bar 49 Voting District
+29|095|SB1683|Sni-A-Bar 83|Sni-A-Bar 83 Voting District
+29|095|VB1601|Van Buren 01|Van Buren 01 Voting District
+29|095|VB1603|Van Buren 03|Van Buren 03 Voting District
+29|095|VB1604|Van Buren 04|Van Buren 04 Voting District
+29|095|VB1606|Van Buren 06|Van Buren 06 Voting District
+29|095|VB1607|Van Buren 07|Van Buren 07 Voting District
+29|095|VB1608|Van Buren 08|Van Buren 08 Voting District
+29|095|VB1609|Van Buren 09|Van Buren 09 Voting District
+29|095|VB1610|Van Buren 10|Van Buren 10 Voting District
+29|095|VB1611|Van Buren 11|Van Buren 11 Voting District
+29|095|VB1613|Van Buren 13|Van Buren 13 Voting District
+29|095|VB1617|Van Buren 18|Van Buren 18 Voting District
+29|095|k16429|412|412
+29|097|000002|ALBA/NECK CITY/PURCELL|ALBA/NECK CITY/PURCELL Voting District
+29|097|000003|ASBURY/MEDOC/WACO|ASBURY/MEDOC/WACO Voting District
+29|097|000004|CARL JUNCTION 1/CARL JUNCTION 2|CARL JUNCTION 1/CARL JUNCTION 2 Voting District
+29|097|000005|CARL JUNCTION 3/CARL JUNCTION 4|CARL JUNCTION 3/CARL JUNCTION 4
+29|097|000006|CARTERVILLE - ALL WARDS (1-4)|CARTERVILLE - ALL WARDS (1-4)
+29|097|000007|CARTHAGE 3|CARTHAGE 3
+29|097|000008|CARTHAGE 4|CARTHAGE 4
+29|097|000009|CARTHAGE 5|CARTHAGE 5
+29|097|000010|CARTHAGE 1|CARTHAGE 1
+29|097|000011|CARTHAGE 2|CARTHAGE 2
+29|097|000012|CENTENNIAL/GEM/REEDS|CENTENNIAL/GEM/REEDS Voting District
+29|097|000013|DUENWEG|DUENWEG Voting District
+29|097|000014|EAST JACKSON|EAST JACKSON Voting District
+29|097|000015|JASPER|JASPER Voting District
+29|097|000016|JOPLIN 1 \ JOPLIN 8|JOPLIN 1 \ JOPLIN 8 Voting District
+29|097|000017|JOPLIN 10 \ JOPLIN 11|JOPLIN 10 \ JOPLIN 11 Voting District
+29|097|000018|JOPLIN 12 \ JOPLIN 14|JOPLIN 12 \ JOPLIN 14 Voting District
+29|097|000019|JOPLIN 15 \ CENTRAL CITY|JOPLIN 15 \ CENTRAL CITY Voting District
+29|097|000020|JOPLIN 16 \ JOPLIN 18|JOPLIN 16 \ JOPLIN 18 Voting District
+29|097|000021|JOPLIN 2 \ JOPLIN 3|JOPLIN 2 \ JOPLIN 3 Voting District
+29|097|000022|JOPLIN 22 \ JOPLIN 24|JOPLIN 22 \ JOPLIN 24 Voting District
+29|097|000023|JOPLIN NO. 13|JOPLIN NO. 13 Voting District
+29|097|000024|JOPLIN NO. 23|JOPLIN NO. 23 Voting District
+29|097|000026|JOPLIN NO. 25|JOPLIN NO. 25 Voting District
+29|097|000027|JOPLIN NO. 4|JOPLIN NO. 4 Voting District
+29|097|000029|JOPLIN NO. 5/ JOPLIN NO. 7|JOPLIN NO. 5/ JOPLIN NO. 7 Voting District
+29|097|000030|LAKESIDE|LAKESIDE Voting District
+29|097|000031|LINCOLN / SHERIDAN|LINCOLN / SHERIDAN Voting District
+29|097|000032|MARION|MARION Voting District
+29|097|000033|MCDONALD|MCDONALD Voting District
+29|097|000034|MONITOR|MONITOR Voting District
+29|097|000035|NORTH MADISON|NORTH MADISON Voting District
+29|097|000036|ORONOGO 1|ORONOGO 1 Voting District
+29|097|000037|ORONOGO 2|ORONOGO 2 Voting District
+29|097|000038|PINE / PRARIE STAR|PINE / PRARIE STAR Voting District
+29|097|000040|REX|REX Voting District
+29|097|000041|SARCOXIE 1/ SARCOXIE 2/LA RUSSELL|SARCOXIE 1/ SARCOXIE 2/LA RUSSELL Voting District
+29|097|000042|SOUTH MADISON|SOUTH MADISON Voting District
+29|097|000043|TUCKAHOE|TUCKAHOE Voting District
+29|097|000044|WEBB CITY WARD 1 / WARD 4|WEBB CITY WARD 1 / WARD 4
+29|097|000045|WEBB CITY WARD 2 / WARD 3|WEBB CITY WARD 2 / WARD 3
+29|097|000046|WEST JACKSON|WEST JACKSON Voting District
+29|097|000047|ZINCITE|ZINCITE Voting District
+29|097|16-004|WEBB CITY 4|WEBB CITY 4 Voting District
+29|097|16-026|JOPLIN NO. 26|JOPLIN NO. 26 Voting District
+29|099|000002|Airport|Airport Voting District
+29|099|000004|Antonia|Antonia Voting District
+29|099|000006|Arnold W-1|Arnold W-1 Voting District
+29|099|000007|Arnold W-2|Arnold W-2 Voting District
+29|099|000008|Arnold W-3|Arnold W-3 Voting District
+29|099|000009|Arnold W-4|Arnold W-4 Voting District
+29|099|000010|Athena|Athena Voting District
+29|099|000011|Barnhart|Barnhart Voting District
+29|099|000013|Byrnes Mill W-1|Byrnes Mill W-1
+29|099|000014|Byrnes Mill W-2|Byrnes Mill W-2
+29|099|000015|Byrnes Mill W-3|Byrnes Mill W-3
+29|099|000016|Byrnesville|Byrnesville Voting District
+29|099|000017|Cedar Hill Lakes|Cedar Hill Lakes Voting District
+29|099|000018|Cedar Hill|Cedar Hill Voting District
+29|099|000020|Crystal City W-1|Crystal City W-1 Voting District
+29|099|000021|De Soto W-3|De Soto W-3 Voting District
+29|099|000022|Festus W-3|Festus W-3 Voting District
+29|099|000023|Festus Outside|Festus Outside Voting District
+29|099|000024|Flamm City|Flamm City Voting District
+29|099|000026|Goldman|Goldman Voting District
+29|099|000028|Grubville|Grubville Voting District
+29|099|000029|Grubville 2|Grubville 2
+29|099|000030|Hematite|Hematite Voting District
+29|099|000031|Herculaneum|Herculaneum Voting District
+29|099|000034|High Ridge|High Ridge Voting District
+29|099|000036|Hillsboro W-1|Hillsboro W-1 Voting District
+29|099|000037|Raintree|Raintree Voting District
+29|099|000038|Hillsboro W-2|Hillsboro W-2 Voting District
+29|099|000039|Hoene Springs|Hoene Springs Voting District
+29|099|000040|Marble Springs|Marble Springs Voting District
+29|099|000043|House Springs|House Springs Voting District
+29|099|000044|Imperial|Imperial Voting District
+29|099|000045|Imperial 2|Imperial 2
+29|099|000047|Jefferson Heights|Jefferson Heights Voting District
+29|099|000048|Jefferson R7|Jefferson R7 Voting District
+29|099|000050|Kimmswick W-1|Kimmswick W-1 Voting District
+29|099|000051|Lake Tishomingo|Lake Tishomingo
+29|099|000052|Mapaville|Mapaville Voting District
+29|099|000054|Maxville|Maxville Voting District
+29|099|000056|Meramec Heights|Meramec Heights Voting District
+29|099|000057|Meramec Valley|Meramec Valley Voting District
+29|099|000058|Miller|Miller Voting District
+29|099|000061|Murphy|Murphy Voting District
+29|099|000062|Oakvale|Oakvale Voting District
+29|099|000063|Olympian Village|Olympian Village Voting District
+29|099|000064|Parkdale|Parkdale Voting District
+29|099|000065|Pevely W-4|Pevely W-4 Voting District
+29|099|000068|Plattin|Plattin Voting District
+29|099|000069|Riverview|Riverview Voting District
+29|099|000070|Rock Creek 1|Rock Creek 1
+29|099|000071|Rock Creek|Rock Creek Voting District
+29|099|000074|Rockwood|Rockwood Voting District
+29|099|000075|Romaine Creek|Romaine Creek Voting District
+29|099|000077|Saline|Saline Voting District
+29|099|000078|Scotsdale|Scotsdale Voting District
+29|099|000079|Springdale|Springdale Voting District
+29|099|000080|Sunrise|Sunrise Voting District
+29|099|000081|Valle|Valle Voting District
+29|099|000083|Victoria|Victoria Voting District
+29|099|000085|Vineland|Vineland Voting District
+29|099|000086|Ware|Ware Voting District
+29|099|000087|Windsor|Windsor Voting District
+29|099|13-107|Crystal City W-4|Crystal City W-4 Voting District
+29|099|16-088|Lake Tekawitha|Lake Tekawitha Voting District
+29|099|16-089|Northwest|Northwest Voting District
+29|099|16-090|Brennan|Brennan Voting District
+29|099|16-091|North Jefferson|North Jefferson Voting District
+29|099|16-092|Peaceful Village|Peaceful Village Voting District
+29|099|16-093|Dulin Creek|Dulin Creek Voting District
+29|099|16-094|De Soto W-2|De Soto W-2 Voting District
+29|099|16-095|De Soto W-4|De Soto W-4 Voting District
+29|099|16-096|Otto|Otto Voting District
+29|099|16-097|Mastodon|Mastodon
+29|099|16-098|Lonedell|Lonedell
+29|099|16-099|Hillsboro W-4|Hillsboro W-4 Voting District
+29|099|16-100|Hillsboro W-3|Hillsboro W-3 Voting District
+29|099|16-102|Festus W-4|Festus W-4 Voting District
+29|099|16-103|Festus W-1|Festus W-1 Voting District
+29|099|16-104|American Legion|American Legion Voting District
+29|099|16-105|Festus W-2|Festus W-2 Voting District
+29|099|16-106|Crystal City W-3|Crystal City W-3 Voting District
+29|099|16-107|Crystal City W-2|Crystal City W-2 Voting District
+29|099|16-108|Herculaneum W-3|Herculaneum W-3 Voting District
+29|099|16-109|Herculaneum W-2|Herculaneum W-2 Voting District
+29|099|16-110|Pevely W-2|Pevely W-2 Voting District
+29|099|16-111|Pevely W-3|Pevely W-3 Voting District
+29|099|16-112|Pevely W-1|Pevely W-1 Voting District
+29|099|16-115|De Soto W-1|De Soto W-1 Voting District
+29|101|000002|Knob Noster|Knob Noster Voting District
+29|101|000003|Lowland|Lowland Voting District
+29|101|000004|Montserrat|Montserrat Voting District
+29|101|000005|Pittsville|Pittsville Voting District
+29|101|000006|Post Oak|Post Oak Voting District
+29|101|000007|Rose Hill|Rose Hill Voting District
+29|101|000008|Simpson|Simpson Voting District
+29|101|000009|Warrensburg Northeast|Warrensburg Northeast Voting District
+29|101|000010|Warrensburg Northwest|Warrensburg Northwest Voting District
+29|101|000011|Warrensburg Southeast No. 1|Warrensburg Southeast No. 1 Voting District
+29|101|000012|Centerview|Centerview Voting District
+29|101|000013|Warrensburg Southeast No. 2|Warrensburg Southeast No. 2 Voting District
+29|101|000014|Warrensburg Southwest|Warrensburg Southwest Voting District
+29|101|000015|Chilhowee|Chilhowee Voting District
+29|101|000016|Columbus|Columbus Voting District
+29|101|000017|Hazel Hill|Hazel Hill Voting District
+29|101|000018|North Holden|North Holden Voting District
+29|101|000019|South Holden|South Holden Voting District
+29|101|000020|Jefferson|Jefferson Voting District
+29|101|000021|Kingsville|Kingsville Voting District
+29|103|000002|Baring|Baring Voting District
+29|103|000003|Edina|Edina Voting District
+29|103|000004|Hurdland|Hurdland Voting District
+29|103|000005|Knox City|Knox City Voting District
+29|103|000006|Newark|Newark Voting District
+29|103|000007|Novelty|Novelty Voting District
+29|105|000002|Competition|Competition Voting District
+29|105|000004|Delto|Delto Voting District
+29|105|000005|East Lebanon 1|East Lebanon 1 Voting District
+29|105|000006|East Lebanon 2A|East Lebanon 2A Voting District
+29|105|000007|East Lebanon 2B|East Lebanon 2B Voting District
+29|105|000008|East Lebanon 2C|East Lebanon 2C Voting District
+29|105|000009|Eldridge|Eldridge Voting District
+29|105|000010|Friendship|Friendship Voting District
+29|105|000011|Gasconade|Gasconade Voting District
+29|105|000012|Maysmith R2|Maysmith R2 Voting District
+29|105|000013|Nebo|Nebo Voting District
+29|105|000014|Oakland|Oakland Voting District
+29|105|000015|Phillipsburg 1|Phillipsburg 1 Voting District
+29|105|000016|Phillipsburg 2|Phillipsburg 2 Voting District
+29|105|000017|Sleeper|Sleeper Voting District
+29|105|000018|Spring Hollow 1|Spring Hollow 1 Voting District
+29|105|000019|Spring Hollow 2|Spring Hollow 2 Voting District
+29|105|000020|Washington|Washington Voting District
+29|105|000022|West Lebanon 1D|West Lebanon 1D Voting District
+29|105|000023|West Lebanon 2|West Lebanon 2 Voting District
+29|105|16-024|Conway 2|Conway 2 Voting District
+29|105|16-025|Conway 1|Conway 1 Voting District
+29|105|16-026|West Lebanon 1|West Lebanon 1 Voting District
+29|105|16-027|Maysmith R4|Maysmith R4 Voting District
+29|107|000002|1st Higginsville & W. Davis|1st Higginsville & W. Davis Voting District
+29|107|000003|2nd North Higginsville & 3rd & JKV|2nd North Higginsville & 3rd & JKV Voting District
+29|107|000004|Alma & E. Davis|Alma & E. Davis Voting District
+29|107|000005|Aullville|Aullville Voting District
+29|107|000006|Bates City|Bates City Voting District
+29|107|000007|Concordia|Concordia Voting District
+29|107|000008|Corder|Corder Voting District
+29|107|000009|Dover|Dover Voting District
+29|107|000010|E Odessa|E Odessa Voting District
+29|107|000011|Ferguson School|Ferguson School Voting District
+29|107|000012|Lake Lafayette 1-2|Lake Lafayette 1-2 Voting District
+29|107|000013|Lexington Rural|Lexington Rural Voting District
+29|107|000014|Lexington Wards No. 1 & 2|Lexington Wards No. 1 & 2
+29|107|000015|Lexington Wards No. 3 & 4|Lexington Wards No. 3 & 4
+29|107|000016|Mayview|Mayview Voting District
+29|107|000017|N Odessa|N Odessa Voting District
+29|107|000018|Napoleon|Napoleon Voting District
+29|107|000019|S. Odessa I & II|S. Odessa I & II Voting District
+29|107|000020|Waverly 1st,2nd,East & West|Waverly 1st,2nd,East & West Voting District
+29|107|000021|Wellington|Wellington Voting District
+29|109|000002|Lincoln|Lincoln Voting District
+29|109|000003|Mt. Pleasant|Mt. Pleasant Voting District
+29|109|000004|Mt. Vernon North|Mt. Vernon North Voting District
+29|109|000005|Mt. Vernon Southeast|Mt. Vernon Southeast Voting District
+29|109|000006|Mt. Vernon Southwest|Mt. Vernon Southwest Voting District
+29|109|000007|Ozark|Ozark Voting District
+29|109|000008|Pierce City|Pierce City Voting District
+29|109|000009|Red Oak|Red Oak Voting District
+29|109|000010|Spring River|Spring River Voting District
+29|109|000011|Turnback|Turnback Voting District
+29|109|000012|Aurora North|Aurora North Voting District
+29|109|000013|Vineyard|Vineyard Voting District
+29|109|000014|Aurora Southeast|Aurora Southeast Voting District
+29|109|000015|Aurora Southwest|Aurora Southwest Voting District
+29|109|000016|Buck Prairie|Buck Prairie Voting District
+29|109|000017|Forest Park|Forest Park Voting District
+29|109|000018|Freistatt|Freistatt Voting District
+29|109|000019|Green|Green Voting District
+29|109|000020|Hoberg|Hoberg Voting District
+29|111|000002|Immanuel Methodist Church|Immanuel Methodist Church Voting District
+29|111|000003|Ewing R-4 Fire Station|Ewing R-4 Fire Station Voting District
+29|111|000006|LaBelle Fire Station|LaBelle Fire Station Voting District
+29|111|000007|Lewistown Fire Station|Lewistown Fire Station Voting District
+29|111|000008|LaGrange City Hall|LaGrange City Hall Voting District
+29|111|000011|Monticello Courthouse|Monticello Courthouse Voting District
+29|113|000002|Birkhead|Birkhead Voting District
+29|113|000003|Briscoe|Briscoe Voting District
+29|113|000004|Brussels|Brussels Voting District
+29|113|000005|Elsberry|Elsberry Voting District
+29|113|000008|Foley|Foley Voting District
+29|113|000009|Hawk Point|Hawk Point Voting District
+29|113|000011|Millwood|Millwood Voting District
+29|113|000012|Moscow Mills City|Moscow Mills City Voting District
+29|113|000013|Moscow Mills Rural|Moscow Mills Rural Voting District
+29|113|000014|New Hope|New Hope Voting District
+29|113|000015|Old Monroe|Old Monroe Voting District
+29|113|000017|Silex|Silex Voting District
+29|113|000018|Troy No. 1|Troy No. 1 Voting District
+29|113|000019|Troy No. 2|Troy No. 2 Voting District
+29|113|000020|Troy No. 3|Troy No. 3 Voting District
+29|113|000021|Troy Rural|Troy Rural Voting District
+29|113|000023|Whiteside|Whiteside Voting District
+29|113|000024|Winfield|Winfield Voting District
+29|113|000025|Zoar|Zoar Voting District
+29|115|000002|Baker|Baker Voting District
+29|115|000003|Benton North|Benton North Voting District
+29|115|000004|Benton South|Benton South Voting District
+29|115|000005|Brookfield|Brookfield Voting District
+29|115|000006|Brookfield No. 1|Brookfield No. 1 Voting District
+29|115|000007|Brookfield No. 2|Brookfield No. 2 Voting District
+29|115|000008|Brookfield No. 3|Brookfield No. 3 Voting District
+29|115|000009|Brookfield No. 4|Brookfield No. 4 Voting District
+29|115|000010|Bucklin|Bucklin Voting District
+29|115|000011|Clay|Clay Voting District
+29|115|000012|Enterprise|Enterprise Voting District
+29|115|000013|Grantsville|Grantsville Voting District
+29|115|000014|Jackson|Jackson Voting District
+29|115|000015|Jefferson|Jefferson Voting District
+29|115|000016|Locust Creek|Locust Creek Voting District
+29|115|000017|Marceline|Marceline Voting District
+29|115|000018|Marceline No. 1|Marceline No. 1 Voting District
+29|115|000019|Marceline No. 2|Marceline No. 2 Voting District
+29|115|000020|Marceline No. 3|Marceline No. 3 Voting District
+29|115|000021|Marceline No. 4|Marceline No. 4 Voting District
+29|115|000022|North Salem|North Salem Voting District
+29|115|000023|Parsons Creek|Parsons Creek Voting District
+29|115|000024|Yellow Creek|Yellow Creek Voting District
+29|117|000005|Mooresville/Green|Mooresville/Green Voting District
+29|117|000006|Chillicothe/Rich Hill|Chillicothe/Rich Hill Voting District
+29|117|000007|Sampsel/Jackson|Sampsel/Jackson Voting District
+29|117|000008|Wheeling|Wheeling Voting District
+29|117|000009|Monroe/Blue Mound|Monroe/Blue Mound Voting District
+29|117|000010|Chillicothe Ward No. 1|Chillicothe Ward No. 1
+29|117|000011|Chillicothe Ward No. 2|Chillicothe Ward No. 2
+29|117|000012|Chillicothe Ward No. 3|Chillicothe Ward No. 3
+29|117|000013|Chillicothe Ward No. 4|Chillicothe Ward No. 4
+29|117|000014|Cream Ridge/Medicine|Cream Ridge/Medicine Voting District
+29|117|000015|Fairview/Grand River|Fairview/Grand River Voting District
+29|119|000002|Anderson East|Anderson East Voting District
+29|119|000003|Anderson West|Anderson West Voting District
+29|119|000004|Buffalo Hart|Buffalo Hart Voting District
+29|119|000006|Center|Center Voting District
+29|119|000007|Elkhorn|Elkhorn Voting District
+29|119|000008|Elkriver East|Elkriver East Voting District
+29|119|000009|Elkriver West|Elkriver West Voting District
+29|119|000010|Erie Goodman|Erie Goodman Voting District
+29|119|000011|Erie McNatt|Erie McNatt Voting District
+29|119|000012|McMillen Coy|McMillen Coy Voting District
+29|119|000013|McMillen Tiff|McMillen Tiff Voting District
+29|119|000014|Mountain|Mountain Voting District
+29|119|000015|Pineville Lanagan|Pineville Lanagan Voting District
+29|119|000016|Pineville North|Pineville North Voting District
+29|119|000017|Pineville South|Pineville South Voting District
+29|119|000018|Prairie|Prairie Voting District
+29|119|000019|Richwood|Richwood Voting District
+29|119|000020|Whiterock|Whiterock Voting District
+29|121|000002|Macon Ward 2|Macon Ward 2
+29|121|000003|Macon Ward 3|Macon Ward 3
+29|121|000004|Macon Ward 4|Macon Ward 4
+29|121|000005|New Cambria|New Cambria Voting District
+29|121|000007|Bevier|Bevier Voting District
+29|121|000008|Callao|Callao Voting District
+29|121|000010|Ethel|Ethel Voting District
+29|121|000011|Macon Expo Center|Macon Expo Center Voting District
+29|121|000012|LaPlata|LaPlata Voting District
+29|121|000013|Macon Ward 1|Macon Ward 1
+29|121|12-014|Atlanta/Elmer|Atlanta/Elmer Voting District
+29|123|000002|Castor|Castor Voting District
+29|123|000003|Central|Central Voting District
+29|123|000004|Fredericktown Ward 1|Fredericktown Ward 1
+29|123|000005|Fredericktown Ward 2|Fredericktown Ward 2
+29|123|000006|Fredericktown Ward 3|Fredericktown Ward 3
+29|123|000007|Marquand|Marquand Voting District
+29|123|000008|St. Francis|St. Francis Voting District
+29|125|000002|Vichy|Vichy Voting District
+29|125|000003|Vienna|Vienna Voting District
+29|125|000004|Belle|Belle Voting District
+29|125|000005|Brinktown|Brinktown Voting District
+29|125|000006|Hayden Heights|Hayden Heights Voting District
+29|125|000007|Hodgeville|Hodgeville Voting District
+29|125|000008|Mason Ridge|Mason Ridge Voting District
+29|125|000009|Safe|Safe Voting District
+29|125|000010|Santee|Santee Voting District
+29|127|000002|Emerson|Emerson Voting District
+29|127|000003|Fifth Ward|Fifth Ward
+29|127|000004|First Ward|First Ward
+29|127|000006|Fourth Ward|Fourth Ward
+29|127|000008|Monroe City|Monroe City Voting District
+29|127|000009|Clover Road|Clover Road Voting District
+29|127|000013|Philadelphia|Philadelphia Voting District
+29|127|000014|Second Ward|Second Ward
+29|127|000016|Sixth Ward|Sixth Ward
+29|127|000019|Smileyville/Taylor|Smileyville/Taylor Voting District
+29|127|000022|Warren|Warren Voting District
+29|127|000023|West Ely|West Ely Voting District
+29|127|16-020|Third Ward|Third Ward
+29|127|16-030|Fourth Ward Out of City|Fourth Ward Out of City
+29|127|16-031|Palmyra Ward 2|Palmyra Ward 2
+29|127|16-032|Palmyra Ward 3|Palmyra Ward 3
+29|127|16-033|Palmyra Ward 1|Palmyra Ward 1
+29|127|16-034|Palmyra Ward 3 Out of City|Palmyra Ward 3 Out of City
+29|129|000002|Washington|Washington Voting District
+29|129|000003|Harrison|Harrison Voting District
+29|129|000004|Lindley|Lindley Voting District
+29|129|000005|Madison|Madison Voting District
+29|129|000006|Marion|Marion Voting District
+29|129|000007|Medicine|Medicine Voting District
+29|129|000008|Morgan|Morgan Voting District
+29|129|000009|Ravanna|Ravanna Voting District
+29|129|000010|Somerset|Somerset Voting District
+29|131|000005|ELDON CITY|ELDON CITY
+29|131|000008|ELDON NORTH|ELDON NORTH
+29|131|000009|OLEAN|OLEAN
+29|131|000011|IBERIA CITY & RURAL|IBERIA CITY & RURAL
+29|131|000012|LAKE OZARK|LAKE OZARK
+29|131|000013|BRUMLEY|BRUMLEY
+29|131|000016|MARYS HOME|MARYS HOME
+29|131|000018|ST.ELIZABETH|ST.ELIZABETH
+29|131|000019|ELDON SOUTH|ELDON SOUTH
+29|131|000020|ST. ANTHONY|ST. ANTHONY
+29|131|000023|KAISER|KAISER
+29|131|000029|TUSCUMBIA|TUSCUMBIA
+29|133|000002|Anniston Rural|Anniston Rural Voting District
+29|133|000003|Anniston Ward 1|Anniston Ward 1
+29|133|000004|Anniston Ward 2|Anniston Ward 2
+29|133|000005|Bertrand Rural|Bertrand Rural Voting District
+29|133|000006|Bertrand Ward 1|Bertrand Ward 1
+29|133|000007|Bertrand Ward 2|Bertrand Ward 2
+29|133|000008|Charleston 1A|Charleston 1A Voting District
+29|133|000009|Charleston 1B|Charleston 1B Voting District
+29|133|000010|Charleston 2|Charleston 2 Voting District
+29|133|000011|Charleston 3|Charleston 3 Voting District
+29|133|000012|Charleston 4|Charleston 4 Voting District
+29|133|000013|Charleston Rural|Charleston Rural Voting District
+29|133|000014|Dorena|Dorena Voting District
+29|133|000015|East Prairie Rural|East Prairie Rural Voting District
+29|133|000016|East Prairie Ward 1|East Prairie Ward 1
+29|133|000017|East Prairie Ward 2|East Prairie Ward 2
+29|133|000018|East Prairie Ward 3|East Prairie Ward 3
+29|133|000019|Wilson City|Wilson City Voting District
+29|133|000020|Wolf Island|Wolf Island Voting District
+29|133|000021|Wyatt Rural|Wyatt Rural Voting District
+29|133|000022|Wyatt Ward 1|Wyatt Ward 1
+29|133|000023|Wyatt Ward 2|Wyatt Ward 2
+29|135|000002|California No. 1|California No. 1 Voting District
+29|135|000003|California No. 3|California No. 3 Voting District
+29|135|000004|Clarksburg|Clarksburg Voting District
+29|135|000005|Fortuna|Fortuna Voting District
+29|135|000006|Harmony|Harmony Voting District
+29|135|000007|High Point|High Point Voting District
+29|135|000008|Jamestown|Jamestown Voting District
+29|135|000009|Latham|Latham Voting District
+29|135|000010|Lupus|Lupus Voting District
+29|135|000011|McGirk|McGirk Voting District
+29|135|000012|Tipton|Tipton Voting District
+29|135|000013|Walker West|Walker West Voting District
+29|137|000002|Duncans Bridge 7 & 8/Madison 10 & 11|Duncans Bridge 7 & 8/Madison 10 & 11 Voting District
+29|137|000003|Granville 6/Paris 14 & 15|Granville 6/Paris 14 & 15 Voting District
+29|137|000004|Holiday 9|Holiday 9 Voting District
+29|137|000005|Monroe City 1, 2, & 3/Indian Creek 4|Monroe City 1, 2, & 3/Indian Creek 4 Voting District
+29|137|000006|North Fork #5|North Fork #5 Voting District
+29|137|000007|Paris #16|Paris #16 Voting District
+29|137|000008|Santa Fe 17|Santa Fe 17 Voting District
+29|137|000009|Union 12 & 13|Union 12 & 13 Voting District
+29|137|16-014|Paris #14|Paris #14 Voting District
+29|137|16-015|Paris #15|Paris #15 Voting District
+29|137|16-020|Stoutsville #19|Stoutsville #19 Voting District
+29|137|16-021|Florida #18|Florida #18 Voting District
+29|139|000002|Rhineland/McKittrick|Rhineland/McKittrick Voting District
+29|139|000003|Wellsville|Wellsville Voting District
+29|139|000004|Bellflower|Bellflower Voting District
+29|139|000005|Big Spring/Americus|Big Spring/Americus Voting District
+29|139|000006|High Hill|High Hill Voting District
+29|139|000007|Jonesburg|Jonesburg Voting District
+29|139|000008|Middletown|Middletown Voting District
+29|139|000010|Montgomery|Montgomery Voting District
+29|139|000011|New Florence|New Florence Voting District
+29|141|000002|Barnett I|Barnett I Voting District
+29|141|000003|Barnett II|Barnett II Voting District
+29|141|000004|Excelsior|Excelsior Voting District
+29|141|000005|Fairgrounds North|Fairgrounds North Voting District
+29|141|000006|Fairgrounds South|Fairgrounds South Voting District
+29|141|000007|Florence|Florence Voting District
+29|141|000008|Gravois Mills|Gravois Mills Voting District
+29|141|000009|Indian Creek|Indian Creek Voting District
+29|141|000010|Laurie|Laurie Voting District
+29|141|000011|Stover North|Stover North Voting District
+29|141|000012|Stover South|Stover South Voting District
+29|141|000013|Syracuse North|Syracuse North Voting District
+29|141|000014|Syracuse South|Syracuse South Voting District
+29|141|000015|Versailles|Versailles Voting District
+29|141|000016|Versailles North|Versailles North Voting District
+29|141|000017|Webb|Webb Voting District
+29|143|000002|ANDERSON 1|ANDERSON 1 Voting District
+29|143|000003|ANDERSON 2|ANDERSON 2 Voting District
+29|143|000004|BIG PRAIRIE 1|BIG PRAIRIE 1 Voting District
+29|143|000005|BIG PRAIRIE 2|BIG PRAIRIE 2 Voting District
+29|143|000006|BIG PRAIRIE 3|BIG PRAIRIE 3 Voting District
+29|143|000007|COMO 1|COMO 1 Voting District
+29|143|000008|COMO 2|COMO 2 Voting District
+29|143|000009|COMO 3|COMO 3 Voting District
+29|143|000010|COMO 4|COMO 4 Voting District
+29|143|000011|COMO 5|COMO 5 Voting District
+29|143|000012|HOUGH 1|HOUGH 1 Voting District
+29|143|000013|LAFONT 1|LAFONT 1 Voting District
+29|143|000014|LAFONT 2|LAFONT 2 Voting District
+29|143|000015|LAFONT 3|LAFONT 3 Voting District
+29|143|000016|LESIEUR 1|LESIEUR 1 Voting District
+29|143|000017|LEWIS 1|LEWIS 1 Voting District
+29|143|000018|LEWIS 2|LEWIS 2 Voting District
+29|143|000019|LEWIS 3|LEWIS 3 Voting District
+29|143|000020|LEWIS 4|LEWIS 4 Voting District
+29|143|000021|NEW MADRID 2|NEW MADRID 2 Voting District
+29|143|000022|NEW MADRID 4|NEW MADRID 4 Voting District
+29|143|000023|NEW MADRID 5|NEW MADRID 5 Voting District
+29|143|000024|PORTAGE 1|PORTAGE 1 Voting District
+29|143|000025|PORTAGE 2|PORTAGE 2 Voting District
+29|143|000026|PORTAGE 3|PORTAGE 3 Voting District
+29|143|000027|ST. JOHN 1|ST. JOHN 1 Voting District
+29|143|000028|WEST 1|WEST 1 Voting District
+29|143|000029|WEST 2|WEST 2 Voting District
+29|143|000030|WEST 3|WEST 3 Voting District
+29|143|000031|WEST 4|WEST 4 Voting District
+29|145|000002|Neosho No. 3|Neosho No. 3 Voting District
+29|145|000003|West Neosho|West Neosho Voting District
+29|145|000004|Newtonia|Newtonia Voting District
+29|145|000005|Reding|Reding Voting District
+29|145|000006|Ritchey|Ritchey Voting District
+29|145|000007|Seneca|Seneca Voting District
+29|145|000008|Crowder|Crowder Voting District
+29|145|000009|Staples West|Staples West Voting District
+29|145|000010|Stella|Stella Voting District
+29|145|000011|Thurman|Thurman Voting District
+29|145|000012|Wentworth|Wentworth Voting District
+29|145|000013|Westview|Westview Voting District
+29|145|000014|Diamond|Diamond Voting District
+29|145|000015|Fairview|Fairview Voting District
+29|145|000016|Granby|Granby Voting District
+29|145|000017|Hornet|Hornet Voting District
+29|145|000018|East Neosho|East Neosho Voting District
+29|145|16-021|Staples #21|Staples #21 Voting District
+29|145|16-027|Staples #27|Staples #27 Voting District
+29|145|16-028|Staples East|Staples East Voting District
+29|145|16-029|Neosho #2|Neosho #2 Voting District
+29|145|16-030|Neosho #1|Neosho #1 Voting District
+29|145|16-032|Neosho #4|Neosho #4 Voting District
+29|147|000002|Atchison|Atchison Voting District
+29|147|000003|Grant|Grant Voting District
+29|147|000004|Green|Green Voting District
+29|147|000005|Hopkins|Hopkins Voting District
+29|147|000006|Hughes|Hughes Voting District
+29|147|000007|Independence|Independence Voting District
+29|147|000008|Jackson|Jackson Voting District
+29|147|000009|Jefferson|Jefferson Voting District
+29|147|000010|Lincoln|Lincoln Voting District
+29|147|000011|Monroe|Monroe Voting District
+29|147|000012|Nodaway|Nodaway Voting District
+29|147|000013|Polk A|Polk A Voting District
+29|147|000014|Polk B|Polk B Voting District
+29|147|000015|Polk C|Polk C Voting District
+29|147|000016|Polk D|Polk D Voting District
+29|147|000017|Polk E|Polk E Voting District
+29|147|000018|Union|Union Voting District
+29|147|000019|Washington|Washington Voting District
+29|147|000020|White Cloud|White Cloud Voting District
+29|149|000002|Big Apple|Big Apple Voting District
+29|149|000003|Cedar Bluff|Cedar Bluff Voting District
+29|149|000004|Couch|Couch Voting District
+29|149|000005|Highland|Highland Voting District
+29|149|000006|Jeff|Jeff Voting District
+29|149|000007|Jobe & Billmore|Jobe & Billmore Voting District
+29|149|000008|Johnson & Ozark|Johnson & Ozark Voting District
+29|149|000009|King|King Voting District
+29|149|000010|Moore & Blackpond|Moore & Blackpond Voting District
+29|149|000011|Myrtle|Myrtle Voting District
+29|149|000012|Piney No. 1|Piney No. 1 Voting District
+29|149|000013|Piney No. 2|Piney No. 2 Voting District
+29|149|000014|Thayer No. 1|Thayer No. 1 Voting District
+29|149|000015|Thayer No. 2|Thayer No. 2 Voting District
+29|149|000016|Woodside|Woodside Voting District
+29|151|000002|Argyle|Argyle Voting District
+29|151|000003|Belle|Belle Voting District
+29|151|000004|Bonnots Mill|Bonnots Mill Voting District
+29|151|000005|Chamois|Chamois Voting District
+29|151|000006|Cooper Hill|Cooper Hill Voting District
+29|151|000007|Folk|Folk Voting District
+29|151|000008|Frankenstein|Frankenstein Voting District
+29|151|000009|Freeburg|Freeburg Voting District
+29|151|000010|Freedom|Freedom Voting District
+29|151|000011|Hope|Hope Voting District
+29|151|000012|Koeltztown|Koeltztown Voting District
+29|151|000013|Loose Creek|Loose Creek Voting District
+29|151|000014|Masonic Hall|Masonic Hall Voting District
+29|151|000015|Meta|Meta Voting District
+29|151|000018|Rich Fountain|Rich Fountain Voting District
+29|151|000019|St. George|St. George Voting District
+29|151|000020|Westphalia|Westphalia Voting District
+29|153|000002|Pontiac|Pontiac Voting District
+29|153|000003|Richland|Richland Voting District
+29|153|000004|Thornfield|Thornfield Voting District
+29|153|000005|Barren Fork|Barren Fork Voting District
+29|153|000006|Bayou|Bayou Voting District
+29|153|000007|Big Creek|Big Creek Voting District
+29|153|000008|Bridges|Bridges Voting District
+29|153|000009|Dawt|Dawt Voting District
+29|153|000010|Jackson|Jackson Voting District
+29|153|000011|Lick Creek|Lick Creek Voting District
+29|155|000002|Bragg City|Bragg City Voting District
+29|155|000003|Braggadocio|Braggadocio Voting District
+29|155|000004|Butler|Butler Voting District
+29|155|000005|Caruthersville|Caruthersville Voting District
+29|155|000006|Concord|Concord Voting District
+29|155|000007|Cooter|Cooter Voting District
+29|155|000008|Cottonwood|Cottonwood Voting District
+29|155|000009|Deering|Deering Voting District
+29|155|000010|Godair|Godair Voting District
+29|155|000011|Hayti 1|Hayti 1 Voting District
+29|155|000012|Hayti 2|Hayti 2 Voting District
+29|155|000013|Hayti Heights 1,2,3|Hayti Heights 1,2,3 Voting District
+29|155|000014|Holland|Holland Voting District
+29|155|000015|Homestown|Homestown Voting District
+29|155|000016|McCarty|McCarty Voting District
+29|155|000017|Pascola|Pascola Voting District
+29|155|000018|Steele 1,2,Rural|Steele 1,2,Rural Voting District
+29|155|000019|Tyler|Tyler Voting District
+29|155|000020|Virginia|Virginia Voting District
+29|155|000021|Wardell|Wardell Voting District
+29|157|000002|Altenburg|Altenburg Voting District
+29|157|000003|Belgique/Sereno|Belgique/Sereno Voting District
+29|157|000004|Biehle|Biehle Voting District
+29|157|000005|Brewer|Brewer Voting District
+29|157|000006|Crosstown|Crosstown Voting District
+29|157|000007|Farrar|Farrar Voting District
+29|157|000008|Frohna|Frohna Voting District
+29|157|000009|Highland|Highland Voting District
+29|157|000010|Lithium|Lithium Voting District
+29|157|000011|Longtown|Longtown Voting District
+29|157|000012|P-4|P-4 Voting District
+29|157|000013|P-5|P-5 Voting District
+29|157|000015|Silver Lake|Silver Lake Voting District
+29|157|000016|Uniontown|Uniontown Voting District
+29|157|000017|Yount|Yount Voting District
+29|157|16-018|P-2|P-2
+29|157|16-019|P-3|P-3 Voting District
+29|157|16-020|P-1|P-1 Voting District
+29|159|000002|Houstonia|Houstonia Voting District
+29|159|000003|Hughesville|Hughesville Voting District
+29|159|000004|La Monte/Blackwater|La Monte/Blackwater Voting District
+29|159|000005|Smithton E & W/Lake Creek|Smithton E & W/Lake Creek Voting District
+29|159|000006|Longwood/Heath Creek|Longwood/Heath Creek Voting District
+29|159|000007|Prairie|Prairie Voting District
+29|159|000008|Sedalia East|Sedalia East Voting District
+29|159|000009|Sedalia West|Sedalia West Voting District
+29|159|000010|Smithton W BP|Smithton W BP Voting District
+29|159|000011|1st Ward 1st Precinct|1st Ward 1st Precinct
+29|159|000012|1st Ward 2nd Precinct|1st Ward 2nd Precinct
+29|159|000013|1st Ward 3rd Precinct|1st Ward 3rd Precinct
+29|159|000014|2nd Ward 1st Precinct|2nd Ward 1st Precinct
+29|159|000015|2nd Ward 2nd Precinct|2nd Ward 2nd Precinct
+29|159|000016|2nd Ward 3rd Precinct|2nd Ward 3rd Precinct
+29|159|000017|3rd Ward 1st Precinct|3rd Ward 1st Precinct
+29|159|000018|3rd Ward 2nd Precinct|3rd Ward 2nd Precinct
+29|159|000019|3rd Ward 3rd Precinct|3rd Ward 3rd Precinct
+29|159|000020|4th Ward 1st Precinct|4th Ward 1st Precinct
+29|159|000021|4th Ward 2nd Precinct|4th Ward 2nd Precinct
+29|159|000022|Bowling Green|Bowling Green Voting District
+29|159|000023|4th Ward 3rd Precinct|4th Ward 3rd Precinct
+29|159|000024|Cedar|Cedar Voting District
+29|159|000025|Dresden|Dresden Voting District
+29|159|000026|Flat Creek|Flat Creek Voting District
+29|159|000027|Green Ridge/Elk Fork/Washington|Green Ridge/Elk Fork/Washington Voting District
+29|161|000002|Doolittle Outside|Doolittle Outside Voting District
+29|161|000003|Doolittle Ward No. 1|Doolittle Ward No. 1
+29|161|000004|Doolittle Ward No. 2|Doolittle Ward No. 2
+29|161|000005|Doolittle Ward No. 3|Doolittle Ward No. 3
+29|161|000006|Edgar Springs North|Edgar Springs North Voting District
+29|161|000007|Edgar Springs South|Edgar Springs South Voting District
+29|161|000008|Jerome|Jerome Voting District
+29|161|000009|Liberty East|Liberty East Voting District
+29|161|000010|Liberty West|Liberty West Voting District
+29|161|000011|Meramec|Meramec Voting District
+29|161|000012|Cold Springs East|Cold Springs East Voting District
+29|161|000013|Miller East|Miller East Voting District
+29|161|000014|Miller West|Miller West Voting District
+29|161|000015|Newburg Ward No. 1|Newburg Ward No. 1
+29|161|000016|Newburg Ward No. 2|Newburg Ward No. 2
+29|161|000017|Rolla Ward No. 1|Rolla Ward No. 1
+29|161|000018|Rolla Ward No. 2|Rolla Ward No. 2
+29|161|000019|Rolla Ward No. 3|Rolla Ward No. 3
+29|161|000020|Rolla Ward No. 4|Rolla Ward No. 4
+29|161|000021|Rolla Ward No. 5|Rolla Ward No. 5
+29|161|000022|Rolla Ward No. 6|Rolla Ward No. 6
+29|161|000023|Cold Springs West|Cold Springs West Voting District
+29|161|000024|Rolla Outside North|Rolla Outside North Voting District
+29|161|000025|Rolla Outside South|Rolla Outside South Voting District
+29|161|000026|Spring Creek East|Spring Creek East Voting District
+29|161|000027|Spring Creek West|Spring Creek West Voting District
+29|161|000028|St. James East|St. James East Voting District
+29|161|000029|St. James West|St. James West Voting District
+29|161|000030|St. James Ward No. 1|St. James Ward No. 1
+29|161|000031|St. James Ward No. 2|St. James Ward No. 2
+29|161|000032|St. James Ward No. 3|St. James Ward No. 3
+29|161|000033|St. James Ward No. 4|St. James Ward No. 4
+29|161|000034|Dawson|Dawson Voting District
+29|161|000035|Dillon Central|Dillon Central Voting District
+29|161|000036|Dillon North|Dillon North Voting District
+29|161|000037|Dillon South|Dillon South Voting District
+29|163|000002|Ashley NO/Hartford PQ|Ashley NO/Hartford PQ Voting District
+29|163|000003|Buffalo B|Buffalo B Voting District
+29|163|000004|Buffalo C|Buffalo C Voting District
+29|163|000005|Buffalo D|Buffalo D Voting District
+29|163|000006|Buffalo E|Buffalo E Voting District
+29|163|000007|Calumet F|Calumet F Voting District
+29|163|000008|Calumet GH|Calumet GH Voting District
+29|163|000009|Cuivre JL|Cuivre JL Voting District
+29|163|000010|Cuivre K|Cuivre K Voting District
+29|163|000011|Cuivre M|Cuivre M Voting District
+29|163|000012|Indian RS|Indian RS Voting District
+29|163|000013|Peno V|Peno V Voting District
+29|163|000014|Prairieville I|Prairieville I Voting District
+29|163|000015|Spencer TU|Spencer TU Voting District
+29|165|000002|Barry East 34|Barry East 34 Voting District
+29|165|000003|Barry North 40|Barry North 40 Voting District
+29|165|000004|Barry South 42|Barry South 42 Voting District
+29|165|000005|Beverly 16|Beverly 16 Voting District
+29|165|000006|Camden Point 27|Camden Point 27 Voting District
+29|165|000007|Dearborn 24|Dearborn 24 Voting District
+29|165|000008|Dye 21|Dye 21 Voting District
+29|165|000009|Edgerton 25|Edgerton 25 Voting District
+29|165|000010|Embassy 11|Embassy 11 Voting District
+29|165|000011|Farley-Stillings 12|Farley-Stillings 12 Voting District
+29|165|000012|Hampton East 15|Hampton East 15 Voting District
+29|165|000013|Hampton West 13|Hampton West 13 Voting District
+29|165|000014|Hoover 29|Hoover 29 Voting District
+29|165|000015|Houston Lake 4|Houston Lake 4 Voting District
+29|165|000016|Iatan 39|Iatan 39 Voting District
+29|165|000017|Lake Waukomis 9|Lake Waukomis 9 Voting District
+29|165|000018|Lakeview 20|Lakeview 20 Voting District
+29|165|000019|Line Creek 38|Line Creek 38 Voting District
+29|165|000020|Linkville 33|Linkville 33 Voting District
+29|165|000021|Mid-Continent 31|Mid-Continent 31 Voting District
+29|165|000022|New Market 23|New Market 23 Voting District
+29|165|000023|Northern Heights 35|Northern Heights 35 Voting District
+29|165|000024|Northmoor 3|Northmoor 3 Voting District
+29|165|000025|Par-4 6|Par-4 6 Voting District
+29|165|000026|Park Hill 36|Park Hill 36 Voting District
+29|165|000027|Park Hill North 41|Park Hill North 41 Voting District
+29|165|000028|Parkville 5|Parkville 5 Voting District
+29|165|000029|Pisgah 22|Pisgah 22 Voting District
+29|165|000030|Platte City 14|Platte City 14 Voting District
+29|165|000031|Platte Hills 7|Platte Hills 7 Voting District
+29|165|000032|Platte Woods 8|Platte Woods 8 Voting District
+29|165|000033|Prairie Point 2|Prairie Point 2 Voting District
+29|165|000034|Ridgely 26|Ridgely 26 Voting District
+29|165|000035|Riverside 1|Riverside 1 Voting District
+29|165|000036|Settle's Station 28|Settle's Station 28 Voting District
+29|165|000037|Seven Bridges 44|Seven Bridges 44 Voting District
+29|165|000038|Shiloh 43|Shiloh 43 Voting District
+29|165|000039|South-East 37|South-East 37 Voting District
+29|165|000040|Tiffany Springs 32|Tiffany Springs 32 Voting District
+29|165|000041|Tracy 17|Tracy 17 Voting District
+29|165|000042|Weatherby Lake 10|Weatherby Lake 10 Voting District
+29|165|000043|Weston 18|Weston 18 Voting District
+29|165|000044|Weston 19|Weston 19 Voting District
+29|167|000002|Jefferson|Jefferson Voting District
+29|167|000003|Johnson|Johnson Voting District
+29|167|000004|East Looney|East Looney Voting District
+29|167|000005|West Looney|West Looney Voting District
+29|167|000006|East Madison|East Madison Voting District
+29|167|000007|West Madison|West Madison Voting District
+29|167|000008|Northeast Marion|Northeast Marion Voting District
+29|167|000009|Northwest Marion|Northwest Marion Voting District
+29|167|000010|Southeast Marion|Southeast Marion Voting District
+29|167|000011|Southwest Marion|Southwest Marion Voting District
+29|167|000012|North Benton|North Benton Voting District
+29|167|000013|McKinley|McKinley Voting District
+29|167|000014|Mooney|Mooney Voting District
+29|167|000015|Union|Union Voting District
+29|167|000016|Wishart|Wishart Voting District
+29|167|000017|South Benton|South Benton Voting District
+29|167|000018|Campbell|Campbell Voting District
+29|167|000019|Cliquot|Cliquot Voting District
+29|167|000020|Flemington|Flemington Voting District
+29|167|000021|North Greene|North Greene Voting District
+29|167|000022|South Greene|South Greene Voting District
+29|167|000023|Jackson|Jackson Voting District
+29|169|000002|Big Piney|Big Piney Voting District
+29|169|000003|Crocker|Crocker Voting District
+29|169|000004|Dixon|Dixon Voting District
+29|169|000006|Laquey|Laquey Voting District
+29|169|000007|Richland|Richland Voting District
+29|169|000008|St. Robert|St. Robert Voting District
+29|169|000009|Swedeborg|Swedeborg Voting District
+29|169|000010|Waynesville|Waynesville Voting District
+29|171|000002|Wilson|Wilson Voting District
+29|171|000003|York|York Voting District
+29|171|000004|Sherman|Sherman Voting District
+29|171|000005|Grant|Grant Voting District
+29|171|000006|Jackson|Jackson Voting District
+29|171|000007|Liberty|Liberty Voting District
+29|171|000008|Lincoln|Lincoln Voting District
+29|171|000009|Elm|Elm Voting District
+29|171|000010|Medicine|Medicine Voting District
+29|171|000011|Richland|Richland Voting District
+29|171|000012|Union NE|Union NE Voting District
+29|171|000013|Union SW|Union SW
+29|173|000002|Saverton|Saverton Voting District
+29|173|000003|Center|Center Voting District
+29|173|000004|Saline|Saline Voting District
+29|173|000005|Jasper|Jasper Voting District
+29|173|000007|New London|New London Voting District
+29|173|000009|Salt River|Salt River Voting District
+29|173|000010|Clay|Clay Voting District
+29|175|000002|Cairo|Cairo Voting District
+29|175|000003|Clark|Clark Voting District
+29|175|000004|Clifton Hill|Clifton Hill Voting District
+29|175|000005|Darksville|Darksville Voting District
+29|175|000006|Higbee|Higbee Voting District
+29|175|000007|Huntsville|Huntsville Voting District
+29|175|000008|Jacksonville|Jacksonville Voting District
+29|175|000009|Levicks Mill|Levicks Mill Voting District
+29|175|000010|Mt. Airy|Mt. Airy Voting District
+29|175|000011|North Sugar Creek|North Sugar Creek Voting District
+29|175|000012|Renick|Renick Voting District
+29|175|000013|Salt Springs|Salt Springs Voting District
+29|175|000014|South Sugar Creek|South Sugar Creek Voting District
+29|175|000015|Thomas Hill|Thomas Hill Voting District
+29|175|000016|Union|Union Voting District
+29|175|000017|Yates|Yates Voting District
+29|177|000002|Camden|Camden Voting District
+29|177|000003|Elmira|Elmira Voting District
+29|177|000004|Elkhorn|Elkhorn Voting District
+29|177|000005|Excelsior Springs|Excelsior Springs Voting District
+29|177|000006|Hardin|Hardin Voting District
+29|177|000007|Henrietta|Henrietta Voting District
+29|177|000008|Homestead Village|Homestead Village Voting District
+29|177|000009|Knox|Knox Voting District
+29|177|000010|Lawson|Lawson Voting District
+29|177|000011|Millville|Millville Voting District
+29|177|000012|Orrick|Orrick Voting District
+29|177|000013|Rayville|Rayville Voting District
+29|177|000014|Stet|Stet Voting District
+29|177|000015|Ward 1|Ward 1
+29|177|000016|Ward 2|Ward 2
+29|177|000017|Ward 3|Ward 3
+29|177|000018|Ward 4|Ward 4
+29|177|000019|Wood Heights|Wood Heights Voting District
+29|179|000002|Garwood|Garwood Voting District
+29|179|000003|Lesterville|Lesterville Voting District
+29|179|000004|Oates|Oates Voting District
+29|179|000005|Redford|Redford Voting District
+29|179|000006|Webb Creek|Webb Creek Voting District
+29|179|000007|Black|Black Voting District
+29|179|000008|Bluffview|Bluffview Voting District
+29|179|000009|Bunker|Bunker Voting District
+29|179|000010|Centerville|Centerville Voting District
+29|179|000011|Corridon/Reynolds|Corridon/Reynolds Voting District
+29|179|000012|Dagonia|Dagonia Voting District
+29|179|000013|Ellington No. 1|Ellington No. 1 Voting District
+29|179|000014|Ellington No. 2|Ellington No. 2 Voting District
+29|181|000002|Doniphan P1 & Doniphan P2|Doniphan P1 & Doniphan P2
+29|181|000005|Flatwoods & Johnson P2 & Washington|Flatwoods & Johnson P2 & Washington
+29|181|000006|Gatewood & Union|Gatewood & Union Voting District
+29|181|000007|Harris & Varner P1|Harris & Varner P1 Voting District
+29|181|000008|Jordan/Johnson P1|Jordan/Johnson P1
+29|181|000010|Poynor & Current River & West Doniphan|Poynor & Current River & West Doniphan Voting District
+29|181|000011|Shirley & Kelly & Pine|Shirley & Kelly & Pine Voting District
+29|181|000012|Thomas & Varner P2|Thomas & Varner P2 Voting District
+29|183|000001|Kampville|Kampville Voting District
+29|183|000004|Orchard Farm|Orchard Farm Voting District
+29|183|000005|Rivers|Rivers Voting District
+29|183|000014|Lincoln|Lincoln Voting District
+29|183|000015|Washington|Washington Voting District
+29|183|000016|Montclair|Montclair Voting District
+29|183|000021|Truman|Truman Voting District
+29|183|000022|Cheshire|Cheshire Voting District
+29|183|000024|Wilshire|Wilshire Voting District
+29|183|000025|Shirewood|Shirewood Voting District
+29|183|000028|Treetop|Treetop Voting District
+29|183|000031|Sibley|Sibley Voting District
+29|183|000033|Canary|Canary Voting District
+29|183|000034|McNair|McNair Voting District
+29|183|000036|Sun Lake|Sun Lake Voting District
+29|183|000041|Government|Government Voting District
+29|183|000043|Marina|Marina Voting District
+29|183|000045|Mamelle|Mamelle Voting District
+29|183|000047|Covilli|Covilli Voting District
+29|183|000051|St. Cletus|St. Cletus Voting District
+29|183|000054|Coverdell|Coverdell Voting District
+29|183|000056|Edgewood|Edgewood Voting District
+29|183|000057|Hanover|Hanover Voting District
+29|183|000062|Adams|Adams Voting District
+29|183|000063|St. Andrews|St. Andrews Voting District
+29|183|000071|Fairways|Fairways Voting District
+29|183|000080|Heritage|Heritage Voting District
+29|183|000083|Woodcliff|Woodcliff Voting District
+29|183|000084|Harvester|Harvester Voting District
+29|183|000085|Sycamore|Sycamore Voting District
+29|183|000086|Arlington|Arlington Voting District
+29|183|000087|River Bend|River Bend Voting District
+29|183|000091|Katy Trail|Katy Trail Voting District
+29|183|000100|McClay|McClay Voting District
+29|183|000101|Graybridge|Graybridge Voting District
+29|183|000102|Tanglewood|Tanglewood Voting District
+29|183|000103|Cave Springs|Cave Springs Voting District
+29|183|000104|Hi Point|Hi Point Voting District
+29|183|000106|Spencer|Spencer Voting District
+29|183|000107|Oak Creek|Oak Creek Voting District
+29|183|000111|Woodstream|Woodstream Voting District
+29|183|000113|Briarhill|Briarhill Voting District
+29|183|000121|St. Marys|St. Marys Voting District
+29|183|000122|Mid Rivers|Mid Rivers Voting District
+29|183|000124|Rabbit Run|Rabbit Run Voting District
+29|183|000126|Meadow Valley|Meadow Valley Voting District
+29|183|000128|Fairmount|Fairmount Voting District
+29|183|000129|Parkwood|Parkwood Voting District
+29|183|000130|Lakes|Lakes Voting District
+29|183|000131|Shadow Creek|Shadow Creek Voting District
+29|183|000132|Country Hill|Country Hill Voting District
+29|183|000139|Discovery|Discovery Voting District
+29|183|000140|Laura Hill|Laura Hill Voting District
+29|183|000143|All Saints|All Saints Voting District
+29|183|000144|Fox|Fox Voting District
+29|183|000145|Salt Lick|Salt Lick Voting District
+29|183|000146|St. Jude|St. Jude Voting District
+29|183|000147|Cottleville|Cottleville Voting District
+29|183|000148|Winds|Winds Voting District
+29|183|000149|Sunny Hill|Sunny Hill Voting District
+29|183|000150|Timberwood|Timberwood Voting District
+29|183|000151|Glengate|Glengate Voting District
+29|183|000152|Woodglen|Woodglen Voting District
+29|183|000153|Aspen|Aspen Voting District
+29|183|000154|Wheatfield|Wheatfield Voting District
+29|183|000155|Green Forest|Green Forest Voting District
+29|183|000156|Oaks|Oaks Voting District
+29|183|000157|Patriot|Patriot Voting District
+29|183|000159|Hillcrest|Hillcrest Voting District
+29|183|000160|Harmony|Harmony Voting District
+29|183|000161|Montbrook|Montbrook Voting District
+29|183|000162|Elks|Elks Voting District
+29|183|000163|Civic|Civic Voting District
+29|183|000165|St. Paul|St. Paul Voting District
+29|183|000166|Mount Hope|Mount Hope Voting District
+29|183|000167|Morningside|Morningside Voting District
+29|183|000169|Highgrove|Highgrove Voting District
+29|183|000170|Starbuck|Starbuck Voting District
+29|183|000173|Turtle Creek|Turtle Creek Voting District
+29|183|000181|Community|Community Voting District
+29|183|000182|Evergreen|Evergreen Voting District
+29|183|000183|Foristell|Foristell Voting District
+29|183|000184|Flint Hill|Flint Hill Voting District
+29|183|000185|Josephville|Josephville Voting District
+29|183|000186|Twin Oaks|Twin Oaks Voting District
+29|183|000187|Fairview|Fairview Voting District
+29|183|000189|Pioneer|Pioneer Voting District
+29|183|000190|Peine|Peine Voting District
+29|183|000193|Delmar|Delmar Voting District
+29|183|000194|Amber Meadows|Amber Meadows Voting District
+29|183|000196|Phoenix|Phoenix Voting District
+29|183|000197|Feise|Feise Voting District
+29|183|000198|Cedar|Cedar Voting District
+29|183|000199|Regatta Bay|Regatta Bay Voting District
+29|183|000200|Normandy|Normandy Voting District
+29|183|000202|Ridgepoint|Ridgepoint Voting District
+29|183|000203|Fieldcrest|Fieldcrest Voting District
+29|183|000205|Bayfield|Bayfield Voting District
+29|183|000206|Monticello|Monticello Voting District
+29|183|000207|Carriage Hills|Carriage Hills Voting District
+29|183|000208|Twin Chimneys|Twin Chimneys Voting District
+29|183|000210|Freymuth|Freymuth Voting District
+29|183|000211|Summerset|Summerset Voting District
+29|183|000212|Canvas Cove|Canvas Cove Voting District
+29|183|000213|Bryan|Bryan Voting District
+29|183|000214|Hawk Ridge|Hawk Ridge Voting District
+29|183|000215|Coachman|Coachman Voting District
+29|183|000217|Keystone|Keystone Voting District
+29|183|000218|DuVall|DuVall Voting District
+29|183|000219|Westfield|Westfield Voting District
+29|183|000220|Pitman|Pitman Voting District
+29|183|000221|Weldon Spring|Weldon Spring Voting District
+29|183|000222|New Melle|New Melle Voting District
+29|183|000225|Augusta|Augusta Voting District
+29|183|000226|Hopewell|Hopewell Voting District
+29|183|000227|Whitmoor|Whitmoor Voting District
+29|183|000228|Shoshone|Shoshone Voting District
+29|183|000229|Callaway|Callaway Voting District
+29|183|000230|Claybrook|Claybrook Voting District
+29|183|000231|Wolfrum|Wolfrum Voting District
+29|183|000234|Windcastle|Windcastle Voting District
+29|185|000002|Jackson|Jackson Voting District
+29|185|000003|Monegaw|Monegaw Voting District
+29|185|000004|Osage|Osage Voting District
+29|185|000005|Osceola East|Osceola East Voting District
+29|185|000006|Osceola West|Osceola West Voting District
+29|185|000007|Polk|Polk Voting District
+29|185|000008|Roscoe|Roscoe Voting District
+29|185|000009|Speedwell|Speedwell Voting District
+29|185|000010|Taber|Taber Voting District
+29|185|000011|Washington|Washington Voting District
+29|185|000012|Appleton No. 1|Appleton No. 1 Voting District
+29|185|000013|Appleton No. 2|Appleton No. 2 Voting District
+29|185|000014|Butler East|Butler East Voting District
+29|185|000015|Butler West|Butler West Voting District
+29|185|000016|Center|Center Voting District
+29|185|000017|Collins|Collins Voting District
+29|185|000018|Dallas|Dallas Voting District
+29|185|000019|Doyal|Doyal Voting District
+29|186|000002|Bloomsdale|Bloomsdale Voting District
+29|186|000003|Chestnut Ridge|Chestnut Ridge Voting District
+29|186|000004|Coffman|Coffman Voting District
+29|186|000005|Kinsey|Kinsey Voting District
+29|186|000006|New Offenburg|New Offenburg Voting District
+29|186|000007|Ozora|Ozora Voting District
+29|186|000009|Salem|Salem Voting District
+29|186|000010|St.Mary's|St.Mary's Voting District
+29|186|000011|Ste. Genevieve 5|Ste. Genevieve 5 Voting District
+29|186|000012|Ste. Genevieve North|Ste. Genevieve North Voting District
+29|186|000013|Ste. Genevieve South|Ste. Genevieve South Voting District
+29|186|000014|Zell|Zell Voting District
+29|187|000002|Bismarck|Bismarck Voting District
+29|187|000005|Bonne Terre|Bonne Terre Voting District
+29|187|000006|Busiek|Busiek Voting District
+29|187|000007|Desloge No. 1|Desloge No. 1 Voting District
+29|187|000008|Desloge No. 2|Desloge No. 2 Voting District
+29|187|000009|Desloge No. 3|Desloge No. 3 Voting District
+29|187|000010|Doe Run|Doe Run Voting District
+29|187|000011|Farmington No. 1|Farmington No. 1 Voting District
+29|187|000012|Farmington No. 2|Farmington No. 2 Voting District
+29|187|000013|Farmington No. 3|Farmington No. 3 Voting District
+29|187|000014|Farmington No. 4|Farmington No. 4 Voting District
+29|187|000016|Iron Mountain|Iron Mountain Voting District
+29|187|000017|Knob Lick|Knob Lick Voting District
+29|187|000018|Leadington|Leadington Voting District
+29|187|000019|Leadwood|Leadwood Voting District
+29|187|000020|Libertyville|Libertyville Voting District
+29|187|000021|Park Hills No. 1|Park Hills No. 1 Voting District
+29|187|000023|Park Hills No. 3|Park Hills No. 3 Voting District
+29|187|000024|Park Hills No. 4|Park Hills No. 4 Voting District
+29|187|000025|Patterson|Patterson Voting District
+29|187|000026|Terre Du Lac|Terre Du Lac Voting District
+29|187|000027|Timberline|Timberline Voting District
+29|189|001600|LC033|LC033
+29|189|0AP001|AP001|AP001
+29|189|0AP002|AP002|AP002
+29|189|0AP003|AP003|AP003
+29|189|0AP004|AP004|AP004
+29|189|0AP005|AP005|AP005
+29|189|0AP006|AP006|AP006
+29|189|0AP007|AP007|AP007
+29|189|0AP008|AP008|AP008
+29|189|0AP009|AP009|AP009
+29|189|0AP010|AP010|AP010
+29|189|0AP011|AP011|AP011
+29|189|0AP012|AP012|AP012
+29|189|0AP013|AP013|AP013
+29|189|0AP014|AP014|AP014
+29|189|0AP015|AP015|AP015
+29|189|0AP016|AP016|AP016
+29|189|0AP017|AP017|AP017
+29|189|0AP018|AP018|AP018
+29|189|0AP019|AP019|AP019
+29|189|0AP020|AP020|AP020
+29|189|0AP021|AP021|AP021
+29|189|0AP022|AP022|AP022
+29|189|0AP023|AP023|AP023
+29|189|0AP024|AP024|AP024
+29|189|0AP025|AP025|AP025
+29|189|0AP026|AP026|AP026
+29|189|0AP027|AP027|AP027
+29|189|0AP028|AP028|AP028
+29|189|0AP029|AP029|AP029
+29|189|0AP030|AP030|AP030
+29|189|0AP031|AP031|AP031
+29|189|0AP032|AP032|AP032
+29|189|0AP033|AP033|AP033
+29|189|0AP034|AP034|AP034
+29|189|0AP035|AP035|AP035
+29|189|0AP036|AP036|AP036
+29|189|0AP037|AP037|AP037
+29|189|0AP038|AP038|AP038
+29|189|0AP039|AP039|AP039
+29|189|0AP040|AP040|AP040
+29|189|0AP041|AP041|AP041
+29|189|0AP042|AP042|AP042
+29|189|0AP043|AP043|AP043
+29|189|0AP044|AP044|AP044
+29|189|0AP045|AP045|AP045
+29|189|0AP046|AP046|AP046
+29|189|0AP047|AP047|AP047
+29|189|0AP048|AP048|AP048
+29|189|0AP049|AP049|AP049
+29|189|0AP050|AP050|AP050
+29|189|0AP051|AP051|AP051
+29|189|0AP200|AP200|AP200
+29|189|0AP201|AP201|AP201
+29|189|0AP202|AP202|AP202
+29|189|0AP203|AP203|AP203
+29|189|0AP206|AP206|AP206
+29|189|0AP207|AP207|AP207
+29|189|0AP208|AP208|AP208
+29|189|0AP211|AP211|AP211
+29|189|0AP214|AP214|AP214
+29|189|0AP215|AP215|AP215
+29|189|0AP216|AP216|AP216
+29|189|0AP217|AP217|AP217
+29|189|0AP218|AP218|AP218
+29|189|0AP225|AP225|AP225
+29|189|0AP230|AP230|AP230
+29|189|0AP232|AP232|AP232
+29|189|0AP233|AP233|AP233
+29|189|0AP237|AP237|AP237
+29|189|0CC001|CC001|CC001
+29|189|0CC002|CC002|CC002
+29|189|0CC003|CC003|CC003
+29|189|0CC004|CC004|CC004
+29|189|0CC005|CC005|CC005
+29|189|0CC006|CC006|CC006
+29|189|0CC007|CC007|CC007
+29|189|0CC008|CC008|CC008
+29|189|0CC009|CC009|CC009
+29|189|0CC010|CC010|CC010
+29|189|0CC011|CC011|CC011
+29|189|0CC012|CC012|CC012
+29|189|0CC013|CC013|CC013
+29|189|0CC014|CC014|CC014
+29|189|0CC015|CC015|CC015
+29|189|0CC016|CC016|CC016
+29|189|0CC017|CC017|CC017
+29|189|0CC018|CC018|CC018
+29|189|0CC019|CC019|CC019
+29|189|0CC020|CC020|CC020
+29|189|0CC021|CC021|CC021
+29|189|0CC022|CC022|CC022
+29|189|0CC023|CC023|CC023
+29|189|0CC024|CC024|CC024
+29|189|0CC025|CC025|CC025
+29|189|0CC026|CC026|CC026
+29|189|0CC027|CC027|CC027
+29|189|0CC028|CC028|CC028
+29|189|0CC030|CC030|CC030
+29|189|0CC031|CC031|CC031
+29|189|0CC032|CC032|CC032
+29|189|0CC033|CC033|CC033
+29|189|0CC034|CC034|CC034
+29|189|0CC035|CC035|CC035
+29|189|0CC036|CC036|CC036
+29|189|0CC037|CC037|CC037
+29|189|0CC038|CC038|CC038
+29|189|0CC039|CC039|CC039
+29|189|0CC040|CC040|CC040
+29|189|0CC041|CC041|CC041
+29|189|0CC042|CC042|CC042
+29|189|0CC043|CC043|CC043
+29|189|0CC044|CC044|CC044
+29|189|0CC045|CC045|CC045
+29|189|0CC046|CC046|CC046
+29|189|0CC047|CC047|CC047
+29|189|0CC048|CC048|CC048
+29|189|0CC049|CC049|CC049
+29|189|0CC050|CC050|CC050
+29|189|0CC051|CC051|CC051
+29|189|0CC052|CC052|CC052
+29|189|0CC053|CC053|CC053
+29|189|0CC054|CC054|CC054
+29|189|0CC055|CC055|CC055
+29|189|0CC056|CC056|CC056
+29|189|0CC057|CC057|CC057
+29|189|0CC058|CC058|CC058
+29|189|0CC201|CC201|CC201
+29|189|0CC202|CC202|CC202
+29|189|0CC203|CC203|CC203
+29|189|0CC205|CC205|CC205
+29|189|0CC208|CC208|CC208
+29|189|0CC214|CC214|CC214
+29|189|0CC221|CC221|CC221
+29|189|0LC001|LC001|LC001
+29|189|0LC002|LC002|LC002
+29|189|0LC003|LC003|LC003
+29|189|0LC004|LC004|LC004
+29|189|0LC005|LC005|LC005
+29|189|0LC006|LC006|LC006
+29|189|0LC007|LC007|LC007
+29|189|0LC008|LC008|LC008
+29|189|0LC009|LC009|LC009
+29|189|0LC010|LC010|LC010
+29|189|0LC011|LC011|LC011
+29|189|0LC012|LC012|LC012
+29|189|0LC013|LC013|LC013
+29|189|0LC014|LC014|LC014
+29|189|0LC015|LC015|LC015
+29|189|0LC016|LC016|LC016
+29|189|0LC017|LC017|LC017
+29|189|0LC018|LC018|LC018
+29|189|0LC019|LC019|LC019
+29|189|0LC020|LC020|LC020
+29|189|0LC021|LC021|LC021
+29|189|0LC022|LC022|LC022
+29|189|0LC023|LC023|LC023
+29|189|0LC024|LC024|LC024
+29|189|0LC025|LC025|LC025
+29|189|0LC026|LC026|LC026
+29|189|0LC027|LC027|LC027
+29|189|0LC028|LC028|LC028
+29|189|0LC029|LC029|LC029
+29|189|0LC030|LC030|LC030
+29|189|0LC031|LC031|LC031
+29|189|0LC032|LC032|LC032
+29|189|0LC200|LC200|LC200
+29|189|0LC203|LC203|LC203
+29|189|0LC204|LC204|LC204
+29|189|0LC209|LC209|LC209
+29|189|0MR001|MR001|MR001
+29|189|0MR002|MR002|MR002
+29|189|0MR003|MR003|MR003
+29|189|0MR004|MR004|MR004
+29|189|0MR005|MR005|MR005
+29|189|0MR006|MR006|MR006
+29|189|0MR007|MR007|MR007
+29|189|0MR008|MR008|MR008
+29|189|0MR009|MR009|MR009
+29|189|0MR010|MR010|MR010
+29|189|0MR011|MR011|MR011
+29|189|0MR012|MR012|MR012
+29|189|0MR013|MR013|MR013
+29|189|0MR014|MR014|MR014
+29|189|0MR015|MR015|MR015
+29|189|0MR016|MR016|MR016
+29|189|0MR017|MR017|MR017
+29|189|0MR018|MR018|MR018
+29|189|0MR019|MR019|MR019
+29|189|0MR020|MR020|MR020
+29|189|0MR021|MR021|MR021
+29|189|0MR022|MR022|MR022
+29|189|0MR023|MR023|MR023
+29|189|0MR024|MR024|MR024
+29|189|0MR025|MR025|MR025
+29|189|0MR026|MR026|MR026
+29|189|0MR027|MR027|MR027
+29|189|0MR028|MR028|MR028
+29|189|0MR029|MR029|MR029
+29|189|0MR030|MR030|MR030
+29|189|0MR031|MR031|MR031
+29|189|0MR032|MR032|MR032
+29|189|0MR033|MR033|MR033
+29|189|0MR034|MR034|MR034
+29|189|0MR035|MR035|MR035
+29|189|0MR036|MR036|MR036
+29|189|0MR037|MR037|MR037
+29|189|0MR038|MR038|MR038
+29|189|0MR039|MR039|MR039
+29|189|0MR040|MR040|MR040
+29|189|0MR041|MR041|MR041
+29|189|0MR042|MR042|MR042
+29|189|0MR043|MR043|MR043
+29|189|0MR044|MR044|MR044
+29|189|0MR045|MR045|MR045
+29|189|0MR046|MR046|MR046
+29|189|0MR047|MR047|MR047
+29|189|0MR048|MR048|MR048
+29|189|0MR049|MR049|MR049
+29|189|0MR050|MR050|MR050
+29|189|0MR051|MR051|MR051
+29|189|0MR052|MR052|MR052
+29|189|0MR053|MR053|MR053
+29|189|0MR054|MR054|MR054
+29|189|0MR055|MR055|MR055
+29|189|0MR056|MR056|MR056
+29|189|0MR057|MR057|MR057
+29|189|0MR058|MR058|MR058
+29|189|0MR059|MR059|MR059
+29|189|0MR200|MR200|MR200
+29|189|0MR202|MR202|MR202
+29|189|0MR203|MR203|MR203
+29|189|0MR204|MR204|MR204
+29|189|0MR205|MR205|MR205
+29|189|0MR209|MR209|MR209
+29|189|0MR210|MR210|MR210
+29|189|0MR212|MR212|MR212
+29|189|0MR213|MR213|MR213
+29|189|0NW001|NW001|NW001
+29|189|0NW002|NW002|NW002
+29|189|0NW003|NW003|NW003
+29|189|0NW004|NW004|NW004
+29|189|0NW005|NW005|NW005
+29|189|0NW006|NW006|NW006
+29|189|0NW007|NW007|NW007
+29|189|0NW008|NW008|NW008
+29|189|0NW009|NW009|NW009
+29|189|0NW010|NW010|NW010
+29|189|0NW011|NW011|NW011
+29|189|0NW012|NW012|NW012
+29|189|0NW013|NW013|NW013
+29|189|0NW014|NW014|NW014
+29|189|0NW015|NW015|NW015
+29|189|0NW016|NW016|NW016
+29|189|0NW017|NW017|NW017
+29|189|0NW018|NW018|NW018
+29|189|0NW019|NW019|NW019
+29|189|0NW020|NW020|NW020
+29|189|0NW021|NW021|NW021
+29|189|0NW022|NW022|NW022
+29|189|0NW023|NW023|NW023
+29|189|0NW024|NW024|NW024
+29|189|0NW025|NW025|NW025
+29|189|0NW026|NW026|NW026
+29|189|0NW027|NW027|NW027
+29|189|0NW028|NW028|NW028
+29|189|0NW029|NW029|NW029
+29|189|0NW030|NW030|NW030
+29|189|0NW031|NW031|NW031
+29|189|0NW032|NW032|NW032
+29|189|0NW033|NW033|NW033
+29|189|0NW034|NW034|NW034
+29|189|0NW035|NW035|NW035
+29|189|0NW036|NW036|NW036
+29|189|0NW037|NW037|NW037
+29|189|0NW038|NW038|NW038
+29|189|0NW039|NW039|NW039
+29|189|0NW040|NW040|NW040
+29|189|0NW041|NW041|NW041
+29|189|0NW042|NW042|NW042
+29|189|0NW043|NW043|NW043
+29|189|0NW044|NW044|NW044
+29|189|0NW045|NW045|NW045
+29|189|0NW046|NW046|NW046
+29|189|0NW047|NW047|NW047
+29|189|0NW048|NW048|NW048
+29|189|0NW049|NW049|NW049
+29|189|0NW050|NW050|NW050
+29|189|0NW051|NW051|NW051
+29|189|0NW052|NW052|NW052
+29|189|0NW200|NW200|NW200
+29|189|0NW201|NW201|NW201
+29|189|0NW202|NW202|NW202
+29|189|0NW203|NW203|NW203
+29|189|0NW204|NW204|NW204
+29|189|0NW205|NW205|NW205
+29|189|0NW206|NW206|NW206
+29|189|0NW207|NW207|NW207
+29|189|0NW208|NW208|NW208
+29|189|0NW209|NW209|NW209
+29|189|0NW210|NW210|NW210
+29|189|0NW211|NW211|NW211
+29|189|0NW212|NW212|NW212
+29|189|0NW213|NW213|NW213
+29|189|0NW214|NW214|NW214
+29|189|0NW215|NW215|NW215
+29|189|0NW216|NW216|NW216
+29|189|0NW217|NW217|NW217
+29|189|0NW219|NW219|NW219
+29|189|0NW220|NW220|NW220
+29|189|0NW224|NW224|NW224
+29|189|0NW225|NW225|NW225
+29|189|0NW226|NW226|NW226
+29|189|0NW227|NW227|NW227
+29|189|0NW229|NW229|NW229
+29|189|0SF001|SF001|SF001
+29|189|0SF002|SF002|SF002
+29|189|0SF003|SF003|SF003
+29|189|0SF004|SF004|SF004
+29|189|0SF005|SF005|SF005
+29|189|0SF006|SF006|SF006
+29|189|0SF007|SF007|SF007
+29|189|0SF008|SF008|SF008
+29|189|0SF009|SF009|SF009
+29|189|0SF010|SF010|SF010
+29|189|0SF011|SF011|SF011
+29|189|0SF012|SF012|SF012
+29|189|0SF013|SF013|SF013
+29|189|0SF014|SF014|SF014
+29|189|0SF015|SF015|SF015
+29|189|0SF016|SF016|SF016
+29|189|0SF017|SF017|SF017
+29|189|0SF018|SF018|SF018
+29|189|0SF019|SF019|SF019
+29|189|0SF020|SF020|SF020
+29|189|0SF021|SF021|SF021
+29|189|0SF022|SF022|SF022
+29|189|0SF023|SF023|SF023
+29|189|0SF024|SF024|SF024
+29|189|0SF025|SF025|SF025
+29|189|0SF026|SF026|SF026
+29|189|0SF027|SF027|SF027
+29|189|0SF028|SF028|SF028
+29|189|0SF029|SF029|SF029
+29|189|0SF030|SF030|SF030
+29|189|0SF031|SF031|SF031
+29|189|0SF032|SF032|SF032
+29|189|0SF033|SF033|SF033
+29|189|0SF034|SF034|SF034
+29|189|0SF035|SF035|SF035
+29|189|0SF200|SF200|SF200
+29|189|0WH001|WH001|WH001
+29|189|0WH002|WH002|WH002
+29|189|0WH003|WH003|WH003
+29|189|0WH004|WH004|WH004
+29|189|0WH005|WH005|WH005
+29|189|0WH006|WH006|WH006
+29|189|0WH007|WH007|WH007
+29|189|0WH008|WH008|WH008
+29|189|0WH009|WH009|WH009
+29|189|0WH010|WH010|WH010
+29|189|0WH011|WH011|WH011
+29|189|0WH012|WH012|WH012
+29|189|0WH013|WH013|WH013
+29|189|0WH014|WH014|WH014
+29|189|0WH015|WH015|WH015
+29|189|0WH016|WH016|WH016
+29|189|0WH017|WH017|WH017
+29|189|0WH018|WH018|WH018
+29|189|0WH019|WH019|WH019
+29|189|0WH020|WH020|WH020
+29|189|0WH021|WH021|WH021
+29|189|0WH022|WH022|WH022
+29|189|0WH023|WH023|WH023
+29|189|0WH024|WH024|WH024
+29|189|0WH025|WH025|WH025
+29|189|0WH026|WH026|WH026
+29|189|0WH027|WH027|WH027
+29|189|0WH028|WH028|WH028
+29|189|0WH029|WH029|WH029
+29|189|0WH030|WH030|WH030
+29|189|0WH031|WH031|WH031
+29|189|0WH032|WH032|WH032
+29|189|0WH033|WH033|WH033
+29|189|0WH034|WH034|WH034
+29|189|0WH035|WH035|WH035
+29|189|0WH036|WH036|WH036
+29|189|0WH037|WH037|WH037
+29|189|0WH038|WH038|WH038
+29|189|0WH039|WH039|WH039
+29|189|0WH040|WH040|WH040
+29|189|0WH041|WH041|WH041
+29|189|0WH042|WH042|WH042
+29|189|0WH043|WH043|WH043
+29|189|0WH044|WH044|WH044
+29|189|0WH045|WH045|WH045
+29|189|0WH046|WH046|WH046
+29|189|0WH047|WH047|WH047
+29|189|0WH200|WH200|WH200
+29|189|0WH201|WH201|WH201
+29|189|0WH202|WH202|WH202
+29|189|0WH203|WH203|WH203
+29|189|0WH208|WH208|WH208
+29|189|BON001|BON001|BON001
+29|189|BON002|BON002|BON002
+29|189|BON003|BON003|BON003
+29|189|BON004|BON004|BON004
+29|189|BON005|BON005|BON005
+29|189|BON006|BON006|BON006
+29|189|BON007|BON007|BON007
+29|189|BON008|BON008|BON008
+29|189|BON009|BON009|BON009
+29|189|BON010|BON010|BON010
+29|189|BON011|BON011|BON011
+29|189|BON012|BON012|BON012
+29|189|BON013|BON013|BON013
+29|189|BON014|BON014|BON014
+29|189|BON015|BON015|BON015
+29|189|BON016|BON016|BON016
+29|189|BON017|BON017|BON017
+29|189|BON018|BON018|BON018
+29|189|BON019|BON019|BON019
+29|189|BON020|BON020|BON020
+29|189|BON021|BON021|BON021
+29|189|BON022|BON022|BON022
+29|189|BON023|BON023|BON023
+29|189|BON024|BON024|BON024
+29|189|BON025|BON025|BON025
+29|189|BON026|BON026|BON026
+29|189|BON027|BON027|BON027
+29|189|BON028|BON028|BON028
+29|189|BON029|BON029|BON029
+29|189|BON030|BON030|BON030
+29|189|BON031|BON031|BON031
+29|189|BON032|BON032|BON032
+29|189|BON033|BON033|BON033
+29|189|BON034|BON034|BON034
+29|189|BON035|BON035|BON035
+29|189|BON036|BON036|BON036
+29|189|BON037|BON037|BON037
+29|189|BON038|BON038|BON038
+29|189|BON039|BON039|BON039
+29|189|BON040|BON040|BON040
+29|189|BON200|BON200|BON200
+29|189|BON202|BON202|BON202
+29|189|BON203|BON203|BON203
+29|189|BON205|BON205|BON205
+29|189|BON206|BON206|BON206
+29|189|BON207|BON207|BON207
+29|189|BON208|BON208|BON208
+29|189|BON210|BON210|BON210
+29|189|BON211|BON211|BON211
+29|189|CC1601|CC059|CC059
+29|189|CC1602|CC060|CC060
+29|189|CC1603|CC029|CC029
+29|189|CH1605|CHE018|CHE018
+29|189|CHE001|CHE001|CHE001
+29|189|CHE002|CHE002|CHE002
+29|189|CHE003|CHE003|CHE003
+29|189|CHE004|CHE004|CHE004
+29|189|CHE005|CHE005|CHE005
+29|189|CHE006|CHE006|CHE006
+29|189|CHE007|CHE007|CHE007
+29|189|CHE008|CHE008|CHE008
+29|189|CHE009|CHE009|CHE009
+29|189|CHE010|CHE010|CHE010
+29|189|CHE011|CHE011|CHE011
+29|189|CHE012|CHE012|CHE012
+29|189|CHE013|CHE013|CHE013
+29|189|CHE014|CHE014|CHE014
+29|189|CHE015|CHE015|CHE015
+29|189|CHE016|CHE016|CHE016
+29|189|CHE017|CHE017|CHE017
+29|189|CHE018|CHE018|CHE018
+29|189|CHE019|CHE019|CHE019
+29|189|CHE020|CHE020|CHE020
+29|189|CHE021|CHE021|CHE021
+29|189|CHE022|CHE022|CHE022
+29|189|CHE023|CHE023|CHE023
+29|189|CHE024|CHE024|CHE024
+29|189|CHE025|CHE025|CHE025
+29|189|CHE026|CHE026|CHE026
+29|189|CHE027|CHE027|CHE027
+29|189|CHE028|CHE028|CHE028
+29|189|CHE029|CHE029|CHE029
+29|189|CHE030|CHE030|CHE030
+29|189|CHE031|CHE031|CHE031
+29|189|CHE032|CHE032|CHE032
+29|189|CHE033|CHE033|CHE033
+29|189|CHE034|CHE034|CHE034
+29|189|CHE035|CHE035|CHE035
+29|189|CHE036|CHE036|CHE036
+29|189|CHE037|CHE037|CHE037
+29|189|CHE038|CHE038|CHE038
+29|189|CHE039|CHE039|CHE039
+29|189|CHE040|CHE040|CHE040
+29|189|CHE041|CHE041|CHE041
+29|189|CHE042|CHE042|CHE042
+29|189|CHE043|CHE043|CHE043
+29|189|CHE044|CHE044|CHE044
+29|189|CHE045|CHE045|CHE045
+29|189|CHE046|CHE046|CHE046
+29|189|CHE047|CHE047|CHE047
+29|189|CHE048|CHE048|CHE048
+29|189|CHE049|CHE049|CHE049
+29|189|CHE050|CHE050|CHE050
+29|189|CHE051|CHE051|CHE051
+29|189|CHE052|CHE052|CHE052
+29|189|CHE053|CHE053|CHE053
+29|189|CHE054|CHE054|CHE054
+29|189|CHE055|CHE055|CHE055
+29|189|CHE200|CHE200|CHE200
+29|189|CHE203|CHE203|CHE203
+29|189|CHE212|CHE212|CHE212
+29|189|CHE214|CHE214|CHE214
+29|189|CHE215|CHE215|CHE215
+29|189|CHE600|CHE057|CHE057
+29|189|CLA001|CLA001|CLA001
+29|189|CLA002|CLA002|CLA002
+29|189|CLA003|CLA003|CLA003
+29|189|CLA004|CLA004|CLA004
+29|189|CLA005|CLA005|CLA005
+29|189|CLA006|CLA006|CLA006
+29|189|CLA007|CLA007|CLA007
+29|189|CLA008|CLA008|CLA008
+29|189|CLA009|CLA009|CLA009
+29|189|CLA010|CLA010|CLA010
+29|189|CLA011|CLA011|CLA011
+29|189|CLA012|CLA012|CLA012
+29|189|CLA013|CLA013|CLA013
+29|189|CLA014|CLA014|CLA014
+29|189|CLA015|CLA015|CLA015
+29|189|CLA016|CLA016|CLA016
+29|189|CLA017|CLA017|CLA017
+29|189|CLA019|CLA019|CLA019
+29|189|CLA020|CLA020|CLA020
+29|189|CLA021|CLA021|CLA021
+29|189|CLA022|CLA022|CLA022
+29|189|CLA023|CLA023|CLA023
+29|189|CLA024|CLA024|CLA024
+29|189|CLA025|CLA025|CLA025
+29|189|CLA026|CLA026|CLA026
+29|189|CLA027|CLA027|CLA027
+29|189|CLA028|CLA028|CLA028
+29|189|CLA029|CLA029|CLA029
+29|189|CLA030|CLA030|CLA030
+29|189|CLA031|CLA031|CLA031
+29|189|CLA032|CLA032|CLA032
+29|189|CLA033|CLA033|CLA033
+29|189|CLA034|CLA034|CLA034
+29|189|CLA035|CLA035|CLA035
+29|189|CLA036|CLA036|CLA036
+29|189|CLA037|CLA037|CLA037
+29|189|CLA038|CLA038|CLA038
+29|189|CLA039|CLA039|CLA039
+29|189|CLA040|CLA040|CLA040
+29|189|CLA041|CLA041|CLA041
+29|189|CLA042|CLA042|CLA042
+29|189|CLA043|CLA043|CLA043
+29|189|CLA044|CLA044|CLA044
+29|189|CLA045|CLA045|CLA045
+29|189|CLA046|CLA046|CLA046
+29|189|CLA047|CLA047|CLA047
+29|189|CLA049|CLA049|CLA049
+29|189|CLA050|CLA050|CLA050
+29|189|CLA051|CLA051|CLA051
+29|189|CLA052|CLA052|CLA052
+29|189|CLA200|CLA200|CLA200
+29|189|CLA201|CLA201|CLA201
+29|189|CLA202|CLA202|CLA202
+29|189|CLA203|CLA203|CLA203
+29|189|CLA205|CLA205|CLA205
+29|189|CLA206|CLA206|CLA206
+29|189|CON001|CON001|CON001
+29|189|CON002|CON002|CON002
+29|189|CON003|CON003|CON003
+29|189|CON004|CON004|CON004
+29|189|CON005|CON005|CON005
+29|189|CON006|CON006|CON006
+29|189|CON007|CON007|CON007
+29|189|CON008|CON008|CON008
+29|189|CON009|CON009|CON009
+29|189|CON010|CON010|CON010
+29|189|CON011|CON011|CON011
+29|189|CON012|CON012|CON012
+29|189|CON013|CON013|CON013
+29|189|CON014|CON014|CON014
+29|189|CON015|CON015|CON015
+29|189|CON016|CON016|CON016
+29|189|CON017|CON017|CON017
+29|189|CON018|CON018|CON018
+29|189|CON019|CON019|CON019
+29|189|CON020|CON020|CON020
+29|189|CON021|CON021|CON021
+29|189|CON022|CON022|CON022
+29|189|CON023|CON023|CON023
+29|189|CON024|CON024|CON024
+29|189|CON025|CON025|CON025
+29|189|CON026|CON026|CON026
+29|189|CON027|CON027|CON027
+29|189|CON028|CON028|CON028
+29|189|CON029|CON029|CON029
+29|189|CON030|CON030|CON030
+29|189|CON031|CON031|CON031
+29|189|CON032|CON032|CON032
+29|189|CON033|CON033|CON033
+29|189|CON034|CON034|CON034
+29|189|CON035|CON035|CON035
+29|189|CON036|CON036|CON036
+29|189|CON037|CON037|CON037
+29|189|CON038|CON038|CON038
+29|189|CON039|CON039|CON039
+29|189|CON040|CON040|CON040
+29|189|CON041|CON041|CON041
+29|189|CON042|CON042|CON042
+29|189|CON043|CON043|CON043
+29|189|CON044|CON044|CON044
+29|189|CON045|CON045|CON045
+29|189|CON046|CON046|CON046
+29|189|CON047|CON047|CON047
+29|189|CON048|CON048|CON048
+29|189|CON049|CON049|CON049
+29|189|CON050|CON050|CON050
+29|189|CON051|CON051|CON051
+29|189|CON052|CON052|CON052
+29|189|CON053|CON053|CON053
+29|189|CON200|CON200|CON200
+29|189|CON202|CON202|CON202
+29|189|CON204|CON204|CON204
+29|189|CON205|CON205|CON205
+29|189|CON206|CON206|CON206
+29|189|CON212|CON212|CON212
+29|189|CON213|CON213|CON213
+29|189|FER001|FER001|FER001
+29|189|FER002|FER002|FER002
+29|189|FER003|FER003|FER003
+29|189|FER004|FER004|FER004
+29|189|FER005|FER005|FER005
+29|189|FER006|FER006|FER006
+29|189|FER007|FER007|FER007
+29|189|FER008|FER008|FER008
+29|189|FER009|FER009|FER009
+29|189|FER010|FER010|FER010
+29|189|FER011|FER011|FER011
+29|189|FER012|FER012|FER012
+29|189|FER013|FER013|FER013
+29|189|FER014|FER014|FER014
+29|189|FER015|FER015|FER015
+29|189|FER016|FER016|FER016
+29|189|FER017|FER017|FER017
+29|189|FER018|FER018|FER018
+29|189|FER019|FER019|FER019
+29|189|FER020|FER020|FER020
+29|189|FER021|FER021|FER021
+29|189|FER022|FER022|FER022
+29|189|FER023|FER023|FER023
+29|189|FER024|FER024|FER024
+29|189|FER025|FER025|FER025
+29|189|FER026|FER026|FER026
+29|189|FER027|FER027|FER027
+29|189|FER028|FER028|FER028
+29|189|FER029|FER029|FER029
+29|189|FER030|FER030|FER030
+29|189|FER031|FER031|FER031
+29|189|FER032|FER032|FER032
+29|189|FER033|FER033|FER033
+29|189|FER034|FER034|FER034
+29|189|FER035|FER035|FER035
+29|189|FER036|FER036|FER036
+29|189|FER037|FER037|FER037
+29|189|FER038|FER038|FER038
+29|189|FER039|FER039|FER039
+29|189|FER040|FER040|FER040
+29|189|FER041|FER041|FER041
+29|189|FER042|FER042|FER042
+29|189|FER043|FER043|FER043
+29|189|FER044|FER044|FER044
+29|189|FER045|FER045|FER045
+29|189|FER046|FER046|FER046
+29|189|FER206|FER206|FER206
+29|189|FER207|FER207|FER207
+29|189|FER208|FER208|FER208
+29|189|FLO001|FLO001|FLO001
+29|189|FLO002|FLO002|FLO002
+29|189|FLO003|FLO003|FLO003
+29|189|FLO004|FLO004|FLO004
+29|189|FLO005|FLO005|FLO005
+29|189|FLO006|FLO006|FLO006
+29|189|FLO007|FLO007|FLO007
+29|189|FLO008|FLO008|FLO008
+29|189|FLO009|FLO009|FLO009
+29|189|FLO010|FLO010|FLO010
+29|189|FLO011|FLO011|FLO011
+29|189|FLO012|FLO012|FLO012
+29|189|FLO013|FLO013|FLO013
+29|189|FLO014|FLO014|FLO014
+29|189|FLO015|FLO015|FLO015
+29|189|FLO016|FLO016|FLO016
+29|189|FLO017|FLO017|FLO017
+29|189|FLO018|FLO018|FLO018
+29|189|FLO019|FLO019|FLO019
+29|189|FLO020|FLO020|FLO020
+29|189|FLO021|FLO021|FLO021
+29|189|FLO022|FLO022|FLO022
+29|189|FLO023|FLO023|FLO023
+29|189|FLO024|FLO024|FLO024
+29|189|FLO025|FLO025|FLO025
+29|189|FLO026|FLO026|FLO026
+29|189|FLO027|FLO027|FLO027
+29|189|FLO028|FLO028|FLO028
+29|189|FLO029|FLO029|FLO029
+29|189|FLO030|FLO030|FLO030
+29|189|FLO031|FLO031|FLO031
+29|189|FLO200|FLO200|FLO200
+29|189|FLO201|FLO201|FLO201
+29|189|FLO205|FLO205|FLO205
+29|189|FLO207|FLO207|FLO207
+29|189|GRA001|GRA001|GRA001
+29|189|GRA002|GRA002|GRA002
+29|189|GRA003|GRA003|GRA003
+29|189|GRA004|GRA004|GRA004
+29|189|GRA005|GRA005|GRA005
+29|189|GRA006|GRA006|GRA006
+29|189|GRA007|GRA007|GRA007
+29|189|GRA008|GRA008|GRA008
+29|189|GRA009|GRA009|GRA009
+29|189|GRA010|GRA010|GRA010
+29|189|GRA011|GRA011|GRA011
+29|189|GRA012|GRA012|GRA012
+29|189|GRA013|GRA013|GRA013
+29|189|GRA014|GRA014|GRA014
+29|189|GRA015|GRA015|GRA015
+29|189|GRA016|GRA016|GRA016
+29|189|GRA017|GRA017|GRA017
+29|189|GRA018|GRA018|GRA018
+29|189|GRA019|GRA019|GRA019
+29|189|GRA020|GRA020|GRA020
+29|189|GRA021|GRA021|GRA021
+29|189|GRA022|GRA022|GRA022
+29|189|GRA023|GRA023|GRA023
+29|189|GRA024|GRA024|GRA024
+29|189|GRA025|GRA025|GRA025
+29|189|GRA026|GRA026|GRA026
+29|189|GRA027|GRA027|GRA027
+29|189|GRA028|GRA028|GRA028
+29|189|GRA029|GRA029|GRA029
+29|189|GRA030|GRA030|GRA030
+29|189|GRA031|GRA031|GRA031
+29|189|GRA032|GRA032|GRA032
+29|189|GRA033|GRA033|GRA033
+29|189|GRA034|GRA034|GRA034
+29|189|GRA035|GRA035|GRA035
+29|189|GRA036|GRA036|GRA036
+29|189|GRA037|GRA037|GRA037
+29|189|GRA038|GRA038|GRA038
+29|189|GRA039|GRA039|GRA039
+29|189|GRA040|GRA040|GRA040
+29|189|GRA041|GRA041|GRA041
+29|189|GRA042|GRA042|GRA042
+29|189|GRA043|GRA043|GRA043
+29|189|GRA044|GRA044|GRA044
+29|189|GRA045|GRA045|GRA045
+29|189|GRA046|GRA046|GRA046
+29|189|GRA047|GRA047|GRA047
+29|189|GRA048|GRA048|GRA048
+29|189|GRA201|GRA201|GRA201
+29|189|GRA202|GRA202|GRA202
+29|189|GRA206|GRA206|GRA206
+29|189|GRA209|GRA209|GRA209
+29|189|GRA210|GRA210|GRA210
+29|189|HAD001|HAD001|HAD001
+29|189|HAD002|HAD002|HAD002
+29|189|HAD003|HAD003|HAD003
+29|189|HAD004|HAD004|HAD004
+29|189|HAD005|HAD005|HAD005
+29|189|HAD006|HAD006|HAD006
+29|189|HAD007|HAD007|HAD007
+29|189|HAD008|HAD008|HAD008
+29|189|HAD009|HAD009|HAD009
+29|189|HAD010|HAD010|HAD010
+29|189|HAD011|HAD011|HAD011
+29|189|HAD012|HAD012|HAD012
+29|189|HAD013|HAD013|HAD013
+29|189|HAD014|HAD014|HAD014
+29|189|HAD015|HAD015|HAD015
+29|189|HAD016|HAD016|HAD016
+29|189|HAD017|HAD017|HAD017
+29|189|HAD018|HAD018|HAD018
+29|189|HAD019|HAD019|HAD019
+29|189|HAD020|HAD020|HAD020
+29|189|HAD021|HAD021|HAD021
+29|189|HAD022|HAD022|HAD022
+29|189|HAD023|HAD023|HAD023
+29|189|HAD024|HAD024|HAD024
+29|189|HAD025|HAD025|HAD025
+29|189|HAD026|HAD026|HAD026
+29|189|HAD027|HAD027|HAD027
+29|189|HAD028|HAD028|HAD028
+29|189|HAD029|HAD029|HAD029
+29|189|HAD030|HAD030|HAD030
+29|189|HAD031|HAD031|HAD031
+29|189|HAD032|HAD032|HAD032
+29|189|HAD033|HAD033|HAD033
+29|189|HAD034|HAD034|HAD034
+29|189|HAD035|HAD035|HAD035
+29|189|HAD200|HAD200|HAD200
+29|189|JEF001|JEF001|JEF001
+29|189|JEF002|JEF002|JEF002
+29|189|JEF003|JEF003|JEF003
+29|189|JEF004|JEF004|JEF004
+29|189|JEF005|JEF005|JEF005
+29|189|JEF006|JEF006|JEF006
+29|189|JEF007|JEF007|JEF007
+29|189|JEF008|JEF008|JEF008
+29|189|JEF009|JEF009|JEF009
+29|189|JEF010|JEF010|JEF010
+29|189|JEF011|JEF011|JEF011
+29|189|JEF012|JEF012|JEF012
+29|189|JEF013|JEF013|JEF013
+29|189|JEF014|JEF014|JEF014
+29|189|JEF015|JEF015|JEF015
+29|189|JEF016|JEF016|JEF016
+29|189|JEF017|JEF017|JEF017
+29|189|JEF018|JEF018|JEF018
+29|189|JEF019|JEF019|JEF019
+29|189|JEF020|JEF020|JEF020
+29|189|JEF021|JEF021|JEF021
+29|189|JEF022|JEF022|JEF022
+29|189|JEF023|JEF023|JEF023
+29|189|JEF024|JEF024|JEF024
+29|189|JEF025|JEF025|JEF025
+29|189|JEF026|JEF026|JEF026
+29|189|JEF027|JEF027|JEF027
+29|189|JEF028|JEF028|JEF028
+29|189|JEF029|JEF029|JEF029
+29|189|JEF030|JEF030|JEF030
+29|189|JEF031|JEF031|JEF031
+29|189|JEF032|JEF032|JEF032
+29|189|JEF033|JEF033|JEF033
+29|189|JEF034|JEF034|JEF034
+29|189|JEF035|JEF035|JEF035
+29|189|JEF036|JEF036|JEF036
+29|189|JEF037|JEF037|JEF037
+29|189|JEF200|JEF200|JEF200
+29|189|JEF202|JEF202|JEF202
+29|189|LAF001|LAF001|LAF001
+29|189|LAF002|LAF002|LAF002
+29|189|LAF003|LAF003|LAF003
+29|189|LAF004|LAF004|LAF004
+29|189|LAF005|LAF005|LAF005
+29|189|LAF006|LAF006|LAF006
+29|189|LAF007|LAF007|LAF007
+29|189|LAF008|LAF008|LAF008
+29|189|LAF009|LAF009|LAF009
+29|189|LAF010|LAF010|LAF010
+29|189|LAF011|LAF011|LAF011
+29|189|LAF012|LAF012|LAF012
+29|189|LAF013|LAF013|LAF013
+29|189|LAF014|LAF014|LAF014
+29|189|LAF015|LAF015|LAF015
+29|189|LAF016|LAF016|LAF016
+29|189|LAF017|LAF017|LAF017
+29|189|LAF018|LAF018|LAF018
+29|189|LAF019|LAF019|LAF019
+29|189|LAF020|LAF020|LAF020
+29|189|LAF023|LAF023|LAF023
+29|189|LAF024|LAF024|LAF024
+29|189|LAF025|LAF025|LAF025
+29|189|LAF026|LAF026|LAF026
+29|189|LAF027|LAF027|LAF027
+29|189|LAF028|LAF028|LAF028
+29|189|LAF029|LAF029|LAF029
+29|189|LAF030|LAF030|LAF030
+29|189|LAF031|LAF031|LAF031
+29|189|LAF032|LAF032|LAF032
+29|189|LAF033|LAF033|LAF033
+29|189|LAF034|LAF034|LAF034
+29|189|LAF035|LAF035|LAF035
+29|189|LAF036|LAF036|LAF036
+29|189|LAF037|LAF037|LAF037
+29|189|LAF038|LAF038|LAF038
+29|189|LAF039|LAF039|LAF039
+29|189|LAF040|LAF040|LAF040
+29|189|LAF041|LAF041|LAF041
+29|189|LAF042|LAF042|LAF042
+29|189|LAF043|LAF043|LAF043
+29|189|LAF044|LAF044|LAF044
+29|189|LAF045|LAF045|LAF045
+29|189|LAF046|LAF046|LAF046
+29|189|LAF047|LAF022|LAF022
+29|189|LAF200|LAF200|LAF200
+29|189|LAF205|LAF205|LAF205
+29|189|LAF207|LAF207|LAF207
+29|189|LEM001|LEM001|LEM001
+29|189|LEM002|LEM002|LEM002
+29|189|LEM003|LEM003|LEM003
+29|189|LEM004|LEM004|LEM004
+29|189|LEM005|LEM005|LEM005
+29|189|LEM006|LEM006|LEM006
+29|189|LEM007|LEM007|LEM007
+29|189|LEM008|LEM008|LEM008
+29|189|LEM009|LEM009|LEM009
+29|189|LEM010|LEM010|LEM010
+29|189|LEM011|LEM011|LEM011
+29|189|LEM012|LEM012|LEM012
+29|189|LEM013|LEM013|LEM013
+29|189|LEM014|LEM014|LEM014
+29|189|LEM015|LEM015|LEM015
+29|189|LEM016|LEM016|LEM016
+29|189|LEM017|LEM017|LEM017
+29|189|LEM018|LEM018|LEM018
+29|189|LEM019|LEM019|LEM019
+29|189|LEM020|LEM020|LEM020
+29|189|LEM021|LEM021|LEM021
+29|189|LEM022|LEM022|LEM022
+29|189|LEM023|LEM023|LEM023
+29|189|LEM024|LEM024|LEM024
+29|189|LEM025|LEM025|LEM025
+29|189|LEM026|LEM026|LEM026
+29|189|LEM027|LEM027|LEM027
+29|189|LEM028|LEM028|LEM028
+29|189|LEM029|LEM029|LEM029
+29|189|LEM030|LEM030|LEM030
+29|189|LEM031|LEM031|LEM031
+29|189|LEM032|LEM032|LEM032
+29|189|LEM033|LEM033|LEM033
+29|189|LEM200|LEM200|LEM200
+29|189|LEM201|LEM201|LEM201
+29|189|LEM202|LEM202|LEM202
+29|189|LEM204|LEM204|LEM204
+29|189|LEM205|LEM205|LEM205
+29|189|LEM208|LEM208|LEM208
+29|189|MER001|MER001|MER001
+29|189|MER002|MER002|MER002
+29|189|MER003|MER003|MER003
+29|189|MER004|MER004|MER004
+29|189|MER005|MER005|MER005
+29|189|MER006|MER006|MER006
+29|189|MER007|MER007|MER007
+29|189|MER008|MER008|MER008
+29|189|MER009|MER009|MER009
+29|189|MER010|MER010|MER010
+29|189|MER011|MER011|MER011
+29|189|MER012|MER012|MER012
+29|189|MER013|MER013|MER013
+29|189|MER014|MER014|MER014
+29|189|MER015|MER015|MER015
+29|189|MER016|MER016|MER016
+29|189|MER017|MER017|MER017
+29|189|MER018|MER018|MER018
+29|189|MER019|MER019|MER019
+29|189|MER020|MER020|MER020
+29|189|MER021|MER021|MER021
+29|189|MER022|MER022|MER022
+29|189|MER023|MER023|MER023
+29|189|MER024|MER024|MER024
+29|189|MER025|MER025|MER025
+29|189|MER026|MER026|MER026
+29|189|MER027|MER027|MER027
+29|189|MER028|MER028|MER028
+29|189|MER029|MER029|MER029
+29|189|MER030|MER030|MER030
+29|189|MER031|MER031|MER031
+29|189|MER032|MER032|MER032
+29|189|MER033|MER033|MER033
+29|189|MER034|MER034|MER034
+29|189|MER035|MER035|MER035
+29|189|MER036|MER036|MER036
+29|189|MER037|MER037|MER037
+29|189|MER038|MER038|MER038
+29|189|MER039|MER039|MER039
+29|189|MER040|MER040|MER040
+29|189|MER041|MER041|MER041
+29|189|MER042|MER042|MER042
+29|189|MER043|MER043|MER043
+29|189|MER044|MER044|MER044
+29|189|MER045|MER045|MER045
+29|189|MER046|MER046|MER046
+29|189|MER047|MER047|MER047
+29|189|MER048|MER048|MER048
+29|189|MER200|MER200|MER200
+29|189|MER202|MER202|MER202
+29|189|MER204|MER204|MER204
+29|189|MER207|MER207|MER207
+29|189|MER209|MER209|MER209
+29|189|MER210|MER210|MER210
+29|189|MER213|MER213|MER213
+29|189|MER214|MER214|MER214
+29|189|MER215|MER215|MER215
+29|189|MER219|MER219|MER219
+29|189|MHT001|MHT001|MHT001
+29|189|MHT002|MHT002|MHT002
+29|189|MHT003|MHT003|MHT003
+29|189|MHT004|MHT004|MHT004
+29|189|MHT005|MHT005|MHT005
+29|189|MHT006|MHT006|MHT006
+29|189|MHT007|MHT007|MHT007
+29|189|MHT008|MHT008|MHT008
+29|189|MHT009|MHT009|MHT009
+29|189|MHT010|MHT010|MHT010
+29|189|MHT011|MHT011|MHT011
+29|189|MHT012|MHT012|MHT012
+29|189|MHT013|MHT013|MHT013
+29|189|MHT014|MHT014|MHT014
+29|189|MHT015|MHT015|MHT015
+29|189|MHT016|MHT016|MHT016
+29|189|MHT017|MHT017|MHT017
+29|189|MHT018|MHT018|MHT018
+29|189|MHT019|MHT019|MHT019
+29|189|MHT020|MHT020|MHT020
+29|189|MHT021|MHT021|MHT021
+29|189|MHT022|MHT022|MHT022
+29|189|MHT023|MHT023|MHT023
+29|189|MHT024|MHT024|MHT024
+29|189|MHT025|MHT025|MHT025
+29|189|MHT026|MHT026|MHT026
+29|189|MHT027|MHT027|MHT027
+29|189|MHT028|MHT028|MHT028
+29|189|MHT029|MHT029|MHT029
+29|189|MHT030|MHT030|MHT030
+29|189|MHT031|MHT031|MHT031
+29|189|MHT032|MHT032|MHT032
+29|189|MHT033|MHT033|MHT033
+29|189|MHT034|MHT034|MHT034
+29|189|MHT035|MHT035|MHT035
+29|189|MHT036|MHT036|MHT036
+29|189|MHT037|MHT037|MHT037
+29|189|MHT038|MHT038|MHT038
+29|189|MHT039|MHT039|MHT039
+29|189|MHT040|MHT040|MHT040
+29|189|MHT041|MHT041|MHT041
+29|189|MHT042|MHT042|MHT042
+29|189|MHT043|MHT043|MHT043
+29|189|MHT044|MHT044|MHT044
+29|189|MHT045|MHT045|MHT045
+29|189|MHT046|MHT046|MHT046
+29|189|MHT047|MHT047|MHT047
+29|189|MHT048|MHT048|MHT048
+29|189|MHT049|MHT049|MHT049
+29|189|MHT050|MHT050|MHT050
+29|189|MHT051|MHT051|MHT051
+29|189|MHT052|MHT052|MHT052
+29|189|MHT053|MHT053|MHT053
+29|189|MHT054|MHT054|MHT054
+29|189|MHT055|MHT055|MHT055
+29|189|MHT056|MHT056|MHT056
+29|189|MHT057|MHT057|MHT057
+29|189|MHT058|MHT058|MHT058
+29|189|MHT059|MHT059|MHT059
+29|189|MHT200|MHT200|MHT200
+29|189|MHT203|MHT203|MHT203
+29|189|MHT206|MHT206|MHT206
+29|189|MHT207|MHT207|MHT207
+29|189|MHT208|MHT208|MHT208
+29|189|MHT211|MHT211|MHT211
+29|189|MHT212|MHT212|MHT212
+29|189|MHT213|MHT213|MHT213
+29|189|MHT214|MHT214|MHT214
+29|189|MHT216|MHT216|MHT216
+29|189|MHT219|MHT219|MHT219
+29|189|MHT220|MHT220|MHT220
+29|189|MHT222|MHT222|MHT222
+29|189|MHT223|MHT223|MHT223
+29|189|MID001|MID001|MID001
+29|189|MID002|MID002|MID002
+29|189|MID003|MID003|MID003
+29|189|MID004|MID004|MID004
+29|189|MID005|MID005|MID005
+29|189|MID006|MID006|MID006
+29|189|MID007|MID007|MID007
+29|189|MID008|MID008|MID008
+29|189|MID009|MID009|MID009
+29|189|MID010|MID010|MID010
+29|189|MID011|MID011|MID011
+29|189|MID012|MID012|MID012
+29|189|MID013|MID013|MID013
+29|189|MID014|MID014|MID014
+29|189|MID015|MID015|MID015
+29|189|MID016|MID016|MID016
+29|189|MID017|MID017|MID017
+29|189|MID018|MID018|MID018
+29|189|MID019|MID019|MID019
+29|189|MID020|MID020|MID020
+29|189|MID021|MID021|MID021
+29|189|MID022|MID022|MID022
+29|189|MID023|MID023|MID023
+29|189|MID024|MID024|MID024
+29|189|MID025|MID025|MID025
+29|189|MID026|MID026|MID026
+29|189|MID027|MID027|MID027
+29|189|MID028|MID028|MID028
+29|189|MID029|MID029|MID029
+29|189|MID030|MID030|MID030
+29|189|MID031|MID031|MID031
+29|189|MID032|MID032|MID032
+29|189|MID033|MID033|MID033
+29|189|MID034|MID034|MID034
+29|189|MID035|MID035|MID035
+29|189|MID036|MID036|MID036
+29|189|MID037|MID037|MID037
+29|189|MID038|MID038|MID038
+29|189|MID039|MID039|MID039
+29|189|MID040|MID040|MID040
+29|189|MID041|MID041|MID041
+29|189|MID042|MID042|MID042
+29|189|MID043|MID043|MID043
+29|189|MID044|MID044|MID044
+29|189|MID045|MID045|MID045
+29|189|MID046|MID046|MID046
+29|189|MID047|MID047|MID047
+29|189|MID048|MID048|MID048
+29|189|MID049|MID049|MID049
+29|189|MID050|MID050|MID050
+29|189|MID051|MID051|MID051
+29|189|MID052|MID052|MID052
+29|189|MID053|MID053|MID053
+29|189|MID054|MID054|MID054
+29|189|MID055|MID055|MID055
+29|189|MID056|MID056|MID056
+29|189|MID057|MID057|MID057
+29|189|MID058|MID058|MID058
+29|189|MID059|MID059|MID059
+29|189|MID060|MID060|MID060
+29|189|MID061|MID061|MID061
+29|189|MID200|MID200|MID200
+29|189|MID201|MID201|MID201
+29|189|MID202|MID202|MID202
+29|189|MID204|MID204|MID204
+29|189|NOR001|NOR001|NOR001
+29|189|NOR002|NOR002|NOR002
+29|189|NOR003|NOR003|NOR003
+29|189|NOR004|NOR004|NOR004
+29|189|NOR005|NOR005|NOR005
+29|189|NOR006|NOR006|NOR006
+29|189|NOR007|NOR007|NOR007
+29|189|NOR008|NOR008|NOR008
+29|189|NOR009|NOR009|NOR009
+29|189|NOR010|NOR010|NOR010
+29|189|NOR011|NOR011|NOR011
+29|189|NOR012|NOR012|NOR012
+29|189|NOR013|NOR013|NOR013
+29|189|NOR014|NOR014|NOR014
+29|189|NOR015|NOR015|NOR015
+29|189|NOR016|NOR016|NOR016
+29|189|NOR017|NOR017|NOR017
+29|189|NOR018|NOR018|NOR018
+29|189|NOR019|NOR019|NOR019
+29|189|NOR020|NOR020|NOR020
+29|189|NOR021|NOR021|NOR021
+29|189|NOR022|NOR022|NOR022
+29|189|NOR023|NOR023|NOR023
+29|189|NOR024|NOR024|NOR024
+29|189|NOR025|NOR025|NOR025
+29|189|NOR026|NOR026|NOR026
+29|189|NOR027|NOR027|NOR027
+29|189|NOR028|NOR028|NOR028
+29|189|NOR029|NOR029|NOR029
+29|189|NOR030|NOR030|NOR030
+29|189|NOR031|NOR031|NOR031
+29|189|NOR032|NOR032|NOR032
+29|189|NOR033|NOR033|NOR033
+29|189|NOR034|NOR034|NOR034
+29|189|NOR035|NOR035|NOR035
+29|189|NOR036|NOR036|NOR036
+29|189|NOR037|NOR037|NOR037
+29|189|NOR038|NOR038|NOR038
+29|189|NOR039|NOR039|NOR039
+29|189|NOR040|NOR040|NOR040
+29|189|NOR041|NOR041|NOR041
+29|189|NOR042|NOR042|NOR042
+29|189|NOR043|NOR043|NOR043
+29|189|NOR044|NOR044|NOR044
+29|189|NOR045|NOR045|NOR045
+29|189|NOR046|NOR046|NOR046
+29|189|NOR047|NOR047|NOR047
+29|189|NOR048|NOR048|NOR048
+29|189|NOR049|NOR049|NOR049
+29|189|NOR050|NOR050|NOR050
+29|189|NOR051|NOR051|NOR051
+29|189|NOR052|NOR052|NOR052
+29|189|NOR053|NOR053|NOR053
+29|189|NOR054|NOR054|NOR054
+29|189|NOR055|NOR055|NOR055
+29|189|NOR056|NOR056|NOR056
+29|189|NOR200|NOR200|NOR200
+29|189|NOR201|NOR201|NOR201
+29|189|NOR202|NOR202|NOR202
+29|189|NOR203|NOR203|NOR203
+29|189|NOR204|NOR204|NOR204
+29|189|NOR208|NOR208|NOR208
+29|189|NOR213|NOR213|NOR213
+29|189|NOR218|NOR218|NOR218
+29|189|NOR222|NOR222|NOR222
+29|189|NRW001|NRW001|NRW001
+29|189|NRW002|NRW002|NRW002
+29|189|NRW003|NRW003|NRW003
+29|189|NRW004|NRW004|NRW004
+29|189|NRW005|NRW005|NRW005
+29|189|NRW006|NRW006|NRW006
+29|189|NRW007|NRW007|NRW007
+29|189|NRW008|NRW008|NRW008
+29|189|NRW009|NRW009|NRW009
+29|189|NRW010|NRW010|NRW010
+29|189|NRW011|NRW011|NRW011
+29|189|NRW012|NRW012|NRW012
+29|189|NRW013|NRW013|NRW013
+29|189|NRW014|NRW014|NRW014
+29|189|NRW015|NRW015|NRW015
+29|189|NRW016|NRW016|NRW016
+29|189|NRW017|NRW017|NRW017
+29|189|NRW018|NRW018|NRW018
+29|189|NRW019|NRW019|NRW019
+29|189|NRW020|NRW020|NRW020
+29|189|NRW021|NRW021|NRW021
+29|189|NRW022|NRW022|NRW022
+29|189|NRW023|NRW023|NRW023
+29|189|NRW024|NRW024|NRW024
+29|189|NRW025|NRW025|NRW025
+29|189|NRW026|NRW026|NRW026
+29|189|NRW027|NRW027|NRW027
+29|189|NRW028|NRW028|NRW028
+29|189|NRW029|NRW029|NRW029
+29|189|NRW030|NRW030|NRW030
+29|189|NRW031|NRW031|NRW031
+29|189|NRW032|NRW032|NRW032
+29|189|NRW033|NRW033|NRW033
+29|189|NRW034|NRW034|NRW034
+29|189|NRW035|NRW035|NRW035
+29|189|NRW036|NRW036|NRW036
+29|189|NRW037|NRW037|NRW037
+29|189|NRW038|NRW038|NRW038
+29|189|NRW039|NRW039|NRW039
+29|189|NRW040|NRW040|NRW040
+29|189|NRW041|NRW041|NRW041
+29|189|NRW042|NRW042|NRW042
+29|189|NRW043|NRW043|NRW043
+29|189|NRW044|NRW044|NRW044
+29|189|NRW045|NRW045|NRW045
+29|189|NRW046|NRW046|NRW046
+29|189|NRW047|NRW047|NRW047
+29|189|NRW048|NRW048|NRW048
+29|189|NRW049|NRW049|NRW049
+29|189|NRW050|NRW050|NRW050
+29|189|NRW051|NRW051|NRW051
+29|189|NRW200|NRW200|NRW200
+29|189|NRW201|NRW201|NRW201
+29|189|NRW202|NRW202|NRW202
+29|189|NRW203|NRW203|NRW203
+29|189|NRW204|NRW204|NRW204
+29|189|NRW205|NRW205|NRW205
+29|189|NW1604|NW006|NW006
+29|189|OAK001|OAK001|OAK001
+29|189|OAK002|OAK002|OAK002
+29|189|OAK003|OAK003|OAK003
+29|189|OAK004|OAK004|OAK004
+29|189|OAK005|OAK005|OAK005
+29|189|OAK006|OAK006|OAK006
+29|189|OAK007|OAK007|OAK007
+29|189|OAK008|OAK008|OAK008
+29|189|OAK009|OAK009|OAK009
+29|189|OAK010|OAK010|OAK010
+29|189|OAK011|OAK011|OAK011
+29|189|OAK012|OAK012|OAK012
+29|189|OAK013|OAK013|OAK013
+29|189|OAK014|OAK014|OAK014
+29|189|OAK015|OAK015|OAK015
+29|189|OAK016|OAK016|OAK016
+29|189|OAK017|OAK017|OAK017
+29|189|OAK018|OAK018|OAK018
+29|189|OAK019|OAK019|OAK019
+29|189|OAK020|OAK020|OAK020
+29|189|OAK021|OAK021|OAK021
+29|189|OAK022|OAK022|OAK022
+29|189|OAK023|OAK023|OAK023
+29|189|OAK024|OAK024|OAK024
+29|189|OAK025|OAK025|OAK025
+29|189|OAK026|OAK026|OAK026
+29|189|OAK027|OAK027|OAK027
+29|189|OAK028|OAK028|OAK028
+29|189|OAK029|OAK029|OAK029
+29|189|QUE001|QUE001|QUE001
+29|189|QUE002|QUE002|QUE002
+29|189|QUE003|QUE003|QUE003
+29|189|QUE004|QUE004|QUE004
+29|189|QUE005|QUE005|QUE005
+29|189|QUE006|QUE006|QUE006
+29|189|QUE007|QUE007|QUE007
+29|189|QUE008|QUE008|QUE008
+29|189|QUE009|QUE009|QUE009
+29|189|QUE010|QUE010|QUE010
+29|189|QUE011|QUE011|QUE011
+29|189|QUE012|QUE012|QUE012
+29|189|QUE013|QUE013|QUE013
+29|189|QUE014|QUE014|QUE014
+29|189|QUE015|QUE015|QUE015
+29|189|QUE016|QUE016|QUE016
+29|189|QUE017|QUE017|QUE017
+29|189|QUE018|QUE018|QUE018
+29|189|QUE019|QUE019|QUE019
+29|189|QUE020|QUE020|QUE020
+29|189|QUE021|QUE021|QUE021
+29|189|QUE022|QUE022|QUE022
+29|189|QUE023|QUE023|QUE023
+29|189|QUE024|QUE024|QUE024
+29|189|QUE025|QUE025|QUE025
+29|189|QUE026|QUE026|QUE026
+29|189|QUE027|QUE027|QUE027
+29|189|QUE028|QUE028|QUE028
+29|189|QUE029|QUE029|QUE029
+29|189|QUE030|QUE030|QUE030
+29|189|QUE031|QUE031|QUE031
+29|189|QUE032|QUE032|QUE032
+29|189|QUE033|QUE033|QUE033
+29|189|QUE034|QUE034|QUE034
+29|189|QUE035|QUE035|QUE035
+29|189|QUE036|QUE036|QUE036
+29|189|QUE037|QUE037|QUE037
+29|189|QUE038|QUE038|QUE038
+29|189|QUE039|QUE039|QUE039
+29|189|QUE040|QUE040|QUE040
+29|189|QUE041|QUE041|QUE041
+29|189|QUE042|QUE042|QUE042
+29|189|QUE043|QUE043|QUE043
+29|189|QUE044|QUE044|QUE044
+29|189|QUE045|QUE045|QUE045
+29|189|QUE046|QUE046|QUE046
+29|189|QUE047|QUE047|QUE047
+29|189|QUE048|QUE048|QUE048
+29|189|QUE049|QUE049|QUE049
+29|189|QUE200|QUE200|QUE200
+29|189|QUE201|QUE201|QUE201
+29|189|QUE202|QUE202|QUE202
+29|189|QUE203|QUE203|QUE203
+29|189|QUE204|QUE204|QUE204
+29|189|QUE205|QUE205|QUE205
+29|189|QUE207|QUE207|QUE207
+29|189|QUE208|QUE208|QUE208
+29|189|QUE209|QUE209|QUE209
+29|189|QUE210|QUE210|QUE210
+29|189|QUE211|QUE211|QUE211
+29|189|QUE213|QUE213|QUE213
+29|189|SPL001|SPL001|SPL001
+29|189|SPL002|SPL002|SPL002
+29|189|SPL003|SPL003|SPL003
+29|189|SPL004|SPL004|SPL004
+29|189|SPL005|SPL005|SPL005
+29|189|SPL006|SPL006|SPL006
+29|189|SPL007|SPL007|SPL007
+29|189|SPL008|SPL008|SPL008
+29|189|SPL009|SPL009|SPL009
+29|189|SPL010|SPL010|SPL010
+29|189|SPL011|SPL011|SPL011
+29|189|SPL012|SPL012|SPL012
+29|189|SPL013|SPL013|SPL013
+29|189|SPL014|SPL014|SPL014
+29|189|SPL015|SPL015|SPL015
+29|189|SPL016|SPL016|SPL016
+29|189|SPL017|SPL017|SPL017
+29|189|SPL018|SPL018|SPL018
+29|189|SPL019|SPL019|SPL019
+29|189|SPL020|SPL020|SPL020
+29|189|SPL021|SPL021|SPL021
+29|189|SPL022|SPL022|SPL022
+29|189|SPL023|SPL023|SPL023
+29|189|SPL024|SPL024|SPL024
+29|189|SPL025|SPL025|SPL025
+29|189|SPL026|SPL026|SPL026
+29|189|SPL027|SPL027|SPL027
+29|189|SPL028|SPL028|SPL028
+29|189|SPL201|SPL201|SPL201
+29|189|SPL202|SPL202|SPL202
+29|189|SPL207|SPL207|SPL207
+29|189|SPL208|SPL208|SPL208
+29|189|TSF001|TSF001|TSF001
+29|189|TSF002|TSF002|TSF002
+29|189|TSF003|TSF003|TSF003
+29|189|TSF004|TSF004|TSF004
+29|189|TSF005|TSF005|TSF005
+29|189|TSF006|TSF006|TSF006
+29|189|TSF007|TSF007|TSF007
+29|189|TSF008|TSF008|TSF008
+29|189|TSF009|TSF009|TSF009
+29|189|TSF010|TSF010|TSF010
+29|189|TSF011|TSF011|TSF011
+29|189|TSF012|TSF012|TSF012
+29|189|TSF013|TSF013|TSF013
+29|189|TSF014|TSF014|TSF014
+29|189|TSF015|TSF015|TSF015
+29|189|TSF016|TSF016|TSF016
+29|189|TSF017|TSF017|TSF017
+29|189|TSF018|TSF018|TSF018
+29|189|TSF019|TSF019|TSF019
+29|189|TSF020|TSF020|TSF020
+29|189|TSF021|TSF021|TSF021
+29|189|TSF022|TSF022|TSF022
+29|189|TSF023|TSF023|TSF023
+29|189|TSF024|TSF024|TSF024
+29|189|TSF025|TSF025|TSF025
+29|189|TSF026|TSF026|TSF026
+29|189|TSF027|TSF027|TSF027
+29|189|TSF201|TSF201|TSF201
+29|189|UNV001|UNV001|UNV001
+29|189|UNV002|UNV002|UNV002
+29|189|UNV003|UNV003|UNV003
+29|189|UNV004|UNV004|UNV004
+29|189|UNV005|UNV005|UNV005
+29|189|UNV006|UNV006|UNV006
+29|189|UNV007|UNV007|UNV007
+29|189|UNV008|UNV008|UNV008
+29|189|UNV009|UNV009|UNV009
+29|189|UNV010|UNV010|UNV010
+29|189|UNV011|UNV011|UNV011
+29|189|UNV012|UNV012|UNV012
+29|189|UNV013|UNV013|UNV013
+29|189|UNV014|UNV014|UNV014
+29|189|UNV015|UNV015|UNV015
+29|189|UNV016|UNV016|UNV016
+29|189|UNV017|UNV017|UNV017
+29|189|UNV018|UNV018|UNV018
+29|189|UNV019|UNV019|UNV019
+29|189|UNV020|UNV020|UNV020
+29|189|UNV021|UNV021|UNV021
+29|189|UNV022|UNV022|UNV022
+29|189|UNV023|UNV023|UNV023
+29|189|UNV024|UNV024|UNV024
+29|189|UNV025|UNV025|UNV025
+29|189|UNV026|UNV026|UNV026
+29|189|UNV027|UNV027|UNV027
+29|189|UNV028|UNV028|UNV028
+29|189|UNV029|UNV029|UNV029
+29|189|UNV030|UNV030|UNV030
+29|189|UNV031|UNV031|UNV031
+29|189|UNV032|UNV032|UNV032
+29|189|UNV033|UNV033|UNV033
+29|189|UNV034|UNV034|UNV034
+29|189|UNV035|UNV035|UNV035
+29|189|UNV036|UNV036|UNV036
+29|189|UNV037|UNV037|UNV037
+29|189|UNV038|UNV038|UNV038
+29|189|UNV039|UNV039|UNV039
+29|189|UNV040|UNV040|UNV040
+29|189|UNV041|UNV041|UNV041
+29|189|UNV042|UNV042|UNV042
+29|189|UNV043|UNV043|UNV043
+29|189|UNV045|UNV045|UNV045
+29|189|UNV201|UNV201|UNV201
+29|189|UNV202|UNV202|UNV202
+29|189|UNV205|UNV205|UNV205
+29|189|UNV206|UNV206|UNV206
+29|189|UNV208|UNV208|UNV208
+29|195|000003|Miami|Miami Voting District
+29|195|000004|Blackburn|Blackburn Voting District
+29|195|000005|Orearville|Orearville Voting District
+29|195|000006|Slater|Slater Voting District
+29|195|000007|Hardeman|Hardeman Voting District
+29|195|000008|Blackwater/Salt Fork|Blackwater/Salt Fork Voting District
+29|195|000010|Sweet Springs|Sweet Springs Voting District
+29|195|000011|Malta Bend|Malta Bend Voting District
+29|195|000012|Herndon|Herndon Voting District
+29|195|16-013|Marshall 1|Marshall 1 Voting District
+29|195|16-014|Marshall 4|Marshall 4 Voting District
+29|195|16-015|Marshall 2|Marshall 2 Voting District
+29|195|16-016|Marshall 3|Marshall 3 Voting District
+29|197|000002|Coatsville|Coatsville Voting District
+29|197|000003|Coffey|Coffey Voting District
+29|197|000004|Downing|Downing Voting District
+29|197|000005|East Prairie|East Prairie Voting District
+29|197|000006|Glenwood|Glenwood Voting District
+29|197|000007|Greentop|Greentop Voting District
+29|197|000008|North Liberty|North Liberty Voting District
+29|197|000009|South Liberty|South Liberty Voting District
+29|197|000010|West Prairie|West Prairie Voting District
+29|199|000002|East Jeff/Tobin|East Jeff/Tobin Voting District
+29|199|000003|Harrison|Harrison Voting District
+29|199|000004|Mt. Pleasant|Mt. Pleasant Voting District
+29|199|000005|Sand Hill|Sand Hill Voting District
+29|199|000006|Thomson/Arbela|Thomson/Arbela Voting District
+29|199|000007|Thomson/Granger|Thomson/Granger Voting District
+29|199|000008|West Jeff/Union/Miller/Vest|West Jeff/Union/Miller/Vest Voting District
+29|201|000003|Benton|Benton Voting District
+29|201|000004|Blodgett|Blodgett Voting District
+29|201|000006|Chaffee|Chaffee Voting District
+29|201|000007|Commerce|Commerce Voting District
+29|201|000009|Diehlstadt|Diehlstadt Voting District
+29|201|000010|Haywood City|Haywood City Voting District
+29|201|000011|Kelso|Kelso Voting District
+29|201|000012|Ward 3|Ward 3 Voting District
+29|201|000013|McMullin|McMullin Voting District
+29|201|000014|Miner|Miner Voting District
+29|201|000015|Morley|Morley Voting District
+29|201|000016|New Hamburg|New Hamburg Voting District
+29|201|000017|Oran|Oran Voting District
+29|201|000019|Perkins|Perkins Voting District
+29|201|000021|Scott City|Scott City Voting District
+29|201|000022|Vanduser|Vanduser Voting District
+29|201|000023|Ward 4|Ward 4 Voting District
+29|201|12-001|Ward 1|Ward 1 Voting District
+29|201|12-002|Ward 2|Ward 2 Voting District
+29|203|000002|Spring Creek|Spring Creek Voting District
+29|203|000003|Spring Valley|Spring Valley Voting District
+29|203|000004|Winona|Winona Voting District
+29|203|000005|Bartlett|Bartlett Voting District
+29|203|000006|Birch Tree|Birch Tree Voting District
+29|203|000007|Delaware|Delaware Voting District
+29|203|000008|Eminence|Eminence Voting District
+29|203|000009|Montier I & II|Montier I & II Voting District
+29|203|000010|Moore|Moore Voting District
+29|203|000011|Newton|Newton Voting District
+29|205|000002|Bethel/Tiger Fork|Bethel/Tiger Fork Voting District
+29|205|000003|Black Creek|Black Creek Voting District
+29|205|000004|Clay/Jefferson|Clay/Jefferson Voting District
+29|205|000005|Jackson|Jackson Voting District
+29|205|000006|North River|North River Voting District
+29|205|000007|Salt River East|Salt River East Voting District
+29|205|000008|Salt River West/Lentner|Salt River West/Lentner Voting District
+29|205|000009|Taylor|Taylor Voting District
+29|207|000002|Bloomfield Ward No. 2|Bloomfield Ward No. 2
+29|207|000003|Dexter Rural|Dexter Rural Voting District
+29|207|000004|Dexter Ward No. 1|Dexter Ward No. 1
+29|207|000005|Dexter Ward No. 2|Dexter Ward No. 2
+29|207|000006|Dexter Ward No. 3|Dexter Ward No. 3
+29|207|000007|Dudley|Dudley Voting District
+29|207|000008|Essex|Essex Voting District
+29|207|000009|Gray Ridge|Gray Ridge Voting District
+29|207|000010|Leora|Leora Voting District
+29|207|000011|Puxico City|Puxico City Voting District
+29|207|000012|Puxico Rural|Puxico Rural Voting District
+29|207|000013|Pyle|Pyle Voting District
+29|207|000014|Vinson|Vinson Voting District
+29|207|000015|Advance City|Advance City Voting District
+29|207|000016|Advance Rural|Advance Rural Voting District
+29|207|000017|Bell City|Bell City Voting District
+29|207|000018|Bernie City|Bernie City Voting District
+29|207|000019|Bernie Rural|Bernie Rural Voting District
+29|207|000020|Bloomfield Rural|Bloomfield Rural Voting District
+29|207|000021|Bloomfield Ward No. 1|Bloomfield Ward No. 1
+29|209|003698|Grant|Grant Voting District
+29|209|003699|Union|Union Voting District
+29|209|003701|Cass|Cass Voting District
+29|209|003723|Hurley|Hurley Voting District
+29|209|003730|Ponce de Leon|Ponce de Leon Voting District
+29|209|003751|Pierce|Pierce Voting District
+29|209|003782|Lincoln|Lincoln Voting District
+29|209|003794|McKinley|McKinley Voting District
+29|209|003800|Washington|Washington Voting District
+29|209|003814|Ruth A|Ruth A Voting District
+29|209|003842|Flat Creek A|Flat Creek A Voting District
+29|209|003877|Flat Creek B|Flat Creek B Voting District
+29|209|003889|Ruth C|Ruth C Voting District
+29|209|003898|Alpine|Alpine Voting District
+29|209|003900|Ruth C Rural/Sunset Cove|Ruth C Rural/Sunset Cove Voting District
+29|209|003903|Ruth B Rural/Kimberling City|Ruth B Rural/Kimberling City Voting District
+29|209|003908|Ruth B|Ruth B Voting District
+29|209|003933|Pine B|Pine B Voting District
+29|209|003935|Pine A|Pine A Voting District
+29|209|003938|Williams|Williams Voting District
+29|211|000002|Asbury|Asbury Voting District
+29|211|000003|Boynton|Boynton Voting District
+29|211|000004|Browning|Browning Voting District
+29|211|000005|Green Castle|Green Castle Voting District
+29|211|000006|Green City|Green City Voting District
+29|211|000007|Harris|Harris Voting District
+29|211|000008|Humphreys|Humphreys Voting District
+29|211|000009|Mystic|Mystic Voting District
+29|211|000010|Newtown|Newtown Voting District
+29|211|000011|North Polk|North Polk Voting District
+29|211|000012|Osgood|Osgood Voting District
+29|211|000013|Pennville|Pennville Voting District
+29|211|000014|Pleasant Hill|Pleasant Hill Voting District
+29|211|000015|Pollock|Pollock Voting District
+29|211|000016|Reger|Reger Voting District
+29|211|000017|South Polk|South Polk Voting District
+29|211|000018|Taylor|Taylor Voting District
+29|211|000019|West Polk|West Polk Voting District
+29|211|000020|Winigan|Winigan Voting District
+29|213|000002|BOSTON CENTER|BOSTON CENTER Voting District
+29|213|000003|BRADLEYVILLE|BRADLEYVILLE
+29|213|000004|BRANSON 1|BRANSON 1 Voting District
+29|213|000005|BRANSON 2|BRANSON 2 Voting District
+29|213|000006|BRANSON 3|BRANSON 3
+29|213|000009|CEDARCREEK|CEDARCREEK
+29|213|000010|FORSYTH 1|FORSYTH 1
+29|213|000011|FORSYTH 2|FORSYTH 2
+29|213|000012|HOLLISTER 1|HOLLISTER 1 Voting District
+29|213|000013|HOLLISTER 2|HOLLISTER 2 Voting District
+29|213|000014|HOLLISTER 3|HOLLISTER 3 Voting District
+29|213|000015|KIRBYVILLE|KIRBYVILLE Voting District
+29|213|000016|KISSEE MILLS|KISSEE MILLS
+29|213|000017|MERRIAM WOODS|MERRIAM WOODS Voting District
+29|213|000018|MT BRANSON|MT BRANSON Voting District
+29|213|000019|NORTH BRANSON|NORTH BRANSON Voting District
+29|213|000020|Mark Twain|Mark Twain
+29|213|000021|ROCKAWAY BEACH|ROCKAWAY BEACH Voting District
+29|213|000022|SKYLINE|SKYLINE Voting District
+29|213|000023|TANEYVILLE|TANEYVILLE Voting District
+29|213|000024|WALNUT SHADE|WALNUT SHADE
+29|215|000002|Jackson|Jackson Voting District
+29|215|000003|Lynch|Lynch Voting District
+29|215|000005|Morris|Morris Voting District
+29|215|000006|Ozark|Ozark Voting District
+29|215|000007|Pierce|Pierce Voting District
+29|215|000008|Piney|Piney Voting District
+29|215|000009|Roubidoux|Roubidoux Voting District
+29|215|000011|Sargent|Sargent Voting District
+29|215|000012|Boone|Boone Voting District
+29|215|000013|Sherrill|Sherrill Voting District
+29|215|000014|Upton|Upton Voting District
+29|215|000016|Burdine|Burdine Voting District
+29|215|000017|Carroll|Carroll Voting District
+29|215|000018|Cass|Cass Voting District
+29|215|000020|Clinton|Clinton Voting District
+29|215|000021|Current|Current Voting District
+29|215|000022|Date|Date Voting District
+29|217|000002|1st Baptist Church|1st Baptist Church Voting District
+29|217|000003|Bronaugh School|Bronaugh School Voting District
+29|217|000004|Courthouse|Courthouse Voting District
+29|217|000005|Deerfield Baptist Church|Deerfield Baptist Church Voting District
+29|217|000006|Harwood Town Hall|Harwood Town Hall Voting District
+29|217|000007|Home EC Building|Home EC Building Voting District
+29|217|000008|Milo Fire Barn|Milo Fire Barn Voting District
+29|217|000009|Moundville Community Building|Moundville Community Building Voting District
+29|217|000010|National Guard Armory|National Guard Armory Voting District
+29|217|000011|Rinehart Christian Church|Rinehart Christian Church Voting District
+29|217|000012|Schell City City Hall|Schell City City Hall Voting District
+29|217|000013|Sheldon Community Building|Sheldon Community Building Voting District
+29|217|000014|United Methodist Church|United Methodist Church Voting District
+29|217|000015|Virgil|Virgil Voting District
+29|217|000016|Walker Community Building|Walker Community Building Voting District
+29|217|000017|YMCA|YMCA Voting District
+29|219|000002|Concord Hill|Concord Hill Voting District
+29|219|000003|Dutzow|Dutzow Voting District
+29|219|000004|Elkhorn North|Elkhorn North Voting District
+29|219|000005|Elkhorn South|Elkhorn South Voting District
+29|219|000006|Gore - Case|Gore - Case Voting District
+29|219|000007|Holstein|Holstein Voting District
+29|219|000008|Hopewell|Hopewell Voting District
+29|219|000009|Innsbrook|Innsbrook Voting District
+29|219|000010|Lake Sherwood|Lake Sherwood Voting District
+29|219|000011|Macedonia|Macedonia Voting District
+29|219|000012|Marthasville|Marthasville Voting District
+29|219|000013|North Hickory Grove|North Hickory Grove Voting District
+29|219|000014|Pendleton|Pendleton Voting District
+29|219|000015|Smith Creek|Smith Creek Voting District
+29|219|000016|South Hickory Grove|South Hickory Grove Voting District
+29|219|000017|Truesdale|Truesdale Voting District
+29|219|000018|Walnut Grove|Walnut Grove Voting District
+29|219|000019|Warrenton Ward 1|Warrenton Ward 1
+29|219|000020|Warrenton Ward 2|Warrenton Ward 2
+29|219|000021|Warrenton Ward 3|Warrenton Ward 3
+29|219|000022|Weeks|Weeks Voting District
+29|219|000023|Wright City Ward 1|Wright City Ward 1
+29|219|000024|Wright City Ward 2|Wright City Ward 2
+29|221|000002|Algire|Algire Voting District
+29|221|000003|Belgrade|Belgrade Voting District
+29|221|000005|Caledonia|Caledonia Voting District
+29|221|000006|City Hall|City Hall
+29|221|000007|Courthouse|Courthouse
+29|221|000008|Cruise|Cruise Voting District
+29|221|000009|Ebo|Ebo Voting District
+29|221|000011|Irondale|Irondale Voting District
+29|221|000013|Old Mines|Old Mines Voting District
+29|221|000015|Pleasant Point|Pleasant Point Voting District
+29|221|000016|Richwoods|Richwoods Voting District
+29|221|000017|Shirley|Shirley Voting District
+29|221|000019|Stony Point|Stony Point Voting District
+29|223|000002|Lowndes|Lowndes Voting District
+29|223|000003|McGee|McGee Voting District
+29|223|000004|Mill Spring|Mill Spring Voting District
+29|223|000005|Patterson|Patterson Voting District
+29|223|000006|Peach Tree|Peach Tree Voting District
+29|223|000007|Piedmont Ward No. 1|Piedmont Ward No. 1
+29|223|000008|Piedmont Ward No. 2|Piedmont Ward No. 2
+29|223|000009|Shook|Shook Voting District
+29|223|000010|Silva|Silva Voting District
+29|223|000011|Wappapello|Wappapello Voting District
+29|223|000012|Brunot|Brunot Voting District
+29|223|000013|Williamsville|Williamsville Voting District
+29|223|000014|Smith Mill|Smith Mill Voting District
+29|223|000015|Cascade|Cascade Voting District
+29|223|000016|Chaonia|Chaonia Voting District
+29|223|000017|Clubb|Clubb Voting District
+29|223|000018|Coldwater|Coldwater Voting District
+29|223|000019|Cool Springs|Cool Springs Voting District
+29|223|000020|Greenville|Greenville Voting District
+29|223|000021|Hiram|Hiram Voting District
+29|225|000002|High Prairie|High Prairie Voting District
+29|225|000003|Jackson|Jackson Voting District
+29|225|000005|East Ozark|East Ozark Voting District
+29|225|000006|Northview B|Northview B Voting District
+29|225|000008|Washington|Washington Voting District
+29|225|000010|Benton|Benton Voting District
+29|225|000011|Diggins|Diggins Voting District
+29|225|000012|Finley|Finley Voting District
+29|225|000013|Grant|Grant Voting District
+29|225|000014|Hazelwood|Hazelwood Voting District
+29|225|12-019|Northview A|Northview A Voting District
+29|225|12-020|Fordland|Fordland Voting District
+29|225|14-017|Union|Union Voting District
+29|225|16-015|Marshfield West|Marshfield West Voting District
+29|225|16-016|Marshfield East|Marshfield East Voting District
+29|225|16-018|Niangua|Niangua Voting District
+29|227|000002|Allen|Allen Voting District
+29|227|000003|Fletchall East|Fletchall East Voting District
+29|227|000004|Fletchall West|Fletchall West Voting District
+29|227|000005|Greene|Greene Voting District
+29|227|000006|Middlefork|Middlefork Voting District
+29|227|000007|Smith|Smith Voting District
+29|227|000008|Union|Union Voting District
+29|229|000002|Mountain Grove|Mountain Grove Voting District
+29|229|000003|Pleasant Valley/Norwood|Pleasant Valley/Norwood Voting District
+29|229|000004|Grovespring|Grovespring Voting District
+29|229|000005|Fairview|Fairview Voting District
+29|229|000006|Little Creek|Little Creek Voting District
+29|229|000007|Brush Creek|Brush Creek Voting District
+29|229|000008|Hart|Hart Voting District
+29|229|000009|Manes|Manes Voting District
+29|510|000003|STL 1-2|STL 1-2 Voting District
+29|510|000004|STL 1-3|STL 1-3 Voting District
+29|510|000005|ST 1-4|ST 1-4 Voting District
+29|510|000006|STL 1-5|STL 1-5 Voting District
+29|510|000007|STL 1-6|STL 1-6 Voting District
+29|510|000008|STL 1-7|STL 1-7 Voting District
+29|510|000010|STL 2-1|STL 2-1 Voting District
+29|510|000011|STL 2-2|STL 2-2 Voting District
+29|510|000012|STL 2-3|STL 2-3 Voting District
+29|510|000014|STL 2-5|STL 2-5 Voting District
+29|510|000017|STL 3-2|STL 3-2 Voting District
+29|510|000019|STL 3-4|STL 3-4 Voting District
+29|510|000020|STL 3-5|STL 3-5 Voting District
+29|510|000022|STL 3-7|STL 3-7 Voting District
+29|510|000023|STL 3-8|STL 3-8 Voting District
+29|510|000025|STL 4-2|STL 4-2 Voting District
+29|510|000026|STL 4-3|STL 4-3 Voting District
+29|510|000027|STL 4-4|STL 4-4 Voting District
+29|510|000028|STL 4-5|STL 4-5 Voting District
+29|510|000030|STL 4-7|STL 4-7 Voting District
+29|510|000031|STL 4-8|STL 4-8 Voting District
+29|510|000032|STL 5-1|STL 5-1 Voting District
+29|510|000033|STL 5-2|STL 5-2 Voting District
+29|510|000035|STL 5-4|STL 5-4 Voting District
+29|510|000036|STL 5-5|STL 5-5 Voting District
+29|510|000037|STL 5-6|STL 5-6 Voting District
+29|510|000040|STL 6-1|STL 6-1 Voting District
+29|510|000041|STL 6-2|STL 6-2 Voting District
+29|510|000042|STL 6-3|STL 6-3 Voting District
+29|510|000043|STL 6-4|STL 6-4 Voting District
+29|510|000044|STL 6-5|STL 6-5 Voting District
+29|510|000045|STL 6-6|STL 6-6 Voting District
+29|510|000046|STL 6-7|STL 6-7 Voting District
+29|510|000047|STL 6-8|STL 6-8 Voting District
+29|510|000048|STL 6-9|STL 6-9 Voting District
+29|510|000049|STL 7-1|STL 7-1 Voting District
+29|510|000050|STL 7-2|STL 7-2 Voting District
+29|510|000051|STL 7-3|STL 7-3 Voting District
+29|510|000052|STL 7-4|STL 7-4 Voting District
+29|510|000053|STL 7-5|STL 7-5 Voting District
+29|510|000054|STL 7-6|STL 7-6 Voting District
+29|510|000056|STL 8-1|STL 8-1 Voting District
+29|510|000057|STL 8-2|STL 8-2 Voting District
+29|510|000058|STL 8-3|STL 8-3 Voting District
+29|510|000059|STL 8-4|STL 8-4 Voting District
+29|510|000060|STL 8-5|STL 8-5 Voting District
+29|510|000061|STL 8-6|STL 8-6 Voting District
+29|510|000062|STL 8-7|STL 8-7 Voting District
+29|510|000063|STL 8-8|STL 8-8 Voting District
+29|510|000064|STL 8-9|STL 8-9 Voting District
+29|510|000066|STL 9-2|STL 9-2 Voting District
+29|510|000067|STL 9-3|STL 9-3 Voting District
+29|510|000068|STL 9-4|STL 9-4 Voting District
+29|510|000069|STL 9-5|STL 9-5 Voting District
+29|510|000070|STL 9-6|STL 9-6 Voting District
+29|510|000072|STL 9-8|STL 9-8 Voting District
+29|510|000073|STL 10-1|STL 10-1 Voting District
+29|510|000074|STL 10-2|STL 10-2 Voting District
+29|510|000075|STL 10-3|STL 10-3 Voting District
+29|510|000076|STL 10-4|STL 10-4 Voting District
+29|510|000077|STL 10-5|STL 10-5 Voting District
+29|510|000078|STL 10-6|STL 10-6 Voting District
+29|510|000079|STL 10-7|STL 10-7 Voting District
+29|510|000080|STL 11-1|STL 11-1 Voting District
+29|510|000081|STL 11-2|STL 11-2 Voting District
+29|510|000082|STL 11-3|STL 11-3 Voting District
+29|510|000083|STL 11-4|STL 11-4 Voting District
+29|510|000084|STL 11-5|STL 11-5 Voting District
+29|510|000085|STL 12-1|STL 12-1 Voting District
+29|510|000086|STL 12-2|STL 12-2 Voting District
+29|510|000087|STL 12-3|STL 12-3 Voting District
+29|510|000088|STL 12-4|STL 12-4 Voting District
+29|510|000089|STL 12-5|STL 12-5 Voting District
+29|510|000090|STL 12-6|STL 12-6 Voting District
+29|510|000091|STL 12-7|STL 12-7 Voting District
+29|510|000092|STL 13-1|STL 13-1 Voting District
+29|510|000093|STL 13-2|STL 13-2 Voting District
+29|510|000094|STL 13-3|STL 13-3 Voting District
+29|510|000095|STL 13-4|STL 13-4 Voting District
+29|510|000096|STL 13-5|STL 13-5 Voting District
+29|510|000097|STL 13-6|STL 13-6 Voting District
+29|510|000098|STL 14-1|STL 14-1 Voting District
+29|510|000099|STL 14-2|STL 14-2 Voting District
+29|510|000100|STL 14-3|STL 14-3 Voting District
+29|510|000101|STL 14-4|STL 14-4 Voting District
+29|510|000102|STL 14-5|STL 14-5 Voting District
+29|510|000103|STL 14-6|STL 14-6 Voting District
+29|510|000104|STL 14-7|STL 14-7 Voting District
+29|510|000105|STL 15-1|STL 15-1 Voting District
+29|510|000106|STL 15-2|STL 15-2 Voting District
+29|510|000107|STL 15-3|STL 15-3 Voting District
+29|510|000108|STL 15-4|STL 15-4 Voting District
+29|510|000109|STL 15-5|STL 15-5 Voting District
+29|510|000111|STL 16-1|STL 16-1 Voting District
+29|510|000112|STL 16-2|STL 16-2 Voting District
+29|510|000113|STL 16-3|STL 16-3 Voting District
+29|510|000115|STL 16-5|STL 16-5 Voting District
+29|510|000116|STL 16-6|STL 16-6 Voting District
+29|510|000117|STL 16-7|STL 16-7 Voting District
+29|510|000118|STL 16-8|STL 16-8 Voting District
+29|510|000119|STL 17-1|STL 17-1 Voting District
+29|510|000122|STL 17-2|STL 17-2 Voting District
+29|510|000124|STL 17-4|STL 17-4 Voting District
+29|510|000125|STL 17-5|STL 17-5 Voting District
+29|510|000126|STL 17-6|STL 17-6 Voting District
+29|510|000127|STL 17-7|STL 17-7 Voting District
+29|510|000128|STL 17-8|STL 17-8 Voting District
+29|510|000130|STL 18-1|STL 18-1 Voting District
+29|510|000131|STL 18-2|STL 18-2 Voting District
+29|510|000133|STL 18-4|STL 18-4 Voting District
+29|510|000134|STL 18-5|STL 18-5 Voting District
+29|510|000135|STL 18-6|STL 18-6 Voting District
+29|510|000136|STL 19-1|STL 19-1 Voting District
+29|510|000139|STL 19-3|STL 19-3 Voting District
+29|510|000140|STL 19-4|STL 19-4 Voting District
+29|510|000141|STL 19-5|STL 19-5 Voting District
+29|510|000142|STL 19-6|STL 19-6 Voting District
+29|510|000143|STL 19-7|STL 19-7 Voting District
+29|510|000144|STL 19-8|STL 19-8 Voting District
+29|510|000145|STL 19-9|STL 19-9 Voting District
+29|510|000146|STL 20-1|STL 20-1 Voting District
+29|510|000147|STL 20-2|STL 20-2 Voting District
+29|510|000148|STL 20-3|STL 20-3 Voting District
+29|510|000149|STL 20-4|STL 20-4 Voting District
+29|510|000150|STL 20-5|STL 20-5 Voting District
+29|510|000151|STL 21-1|STL 21-1 Voting District
+29|510|000152|STL 21-2|STL 21-2 Voting District
+29|510|000153|STL 21-3|STL 21-3 Voting District
+29|510|000154|STL 21-4|STL 21-4 Voting District
+29|510|000155|STL 21-5|STL 21-5 Voting District
+29|510|000156|STL 21-6|STL 21-6 Voting District
+29|510|000157|STL 21-7|STL 21-7 Voting District
+29|510|000158|STL 22-1|STL 22-1 Voting District
+29|510|000159|STL 22-2|STL 22-2 Voting District
+29|510|000160|STL 22-3|STL 22-3 Voting District
+29|510|000161|STL 22-4|STL 22-4 Voting District
+29|510|000162|STL 22-5|STL 22-5 Voting District
+29|510|000163|STL 22-6|STL 22-6 Voting District
+29|510|000164|STL 22-7|STL 22-7 Voting District
+29|510|000165|STL 23-1|STL 23-1 Voting District
+29|510|000166|STL 23-2|STL 23-2 Voting District
+29|510|000167|STL 23-3|STL 23-3 Voting District
+29|510|000168|STL 23-4|STL 23-4 Voting District
+29|510|000169|STL 23-5|STL 23-5 Voting District
+29|510|000170|STL 23-6|STL 23-6 Voting District
+29|510|000171|STL 23-7|STL 23-7 Voting District
+29|510|000172|STL 23-8|STL 23-8 Voting District
+29|510|000174|STL 24-2|STL 24-2 Voting District
+29|510|000175|STL 24-3|STL 24-3 Voting District
+29|510|000176|STL 24-4|STL 24-4 Voting District
+29|510|000177|STL 24-5|STL 24-5 Voting District
+29|510|000178|STL 24-6|STL 24-6 Voting District
+29|510|000179|STL 24-7|STL 24-7 Voting District
+29|510|000180|STL 24-8|STL 24-8 Voting District
+29|510|000182|STL 25-1|STL 25-1 Voting District
+29|510|000183|STL 25-2|STL 25-2 Voting District
+29|510|000184|STL 25-3|STL 25-3 Voting District
+29|510|000185|STL 25-4|STL 25-4 Voting District
+29|510|000186|STL 26-1|STL 26-1 Voting District
+29|510|000187|STL 26-2|STL 26-2 Voting District
+29|510|000188|STL 26-3|STL 26-3 Voting District
+29|510|000189|STL 26-4|STL 26-4 Voting District
+29|510|000190|STL 26-5|STL 26-5 Voting District
+29|510|000191|STL 26-6|STL 26-6 Voting District
+29|510|000192|STL 27-1|STL 27-1 Voting District
+29|510|000193|STL 27-2|STL 27-2 Voting District
+29|510|000194|STL 27-3|STL 27-3 Voting District
+29|510|000195|STL 27-4|STL 27-4 Voting District
+29|510|000196|STL 27-5|STL 27-5 Voting District
+29|510|000197|STL 27-6|STL 27-6 Voting District
+29|510|000198|STL 27-7|STL 27-7 Voting District
+29|510|000199|STL 27-8|STL 27-8 Voting District
+29|510|000200|STL 28-1|STL 28-1 Voting District
+29|510|000201|STL 28-10|STL 28-10 Voting District
+29|510|000202|STL 28-2|STL 28-2 Voting District
+29|510|000203|STL 28-3|STL 28-3 Voting District
+29|510|000204|STL 28-4|STL 28-4 Voting District
+29|510|000205|STL 28-5|STL 28-5 Voting District
+29|510|000206|STL 28-6|STL 28-6 Voting District
+29|510|000208|STL 28-8|STL 28-8 Voting District
+29|510|000209|STL 28-9|STL 28-9 Voting District
+29|510|16-011|STL 1-1|STL 1-1 Voting District
+29|510|16-013|STL 2-7|STL 2-7 Voting District
+29|510|16-014|STL 2-8|STL 2-8 Voting District
+29|510|16-024|STL 2-4|STL 2-4 Voting District
+29|510|16-026|STL 2-6|STL 2-6 Voting District
+29|510|16-031|STL 3-1|STL 3-1 Voting District
+29|510|16-036|STL 3-6|STL 3-6 Voting District
+29|510|16-039|STL 3-9|STL 3-9 Voting District
+29|510|16-041|STL 4-1|STL 4-1 Voting District
+29|510|16-046|STL 4-6|STL 4-6 Voting District
+29|510|16-049|STL 4-9|STL 4-9 Voting District
+29|510|16-053|STL 5-3|STL 5-3 Voting District
+29|510|16-057|STL 5-7|STL 5-7 Voting District
+29|510|16-058|STL 5-8|STL 5-8 Voting District
+29|510|16-091|STL 9-1|STL 9-1 Voting District
+29|510|16-097|STL 9-7|STL 9-7 Voting District
+29|510|16-099|STL 9-9|STL 9-9 Voting District
+29|510|16-101|STL 12-8|STL 12-8 Voting District
+29|510|16-102|STL 12-9|STL 12-9 Voting District
+29|510|16-108|STL 10-8|STL 10-8 Voting District
+29|510|16-109|STL 10-9|STL 10-9 Voting District
+29|510|16-116|STL 11-6|STL 11-6 Voting District
+29|510|16-137|STL 13-7|STL 13-7 Voting District
+29|510|16-148|STL 14-8|STL 14-8 Voting District
+29|510|16-149|STL 14-9|STL 14-9 Voting District
+29|510|16-156|STL 15-6|STL 15-6 Voting District
+29|510|16-157|STL 15-7|STL 15-7 Voting District
+29|510|16-164|STL 16-4|STL 16-4 Voting District
+29|510|16-173|STL 17-3|STL 17-3 Voting District
+29|510|16-183|STL 18-3|STL 18-3 Voting District
+29|510|16-192|STL 19-2|STL 19-2 Voting District
+29|510|16-202|STL 28-7|STL 28-7 Voting District
+29|510|16-206|STL 20-6|STL 20-6 Voting District
+29|510|16-207|STL 20-7|STL 20-7 Voting District
+29|510|16-218|STL 21-8|STL 21-8 Voting District
+29|510|16-219|STL 21-9|STL 21-9 Voting District
+29|510|16-228|STL 22-8|STL 22-8 Voting District
+29|510|16-239|STL 23-9|STL 23-9 Voting District
+29|510|16-241|STL 24-1|STL 24-1 Voting District
+29|510|16-255|STL 25-5|STL 25-5 Voting District
+29|510|16-256|STL 25-6|STL 25-6 Voting District
+29|510|16-257|STL 25-7|STL 25-7 Voting District
+29|510|16-279|STL 27-9|STL 27-9 Voting District
+29|510|16-303|STL 3-3|STL 3-3 Voting District
+29|510|16-410|STL 4-10|STL 4-10 Voting District
+29|510|161010|STL 10-10|STL 10-10 Voting District
+29|510|161011|STL 10-11|STL 10-11 Voting District
+29|510|161012|STL 10-12|STL 10-12 Voting District
+29|510|161013|STL 10-13|STL 10-13 Voting District
+29|510|161410|STL 14-10|STL 14-10 Voting District
+29|510|162811|STL 28-11|STL 28-11 Voting District

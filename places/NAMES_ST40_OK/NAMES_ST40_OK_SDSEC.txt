@@ -1,0 +1,3 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+40|40001|Secondary Coverage Area in White Oak Public Schools (9-12)|Secondary Coverage Area in White Oak Public Schools (9-12)
+40|99001|Frederick Public Schools in Davidson (9-12)|Frederick Public Schools in Davidson (9-12)

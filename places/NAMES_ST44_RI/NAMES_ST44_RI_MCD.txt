@@ -1,0 +1,41 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+44|001|05140|Barrington|Barrington town
+44|001|09280|Bristol|Bristol town
+44|001|73760|Warren|Warren town
+44|003|18640|Coventry|Coventry town
+44|003|22240|East Greenwich|East Greenwich town
+44|003|74300|Warwick|Warwick city
+44|003|77720|West Greenwich|West Greenwich town
+44|003|78440|West Warwick|West Warwick town
+44|005|00000|County subdivisions not defined|County subdivisions not defined
+44|005|36820|Jamestown|Jamestown town
+44|005|42400|Little Compton|Little Compton town
+44|005|45460|Middletown|Middletown town
+44|005|49960|Newport|Newport city
+44|005|57880|Portsmouth|Portsmouth town
+44|005|70880|Tiverton|Tiverton town
+44|007|11800|Burrillville|Burrillville town
+44|007|14140|Central Falls|Central Falls city
+44|007|19180|Cranston|Cranston city
+44|007|20080|Cumberland|Cumberland town
+44|007|22960|East Providence|East Providence city
+44|007|27460|Foster|Foster town
+44|007|30340|Glocester|Glocester town
+44|007|37720|Johnston|Johnston town
+44|007|41500|Lincoln|Lincoln town
+44|007|51760|North Providence|North Providence town
+44|007|52480|North Smithfield|North Smithfield town
+44|007|54640|Pawtucket|Pawtucket city
+44|007|59000|Providence|Providence city
+44|007|64220|Scituate|Scituate town
+44|007|66200|Smithfield|Smithfield town
+44|007|80780|Woonsocket|Woonsocket city
+44|009|14500|Charlestown|Charlestown town
+44|009|25300|Exeter|Exeter town
+44|009|35380|Hopkinton|Hopkinton town
+44|009|48340|Narragansett|Narragansett town
+44|009|50500|New Shoreham|New Shoreham town
+44|009|51580|North Kingstown|North Kingstown town
+44|009|61160|Richmond|Richmond town
+44|009|67460|South Kingstown|South Kingstown town
+44|009|77000|Westerly|Westerly town

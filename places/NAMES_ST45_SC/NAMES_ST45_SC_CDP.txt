@@ -1,0 +1,205 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+45|00165|Abney Crossroads|Abney Crossroads CDP
+45|00370|Adams Run|Adams Run CDP
+45|00775|Alcolu|Alcolu CDP
+45|01810|Antreville|Antreville CDP
+45|02080|Arcadia|Arcadia CDP
+45|02440|Arial|Arial CDP
+45|02530|Arkwright|Arkwright CDP
+45|02665|Arthurtown|Arthurtown CDP
+45|03115|Ashwood|Ashwood CDP
+45|04528|Baxter Village|Baxter Village CDP
+45|04915|Beech Island|Beech Island CDP
+45|05410|Belvedere|Belvedere CDP
+45|05545|Ben Avon|Ben Avon CDP
+45|05770|Berea|Berea CDP
+45|07345|Boiling Springs|Boiling Springs CDP
+45|07535|Bonneau Beach|Bonneau Beach CDP
+45|08110|Boykin|Boykin CDP
+45|08155|Bradley|Bradley CDP
+45|09527|Brookdale|Brookdale CDP
+45|09782|Browntown|Browntown CDP
+45|10000|Bucksport|Bucksport CDP
+45|10090|Buffalo|Buffalo CDP
+45|10135|Buford|Buford CDP
+45|10360|Burton|Burton CDP
+45|10585|Caesars Head|Caesars Head CDP
+45|11035|Camp Croft|Camp Croft CDP
+45|11350|Cane Savannah|Cane Savannah CDP
+45|11620|Capitol View|Capitol View CDP
+45|11833|Carolina Forest|Carolina Forest CDP
+45|12205|Cash|Cash CDP
+45|12430|Catawba|Catawba CDP
+45|12520|Cateechee|Cateechee CDP
+45|12925|Centenary|Centenary CDP
+45|12965|Centerville|Centerville CDP
+45|13735|Cherokee Falls|Cherokee Falls CDP
+45|14018|Cherryvale|Cherryvale CDP
+45|14230|Chickasaw Point|Chickasaw Point CDP
+45|14455|City View|City View CDP
+45|14590|Clarks Hill|Clarks Hill CDP
+45|14860|Clearwater|Clearwater CDP
+45|15040|Clemson University|Clemson University CDP
+45|15220|Clifton|Clifton CDP
+45|15625|Cokesbury|Cokesbury CDP
+45|16180|Conestee|Conestee CDP
+45|16360|Converse|Converse CDP
+45|16675|Coosawhatchie|Coosawhatchie CDP
+45|16945|Coronaca|Coronaca CDP
+45|17845|Cross Anchor|Cross Anchor CDP
+45|18250|Dacusville|Dacusville CDP
+45|18340|Dale|Dale CDP
+45|18430|Dalzell|Dalzell CDP
+45|18475|Danwood|Danwood CDP
+45|18610|Daufuskie Island|Daufuskie Island CDP
+45|18706|Daviston|Daviston CDP
+45|18810|DeBordieu Colony|DeBordieu Colony CDP
+45|19285|Dentsville|Dentsville CDP
+45|20365|Dovesville|Dovesville CDP
+45|20590|Drayton|Drayton CDP
+45|21130|Dunbar|Dunbar CDP
+45|21310|Dunean|Dunean CDP
+45|22050|East Camden|East Camden CDP
+45|22075|East Gaffney|East Gaffney CDP
+45|22547|East Sumter|East Sumter CDP
+45|22997|Edisto|Edisto CDP
+45|23110|Edmund|Edmund CDP
+45|23290|Elgin|Elgin CDP
+45|23425|Elliott|Elliott CDP
+45|23605|Enoree|Enoree CDP
+45|24020|Eureka Mill|Eureka Mill CDP
+45|24505|Fairforest|Fairforest CDP
+45|24730|Fair Play|Fair Play CDP
+45|24865|Fairview Crossroads|Fairview Crossroads CDP
+45|25360|Fingerville|Fingerville CDP
+45|25405|Finklea|Finklea CDP
+45|25540|Five Forks|Five Forks CDP
+45|25945|Floydale|Floydale CDP
+45|26372|Forestbrook|Forestbrook CDP
+45|26485|Foreston|Foreston CDP
+45|27565|Fripp Island|Fripp Island CDP
+45|27970|Gadsden|Gadsden CDP
+45|28375|Gantt|Gantt CDP
+45|28455|Garden City|Garden City CDP
+45|28825|Gayle Mill|Gayle Mill CDP
+45|29140|Gillisonville|Gillisonville CDP
+45|29275|Glendale|Glendale CDP
+45|29320|Glenn Springs|Glenn Springs CDP
+45|29410|Gloverville|Gloverville CDP
+45|29635|Golden Grove|Golden Grove CDP
+45|30220|Gramling|Gramling CDP
+45|30265|Graniteville|Graniteville CDP
+45|30760|Green Sea|Green Sea CDP
+45|31210|Grover|Grover CDP
+45|31660|Hamer|Hamer CDP
+45|32172|Harbor Island|Harbor Island CDP
+45|33100|Helena|Helena CDP
+45|33977|Hilltop|Hilltop CDP
+45|34720|Homeland Park|Homeland Park CDP
+45|34765|Homewood|Homewood CDP
+45|34990|Hopkins|Hopkins CDP
+45|35635|India Hook|India Hook CDP
+45|35800|Inman Mills|Inman Mills CDP
+45|35980|Irwin|Irwin CDP
+45|36070|Islandton|Islandton CDP
+45|36250|Jacksonboro|Jacksonboro CDP
+45|36790|Joanna|Joanna CDP
+45|37465|Judson|Judson CDP
+45|38058|Keowee Key|Keowee Key CDP
+45|38110|Ketchuptown|Ketchuptown CDP
+45|39220|Ladson|Ladson CDP
+45|39265|La France|La France CDP
+45|39475|Lake Murray of Richland|Lake Murray of Richland CDP
+45|39512|Lake Secession|Lake Secession CDP
+45|39772|Lakewood|Lakewood CDP
+45|39785|Lake Wylie|Lake Wylie CDP
+45|40390|Langley|Langley CDP
+45|40525|Laurel Bay|Laurel Bay CDP
+45|41065|Lesslie|Lesslie CDP
+45|41830|Litchfield Beach|Litchfield Beach CDP
+45|42010|Little River|Little River CDP
+45|42055|Little Rock|Little Rock CDP
+45|42095|Live Oak|Live Oak CDP
+45|42145|Lobeco|Lobeco CDP
+45|42460|Longcreek|Longcreek CDP
+45|43000|Lugoff|Lugoff CDP
+45|43135|Lydia|Lydia CDP
+45|44395|Manville|Manville CDP
+45|45430|Mayo|Mayo CDP
+45|47050|Modoc|Modoc CDP
+45|47200|Monarch Mill|Monarch Mill CDP
+45|48310|Mount Carmel|Mount Carmel CDP
+45|48670|Mountville|Mountville CDP
+45|48737|Mulberry|Mulberry CDP
+45|48900|Murphys Estates|Murphys Estates CDP
+45|48985|Murrells Inlet|Murrells Inlet CDP
+45|49885|Newport|Newport CDP
+45|49975|Newry|Newry CDP
+45|50020|Newtown|Newtown CDP
+45|51145|North Hartsville|North Hartsville CDP
+45|51180|Northlake|Northlake CDP
+45|51367|North Santee|North Santee CDP
+45|51720|Oak Grove|Oak Grove CDP
+45|51887|Oakland|Oakland CDP
+45|52900|Olympia|Olympia CDP
+45|53485|Oswego|Oswego CDP
+45|54535|Parker|Parker CDP
+45|54970|Pauline|Pauline CDP
+45|56365|Piedmont|Piedmont CDP
+45|56545|Pimlico|Pimlico CDP
+45|56905|Pine Ridge|Pine Ridge CDP
+45|57175|Pinopolis|Pinopolis CDP
+45|58170|Powdersville|Powdersville CDP
+45|58435|Princeton|Princeton CDP
+45|58570|Privateer|Privateer CDP
+45|58615|Promised Land|Promised Land CDP
+45|58930|Rains|Rains CDP
+45|59110|Red Bank|Red Bank CDP
+45|59190|Red Hill|Red Hill CDP
+45|59470|Rembert|Rembert CDP
+45|61112|Riverview|Riverview CDP
+45|61720|Roebuck|Roebuck CDP
+45|62305|Russellville|Russellville CDP
+45|62395|St. Andrews|St. Andrews CDP
+45|62485|St. Charles|St. Charles CDP
+45|63655|Sandy Springs|Sandy Springs CDP
+45|63665|Sangaree|Sangaree CDP
+45|63700|Sans Souci|Sans Souci CDP
+45|64240|Saxon|Saxon CDP
+45|64690|Seabrook|Seabrook CDP
+45|65207|Seven Oaks|Seven Oaks CDP
+45|65590|Sheldon|Sheldon CDP
+45|65680|Shell Point|Shell Point CDP
+45|65950|Shiloh|Shiloh CDP
+45|66917|Slater-Marietta|Slater-Marietta CDP
+45|67390|Socastee|Socastee CDP
+45|67750|Southern Shops|Southern Shops CDP
+45|68177|South Sumter|South Sumter CDP
+45|68210|South Union|South Union CDP
+45|68380|Springdale|Springdale CDP
+45|68920|Startex|Startex CDP
+45|69010|Stateburg|Stateburg CDP
+45|71170|Tamassee|Tamassee CDP
+45|71395|Taylors|Taylors CDP
+45|71658|The Cliffs Valley|The Cliffs Valley CDP
+45|71890|Tigerville|Tigerville CDP
+45|72295|Tradesville|Tradesville CDP
+45|73240|Unity|Unity CDP
+45|73330|Utica|Utica CDP
+45|73465|Valley Falls|Valley Falls CDP
+45|73870|Wade Hampton|Wade Hampton CDP
+45|74140|Wallace|Wallace CDP
+45|74635|Ware Place|Ware Place CDP
+45|74725|Warrenville|Warrenville CDP
+45|75220|Watts Mills|Watts Mills CDP
+45|75445|Wedgefield|Wedgefield CDP
+45|75535|Welcome|Welcome CDP
+45|77042|White Knoll|White Knoll CDP
+45|77425|Whitney|Whitney CDP
+45|77672|Wilkinson Heights|Wilkinson Heights CDP
+45|77920|Willington|Willington CDP
+45|78505|Winnsboro Mills|Winnsboro Mills CDP
+45|78640|Wisacky|Wisacky CDP
+45|78820|Woodfield|Woodfield CDP
+45|79341|Wyboo|Wyboo CDP
+45|79720|Zion|Zion CDP

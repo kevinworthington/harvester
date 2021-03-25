@@ -1,0 +1,4 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+25|2147|Mashpee Wampanoag|Mashpee Wampanoag Trust Land
+25|4530|Wampanoag-Aquinnah|Wampanoag-Aquinnah Trust Land
+25|9150|Hassanamisco|Hassanamisco (state) Reservation

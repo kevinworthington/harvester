@@ -1,0 +1,6 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+21|21001|Laurel County School District for East Bernstadt ISD|Laurel County School District for East Bernstadt ISD
+21|21002|Pulaski County School District for Science Hill ISD|Pulaski County School District for Science Hill ISD
+21|21003|Elizabethtown Independent School District for West Point ISD|Elizabethtown Independent School District for West Point ISD
+21|21004|Jefferson County School District in Anchorage ISD|Jefferson County School District in Anchorage ISD
+21|21005|Campbell County School District in Southgate ISD|Campbell County School District in Southgate ISD

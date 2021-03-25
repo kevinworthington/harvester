@@ -1,0 +1,2 @@
+STATEFP|AIANNHCE|NAME|NAMELSAD
+47|2300|Mississippi Choctaw|Mississippi Choctaw Reservation and Off-Reservation Trust Land

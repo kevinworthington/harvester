@@ -1,0 +1,160 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+47|01220|Andersonville|Andersonville CDP
+47|01480|Apison|Apison CDP
+47|03120|Banner Hill|Banner Hill CDP
+47|04000|Beech Bluff|Beech Bluff CDP
+47|04920|Belvidere|Belvidere CDP
+47|05500|Bethpage|Bethpage CDP
+47|05840|Big Rock|Big Rock CDP
+47|06020|Biltmore|Biltmore CDP
+47|06440|Blanche|Blanche CDP
+47|06640|Bloomingdale|Bloomingdale CDP
+47|06740|Blountville|Blountville CDP
+47|07120|Bogota|Bogota CDP
+47|07240|Bon Air|Bon Air CDP
+47|07280|Bon Aqua Junction|Bon Aqua Junction CDP
+47|07620|Bowman|Bowman CDP
+47|08080|Bransford|Bransford CDP
+47|08400|Briceville|Briceville CDP
+47|09200|Buchanan|Buchanan CDP
+47|10080|Butler|Butler CDP
+47|11440|Castalian Springs|Castalian Springs CDP
+47|12460|Central|Central CDP
+47|14220|Chesterfield|Chesterfield CDP
+47|14520|Chewalla|Chewalla CDP
+47|14620|Childers Hill|Childers Hill CDP
+47|14860|Christiana|Christiana CDP
+47|15120|Clarkrange|Clarkrange CDP
+47|15880|Coalfield|Coalfield CDP
+47|16060|Coker Creek|Coker Creek CDP
+47|16500|Colonial Heights|Colonial Heights CDP
+47|16740|Conasauga|Conasauga CDP
+47|17300|Cosby|Cosby CDP
+47|17420|Cottontown|Cottontown CDP
+47|17520|Counce|Counce CDP
+47|19360|Dancyville|Dancyville CDP
+47|19500|Darden|Darden CDP
+47|20080|Delano|Delano CDP
+47|20120|Dellrose|Dellrose CDP
+47|20930|Dodson Branch|Dodson Branch CDP
+47|21860|Dukedom|Dukedom CDP
+47|22340|Eagleton Village|Eagleton Village CDP
+47|22500|East Cleveland|East Cleveland CDP
+47|23440|Elgin|Elgin CDP
+47|23880|Embreeville|Embreeville CDP
+47|24400|Essary Springs|Essary Springs CDP
+47|24640|Eva|Eva CDP
+47|24960|Fairfield|Fairfield CDP
+47|24980|Fairfield Glade|Fairfield Glade CDP
+47|24990|Fairgarden|Fairgarden CDP
+47|25080|Fairmount|Fairmount CDP
+47|25540|Fall Branch|Fall Branch CDP
+47|25560|Falling Water|Falling Water CDP
+47|25740|Farner|Farner CDP
+47|26120|Fincastle|Fincastle CDP
+47|26180|Finley|Finley CDP
+47|26490|Flat Top Mountain|Flat Top Mountain CDP
+47|26580|Flintville|Flintville CDP
+47|27640|Fowlkes|Fowlkes CDP
+47|27700|Frankewing|Frankewing CDP
+47|29260|Gladeville|Gladeville CDP
+47|30220|Graball|Graball CDP
+47|30700|Gray|Gray CDP
+47|31100|Green Hill|Green Hill CDP
+47|31220|Greenvale|Greenvale CDP
+47|31400|Griffith Creek|Griffith Creek CDP
+47|31420|Grimsley|Grimsley CDP
+47|31810|Halls|Halls CDP
+47|32040|Hampton|Hampton CDP
+47|32600|Harrison|Harrison CDP
+47|33120|Helenwood|Helenwood CDP
+47|33680|Hickman|Hickman CDP
+47|34580|Hilham|Hilham CDP
+47|34700|Hillsboro|Hillsboro CDP
+47|35220|Holladay|Holladay CDP
+47|35880|Hopewell|Hopewell CDP
+47|36500|Hunter|Hunter CDP
+47|36700|Huron|Huron CDP
+47|37360|Iron City|Iron City CDP
+47|37620|Jacks Creek|Jacks Creek CDP
+47|38300|John Sevier|John Sevier CDP
+47|38765|Kahite|Kahite CDP
+47|38800|Karns|Karns CDP
+47|40560|Lake Tansi|Lake Tansi CDP
+47|40732|Lakewood Park|Lakewood Park CDP
+47|41240|Lavinia|Lavinia CDP
+47|41780|Lenox|Lenox CDP
+47|41800|Leoma|Leoma CDP
+47|43420|Lone Oak|Lone Oak CDP
+47|44200|Luray|Luray CDP
+47|44360|Lyles|Lyles CDP
+47|44700|McDonald|McDonald CDP
+47|46400|Mascot|Mascot CDP
+47|46680|Mayland|Mayland CDP
+47|48120|Mercer|Mercer CDP
+47|48360|Middle Valley|Middle Valley CDP
+47|48460|Midtown|Midtown CDP
+47|49420|Miston|Miston CDP
+47|49940|Mooresburg|Mooresburg CDP
+47|50200|Morris Chapel|Morris Chapel CDP
+47|51402|Mowbray Mountain|Mowbray Mountain CDP
+47|52520|New Deal|New Deal CDP
+47|53240|New Union|New Union CDP
+47|53400|Nixon|Nixon CDP
+47|53520|Norene|Norene CDP
+47|54640|Oak Grove|Oak Grove CDP
+47|54700|Oak Grove|Oak Grove CDP
+47|55280|Ocoee|Ocoee CDP
+47|55820|Olivet|Olivet CDP
+47|55900|Ooltewah|Ooltewah CDP
+47|55980|Orebank|Orebank CDP
+47|56580|Palmersville|Palmersville CDP
+47|56800|Park City|Park City CDP
+47|57500|Pelham|Pelham CDP
+47|57780|Petros|Petros CDP
+47|58240|Pine Crest|Pine Crest CDP
+47|58780|Pinson|Pinson CDP
+47|59640|Pocahontas|Pocahontas CDP
+47|60480|Powell|Powell CDP
+47|60800|Prospect|Prospect CDP
+47|61560|Randolph|Randolph CDP
+47|61635|Rarity Bay|Rarity Bay CDP
+47|62580|Riceville|Riceville CDP
+47|63840|Roan Mountain|Roan Mountain CDP
+47|63920|Robbins|Robbins CDP
+47|64400|Rockvale|Rockvale CDP
+47|65642|Rural Hill|Rural Hill CDP
+47|65740|Russellville|Russellville CDP
+47|66220|Sale Creek|Sale Creek CDP
+47|66960|Sequatchie|Sequatchie CDP
+47|67140|Sewanee|Sewanee CDP
+47|67200|Seymour|Seymour CDP
+47|67230|Shackle Island|Shackle Island CDP
+47|67920|Sherwood|Sherwood CDP
+47|68040|Shiloh|Shiloh CDP
+47|69740|South Cleveland|South Cleveland CDP
+47|70680|Spurgeon|Spurgeon CDP
+47|70900|Statesville|Statesville CDP
+47|71500|Strawberry Plains|Strawberry Plains CDP
+47|71800|Sullivan Gardens|Sullivan Gardens CDP
+47|72040|Summertown|Summertown CDP
+47|72780|Taft|Taft CDP
+47|73220|Telford|Telford CDP
+47|73270|Tellico Village|Tellico Village CDP
+47|75300|Tuckers Crossroads|Tuckers Crossroads CDP
+47|76180|Unionville|Unionville CDP
+47|76660|Valley Forge|Valley Forge CDP
+47|77700|Walland|Walland CDP
+47|77760|Walnut Grove|Walnut Grove CDP
+47|77820|Walnut Grove|Walnut Grove CDP
+47|77900|Walnut Hill|Walnut Hill CDP
+47|77980|Walterhill|Walterhill CDP
+47|79500|Westpoint|Westpoint CDP
+47|80500|Whiteside|Whiteside CDP
+47|80580|Whitlock|Whitlock CDP
+47|80720|Wildersville|Wildersville CDP
+47|80740|Wildwood|Wildwood CDP
+47|80760|Wildwood Lake|Wildwood Lake CDP
+47|82120|Wrigley|Wrigley CDP
+47|82200|Wynnburg|Wynnburg CDP
+47|82440|Yuma|Yuma CDP

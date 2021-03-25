@@ -1,0 +1,1966 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+47|001|000001|Andersonville|Andersonville
+47|001|000002|Briceville|Briceville
+47|001|000003|Bull Run|Bull Run
+47|001|000004|Claxton|Claxton
+47|001|000005|Clinton|Clinton
+47|001|000006|Clinton High|Clinton High
+47|001|000007|Clinton Middle School|Clinton Middle School
+47|001|000008|Dutch Valley|Dutch Valley
+47|001|000009|Emory Valley|Emory Valley
+47|001|000010|Fairview|Fairview
+47|001|000011|Glen Alpine|Glen Alpine
+47|001|000012|Glenwood|Glenwood
+47|001|000013|Hendrix Creek|Hendrix Creek
+47|001|000014|Highland View|Highland View
+47|001|000015|Lake City|Lake City
+47|001|000016|Lake City Middle School|Lake City Middle School
+47|001|000017|Marlow|Marlow
+47|001|000018|Norris|Norris
+47|001|000019|North Clinton|North Clinton
+47|001|000020|Norwood|Norwood
+47|001|000021|Oak Ridge City Hall|Oak Ridge City Hall
+47|001|000022|Pine Valley|Pine Valley
+47|001|000023|Robertsville|Robertsville
+47|001|000024|Rosedale|Rosedale
+47|001|000025|South Clinton|South Clinton
+47|001|000026|West Hills|West Hills
+47|001|000027|Woodland|Woodland
+47|003|000101|101 Wartrace Baptist Church|101 Wartrace Baptist Church
+47|003|000102|102 Bell Buckle/Webb School|102 Bell Buckle/Webb School
+47|003|000103|203 Fairhaven Baptist Church|203 Fairhaven Baptist Church
+47|003|000104|303 Uniounville Fire Hall|303 Uniounville Fire Hall
+47|003|000105|403 Bedford Community Center|403 Bedford Community Center
+47|003|000106|502 Flat Creek Community Center|502 Flat Creek Community Center
+47|003|000107|505 Normandy Baptist Church|505 Normandy Baptist Church
+47|003|000108|601 East Side School|601 East Side School
+47|003|000109|701 Deery Eakin School|701 Deery Eakin School
+47|003|000110|801 Thomas School|801 Thomas School
+47|003|000111|902 Southside School|902 Southside School
+47|005|000201|2 Camden High School|2 Camden High School
+47|005|000202|4 Camden Elementary School|4 Camden Elementary School
+47|005|000203|3 Benton Co. Courthouse|3 Benton Co. Courthouse
+47|005|000204|1 Holladay School|1 Holladay School
+47|005|000205|5 Benton Co. Courthouse|5 Benton Co. Courthouse
+47|005|000206|6 Big Sandy School|6 Big Sandy School
+47|007|000301|Bellview|Bellview
+47|007|000302|Brayton|Brayton
+47|007|000303|Cold Springs|Cold Springs
+47|007|000304|Dill|Dill
+47|007|000305|Griffith|Griffith
+47|007|000306|Lee Station|Lee Station
+47|007|000307|Luminary|Luminary
+47|007|000308|Lusk|Lusk
+47|007|000309|Mt.Crest|Mt.Crest
+47|007|000310|Nine Mile|Nine Mile
+47|007|000311|Pikeville|Pikeville
+47|007|000312|Rigsby|Rigsby
+47|009|000401|Townsend|Townsend
+47|009|000402|Oak View|Oak View
+47|009|000403|Blount County Board of Education|Blount County Board of Education
+47|009|000404|Maryville Junior High|Maryville Junior High
+47|009|000405|Prospect|Prospect
+47|009|000406|Rockford|Rockford
+47|009|000407|Middlesettlements|Middlesettlements
+47|009|000408|Alcoa High School|Alcoa High School
+47|009|000409|Mentor|Mentor
+47|009|000410|Beech Grove|Beech Grove
+47|009|000411|Martin Luther King|Martin Luther King
+47|009|000412|Oak Street|Oak Street
+47|009|000413|Everett|Everett
+47|009|000414|Maryville Municipal|Maryville Municipal
+47|009|000415|Big Springs|Big Springs
+47|009|000416|Friendsville|Friendsville
+47|009|000417|William Blount High|William Blount High
+47|009|000418|Lanier|Lanier
+47|009|000419|William Blount Academy|William Blount Academy
+47|009|000420|Maryville High School|Maryville High School
+47|009|000421|Miser Station|Miser Station
+47|009|000423|Louisville|Louisville
+47|009|000424|Heritage|Heritage
+47|009|000425|Chilhowee View|Chilhowee View
+47|009|000426|Walland|Walland
+47|009|000427|Montvale|Montvale
+47|009|000429|Porter|Porter
+47|009|000430|John Sevier|John Sevier
+47|009|000431|Eagleton Cafeteria|Eagleton Cafeteria
+47|009|000432|Maryville College|Maryville College
+47|009|000433|Fairview|Fairview
+47|009|000434|Carpenters|Carpenters
+47|009|000435|Happy Valley|Happy Valley
+47|009|000436|Pellissippi Campus|Pellissippi Campus
+47|011|000501|101 McDonald Ruritan|101 McDonald Ruritan
+47|011|000502|701 Stuart School|701 Stuart School
+47|011|000503|604 Black Fox School|604 Black Fox School
+47|011|000504|201 E.L. Ross School|201 E.L. Ross School
+47|011|000505|202 Walker Valley High|202 Walker Valley High
+47|011|000506|302 Senior Center|302 Senior Center
+47|011|000507|702 Cleveland High|702 Cleveland High
+47|011|000508|402 Michigan Ave School|402 Michigan Ave School
+47|011|000509|301 Lee University|301 Lee University
+47|011|000510|502 5 Points Museum|502 5 Points Museum
+47|011|000511|601 Valley View School|601 Valley View School
+47|011|000512|401 Oak Grove School|401 Oak Grove School
+47|011|000513|603 Waterville School|603 Waterville School
+47|011|000514|501 Blythe/Bower School|501 Blythe/Bower School
+47|011|000515|602 Blue Springs School|602 Blue Springs School
+47|011|000516|102 Prospect School|102 Prospect School
+47|011|000517|103 Hopewell School|103 Hopewell School
+47|013|000601|College Hill|College Hill
+47|013|000602|Caryville|Caryville
+47|013|000603|West LaFollette|West LaFollette
+47|013|000604|Valley View|Valley View
+47|013|000605|Elk Valley|Elk Valley
+47|013|000607|LaFollette Elementary School|LaFollette Elementary School
+47|013|000608|East LaFollette|East LaFollette
+47|013|000609|Jacksboro|Jacksboro
+47|013|000610|Campbell County High School|Campbell County High School
+47|013|000611|Jacksboro Station|Jacksboro Station
+47|013|000612|Pinecrest|Pinecrest
+47|013|000613|Ridgewood|Ridgewood
+47|013|000614|Clinchmore|Clinchmore
+47|013|000615|Demory|Demory
+47|013|000616|Alder Springs|Alder Springs
+47|013|000617|Well Springs|Well Springs
+47|013|000618|Habersham|Habersham
+47|013|000619|White Oak|White Oak
+47|013|000620|Newcomb|Newcomb
+47|013|000621|Jellico|Jellico
+47|015|000701|Westside|Westside
+47|015|000702|Gassaway|Gassaway
+47|015|000703|Woodland|Woodland
+47|015|000704|Eastside|Eastside
+47|015|000705|Woodbury|Woodbury
+47|015|000706|Auburntown|Auburntown
+47|015|000707|Pleasant Ridge|Pleasant Ridge
+47|015|000708|2 Short Mountain|2 Short Mountain
+47|015|000709|4 Short Mountain|4 Short Mountain
+47|017|000801|2 Trezevant|2 Trezevant
+47|017|000802|7 Macedonia|7 Macedonia
+47|017|000803|12 Bruceton|12 Bruceton
+47|017|000804|5 Cedar Grove|5 Cedar Grove
+47|017|000805|8 Civic Center|8 Civic Center
+47|017|000806|19 Concord|19 Concord
+47|017|000807|9 Huntingdon Police Station|9 Huntingdon Police Station
+47|017|000808|17 Senior Citizens|17 Senior Citizens
+47|017|000809|21 Bethel|21 Bethel
+47|017|000810|4 McLemoresville|4 McLemoresville
+47|017|000811|14 Vale|14 Vale
+47|017|000812|6 Clarksburg|6 Clarksburg
+47|017|000813|20 Westport|20 Westport
+47|017|000814|18 Cannon|18 Cannon
+47|017|000815|13 Hollow Rock|13 Hollow Rock
+47|017|000816|1 Lavinia|1 Lavinia
+47|017|000817|16 Atwood|16 Atwood
+47|017|000818|22 McKenzie City hall|22 McKenzie City hall
+47|017|000819|11 Buena Vista|11 Buena Vista
+47|019|000901|Happy Valley|Happy Valley
+47|019|000902|Central|Central
+47|019|000903|Range|Range
+47|019|000904|Westside|Westside
+47|019|000905|High School|High School
+47|019|000906|Court House|Court House
+47|019|000907|Keenburg|Keenburg
+47|019|000908|Hunter|Hunter
+47|019|000909|Siam|Siam
+47|019|000910|Eastside|Eastside
+47|019|000911|Valley Forge|Valley Forge
+47|019|000912|Harold McCormick|Harold McCormick
+47|019|000913|Little Milligan|Little Milligan
+47|019|000914|Elk Mills|Elk Mills
+47|019|000915|Roan Mountain|Roan Mountain
+47|019|000916|Hampton|Hampton
+47|019|000917|Gap Creek|Gap Creek
+47|019|000918|Tiger Valley|Tiger Valley
+47|019|000919|Unaka|Unaka
+47|019|000920|Watauga|Watauga
+47|019|000921|Midway|Midway
+47|019|000922|National Guard Armory|National Guard Armory
+47|021|001001|2-1 East Cheatham Elementary|2-1 East Cheatham Elementary
+47|021|001002|4-1 West Cheatham Elementary|4-1 West Cheatham Elementary
+47|021|001003|3-1 Pleasant View First Baptist Church|3-1 Pleasant View First Baptist Church
+47|021|001004|1-1 Cheatham Co Library|1-1 Cheatham Co Library
+47|021|001005|5-1 Greenbrier Church of Christ|5-1 Greenbrier Church of Christ
+47|021|001006|6-1 Harpeth High School|6-1 Harpeth High School
+47|021|001007|5-2 Pegram City Hall|5-2 Pegram City Hall
+47|021|001008|4-3 Sycamore Middle School|4-3 Sycamore Middle School
+47|023|001101|2-2 Friendship|2-2 Friendship
+47|023|001102|4-1 West Chester School|4-1 West Chester School
+47|023|001103|3-2 Montezuma|3-2 Montezuma
+47|023|001104|1-5 Sweet Lips|1-5 Sweet Lips
+47|023|001105|5-1 East Chester School|5-1 East Chester School
+47|023|001106|6-1 City Hall|6-1 City Hall
+47|023|001107|2-1 Jacks Creek|2-1 Jacks Creek
+47|023|001108|1-2 Enville|1-2 Enville
+47|023|001109|1-6 Harmony|1-6 Harmony
+47|023|001110|3-6 Deanburg|3-6 Deanburg
+47|023|001111|3-4 Masseyville|3-4 Masseyville
+47|025|001201|7-1 Arthur|7-1 Arthur
+47|025|001202|9-1 Clairfield|9-1 Clairfield
+47|025|001203|5-1 Big Spring Union|5-1 Big Spring Union
+47|025|001204|6-1 Harrogate|6-1 Harrogate
+47|025|001205|2-2 Goin|2-2 Goin
+47|025|001206|3-2 New Tazewell|3-2 New Tazewell
+47|025|001207|3-1 Lone Mountain|3-1 Lone Mountain
+47|025|001208|8-2 Vanbebber Springs|8-2 Vanbebber Springs
+47|025|001209|7-2 Cumberland Gap|7-2 Cumberland Gap
+47|025|001210|1-1 Tazewell|1-1 Tazewell
+47|025|001211|2-3 Sandlick|2-3 Sandlick
+47|025|001212|4-1 Gibson Hall|4-1 Gibson Hall
+47|025|001213|2-1 Clouds|2-1 Clouds
+47|025|001214|4-2 Howard's Quarter|4-2 Howard's Quarter
+47|025|001215|4-4 Springdale|4-4 Springdale
+47|025|001216|4-3 Liberty|4-3 Liberty
+47|025|001217|8-1 Rogers Mill|8-1 Rogers Mill
+47|027|001301|4-1 Maple Grove|4-1 Maple Grove
+47|027|001302|5-1 Arcot/Beech Bethany|5-1 Arcot/Beech Bethany
+47|027|001303|1 Dentons Cross Roads|1 Dentons Cross Roads
+47|027|001304|5-2 Pea Ridge|5-2 Pea Ridge
+47|027|001305|3 Celina|3 Celina
+47|027|001306|4-2 Butlers Landing|4-2 Butlers Landing
+47|027|001307|2 Hermitage Springs|2 Hermitage Springs
+47|029|001401|Long Creek|Long Creek
+47|029|001402|Cocke County High School|Cocke County High School
+47|029|001403|Centerview|Centerview
+47|029|001404|Del Rio|Del Rio
+47|029|001405|Smoky Mountain|Smoky Mountain
+47|029|001406|Newport Grammar School|Newport Grammar School
+47|029|001407|Northport|Northport
+47|029|001408|Grassy Fork|Grassy Fork
+47|029|001409|Edwina|Edwina
+47|029|001410|Cosby|Cosby
+47|029|001411|Armory|Armory
+47|029|001412|Edgemont|Edgemont
+47|029|001413|Rankin|Rankin
+47|029|001414|Forest Hill|Forest Hill
+47|029|001415|West End|West End
+47|029|001416|Central|Central
+47|029|001417|Bridgeport|Bridgeport
+47|029|001418|Houston Valley|Houston Valley
+47|029|001419|Parrottsville|Parrottsville
+47|031|001501|01 Ada Right Center|01 Ada Right Center
+47|031|001502|02 Saint Paul United Methodist Church|02 Saint Paul United Methodist Church
+47|031|001503|03 Trinity Baptist Church|03 Trinity Baptist Church
+47|031|001504|04 First Baptist Church|04 First Baptist Church
+47|031|001505|05 Hillsboro Community Center|05 Hillsboro Community Center
+47|031|001506|06 Tennessee Vocational Center|06 Tennessee Vocational Center
+47|031|001507|07 Forrest Mill Church of Christ Activity Center|07 Forrest Mill Church of Christ Activity Center
+47|031|001508|08 New Union Fire Hall|08 New Union Fire Hall
+47|031|001509|10 Mt. Ararat Baptist Church|10 Mt. Ararat Baptist Church
+47|031|001510|11 Freedonia Community Center|11 Freedonia Community Center
+47|031|001511|12 North Coffee Elementary School|12 North Coffee Elementary School
+47|031|001512|13-1 Blanton's Chapel Community Center|13-1 Blanton's Chapel Community Center
+47|031|001513|13-2 Grace Baptist Center|13-2 Grace Baptist Center
+47|031|001514|14 Hickerson Fire Hall|14 Hickerson Fire Hall
+47|031|001515|15 Grace Baptist Church|15 Grace Baptist Church
+47|031|001516|16 Lions Club|16 Lions Club
+47|031|001517|17 National Guard Armory|17 National Guard Armory
+47|031|001518|18 First Christian Church|18 First Christian Church
+47|031|001519|19 CD Stamps Center|19 CD Stamps Center
+47|031|001520|20 Coffee County Senior Citizens|20 Coffee County Senior Citizens
+47|031|001521|21 Wilson Avenue Church of Christ|21 Wilson Avenue Church of Christ
+47|031|001522|9-1 Pocahontas Community Center|9-1 Pocahontas Community Center
+47|031|001523|9-2 Summitville Community Center|9-2 Summitville Community Center
+47|033|001601|4|4
+47|033|001602|1|1
+47|033|001603|2|2
+47|033|001604|9|9
+47|033|001605|10|10
+47|033|001606|11|11
+47|033|001607|12|12
+47|033|001608|5|5
+47|033|001609|3|3
+47|033|001610|7|7
+47|033|001611|8|8
+47|033|001612|6|6
+47|035|001701|Bakers|Bakers
+47|035|001702|Big Lick|Big Lick
+47|035|001703|Chestnut Hill|Chestnut Hill
+47|035|001704|Complex 2|Complex 2
+47|035|001705|Cornerstone Baptist Church|Cornerstone Baptist Church
+47|035|001706|Crab Orchard Town Hall|Crab Orchard Town Hall
+47|035|001707|Dorton|Dorton
+47|035|001708|Fairfield Glade North|Fairfield Glade North
+47|035|001709|Fairfield Glade South|Fairfield Glade South
+47|035|001710|Grassy Cove|Grassy Cove
+47|035|001711|Homestead|Homestead
+47|035|001712|Lantana|Lantana
+47|035|001713|Linary|Linary
+47|035|001714|Mayland|Mayland
+47|035|001715|Midway|Midway
+47|035|001716|Oak Hill|Oak Hill
+47|035|001717|Ozone-Pineview|Ozone-Pineview
+47|035|001718|Pleasant Hill|Pleasant Hill
+47|035|001719|Pomona|Pomona
+47|035|001720|Rinnie|Rinnie
+47|035|001721|Tabor|Tabor
+47|035|001722|Tansi|Tansi
+47|035|001723|Vandever|Vandever
+47|035|001724|Woody|Woody
+47|037|001801|1-1|1-1
+47|037|001802|1-2|1-2
+47|037|001803|1-3|1-3
+47|037|001804|1-4|1-4
+47|037|001805|1-5|1-5
+47|037|001806|2-1|2-1
+47|037|001807|2-2|2-2
+47|037|001808|2-3|2-3
+47|037|001809|2-4|2-4
+47|037|001810|2-5|2-5
+47|037|001811|3-1|3-1
+47|037|001812|3-2|3-2
+47|037|001813|3-3|3-3
+47|037|001814|3-4|3-4
+47|037|001815|3-5|3-5
+47|037|001816|3-6|3-6
+47|037|001817|4-1|4-1
+47|037|001818|4-2|4-2
+47|037|001819|4-3|4-3
+47|037|001820|4-4|4-4
+47|037|001821|5-1|5-1
+47|037|001822|5-2|5-2
+47|037|001823|5-3|5-3
+47|037|001824|5-4|5-4
+47|037|001825|5-5|5-5
+47|037|001826|6-1|6-1
+47|037|001827|6-2|6-2
+47|037|001828|6-3|6-3
+47|037|001829|6-4|6-4
+47|037|001830|6-5|6-5
+47|037|001831|7-1|7-1
+47|037|001832|7-2|7-2
+47|037|001833|7-3|7-3
+47|037|001834|7-4|7-4
+47|037|001835|7-5|7-5
+47|037|001836|7-6|7-6
+47|037|001837|8-1|8-1
+47|037|001838|8-2|8-2
+47|037|001839|8-3|8-3
+47|037|001840|8-4|8-4
+47|037|001841|9-1|9-1
+47|037|001842|9-2|9-2
+47|037|001843|9-3|9-3
+47|037|001844|10-1|10-1
+47|037|001845|10-2|10-2
+47|037|001846|10-3|10-3
+47|037|001847|10-4|10-4
+47|037|001848|10-5|10-5
+47|037|001849|10-6|10-6
+47|037|001850|11-1|11-1
+47|037|001851|11-2|11-2
+47|037|001852|11-3|11-3
+47|037|001853|11-4|11-4
+47|037|001854|12-1|12-1
+47|037|001855|12-2|12-2
+47|037|001856|12-3|12-3
+47|037|001857|12-4|12-4
+47|037|001858|12-5|12-5
+47|037|001859|13-1|13-1
+47|037|001860|13-2|13-2
+47|037|001861|13-3|13-3
+47|037|001862|13-4|13-4
+47|037|001863|14-1|14-1
+47|037|001864|14-2|14-2
+47|037|001865|14-3|14-3
+47|037|001866|14-4|14-4
+47|037|001867|14-5|14-5
+47|037|001868|15-1|15-1
+47|037|001869|15-2|15-2
+47|037|001870|15-3|15-3
+47|037|001871|15-4|15-4
+47|037|001872|15-5|15-5
+47|037|001873|16-1|16-1
+47|037|001874|16-2|16-2
+47|037|001875|16-3|16-3
+47|037|001876|16-4|16-4
+47|037|001877|16-5|16-5
+47|037|001878|17-1|17-1
+47|037|001879|17-2|17-2
+47|037|001880|17-3|17-3
+47|037|001881|17-4|17-4
+47|037|001882|17-5|17-5
+47|037|001883|17-6|17-6
+47|037|001884|17-7|17-7
+47|037|001885|18-1|18-1
+47|037|001886|18-2|18-2
+47|037|001887|18-3|18-3
+47|037|001888|18-4|18-4
+47|037|001889|18-5|18-5
+47|037|001890|19-1|19-1
+47|037|001891|19-2|19-2
+47|037|001892|19-3|19-3
+47|037|001893|19-4|19-4
+47|037|001894|19-5|19-5
+47|037|001895|19-6|19-6
+47|037|001896|20-1|20-1
+47|037|001897|20-2|20-2
+47|037|001898|20-3|20-3
+47|037|001899|21-1|21-1
+47|037|001900|21-2|21-2
+47|037|001901|21-3|21-3
+47|037|001902|21-4|21-4
+47|037|001903|22-1|22-1
+47|037|001905|22-3|22-3
+47|037|001906|22-4|22-4
+47|037|001907|23-1|23-1
+47|037|001908|23-2|23-2
+47|037|001909|23-3|23-3
+47|037|001910|23-4|23-4
+47|037|001911|23-5|23-5
+47|037|001912|24-1|24-1
+47|037|001913|24-2|24-2
+47|037|001914|24-3|24-3
+47|037|001915|24-4|24-4
+47|037|001916|24-5|24-5
+47|037|001917|24-6|24-6
+47|037|001918|25-1|25-1
+47|037|001919|25-2|25-2
+47|037|001920|25-3|25-3
+47|037|001921|25-4|25-4
+47|037|001922|26-1|26-1
+47|037|001923|26-2|26-2
+47|037|001924|26-3|26-3
+47|037|001925|26-4|26-4
+47|037|001926|27-1|27-1
+47|037|001927|27-2|27-2
+47|037|001928|27-3|27-3
+47|037|001929|28-1|28-1
+47|037|001930|28-2|28-2
+47|037|001931|28-3|28-3
+47|037|001932|29-1|29-1
+47|037|001933|29-2|29-2
+47|037|001934|29-3|29-3
+47|037|001935|29-4|29-4
+47|037|001936|30-1|30-1
+47|037|001937|30-2|30-2
+47|037|001938|30-3|30-3
+47|037|001939|30-4|30-4
+47|037|001940|31-1|31-1
+47|037|001941|31-2|31-2
+47|037|001942|31-3|31-3
+47|037|001943|31-4|31-4
+47|037|001944|32-1|32-1
+47|037|001945|32-2|32-2
+47|037|001946|32-3|32-3
+47|037|001947|32-4|32-4
+47|037|001948|33-1|33-1
+47|037|001949|33-2|33-2
+47|037|001950|33-3|33-3
+47|037|001951|33-4|33-4
+47|037|001953|34-1|34-1
+47|037|001954|34-2|34-2
+47|037|001955|34-3|34-3
+47|037|001956|34-4|34-4
+47|037|001957|34-5|34-5
+47|037|001958|35-1|35-1
+47|037|001959|35-2|35-2
+47|037|001960|35-3|35-3
+47|037|001961|35-4|35-4
+47|039|002051|Scotts Hill|Scotts Hill
+47|039|002052|4th Decaturville|4th Decaturville
+47|039|002053|3rd Decaturville|3rd Decaturville
+47|039|002054|Dunbar|Dunbar
+47|039|002055|5th Parsons|5th Parsons
+47|039|002056|6th Parsons|6th Parsons
+47|039|002057|7-1 Jeanette|7-1 Jeanette
+47|039|002058|8th Parsons|8th Parsons
+47|039|002059|9-2 Hydro|9-2 Hydro
+47|039|002060|Liberty|Liberty
+47|039|002061|9th Beacon|9th Beacon
+47|039|002062|Perryville|Perryville
+47|039|002063|3rd Beacon|3rd Beacon
+47|041|002151|1-3 Edgar Evins State Park|1-3 Edgar Evins State Park
+47|041|002152|2-1 Liberty|2-1 Liberty
+47|041|002153|3 Church of God|3 Church of God
+47|041|002154|6-3 Blue Springs|6-3 Blue Springs
+47|041|002155|4-3 Courthouse|4-3 Courthouse
+47|041|002156|7 Church of Christ Annex|7 Church of Christ Annex
+47|041|002157|5-2 County Complex|5-2 County Complex
+47|041|002158|1-1 Alexandria|1-1 Alexandria
+47|041|002159|1-2 Temperence Hall|1-2 Temperence Hall
+47|041|002160|2-2 Dowelltown|2-2 Dowelltown
+47|041|002161|2-3 Snows Hill|2-3 Snows Hill
+47|041|002162|4-2 Rock Castle|4-2 Rock Castle
+47|041|002164|5-1 Johnson Chapel|5-1 Johnson Chapel
+47|041|002165|6-2 Keltonburg|6-2 Keltonburg
+47|041|002166|6-1 Belk|6-1 Belk
+47|043|002251|6-2 Porter Community Center|6-2 Porter Community Center
+47|043|002252|6-1 Burns Church of Christ|6-1 Burns Church of Christ
+47|043|002253|12-2 Greater Things Baptist Church|12-2 Greater Things Baptist Church
+47|043|002254|12-1 White Bluff Community Center|12-1 White Bluff Community Center
+47|043|002255|7-1 Pomona Baptist Church|7-1 Pomona Baptist Church
+47|043|002256|2-1 Eno Community Center|2-1 Eno Community Center
+47|043|002257|2-2 TN City Fire Hall|2-2 TN City Fire Hall
+47|043|002258|3-1 Calvary Chapel|3-1 Calvary Chapel
+47|043|002259|3-2 Vanleer Town Hall|3-2 Vanleer Town Hall
+47|043|002260|4-1 Jackson Chapel|4-1 Jackson Chapel
+47|043|002261|5-1 White Bluff Civic Center|5-1 White Bluff Civic Center
+47|043|002262|1-2 Sylvia Baptist Church|1-2 Sylvia Baptist Church
+47|043|002263|1-1 Charlotte Fagan UMC|1-1 Charlotte Fagan UMC
+47|043|002264|9-1 Restoration Church|9-1 Restoration Church
+47|043|002265|10-1 First Baptist Church|10-1 First Baptist Church
+47|043|002266|11-1 Tennsco Community Center|11-1 Tennsco Community Center
+47|043|002267|8-1 Senior Citizens|8-1 Senior Citizens
+47|045|002351|A - Bonicord|A - Bonicord
+47|045|002352|A - Fowlkes|A - Fowlkes
+47|045|002353|B - Newbern|B - Newbern
+47|045|002354|C-Tatumville|C-Tatumville
+47|045|002355|C - Roellen|C - Roellen
+47|045|002356|C - Trimble|C - Trimble
+47|045|002357|D-Bogota|D-Bogota
+47|045|002358|D - Millsfield|D - Millsfield
+47|045|002359|E - Finley|E - Finley
+47|045|002360|E - Lenox|E - Lenox
+47|045|002361|F - Dyer County Central|F - Dyer County Central
+47|045|002362|G - Courthouse|G - Courthouse
+47|045|002363|H - E. Dyersburg|H - E. Dyersburg
+47|045|002364|I - Community Center|I - Community Center
+47|045|002365|I - Hurricane Hill|I - Hurricane Hill
+47|045|002366|J-N Dyersburg|J-N Dyersburg
+47|047|002451|6 Oakland|6 Oakland
+47|047|002452|7 Hickory White|7 Hickory White
+47|047|002453|8 Elba|8 Elba
+47|047|002454|9 Piperton|9 Piperton
+47|047|002455|10 Rossville|10 Rossville
+47|047|002456|11 Macon|11 Macon
+47|047|002457|13 Moscow|13 Moscow
+47|047|002458|12 Williston|12 Williston
+47|047|002459|15 La Grange|15 La Grange
+47|047|002460|14 Parks|14 Parks
+47|047|002461|2 Fayette Corner|2 Fayette Corner
+47|047|002462|4 Braden|4 Braden
+47|047|002463|5 Gallaway|5 Gallaway
+47|047|002464|3 Garnett|3 Garnett
+47|047|002465|1 Somerville|1 Somerville
+47|049|002551|Armathwaite|Armathwaite
+47|049|002552|Banner|Banner
+47|049|002553|Allardt|Allardt
+47|049|002554|Courthouse|Courthouse
+47|049|002555|Pine Haven|Pine Haven
+47|049|002556|Clarkrange|Clarkrange
+47|049|002557|Community Center|Community Center
+47|049|002558|Crossroad|Crossroad
+47|049|002559|Pall Mall|Pall Mall
+47|049|002560|West Fentress|West Fentress
+47|049|002561|Tinchtown|Tinchtown
+47|049|002562|Grimsley|Grimsley
+47|049|002563|East Jamestown|East Jamestown
+47|051|002651|1-1 FC Annex|1-1 FC Annex
+47|051|002652|2-1 Clark Memorial|2-1 Clark Memorial
+47|051|002653|3-1 Broadview|3-1 Broadview
+47|051|002654|3-2 Huntland|3-2 Huntland
+47|051|002655|3-3 Walnut Grove|3-3 Walnut Grove
+47|051|002656|4-1 Belvidere|4-1 Belvidere
+47|051|002657|4-2 Cowan|4-2 Cowan
+47|051|002658|4-3 Liberty|4-3 Liberty
+47|051|002659|5-1 Keith Springs|5-1 Keith Springs
+47|051|002660|5-2 Sewanee|5-2 Sewanee
+47|051|002661|5-3 Sherwood|5-3 Sherwood
+47|051|002662|6-1 Alto/Oak Grove|6-1 Alto/Oak Grove
+47|051|002663|6-2 Capitol Hill|6-2 Capitol Hill
+47|051|002664|6-3 UTSI|6-3 UTSI
+47|051|002665|7-1 North Lake|7-1 North Lake
+47|051|002666|7-2 Winchester Springs & Center Grove|7-2 Winchester Springs & Center Grove
+47|051|002667|8-1 Decherd|8-1 Decherd
+47|051|002668|8-2 Estill Springs|8-2 Estill Springs
+47|051|005757|Monteagle|Monteagle
+47|051|005764|South Pittsburg|South Pittsburg
+47|053|002751|01 Medina|01 Medina
+47|053|002752|02 Sitka Community Center|02 Sitka Community Center
+47|053|002753|04 Gibson|04 Gibson
+47|053|002754|06 Humboldt Ch of Chr|06 Humboldt Ch of Chr
+47|053|002755|07 Humboldt Park|07 Humboldt Park
+47|053|002756|08 St. James Baptist Church|08 St. James Baptist Church
+47|053|002757|09 Humboldt Lane Chapel|09 Humboldt Lane Chapel
+47|053|002758|10 Humboldt High School|10 Humboldt High School
+47|053|002759|13 Fruitland|13 Fruitland
+47|053|002760|12 Edison|12 Edison
+47|053|002761|14 Brazil|14 Brazil
+47|053|002762|20 CourtHouse|20 CourtHouse
+47|053|002763|22 Agri Plex|22 Agri Plex
+47|053|002764|24 Moore's Chapel|24 Moore's Chapel
+47|053|002765|26 Union Central|26 Union Central
+47|053|002766|27 Skullbone|27 Skullbone
+47|053|002767|28 Cumberland Presbyterian Church|28 Cumberland Presbyterian Church
+47|053|002768|29 Milan Polk Clark|29 Milan Polk Clark
+47|053|002769|30 Milan Assembly/God|30 Milan Assembly/God
+47|053|002770|31 Milan Muni Bldg|31 Milan Muni Bldg
+47|053|002771|17 Yorkville|17 Yorkville
+47|053|002772|18 Kenton|18 Kenton
+47|053|002773|40 Rutherford|40 Rutherford
+47|053|002774|32 Bradford|32 Bradford
+47|053|002775|34 Laneview|34 Laneview
+47|053|002776|37 Good Luck|37 Good Luck
+47|053|002777|38 Dyer|38 Dyer
+47|053|002778|39 Currie|39 Currie
+47|055|002851|1B Prospect|1B Prospect
+47|055|002852|2B Airport|2B Airport
+47|055|002853|2A Minor Hill|2A Minor Hill
+47|055|002854|1A Ardmore|1A Ardmore
+47|055|002855|3A Richland Trace Market|3A Richland Trace Market
+47|055|002856|3B Campbellsville|3B Campbellsville
+47|055|002857|4A Lynnville|4A Lynnville
+47|055|002858|4B Odds Fellows Hall|4B Odds Fellows Hall
+47|055|002859|5A TCAT|5A TCAT
+47|055|002860|5B Agri-Park|5B Agri-Park
+47|055|002861|6A MMC Martin Methodist College|6A MMC Martin Methodist College
+47|055|002862|6B BMS Bridgeforth Middle School|6B BMS Bridgeforth Middle School
+47|055|002863|7A GCHS Giles County High School|7A GCHS Giles County High School
+47|055|002864|7B Recreation Center|7B Recreation Center
+47|057|002951|4-2 Washburn Ele. School|4-2 Washburn Ele. School
+47|057|002952|1-2 Old Central Point School|1-2 Old Central Point School
+47|057|002953|1-1 Rutledge Middle School|1-1 Rutledge Middle School
+47|057|002954|3-2 Indian Ridge Comm. Blg.|3-2 Indian Ridge Comm. Blg.
+47|057|002955|3-1 Blaine City Hall|3-1 Blaine City Hall
+47|057|002956|4-1 Thorn Hill Comm. Blg.|4-1 Thorn Hill Comm. Blg.
+47|057|002957|2-1 Bean Station Ele. School|2-1 Bean Station Ele. School
+47|057|002958|2-2 Grainger High School|2-2 Grainger High School
+47|057|002959|5-2 Senior Citizens Center|5-2 Senior Citizens Center
+47|057|002960|5-1 Bean Station Library|5-1 Bean Station Library
+47|059|003052|Camp Creek|Camp Creek
+47|059|003053|Nolachuckey|Nolachuckey
+47|059|003054|McDonald|McDonald
+47|059|003059|Debusk|Debusk
+47|059|003061|High School|High School
+47|059|003063|Tusculum View|Tusculum View
+47|059|003065|Court House|Court House
+47|059|003066|Middle School|Middle School
+47|059|003067|Baileyton|Baileyton
+47|059|003069|Doak|Doak
+47|059|003072|Chuckey Doak|Chuckey Doak
+47|059|003073|Chuckey|Chuckey
+47|059|003076|West Pines|West Pines
+47|059|003077|South Greene|South Greene
+47|059|003080|Ottway|Ottway
+47|059|003082|Mosheim|Mosheim
+47|059|003084|Glenwood|Glenwood
+47|061|003152|Beersheba|Beersheba
+47|061|003153|Altamont|Altamont
+47|061|003154|Collins|Collins
+47|061|003155|Central|Central
+47|061|003156|Tracy|Tracy
+47|061|003157|Cross Roads|Cross Roads
+47|061|003160|Coalmont|Coalmont
+47|061|003161|Monteagle|Monteagle
+47|061|003162|Palmer|Palmer
+47|061|003163|Gruetli|Gruetli
+47|063|003251|4-1|4-1
+47|063|003252|1-1|1-1
+47|063|003253|2-1|2-1
+47|063|003254|3-1|3-1
+47|063|003255|5-1|5-1
+47|063|003256|6-1|6-1
+47|063|003257|7-1|7-1
+47|063|003258|8-1|8-1
+47|063|003259|9-1|9-1
+47|063|003260|9-2|9-2
+47|063|003261|10-1|10-1
+47|063|003262|10-2|10-2
+47|063|003263|12-1|12-1
+47|063|003264|13-1|13-1
+47|063|003265|14-1|14-1
+47|063|003266|11-2|11-2
+47|063|003267|11-1|11-1
+47|065|003351|Airport|Airport
+47|065|003352|Alton Park 1|Alton Park 1
+47|065|003353|Alton Park 2|Alton Park 2
+47|065|003354|Amnicola|Amnicola
+47|065|003355|Apison 1|Apison 1
+47|065|003356|Apison 2|Apison 2
+47|065|003357|Apison 3|Apison 3
+47|065|003358|Avondale|Avondale
+47|065|003359|Bakewell 1|Bakewell 1
+47|065|003360|Bakewell 2|Bakewell 2
+47|065|003361|Birchwood|Birchwood
+47|065|003362|Bonny Oaks|Bonny Oaks
+47|065|003363|Brainerd|Brainerd
+47|065|003364|Brainerd Hills|Brainerd Hills
+47|065|003365|Bushtown|Bushtown
+47|065|003367|Collegedale 1|Collegedale 1
+47|065|003368|Collegedale 2|Collegedale 2
+47|065|003369|Collegedale 3|Collegedale 3
+47|065|003370|Collegedale 4|Collegedale 4
+47|065|003371|Concord 1|Concord 1
+47|065|003372|Concord 2|Concord 2
+47|065|003374|Concord 3|Concord 3
+47|065|003375|Concord 4|Concord 4
+47|065|003376|Concord 5|Concord 5
+47|065|003377|Concord 6|Concord 6
+47|065|003378|Concord 7|Concord 7
+47|065|003379|Courthouse 1|Courthouse 1
+47|065|003380|Courthouse 2|Courthouse 2
+47|065|003381|Dalewood|Dalewood
+47|065|003382|Dallas 1|Dallas 1
+47|065|003383|Dallas 2|Dallas 2
+47|065|003384|Downtown 1|Downtown 1
+47|065|003385|Downtown 2|Downtown 2
+47|065|003386|DuPont|DuPont
+47|065|003387|East Brainerd 1|East Brainerd 1
+47|065|003388|East Brainerd 2|East Brainerd 2
+47|065|003389|East Chattanooga 1|East Chattanooga 1
+47|065|003390|East Chattanooga 2|East Chattanooga 2
+47|065|003391|East Lake|East Lake
+47|065|003392|East Ridge 1|East Ridge 1
+47|065|003393|East Ridge 2|East Ridge 2
+47|065|003394|East Ridge 3|East Ridge 3
+47|065|003395|East Ridge 4|East Ridge 4
+47|065|003396|Eastdale|Eastdale
+47|065|003397|Eastgate 1|Eastgate 1
+47|065|003398|Eastgate 2|Eastgate 2
+47|065|003399|Eastside 1|Eastside 1
+47|065|003400|Eastside 2|Eastside 2
+47|065|003401|Fairmount|Fairmount
+47|065|003402|Falling Water|Falling Water
+47|065|003403|Flat Top Mountain|Flat Top Mountain
+47|065|003404|Ganns|Ganns
+47|065|003405|Glenwood|Glenwood
+47|065|003406|Harrison 1|Harrison 1
+47|065|003407|Harrison 2|Harrison 2
+47|065|003408|Harrison 3|Harrison 3
+47|065|003409|Harrison 4|Harrison 4
+47|065|003410|Harrison 5|Harrison 5
+47|065|003411|Hixson 1|Hixson 1
+47|065|003412|Hixson 2|Hixson 2
+47|065|003413|Hixson 3|Hixson 3
+47|065|003414|Kingspoint 1|Kingspoint 1
+47|065|003415|Kingspoint 2|Kingspoint 2
+47|065|003416|Kingspoint 3|Kingspoint 3
+47|065|003417|Lake Hills|Lake Hills
+47|065|003418|Lakesite|Lakesite
+47|065|003419|Lookout Mountain|Lookout Mountain
+47|065|003420|Lookout Valley 1|Lookout Valley 1
+47|065|003421|Lookout Valley 2|Lookout Valley 2
+47|065|003422|Lupton City|Lupton City
+47|065|003423|Meadowview|Meadowview
+47|065|003424|Middle Valley 1|Middle Valley 1
+47|065|003425|Middle Valley 2|Middle Valley 2
+47|065|003426|Missionary Ridge|Missionary Ridge
+47|065|003427|Moccasin Bend|Moccasin Bend
+47|065|003428|Mountain Creek 1|Mountain Creek 1
+47|065|003429|Mountain Creek 2|Mountain Creek 2
+47|065|003430|Mountain Creek 3|Mountain Creek 3
+47|065|003431|Mowbray|Mowbray
+47|065|003432|Murray Hills 1|Murray Hills 1
+47|065|003433|Murray Hills 2|Murray Hills 2
+47|065|003434|North Chattanooga 1|North Chattanooga 1
+47|065|003435|North Chattanooga 2|North Chattanooga 2
+47|065|003436|Northgate 1|Northgate 1
+47|065|003437|Northgate 2|Northgate 2
+47|065|003438|Northwoods 1|Northwoods 1
+47|065|003439|Northwoods 2|Northwoods 2
+47|065|003440|Ooltewah 1|Ooltewah 1
+47|065|003441|Ooltewah 2|Ooltewah 2
+47|065|003442|Ooltewah 3|Ooltewah 3
+47|065|003443|Ooltewah 4|Ooltewah 4
+47|065|003444|Ooltewah 5|Ooltewah 5
+47|065|003445|Ooltewah 6|Ooltewah 6
+47|065|003446|Pleasant Grove 1|Pleasant Grove 1
+47|065|003447|Pleasant Grove 2|Pleasant Grove 2
+47|065|003448|Red Bank 1|Red Bank 1
+47|065|003449|Red Bank 2|Red Bank 2
+47|065|003450|Red Bank 3|Red Bank 3
+47|065|003451|Ridgedale 1|Ridgedale 1
+47|065|003452|Ridgedale 2|Ridgedale 2
+47|065|003453|Ridgeside|Ridgeside
+47|065|003454|Riverview|Riverview
+47|065|003455|Sale Creek|Sale Creek
+47|065|003456|Signal Mountain 1|Signal Mountain 1
+47|065|003457|Signal Mountain 2|Signal Mountain 2
+47|065|003458|Snowhill 1|Snowhill 1
+47|065|003459|Snowhill 2|Snowhill 2
+47|065|003460|Soddy Daisy 1|Soddy Daisy 1
+47|065|003461|Soddy Daisy 2|Soddy Daisy 2
+47|065|003462|Soddy Daisy 3|Soddy Daisy 3
+47|065|003463|St Elmo 1|St Elmo 1
+47|065|003464|St Elmo 2|St Elmo 2
+47|065|003465|Stuart Heights|Stuart Heights
+47|065|003466|Summit 1|Summit 1
+47|065|003467|Summit 2|Summit 2
+47|065|003468|Summit 3|Summit 3
+47|065|003469|Tyner 1|Tyner 1
+47|065|003470|Tyner 2|Tyner 2
+47|065|003471|Valdeau|Valdeau
+47|065|003472|Walden|Walden
+47|065|003473|Westview 1|Westview 1
+47|065|003474|Westview 2|Westview 2
+47|065|003475|Westview 3|Westview 3
+47|065|003476|Woodmore 1|Woodmore 1
+47|065|003477|Woodmore 2|Woodmore 2
+47|067|000001|1st|1st
+47|067|000002|2nd|2nd
+47|067|000003|3rd|3rd
+47|067|000004|4th|4th
+47|067|000005|5th|5th
+47|067|000006|6th|6th
+47|067|000007|7th|7th
+47|069|003601|Bolivar|Bolivar
+47|069|003602|Hickory Valley|Hickory Valley
+47|069|003603|Whiteville|Whiteville
+47|069|003604|West Bolivar|West Bolivar
+47|069|003605|Middleton|Middleton
+47|069|003606|Lacy|Lacy
+47|069|003607|Silerton|Silerton
+47|069|003608|Toone|Toone
+47|069|003609|Hornsby|Hornsby
+47|069|003610|Dixie Hills|Dixie Hills
+47|069|003611|Pocahontas|Pocahontas
+47|069|003612|Saulsbury|Saulsbury
+47|069|003613|Grand Junction|Grand Junction
+47|071|003701|2 Walkers|2 Walkers
+47|071|003702|1 Armory|1 Armory
+47|071|003703|9 Courthouse|9 Courthouse
+47|071|003704|10 Fairground|10 Fairground
+47|071|003705|8 North|8 North
+47|071|003706|6 Cerro Gordo|6 Cerro Gordo
+47|071|003707|1 Olivet|1 Olivet
+47|071|003708|2 Nixon|2 Nixon
+47|071|003709|7 Whites|7 Whites
+47|071|003710|4 Crump|4 Crump
+47|071|003711|6 Olive Hill|6 Olive Hill
+47|071|003712|6 Rhodes|6 Rhodes
+47|071|003713|3 Southside|3 Southside
+47|071|003714|3 Counce|3 Counce
+47|071|003715|7 Walnut Grove|7 Walnut Grove
+47|071|003716|4 Shiloh|4 Shiloh
+47|071|003717|5 Morris Chapel|5 Morris Chapel
+47|071|003718|5 Saltillo|5 Saltillo
+47|073|003801|7 Cherokee|7 Cherokee
+47|073|003802|4 Keplar|4 Keplar
+47|073|003803|2 McPheeter's Bend|2 McPheeter's Bend
+47|073|003805|4 Dykes|4 Dykes
+47|073|003806|4 Upper Beech|4 Upper Beech
+47|073|003808|3 Carter's Valley|3 Carter's Valley
+47|073|003809|1 Mount Carmel|1 Mount Carmel
+47|073|003811|3 Wallace|3 Wallace
+47|073|003812|6 Alumwell|6 Alumwell
+47|073|003813|6 Choptack|6 Choptack
+47|073|003814|5 Rogersville 5th|5 Rogersville 5th
+47|073|003816|7 St. Clair|7 St. Clair
+47|073|003817|6 Mooresburg|6 Mooresburg
+47|073|003818|6 Clinch|6 Clinch
+47|073|003819|3 Watterson|3 Watterson
+47|073|003820|4 Rogersville North|4 Rogersville North
+47|073|003823|7 Bulls Gap|7 Bulls Gap
+47|073|003824|1 Allandale|1 Allandale
+47|073|003825|2 Church Hill|2 Church Hill
+47|073|003826|4 Surgoinsville|4 Surgoinsville
+47|075|003901|02 Parks & Recreation Dept|02 Parks & Recreation Dept
+47|075|003902|04 Chamber Basement|04 Chamber Basement
+47|075|003903|03 Jefferson Court Community Building|03 Jefferson Court Community Building
+47|075|003904|01 Christ Temple Apostolic Church|01 Christ Temple Apostolic Church
+47|075|003905|10 Haywood Junior High|10 Haywood Junior High
+47|075|003906|05 Tibbs Fire Station|05 Tibbs Fire Station
+47|075|003910|09A Stanton City Hall|09A Stanton City Hall
+47|075|003912|07 Delta Heritage Center|07 Delta Heritage Center
+47|075|003913|08 Douglas Community Center|08 Douglas Community Center
+47|075|003914|09B West Side Church of Christ|09B West Side Church of Christ
+47|075|003915|06 Wyatt-Duke National Guard Armory|06 Wyatt-Duke National Guard Armory
+47|077|004001|1-1 Bargerton|1-1 Bargerton
+47|077|004002|1-2 Beaver|1-2 Beaver
+47|077|004003|6-1 Broad Street|6-1 Broad Street
+47|077|004004|5-1 TN Technology Center|5-1 TN Technology Center
+47|077|004005|2-1 Westover|2-1 Westover
+47|077|004006|3-2 Fire Station #10|3-2 Fire Station #10
+47|077|004007|3-4 Pin Oak Fire Station #4|3-4 Pin Oak Fire Station #4
+47|077|004008|3-3 Darden|3-3 Darden
+47|077|004009|7-3 Scotts Hill|7-3 Scotts Hill
+47|077|004010|7-2 Reagan|7-2 Reagan
+47|077|004011|4-1 Civic Center|4-1 Civic Center
+47|077|004012|3-1 Christian Chapel|3-1 Christian Chapel
+47|077|004013|2-2 South Haven|2-2 South Haven
+47|077|004014|7-1 Middleburg|7-1 Middleburg
+47|077|004015|7-4 Sardis|7-4 Sardis
+47|079|004101|1-1 Puryear|1-1 Puryear
+47|079|004102|2-2 Mansfield|2-2 Mansfield
+47|079|004103|3-3 Jones Chapel|3-3 Jones Chapel
+47|079|004104|4-2 City Hall|4-2 City Hall
+47|079|004105|5-1 HC High School|5-1 HC High School
+47|079|004106|1-2 Cottage Grove|1-2 Cottage Grove
+47|079|004107|1-3 Buchanan|1-3 Buchanan
+47|079|004108|2-1 Henry|2-1 Henry
+47|079|004109|5-2 Vo-Tech|5-2 Vo-Tech
+47|079|004110|4-1 Grove|4-1 Grove
+47|079|004111|3-2 Springville|3-2 Springville
+47|079|004112|3-1 Russwood|3-1 Russwood
+47|079|004113|2-3 Oakland|2-3 Oakland
+47|081|004201|01-2 Pinewood|01-2 Pinewood
+47|081|004202|03-1 East Community Center|03-1 East Community Center
+47|081|004203|04-1 Lake Benson Camp|04-1 Lake Benson Camp
+47|081|004204|02-3 East Bank|02-3 East Bank
+47|081|004205|02-2 Fairfield|02-2 Fairfield
+47|081|004206|05-1 Mt. Pleasant|05-1 Mt. Pleasant
+47|081|004207|05-2 Middle School|05-2 Middle School
+47|081|004208|05-3 Shady Grove|05-3 Shady Grove
+47|081|004209|06-1 Justice Center|06-1 Justice Center
+47|081|004210|07-3 Brushy|07-3 Brushy
+47|081|004211|07-2 Pleasantville|07-2 Pleasantville
+47|081|004212|01-1 Nunnelly|01-1 Nunnelly
+47|081|004213|07-1 Nunnelly|07-1 Nunnelly
+47|081|004214|07-4 Coble|07-4 Coble
+47|083|004301|Tennessee Ridge City Hall|Tennessee Ridge City Hall
+47|083|004302|Arlington Sr. Citizens Cntr|Arlington Sr. Citizens Cntr
+47|083|004303|Erin City Hall|Erin City Hall
+47|083|004304|Stewart Community Center|Stewart Community Center
+47|083|004305|Erin Elementary School|Erin Elementary School
+47|083|004306|Houston Co. Middle School|Houston Co. Middle School
+47|083|004307|Griffin Chapel Church|Griffin Chapel Church
+47|085|004401|2-3 WFCN|2-3 WFCN
+47|085|004402|4-5 Safe Room|4-5 Safe Room
+47|085|004403|3-4 MLEC|3-4 MLEC
+47|085|004404|1-2 Compassion Church|1-2 Compassion Church
+47|085|004405|5-6 Wildwood|5-6 Wildwood
+47|085|004406|6-7 South McEwen|6-7 South McEwen
+47|085|004407|7-8 CCC|7-8 CCC
+47|085|004408|1-1 Jera Building|1-1 Jera Building
+47|087|004501|6-1|6-1
+47|087|004502|2-2|2-2
+47|087|004503|6-2|6-2
+47|087|004504|3-1|3-1
+47|087|004505|5-2|5-2
+47|087|004506|5-1|5-1
+47|087|004507|1-1|1-1
+47|087|004508|1-2|1-2
+47|087|004509|2-1|2-1
+47|087|004510|3-2|3-2
+47|087|004511|4-1|4-1
+47|087|004512|4-2|4-2
+47|089|004601|2nd Piedmont Elementary School|2nd Piedmont Elementary School
+47|089|004602|4th Jefferson Elementary School|4th Jefferson Elementary School
+47|089|004603|3rd White Pine School|3rd White Pine School
+47|089|004604|1st Dandridge Elementary School|1st Dandridge Elementary School
+47|089|004605|10th Jefferson City Fire Dept|10th Jefferson City Fire Dept
+47|089|004606|5th Jefferson Middle School|5th Jefferson Middle School
+47|089|004607|6th Rush Strong School|6th Rush Strong School
+47|089|004608|7th New Market City Hall|7th New Market City Hall
+47|089|004609|8-1 Old Chestnut Hill School|8-1 Old Chestnut Hill School
+47|089|004610|9th Talbott Elementary School|9th Talbott Elementary School
+47|089|004611|8-2 Old Swannsylvania School|8-2 Old Swannsylvania School
+47|091|004701|2 Forge/Shouns|2 Forge/Shouns
+47|091|004702|4B Butler|4B Butler
+47|091|004703|3B Neva|3B Neva
+47|091|004704|1A Laurel|1A Laurel
+47|091|004705|5 Doe Valley|5 Doe Valley
+47|091|004706|6 Shady|6 Shady
+47|091|004707|7 City|7 City
+47|091|004708|1B Cold Springs|1B Cold Springs
+47|091|004709|4A Dry Run|4A Dry Run
+47|091|004710|3A Trade|3A Trade
+47|093|004801|48|48
+47|093|004802|39|39
+47|093|004803|41|41
+47|093|004804|19-E|19-E
+47|093|004805|66-N|66-N
+47|093|004806|40|40
+47|093|004807|69-E|69-E
+47|093|004808|84|84
+47|093|004809|26|26
+47|093|004810|57|57
+47|093|004811|60|60
+47|093|004812|81|81
+47|093|004813|80|80
+47|093|004814|85|85
+47|093|004815|86|86
+47|093|004816|82|82
+47|093|004817|87|87
+47|093|004818|76|76
+47|093|004819|78|78
+47|093|004820|79|79
+47|093|004821|77|77
+47|093|004822|92|92
+47|093|004823|93|93
+47|093|004824|90|90
+47|093|004826|29|29
+47|093|004827|27|27
+47|093|004828|70-E|70-E
+47|093|004829|89|89
+47|093|004831|25|25
+47|093|004832|10-S|10-S
+47|093|004833|24-Q|24-Q
+47|093|004834|49|49
+47|093|004835|71|71
+47|093|004836|51|51
+47|093|004837|47|47
+47|093|004838|46|46
+47|093|004839|69-S|69-S
+47|093|004840|69-N|69-N
+47|093|004841|65-W|65-W
+47|093|004842|66-S|66-S
+47|093|004844|62|62
+47|093|004845|65-N|65-N
+47|093|004846|64|64
+47|093|004847|70-W|70-W
+47|093|004848|63|63
+47|093|004849|63-N|63-N
+47|093|004850|68|68
+47|093|004851|68-E|68-E
+47|093|004852|67|67
+47|093|004853|55|55
+47|093|004854|45|45
+47|093|004855|44|44
+47|093|004856|42|42
+47|093|004857|43|43
+47|093|004858|50-N|50-N
+47|093|004859|23|23
+47|093|004860|50-S|50-S
+47|093|004861|09|09
+47|093|004862|10-N|10-N
+47|093|004863|20|20
+47|093|004864|06|06
+47|093|004865|12|12
+47|093|004867|15|15
+47|093|004868|30|30
+47|093|004870|31|31
+47|093|004871|13|13
+47|093|004872|32|32
+47|093|004873|14|14
+47|093|004875|11|11
+47|093|004876|17|17
+47|093|004877|18|18
+47|093|004879|37|37
+47|093|004880|36|36
+47|093|004881|35|35
+47|093|004882|34|34
+47|093|004883|16|16
+47|093|004884|33|33
+47|093|004885|74|74
+47|093|004886|61|61
+47|093|004887|59|59
+47|093|004888|72|72
+47|093|004890|56|56
+47|093|004891|58-S|58-S
+47|093|004892|73|73
+47|093|004893|10-W|10-W
+47|093|004894|19-W|19-W
+47|093|004895|58-N|58-N
+47|093|004896|65-E|65-E
+47|093|004897|69-W|69-W
+47|095|004951|1 Tiptonville Senior Center|1 Tiptonville Senior Center
+47|095|004952|2 Lake County Courthouse|2 Lake County Courthouse
+47|095|004953|3 Lake County Middle School|3 Lake County Middle School
+47|097|005051|Central|Central
+47|097|005052|Gates|Gates
+47|097|005053|Edith|Edith
+47|097|005054|Ripley 2|Ripley 2
+47|097|005056|Ripley 4|Ripley 4
+47|097|005057|Ripley 3|Ripley 3
+47|097|005058|McBride|McBride
+47|097|005060|Lightfoot|Lightfoot
+47|097|005063|Halls 8|Halls 8
+47|097|005064|Henning|Henning
+47|099|005151|2-1 Loretto Civic Center|2-1 Loretto Civic Center
+47|099|005152|4-1 Crossroads Fire Hall|4-1 Crossroads Fire Hall
+47|099|005153|3-1 South East Lawrence|3-1 South East Lawrence
+47|099|005154|1-2 West Loretto|1-2 West Loretto
+47|099|005155|5-1 Leoma School Gym|5-1 Leoma School Gym
+47|099|005156|6-2 West Point|6-2 West Point
+47|099|005157|7-1 Lawrenceburg Public|7-1 Lawrenceburg Public
+47|099|005158|8-1 New Prospect|8-1 New Prospect
+47|099|005159|9-2 Mars Hill|9-2 Mars Hill
+47|099|005160|10-1 Howards|10-1 Howards
+47|099|005161|11-1 Summertown|11-1 Summertown
+47|099|005162|12-2 Henryville Community Club|12-2 Henryville Community Club
+47|099|005163|13-1 West End|13-1 West End
+47|099|005164|14-1 Crawfish Valley|14-1 Crawfish Valley
+47|099|005165|15-1 David Crockett|15-1 David Crockett
+47|099|005166|16-1 Rotary Park|16-1 Rotary Park
+47|099|005167|17-1 Sowell|17-1 Sowell
+47|099|005168|18-1 E.O. Coffman|18-1 E.O. Coffman
+47|099|005169|3-2 Centerpoint|3-2 Centerpoint
+47|099|005170|1-1 St. Joseph|1-1 St. Joseph
+47|099|005171|6-1 Iron City|6-1 Iron City
+47|099|005172|5-2 Gandy|5-2 Gandy
+47|099|005173|9-1 Ethridge|9-1 Ethridge
+47|099|005174|12-1 Prince Tree Service|12-1 Prince Tree Service
+47|101|005251|2-1|2-1
+47|101|005252|4-1|4-1
+47|101|005253|3-1|3-1
+47|101|005254|1-1|1-1
+47|101|005255|5-1|5-1
+47|101|005256|6-1|6-1
+47|101|005257|7-1|7-1
+47|101|005258|8-1|8-1
+47|101|005259|9-1|9-1
+47|103|000001|Armory|Armory
+47|103|000002|Belleville Community Center|Belleville Community Center
+47|103|000003|Blanche|Blanche
+47|103|000004|Boonshill Community Center|Boonshill Community Center
+47|103|000005|Calvary Baptist Fellowship Hall|Calvary Baptist Fellowship Hall
+47|103|000006|Elora Community Center|Elora Community Center
+47|103|000007|Fayetteville CPC|Fayetteville CPC
+47|103|000008|Flintville Fire Hall|Flintville Fire Hall
+47|103|000009|FNB Community Room|FNB Community Room
+47|103|000010|Howell|Howell
+47|103|000011|Kelso Cumberland Presbyterian Church|Kelso Cumberland Presbyterian Church
+47|103|000012|Liberty|Liberty
+47|103|000013|Lincoln Community Center|Lincoln Community Center
+47|103|000014|Maranatha|Maranatha
+47|103|000015|Molino|Molino
+47|103|000016|Mulberry Fire Hall|Mulberry Fire Hall
+47|103|000017|Petersburg|Petersburg
+47|103|000018|Recreation Center|Recreation Center
+47|103|000019|South Lincoln|South Lincoln
+47|103|000020|Taft Baptist Church|Taft Baptist Church
+47|105|005451|Luttrell|Luttrell
+47|105|005452|Loudon Outside|Loudon Outside
+47|105|005453|Loudon|Loudon
+47|105|005454|Philadelphia|Philadelphia
+47|105|005455|Davis|Davis
+47|105|005456|Greenback|Greenback
+47|105|005457|Glendale|Glendale
+47|105|005458|Highland Park|Highland Park
+47|105|005459|Loudon Mt Zion|Loudon Mt Zion
+47|105|005460|Lenoir City|Lenoir City
+47|105|005461|Lenoir City Outside|Lenoir City Outside
+47|105|005462|Browder|Browder
+47|105|005463|Eatons|Eatons
+47|105|005464|Tellico Village South|Tellico Village South
+47|105|005465|Tellico Village North|Tellico Village North
+47|107|006051|04 Englewood School|04 Englewood School
+47|107|006052|11 McMinn Courthouse|11 McMinn Courthouse
+47|107|006053|08 Niota School|08 Niota School
+47|107|006054|12 North City School|12 North City School
+47|107|006055|09 Ingleside School|09 Ingleside School
+47|107|006056|10 Tennessee College of Applied Technology|10 Tennessee College of Applied Technology
+47|107|006057|06 Riceville School|06 Riceville School
+47|107|006058|05 Rogers Creek School|05 Rogers Creek School
+47|107|006059|14 EK Baker School|14 EK Baker School
+47|107|006060|01 City Park School|01 City Park School
+47|107|006061|15 Mountain View School|15 Mountain View School
+47|107|006062|07 Calhoun School|07 Calhoun School
+47|107|006063|13 Jones Chapel Family Life|13 Jones Chapel Family Life
+47|107|006064|02 Etowah Community Center|02 Etowah Community Center
+47|107|006065|03 Central High School|03 Central High School
+47|109|006151|2 Adamsville|2 Adamsville
+47|109|006152|4 Rose Creek|4 Rose Creek
+47|109|006153|3 North East Selmer|3 North East Selmer
+47|109|006154|1 McNairy|1 McNairy
+47|109|006155|5 Ramer|5 Ramer
+47|109|006156|6 Courthouse SE|6 Courthouse SE
+47|109|006157|7 Michie|7 Michie
+47|109|006158|1 Bethel Springs|1 Bethel Springs
+47|109|006159|1 Finger|1 Finger
+47|109|006160|3 Leapwood|3 Leapwood
+47|109|006161|3 Purdy|3 Purdy
+47|109|006162|2 Lawton|2 Lawton
+47|109|006163|7 Stantonville|7 Stantonville
+47|109|006164|5 East View|5 East View
+47|109|006165|5 Guys|5 Guys
+47|109|006166|5 Cypress|5 Cypress
+47|109|006167|4 North Selmer|4 North Selmer
+47|111|005551|Red Boiling Springs High School|Red Boiling Springs High School
+47|111|005552|Willette Volunteer Fire Department|Willette Volunteer Fire Department
+47|111|005553|Macon County High School|Macon County High School
+47|111|005554|Macon County Junior High School|Macon County Junior High School
+47|111|005555|Westside Elementary School|Westside Elementary School
+47|111|005556|Cross Roads Community Center|Cross Roads Community Center
+47|111|005557|National Guard Armory|National Guard Armory
+47|111|005558|Macon County Welcome Center|Macon County Welcome Center
+47|111|005559|Central Elementary School|Central Elementary School
+47|111|005560|Lafayette Elementary School|Lafayette Elementary School
+47|113|005651|1-1 Carl Perkins Civic Center|1-1 Carl Perkins Civic Center
+47|113|005652|1-2 Mt. Moriah Baptist Church|1-2 Mt. Moriah Baptist Church
+47|113|005653|5-1 Whitehall Elementary School|5-1 Whitehall Elementary School
+47|113|005654|5-2 Macedonia Baptist Church|5-2 Macedonia Baptist Church
+47|113|005655|5-3 North Parkway School|5-3 North Parkway School
+47|113|005656|7-1 UT Agricultural Experiment Station|7-1 UT Agricultural Experiment Station
+47|113|005657|7-2 TN Technology Center|7-2 TN Technology Center
+47|113|005658|7-3 Denmark West Community Center|7-3 Denmark West Community Center
+47|113|005659|7-4 Mercer Fire Station|7-4 Mercer Fire Station
+47|113|005660|6-3 Malesus Community Center|6-3 Malesus Community Center
+47|113|005661|6-4 Medon City Hall|6-4 Medon City Hall
+47|113|005662|6-2 South Elementary School|6-2 South Elementary School
+47|113|005663|8-5 Lesters Fire Station|8-5 Lesters Fire Station
+47|113|005664|8-4 East Union Ruritan Center|8-4 East Union Ruritan Center
+47|113|005665|8-3 Mifflin Road Fire Station|8-3 Mifflin Road Fire Station
+47|113|005666|8-1 Beech Bluff Baptist Church|8-1 Beech Bluff Baptist Church
+47|113|005667|8-2 Browns United Methodist Church|8-2 Browns United Methodist Church
+47|113|005668|10-2 North East School|10-2 North East School
+47|113|005669|10-3 North Side High School|10-3 North Side High School
+47|113|005670|9-3 Three Way City Meeting Room|9-3 Three Way City Meeting Room
+47|113|005671|2-1 Alexander Elementary School|2-1 Alexander Elementary School
+47|113|005672|2-3 Tigrett School|2-3 Tigrett School
+47|113|005673|2-2 Aldersgate United Methodist Church|2-2 Aldersgate United Methodist Church
+47|113|005674|4-2 Andrew Jackson School|4-2 Andrew Jackson School
+47|113|005675|4-3 Festivities Events Place|4-3 Festivities Events Place
+47|113|005676|4-1 Masonic Temple Lodge #45|4-1 Masonic Temple Lodge #45
+47|113|005677|3-1 Madison Co Board of Ed.|3-1 Madison Co Board of Ed.
+47|113|005678|3-3 Jackson Center for Ind. Living|3-3 Jackson Center for Ind. Living
+47|113|005679|3-2 Old Bells Fire Station|3-2 Old Bells Fire Station
+47|113|005680|9-1 VFW|9-1 VFW
+47|113|005681|9-2 Pope Elementary School|9-2 Pope Elementary School
+47|113|005682|6-1 South Side High School|6-1 South Side High School
+47|113|005683|10-1 Spring Creek Fire Station #7|10-1 Spring Creek Fire Station #7
+47|115|002660|5-2 Sewanee|5-2 Sewanee
+47|115|005751|Elder Mountain|Elder Mountain
+47|115|005752|Foster Falls|Foster Falls
+47|115|005753|Haletown-Ladds|Haletown-Ladds
+47|115|005754|Jasper|Jasper
+47|115|005755|Kimball|Kimball
+47|115|005756|Lodge|Lodge
+47|115|005757|Monteagle|Monteagle
+47|115|005758|New Hope|New Hope
+47|115|005759|Orme|Orme
+47|115|005760|Powells Crossroads|Powells Crossroads
+47|115|005761|River Canyon|River Canyon
+47|115|005762|Sequatchie|Sequatchie
+47|115|005763|Shellmound|Shellmound
+47|115|005764|South Pittsburg|South Pittsburg
+47|115|005765|Waldens Ridge|Waldens Ridge
+47|115|005766|Whitwell|Whitwell
+47|115|005767|Whitwell Mtn. FD|Whitwell Mtn. FD
+47|117|005851|Henry Horton State Park|Henry Horton State Park
+47|117|005852|Cornersville|Cornersville
+47|117|005853|Belfast|Belfast
+47|117|005854|Chapel Hill|Chapel Hill
+47|117|005855|Recreation Center|Recreation Center
+47|117|005856|West Hills Elementary|West Hills Elementary
+47|117|005857|Hardison School|Hardison School
+47|117|005858|Lewisburg Gas Dept.|Lewisburg Gas Dept.
+47|117|005859|McKnight Center|McKnight Center
+47|119|005951|Spring Hill|Spring Hill
+47|119|005952|Theta|Theta
+47|119|005953|Armory|Armory
+47|119|005954|Santa Fe|Santa Fe
+47|119|005956|St. Catherine|St. Catherine
+47|119|005957|CP Church|CP Church
+47|119|005958|West End|West End
+47|119|005959|Highland|Highland
+47|119|005960|First Family|First Family
+47|119|005961|Mt. Pleasant|Mt. Pleasant
+47|119|005962|Hampshire|Hampshire
+47|119|005963|College Hill|College Hill
+47|119|005964|Pleasant Heights|Pleasant Heights
+47|119|005965|Rally Hill|Rally Hill
+47|119|005966|Bear Creek|Bear Creek
+47|119|005967|Riverside|Riverside
+47|119|005968|Bigbyville|Bigbyville
+47|119|005969|Culleoka|Culleoka
+47|119|005970|Spring Hill Middle|Spring Hill Middle
+47|119|005971|Neapolis|Neapolis
+47|121|006251|2 Meigs South|2 Meigs South
+47|121|006252|3 Courthouse|3 Courthouse
+47|121|006253|1 Eastview|1 Eastview
+47|121|006254|3 City Hall|3 City Hall
+47|121|006255|4 Meigs North|4 Meigs North
+47|121|006256|5 Ten Mile|5 Ten Mile
+47|123|006351|Sweetwater High School|Sweetwater High School
+47|123|006352|Broad Street School|Broad Street School
+47|123|006353|Brown Elementary School|Brown Elementary School
+47|123|006354|Vonore Elementary School|Vonore Elementary School
+47|123|006355|Election Commission|Election Commission
+47|123|006356|Madisonville Primary School|Madisonville Primary School
+47|123|006357|Sequoyah High School|Sequoyah High School
+47|123|006358|Vonore Community Center|Vonore Community Center
+47|123|006359|Notchey Creek Fire Dept|Notchey Creek Fire Dept
+47|123|006360|Rural Vale Fire Dept|Rural Vale Fire Dept
+47|123|006361|Tellico Community Center|Tellico Community Center
+47|123|006362|Coker Creek School|Coker Creek School
+47|123|006363|Ballplay Fire Dept|Ballplay Fire Dept
+47|125|006451|8A|8A
+47|125|006452|9|9
+47|125|006453|3|3
+47|125|006454|10|10
+47|125|006455|7|7
+47|125|006456|11|11
+47|125|006457|12|12
+47|125|006458|13|13
+47|125|006459|5A|5A
+47|125|006460|6A|6A
+47|125|006461|4A|4A
+47|125|006462|21B|21B
+47|125|006463|18|18
+47|125|006464|2A|2A
+47|125|006465|14|14
+47|125|006466|17|17
+47|125|006467|1A|1A
+47|125|006468|15|15
+47|125|006469|20A|20A
+47|125|006470|16|16
+47|125|006471|19|19
+47|125|006472|4B|4B
+47|125|006473|6B|6B
+47|125|006474|21A|21A
+47|125|006476|5B|5B
+47|125|006477|20B|20B
+47|125|006478|2B|2B
+47|125|006479|1B|1B
+47|125|006480|8B|8B
+47|127|006551|2 Moore County High School|2 Moore County High School
+47|127|006552|4 Elementary School|4 Elementary School
+47|127|006553|3 Moore County Building|3 Moore County Building
+47|127|006554|1 Courthouse|1 Courthouse
+47|127|006555|5 Motlow College|5 Motlow College
+47|129|006651|Coalfield 1-1|Coalfield 1-1
+47|129|006652|Oakdale High 2-1|Oakdale High 2-1
+47|129|006653|Petros 6-2|Petros 6-2
+47|129|006654|Wartburg 3-1|Wartburg 3-1
+47|129|006655|Chestnut Ridge 4-3|Chestnut Ridge 4-3
+47|129|006656|Sunbright 5-1|Sunbright 5-1
+47|129|006657|Mossy Grove 2-2|Mossy Grove 2-2
+47|129|006658|Lancing 4-1|Lancing 4-1
+47|129|006659|Burrville 5-2|Burrville 5-2
+47|129|006660|Kelly's 6-1|Kelly's 6-1
+47|129|006661|Deer Lodge 4-2|Deer Lodge 4-2
+47|129|006662|Oakdale 2-3|Oakdale 2-3
+47|131|006751|1-1 SOUTH FULTON|1-1 SOUTH FULTON
+47|131|006752|7-2 OBION CO. LIBRARY|7-2 OBION CO. LIBRARY
+47|131|006753|2-4 WOODLAND|2-4 WOODLAND
+47|131|006754|5-4 HORNBEAK|5-4 HORNBEAK
+47|131|006755|5-5 SAMBURG|5-5 SAMBURG
+47|131|006756|2-1 EDDIE COX SR. CENTER|2-1 EDDIE COX SR. CENTER
+47|131|006757|3-2 KENTON|3-2 KENTON
+47|131|006758|6-2 OBION|6-2 OBION
+47|131|006759|5-2 CLOVERDALE|5-2 CLOVERDALE
+47|131|006760|6-1 TROY SENIOR CENTER|6-1 TROY SENIOR CENTER
+47|131|006761|3-4 RIVES|3-4 RIVES
+47|131|006762|4-1 FAIR GROUNDS|4-1 FAIR GROUNDS
+47|133|006851|5 Hilham|5 Hilham
+47|133|006852|2 Allons|2 Allons
+47|133|006853|1 Livingston|1 Livingston
+47|133|006854|2 Monroe|2 Monroe
+47|133|006855|5 Fairgrounds|5 Fairgrounds
+47|133|006856|3 Poteet|3 Poteet
+47|133|006857|4 Rickman|4 Rickman
+47|133|006858|3 Wilson|3 Wilson
+47|133|006859|3 Rushing Springs|3 Rushing Springs
+47|135|006951|201 Pineview|201 Pineview
+47|135|006952|403 Lobelville Elem. School|403 Lobelville Elem. School
+47|135|006953|301 Coon Creek|301 Coon Creek
+47|135|006954|101 Cedar Creek|101 Cedar Creek
+47|135|006955|501 Perry Co. Courthouse|501 Perry Co. Courthouse
+47|135|006956|601 Lobelville City Hall|601 Lobelville City Hall
+47|135|006957|401 Brush Creek|401 Brush Creek
+47|135|006958|102 Marsh Creek|102 Marsh Creek
+47|135|006959|302 Flatwoods|302 Flatwoods
+47|135|006960|202 Pope|202 Pope
+47|137|007051|High School|High School
+47|137|007052|Oak Hill|Oak Hill
+47|137|007053|Chanute|Chanute
+47|137|007054|Community Center|Community Center
+47|137|007055|Travisville|Travisville
+47|137|007056|Moodyville|Moodyville
+47|137|007057|Bolestown|Bolestown
+47|137|007058|Boom|Boom
+47|137|007059|Barnes Ridge|Barnes Ridge
+47|139|007151|1 Delano Lions Club|1 Delano Lions Club
+47|139|007152|1A Polk County High School|1A Polk County High School
+47|139|007153|1B Chilhowee Middle Sch. Gym|1B Chilhowee Middle Sch. Gym
+47|139|007154|3 Ducktown Courthouse|3 Ducktown Courthouse
+47|139|007155|3A Cooper Basin High School|3A Cooper Basin High School
+47|139|007156|2C South Polk School|2C South Polk School
+47|139|007157|2D Shiloh Baptist Youth Center|2D Shiloh Baptist Youth Center
+47|139|007158|2 Greasy Creek Comm. Club|2 Greasy Creek Comm. Club
+47|139|007159|2B Parksville|2B Parksville
+47|139|007160|2A Springtown Firehall|2A Springtown Firehall
+47|139|007161|3B Turtletown|3B Turtletown
+47|141|007251|11B Cookeville High School|11B Cookeville High School
+47|141|007252|12A Algood Inside|12A Algood Inside
+47|141|007253|11A Bangham|11A Bangham
+47|141|007254|12B Algood Outside|12B Algood Outside
+47|141|007255|02A Northeast Elementary|02A Northeast Elementary
+47|141|007256|03A University|03A University
+47|141|007257|10 Pavilion|10 Pavilion
+47|141|007258|10B Sycamore|10B Sycamore
+47|141|007260|12C Brotherton|12C Brotherton
+47|141|007261|05A Cookeville Community Center|05A Cookeville Community Center
+47|141|007262|04A Burks Middle School|04A Burks Middle School
+47|141|007263|07A Burgess Falls|07A Burgess Falls
+47|141|007264|06A Cane Creek|06A Cane Creek
+47|141|007265|09B Double Springs|09B Double Springs
+47|141|007266|01A Capshaw|01A Capshaw
+47|141|007267|05C Prescott South|05C Prescott South
+47|141|007268|07D Twin Oak|07D Twin Oak
+47|141|007269|08F Cornerstone School|08F Cornerstone School
+47|141|007270|08E Buffalo Valley|08E Buffalo Valley
+47|141|007271|08G Upperman|08G Upperman
+47|141|007272|08D Boma|08D Boma
+47|141|007273|04B Monterey High School|04B Monterey High School
+47|141|007274|05F Dry Valley|05F Dry Valley
+47|141|007275|04C Poplar Grove Community Center|04C Poplar Grove Community Center
+47|143|007351|1-1 Spring City North|1-1 Spring City North
+47|143|007352|1-2 Grandview|1-2 Grandview
+47|143|007353|2-1 Spring City South|2-1 Spring City South
+47|143|007354|3-1 Wolf Creek|3-1 Wolf Creek
+47|143|007355|3-2 Evensville North|3-2 Evensville North
+47|143|007356|4-1 Evensville South|4-1 Evensville South
+47|143|007357|5-1 Dayton North|5-1 Dayton North
+47|143|007358|6-1 Dayton West|6-1 Dayton West
+47|143|007359|7-1 Frazier|7-1 Frazier
+47|143|007360|8-1 Garrison|8-1 Garrison
+47|143|007361|9-1 Graysville|9-1 Graysville
+47|143|007362|9-2 Waldens Ridge|9-2 Waldens Ridge
+47|145|007451|Cave Creek|Cave Creek
+47|145|007452|Lawnville|Lawnville
+47|145|007453|Paw Paw|Paw Paw
+47|145|007454|Midway|Midway
+47|145|007455|Cherokee|Cherokee
+47|145|007456|Kingston Ward 1|Kingston Ward 1
+47|145|007457|Dyllis|Dyllis
+47|145|007458|Oak Hills|Oak Hills
+47|145|007459|Orchard View|Orchard View
+47|145|007460|Emory Heights|Emory Heights
+47|145|007461|Emory|Emory
+47|145|007462|Kingston Ward 2|Kingston Ward 2
+47|145|007463|Midtown|Midtown
+47|145|007464|South Harriman|South Harriman
+47|145|007465|Harriman Ward 1|Harriman Ward 1
+47|145|007466|Oliver Springs|Oliver Springs
+47|145|007467|Eureka|Eureka
+47|145|007468|Renfro|Renfro
+47|145|007469|Fairview|Fairview
+47|145|007470|Glen Alice|Glen Alice
+47|145|007471|Rockwood Ward 1|Rockwood Ward 1
+47|145|007472|Rockwood Ward 2|Rockwood Ward 2
+47|145|007473|Paint Rock|Paint Rock
+47|145|007474|Johnson School House|Johnson School House
+47|147|007551|1-1 East Robertson Elementary School|1-1 East Robertson Elementary School
+47|147|007552|2-1 Robert F. Woodall Elementary School|2-1 Robert F. Woodall Elementary School
+47|147|007553|3-2 White House Heritage HS|3-2 White House Heritage HS
+47|147|007554|4-1 Watauga Elementary School|4-1 Watauga Elementary School
+47|147|007555|5-1 Greenbrier High School|5-1 Greenbrier High School
+47|147|007556|6-2 Mt. Sharon C.P. Church|6-2 Mt. Sharon C.P. Church
+47|147|007557|6-1 Coopertown Middle School|6-1 Coopertown Middle School
+47|147|007558|7-2 Stroudsville Church of Christ|7-2 Stroudsville Church of Christ
+47|147|007559|7-1 Jo Byrns Elementary School|7-1 Jo Byrns Elementary School
+47|147|007560|3-1 Ebenezer Baptist Church|3-1 Ebenezer Baptist Church
+47|147|007561|8-2 H.A.T.S|8-2 H.A.T.S
+47|147|007562|8-1 Krisle School|8-1 Krisle School
+47|147|007563|8-3 Owens Chapel Fellowship Hall|8-3 Owens Chapel Fellowship Hall
+47|147|007564|9-1 Robertson County Fair Assoc.|9-1 Robertson County Fair Assoc.
+47|147|007565|10-1 South Haven Christian School|10-1 South Haven Christian School
+47|147|007566|11-2 Heads Free Will Baptist Church|11-2 Heads Free Will Baptist Church
+47|147|007567|11-1 Westside School|11-1 Westside School
+47|147|007568|12-1 Bransford School|12-1 Bransford School
+47|149|007651|1-1 LaVergne Lake Elementary School|1-1 LaVergne Lake Elementary School
+47|149|007652|2-3 Milton Fire Station|2-3 Milton Fire Station
+47|149|007653|2-2 Wilson Elementary School|2-2 Wilson Elementary School
+47|149|007654|3-1 Leanna Church of Christ|3-1 Leanna Church of Christ
+47|149|007655|3-2 Old Jefferson Church of Christ|3-2 Old Jefferson Church of Christ
+47|149|007656|4-1 Kittrell Elementary School|4-1 Kittrell Elementary School
+47|149|007657|4-2 North Boulevard Church of Christ|4-2 North Boulevard Church of Christ
+47|149|007658|4-3 Oakland Middle School|4-3 Oakland Middle School
+47|149|007659|5-1 Cedar Grove Elementary School|5-1 Cedar Grove Elementary School
+47|149|007660|5-2 LaVergne Middle School|5-2 LaVergne Middle School
+47|149|007661|6-1 Whitworth-Buchannan Middle School|6-1 Whitworth-Buchannan Middle School
+47|149|007662|6-2 Christiana Middle School|6-2 Christiana Middle School
+47|149|007663|7-1 New Heights Chapel|7-1 New Heights Chapel
+47|149|007664|7-2 Barfield Elementary School|7-2 Barfield Elementary School
+47|149|007665|8-1 Rockvale Middle School|8-1 Rockvale Middle School
+47|149|007666|8-2 Eagleville Community Center|8-2 Eagleville Community Center
+47|149|007667|8-3 Lebanon Campground Church|8-3 Lebanon Campground Church
+47|149|007668|8-4 Crescent Church of Christ|8-4 Crescent Church of Christ
+47|149|007669|9-1 Stewarts Creek Elementary School|9-1 Stewarts Creek Elementary School
+47|149|007670|9-2 Browns Chapel Elementary School|9-2 Browns Chapel Elementary School
+47|149|007671|10-1 Rock Springs Elementary School|10-1 Rock Springs Elementary School
+47|149|007672|10-2 Lifepoint Church|10-2 Lifepoint Church
+47|149|007673|11-1 Smyrna Middle School|11-1 Smyrna Middle School
+47|149|007674|11-2 StewartsboroElementary School|11-2 StewartsboroElementary School
+47|149|007675|12-1 TN National Guard Armory|12-1 TN National Guard Armory
+47|149|007676|12-2 Smyrna Elementary School|12-2 Smyrna Elementary School
+47|149|007677|13-1 Bellwood-Bowdoin Pre-School|13-1 Bellwood-Bowdoin Pre-School
+47|149|007678|13-2 Cason Lane Academy|13-2 Cason Lane Academy
+47|149|007679|14-1 Siegel Middle School|14-1 Siegel Middle School
+47|149|007680|14-2 Siegel Elementary School|14-2 Siegel Elementary School
+47|149|007681|15-1 John Pittard Elementary|15-1 John Pittard Elementary
+47|149|007682|15-2 Northfield Elementary School|15-2 Northfield Elementary School
+47|149|007683|16-1 Central Magnet School|16-1 Central Magnet School
+47|149|007684|16-2 Mitchell-Neilson Primary School|16-2 Mitchell-Neilson Primary School
+47|149|007685|16-3 Lane Agri-Park|16-3 Lane Agri-Park
+47|149|007686|17-1 North Boulevard Church of Christ|17-1 North Boulevard Church of Christ
+47|149|007687|17-2 Kingwood Heights Church of Christ|17-2 Kingwood Heights Church of Christ
+47|149|007688|17-3 Wesley Foundation|17-3 Wesley Foundation
+47|149|007689|18-1 Patterson Park Community Center|18-1 Patterson Park Community Center
+47|149|007690|18-2 Riverdale High School|18-2 Riverdale High School
+47|149|007691|19-1 Creekmont General Baptist Church|19-1 Creekmont General Baptist Church
+47|149|007692|19-2 New Vision Baptist Church|19-2 New Vision Baptist Church
+47|149|007693|20-1 Blackman United Methodist Church|20-1 Blackman United Methodist Church
+47|149|007694|20-2 Blackman High School|20-2 Blackman High School
+47|149|007695|21-1 Hobgood Elementary School|21-1 Hobgood Elementary School
+47|149|007696|21-2 BlackFox Elementary School|21-2 BlackFox Elementary School
+47|149|007698|2-1 Lascassas Elementary School|2-1 Lascassas Elementary School
+47|149|007699|12-3 LaVergne High School|12-3 LaVergne High School
+47|149|007700|4-5 Bud's Tire|4-5 Bud's Tire
+47|151|007751|2-2 Robbins|2-2 Robbins
+47|151|007752|4-1 Helenwood|4-1 Helenwood
+47|151|007753|3-1 Huntsville|3-1 Huntsville
+47|151|007754|1-1 Fairview|1-1 Fairview
+47|151|007755|5-2 Winfield|5-2 Winfield
+47|151|007756|6-1 Oneida|6-1 Oneida
+47|151|007757|7-1 West Oneida|7-1 West Oneida
+47|151|007758|2-1 Elgin|2-1 Elgin
+47|151|007759|3-2 Paint Rock|3-2 Paint Rock
+47|151|007760|5-1 Pine Hill|5-1 Pine Hill
+47|153|007851|1 Lewis Chapel|1 Lewis Chapel
+47|153|007852|8 Lone Oak|8 Lone Oak
+47|153|007853|5 Chapel Hill|5 Chapel Hill
+47|153|007854|6 Daus|6 Daus
+47|153|007855|2 Cagle|2 Cagle
+47|153|007856|9 Fredonia|9 Fredonia
+47|153|007857|7 City Justice Center|7 City Justice Center
+47|153|007858|4 Electric Co-op|4 Electric Co-op
+47|153|007859|3 Court House|3 Court House
+47|155|007951|Pittman Center 1|Pittman Center 1
+47|155|007952|Jones Cove 1|Jones Cove 1
+47|155|007953|Caton's Chapel 1|Caton's Chapel 1
+47|155|007954|Harrisburg 2|Harrisburg 2
+47|155|007955|New Center 1|New Center 1
+47|155|007956|Gatlinburg 2|Gatlinburg 2
+47|155|007957|Pigeon Forge 2|Pigeon Forge 2
+47|155|007958|Wearwood 2|Wearwood 2
+47|155|007959|Waldens Creek 2|Waldens Creek 2
+47|155|007960|DuPont 2|DuPont 2
+47|155|007961|Whites 2|Whites 2
+47|155|007962|Senior Citizens 2|Senior Citizens 2
+47|155|007963|Middle School 2|Middle School 2
+47|155|007964|Voting Machine Whse. 2|Voting Machine Whse. 2
+47|155|007965|Seymour Primary Sch. 2|Seymour Primary Sch. 2
+47|155|007966|Catlettsburg 2|Catlettsburg 2
+47|155|007967|Boyd's Creek 2|Boyd's Creek 2
+47|155|007968|Seymour Intm.Sch. 2|Seymour Intm.Sch. 2
+47|155|007969|Kodak 1|Kodak 1
+47|155|007970|Underwood 1|Underwood 1
+47|155|007971|Jones Cove 2|Jones Cove 2
+47|155|007972|Catons Chapel 2|Catons Chapel 2
+47|155|007973|Catlettsburg 1|Catlettsburg 1
+47|155|007974|Kodak 2|Kodak 2
+47|155|007975|Pigeon Forge 2 Split|Pigeon Forge 2 Split
+47|157|008051|ARL-01|ARL-01
+47|157|008052|ARL-02|ARL-02
+47|157|008053|Bartlett 09|Bartlett 09
+47|157|008054|Bartlett 03|Bartlett 03
+47|157|008055|Bartlett 04|Bartlett 04
+47|157|008056|Bartlett 05|Bartlett 05
+47|157|008057|Bartlett 06|Bartlett 06
+47|157|008058|Bartlett 08|Bartlett 08
+47|157|008060|Bartlett 11|Bartlett 11
+47|157|008061|Memphis 87-2|Memphis 87-2
+47|157|008063|Bartlett 13|Bartlett 13
+47|157|008064|Memphis 87-4|Memphis 87-4
+47|157|008065|Brunswick 1|Brunswick 1
+47|157|008066|Brunswick 2|Brunswick 2
+47|157|008068|Collierville 1|Collierville 1
+47|157|008069|Collierville 2|Collierville 2
+47|157|008070|Collierville 3|Collierville 3
+47|157|008071|Collierville 4|Collierville 4
+47|157|008072|Collierville 5|Collierville 5
+47|157|008073|Collierville 6|Collierville 6
+47|157|008074|Collierville 7|Collierville 7
+47|157|008075|Collierville 8|Collierville 8
+47|157|008076|Cordova 3|Cordova 3
+47|157|008077|Cordova 4|Cordova 4
+47|157|008078|Cordova 5|Cordova 5
+47|157|008079|Memphis 96-2|Memphis 96-2
+47|157|008080|Memphis 91-4|Memphis 91-4
+47|157|008081|Eads|Eads
+47|157|008082|Forest Hills 1|Forest Hills 1
+47|157|008083|Forest Hills 2|Forest Hills 2
+47|157|008084|Forest Hills 3|Forest Hills 3
+47|157|008086|Germantown 02|Germantown 02
+47|157|008087|Germantown 03|Germantown 03
+47|157|008088|Germantown 04|Germantown 04
+47|157|008089|Germantown 05|Germantown 05
+47|157|008090|Germantown 06|Germantown 06
+47|157|008091|Germantown 08|Germantown 08
+47|157|008093|Germantown 10|Germantown 10
+47|157|008094|Germantown 11|Germantown 11
+47|157|008095|Germantown 12|Germantown 12
+47|157|008096|Lakeland 1|Lakeland 1
+47|157|008097|Lakeland 2|Lakeland 2
+47|157|008098|Lucy 1|Lucy 1
+47|157|008099|Lucy 3|Lucy 3
+47|157|008100|McConnells|McConnells
+47|157|008101|Memphis 01|Memphis 01
+47|157|008102|Memphis 02|Memphis 02
+47|157|008103|Memphis 11|Memphis 11
+47|157|008104|Memphis 12|Memphis 12
+47|157|008105|Memphis 13|Memphis 13
+47|157|008106|Memphis 16-3|Memphis 16-3
+47|157|008107|Memphis 16-1|Memphis 16-1
+47|157|008108|Memphis 17|Memphis 17
+47|157|008109|Memphis 20-1|Memphis 20-1
+47|157|008110|Memphis 20-3|Memphis 20-3
+47|157|008111|Memphis 21|Memphis 21
+47|157|008113|Memphis 26|Memphis 26
+47|157|008114|Memphis 28|Memphis 28
+47|157|008117|Memphis 31-2|Memphis 31-2
+47|157|008118|Memphis 31-4|Memphis 31-4
+47|157|008119|Memphis 33|Memphis 33
+47|157|008120|Memphis 34-2|Memphis 34-2
+47|157|008121|Memphis 50-2|Memphis 50-2
+47|157|008122|Memphis 36-1|Memphis 36-1
+47|157|008123|Memphis 36-2|Memphis 36-2
+47|157|008125|Memphis 37|Memphis 37
+47|157|008130|Memphis 41-3|Memphis 41-3
+47|157|008131|Memphis 42-1|Memphis 42-1
+47|157|008133|Memphis 44-1|Memphis 44-1
+47|157|008136|Memphis 44-5|Memphis 44-5
+47|157|008138|Memphis 45-2|Memphis 45-2
+47|157|008139|Memphis 45-4|Memphis 45-4
+47|157|008141|Memphis 46-2|Memphis 46-2
+47|157|008142|Memphis 47|Memphis 47
+47|157|008144|Memphis 49|Memphis 49
+47|157|008145|Memphis 50-1|Memphis 50-1
+47|157|008146|Memphis 52-1|Memphis 52-1
+47|157|008149|Memphis 53-1|Memphis 53-1
+47|157|008152|Memphis 54|Memphis 54
+47|157|008154|Memphis 55-2|Memphis 55-2
+47|157|008157|Memphis 57|Memphis 57
+47|157|008158|Memphis 58-1|Memphis 58-1
+47|157|008159|Memphis 58-4|Memphis 58-4
+47|157|008161|Memphis 59-5|Memphis 59-5
+47|157|008164|Memphis 60-3|Memphis 60-3
+47|157|008166|Memphis 60-5|Memphis 60-5
+47|157|008167|Memphis 60-6|Memphis 60-6
+47|157|008168|Memphis 60-7|Memphis 60-7
+47|157|008170|Memphis 60-9|Memphis 60-9
+47|157|008171|Memphis 61|Memphis 61
+47|157|008172|Memphis 62-0|Memphis 62-0
+47|157|008174|Memphis 64|Memphis 64
+47|157|008176|Memphis 66|Memphis 66
+47|157|008177|Memphis 67-1|Memphis 67-1
+47|157|008178|Memphis 67-3|Memphis 67-3
+47|157|008179|Memphis 68-1|Memphis 68-1
+47|157|008180|Memphis 68-3|Memphis 68-3
+47|157|008182|Memphis 69-2|Memphis 69-2
+47|157|008183|Memphis 70-1|Memphis 70-1
+47|157|008184|Memphis 70-2|Memphis 70-2
+47|157|008187|Memphis 71-4|Memphis 71-4
+47|157|008189|Memphis 72-3|Memphis 72-3
+47|157|008190|Memphis 72-7|Memphis 72-7
+47|157|008191|Memphis 73-1|Memphis 73-1
+47|157|008192|Memphis 73-3|Memphis 73-3
+47|157|008194|Memphis 74-1|Memphis 74-1
+47|157|008195|Memphis 74-2|Memphis 74-2
+47|157|008197|Memphis 74-5|Memphis 74-5
+47|157|008199|Memphis 74-9|Memphis 74-9
+47|157|008200|Memphis 75-1|Memphis 75-1
+47|157|008201|Memphis 75-11|Memphis 75-11
+47|157|008202|Memphis 75-6|Memphis 75-6
+47|157|008203|Memphis 75-7|Memphis 75-7
+47|157|008204|Memphis 76-4|Memphis 76-4
+47|157|008205|Memphis 76-5|Memphis 76-5
+47|157|008206|Memphis 76-6|Memphis 76-6
+47|157|008207|Memphis 77-1|Memphis 77-1
+47|157|008209|Memphis 77-3|Memphis 77-3
+47|157|008210|Memphis 78-3|Memphis 78-3
+47|157|008211|Memphis 79-1|Memphis 79-1
+47|157|008212|Memphis 79-2|Memphis 79-2
+47|157|008213|Memphis 79-3|Memphis 79-3
+47|157|008214|Memphis 79-7|Memphis 79-7
+47|157|008216|Memphis 80-2|Memphis 80-2
+47|157|008217|Memphis 81-1|Memphis 81-1
+47|157|008219|Memphis 81-3|Memphis 81-3
+47|157|008221|Memphis 81-5|Memphis 81-5
+47|157|008222|Memphis 81-7|Memphis 81-7
+47|157|008224|Memphis 82-2|Memphis 82-2
+47|157|008226|Memphis 83|Memphis 83
+47|157|008228|Memphis 84-2|Memphis 84-2
+47|157|008229|Memphis 86|Memphis 86
+47|157|008231|Memphis 87-3|Memphis 87-3
+47|157|008232|Memphis 88-2|Memphis 88-2
+47|157|008233|Memphis 88-3|Memphis 88-3
+47|157|008234|Memphis 88-4|Memphis 88-4
+47|157|008236|Memphis 89-1|Memphis 89-1
+47|157|008237|Memphis 89-2|Memphis 89-2
+47|157|008239|Memphis 90-2|Memphis 90-2
+47|157|008240|Memphis 90-3|Memphis 90-3
+47|157|008241|Memphis 91-1|Memphis 91-1
+47|157|008242|Memphis 91-2|Memphis 91-2
+47|157|008243|Memphis 92-1|Memphis 92-1
+47|157|008244|Memphis 94-6|Memphis 94-6
+47|157|008245|Memphis 93-1|Memphis 93-1
+47|157|008246|Memphis 93-3|Memphis 93-3
+47|157|008248|Memphis 94-3|Memphis 94-3
+47|157|008250|Memphis 94-7|Memphis 94-7
+47|157|008251|Memphis 94-8|Memphis 94-8
+47|157|008252|Memphis 95-1|Memphis 95-1
+47|157|008255|Memphis 95-5|Memphis 95-5
+47|157|008256|Memphis 95-6|Memphis 95-6
+47|157|008257|Memphis 95-7|Memphis 95-7
+47|157|008258|Memphis 95-8|Memphis 95-8
+47|157|008259|Memphis 96-1|Memphis 96-1
+47|157|008260|Millington 1|Millington 1
+47|157|008261|Millington 2|Millington 2
+47|157|008262|Morning Sun 01|Morning Sun 01
+47|157|008263|Morning Sun 02|Morning Sun 02
+47|157|008265|Ross Store 05|Ross Store 05
+47|157|008266|Ross Store 13|Ross Store 13
+47|157|008267|Ross Store 14|Ross Store 14
+47|157|008268|Ross Store 15|Ross Store 15
+47|157|008269|Ross Store 16|Ross Store 16
+47|157|008270|Stewartville|Stewartville
+47|157|008271|Collierville 9|Collierville 9
+47|159|008301|04 Rock City|04 Rock City
+47|159|008302|03 New Middleton|03 New Middleton
+47|159|008303|01 Defeated|01 Defeated
+47|159|008304|05 Gordonsville|05 Gordonsville
+47|159|008305|06 Carthage|06 Carthage
+47|159|008306|07 South Carthage|07 South Carthage
+47|159|008307|08 Elmwood|08 Elmwood
+47|159|008308|02 Tanglewood|02 Tanglewood
+47|161|008401|2-1 Big Rock|2-1 Big Rock
+47|161|008402|4-1 Family Life Center|4-1 Family Life Center
+47|161|008403|3-1 Bumpus Mills|3-1 Bumpus Mills
+47|161|008404|1-1 Indian Mound|1-1 Indian Mound
+47|161|008405|5-1 Visitors Center|5-1 Visitors Center
+47|161|008406|6-1 County Library|6-1 County Library
+47|161|008407|7-1 Cumberland City|7-1 Cumberland City
+47|163|008501|2A|2A
+47|163|008502|4A|4A
+47|163|008503|3A|3A
+47|163|008504|1A|1A
+47|163|008505|10B|10B
+47|163|008506|11A|11A
+47|163|008507|5C|5C
+47|163|008508|6C|6C
+47|163|008509|7C|7C
+47|163|008510|8A|8A
+47|163|008511|9A|9A
+47|163|008512|5B|5B
+47|163|008513|5A|5A
+47|163|008514|4C|4C
+47|163|008515|4B|4B
+47|163|008516|2C|2C
+47|163|008517|2B|2B
+47|163|008518|7B|7B
+47|163|008519|7A|7A
+47|163|008520|6A|6A
+47|163|008521|6B|6B
+47|163|008522|10A|10A
+47|163|008523|11B|11B
+47|163|008524|9B|9B
+47|163|008525|8B|8B
+47|165|008601|601 Vol State College|601 Vol State College
+47|165|008602|603 Jack Anderson Elementary|603 Jack Anderson Elementary
+47|165|008603|901 Hendersonville High School|901 Hendersonville High School
+47|165|008607|303 Creekside Fellowship|303 Creekside Fellowship
+47|165|008608|502 Guild Elementary|502 Guild Elementary
+47|165|008609|501 First Baptist Gallatin|501 First Baptist Gallatin
+47|165|008610|404 Union Elementary|404 Union Elementary
+47|165|008611|401 Howard Elementary School|401 Howard Elementary School
+47|165|008612|1201 Oakmont Elementary|1201 Oakmont Elementary
+47|165|008613|203 Wiseman Elementary|203 Wiseman Elementary
+47|165|008614|202 Portland High School|202 Portland High School
+47|165|008618|602 Gallatin Sr. High School|602 Gallatin Sr. High School
+47|165|008619|801 Brown Elementary|801 Brown Elementary
+47|165|008620|902 Indian Lake Elementary|902 Indian Lake Elementary
+47|165|008621|1001 Walton Ferry Elementary|1001 Walton Ferry Elementary
+47|165|008622|701 Whitten Elementary|701 Whitten Elementary
+47|165|008623|1102 Church of the Nazarene|1102 Church of the Nazarene
+47|165|008624|1101 Beech High School Annex|1101 Beech High School Annex
+47|165|008625|1103 Millersville Community Center|1103 Millersville Community Center
+47|165|008626|1203 White House Middle School|1203 White House Middle School
+47|165|008627|403 Cottontown Fire Hall|403 Cottontown Fire Hall
+47|165|008628|703 Long Hollow Baptist Church|703 Long Hollow Baptist Church
+47|165|008631|802 Hawkins Middle School|802 Hawkins Middle School
+47|165|008632|101 Westmoreland Middle|101 Westmoreland Middle
+47|165|008633|1002 Merrol Hyde Magnet School|1002 Merrol Hyde Magnet School
+47|165|008635|301 Gallatin Civic Center|301 Gallatin Civic Center
+47|165|008636|103 Corinth Church of Christ|103 Corinth Church of Christ
+47|167|008701|21 W. Wilkinsville|21 W. Wilkinsville
+47|167|008702|22 Brighton|22 Brighton
+47|167|008703|19 Austin Peay|19 Austin Peay
+47|167|008704|06 Tipton West|06 Tipton West
+47|167|008705|03 S.E. Covington|03 S.E. Covington
+47|167|008706|14 Southwest Tipton|14 Southwest Tipton
+47|167|008707|12 Munford|12 Munford
+47|167|008708|01 N. E. Covington|01 N. E. Covington
+47|167|008709|11 Atoka|11 Atoka
+47|169|008801|1 Senior Center|1 Senior Center
+47|169|008802|2 Cato|2 Cato
+47|169|008803|3 Beech Grove|3 Beech Grove
+47|169|008804|4 Halltown|4 Halltown
+47|169|008805|5 Templow|5 Templow
+47|169|008806|6 Walnut Grove|6 Walnut Grove
+47|169|008807|7 High School|7 High School
+47|169|008808|8 Willard|8 Willard
+47|169|008809|9 City|9 City
+47|169|008810|10 Providence|10 Providence
+47|171|008901|High School|High School
+47|171|008902|Love Chapel|Love Chapel
+47|171|008903|Temple Hill|Temple Hill
+47|171|008904|Unicoi|Unicoi
+47|171|008905|Fishery|Fishery
+47|171|008906|Rock Creek|Rock Creek
+47|171|008907|Limestone Cove|Limestone Cove
+47|171|008908|Flag Pond|Flag Pond
+47|173|009001|3-3 Brock Community Center|3-3 Brock Community Center
+47|173|009002|2-2 Luttrell Elementary School|2-2 Luttrell Elementary School
+47|173|009003|1-1 Union County High School|1-1 Union County High School
+47|173|009004|3-2 Cedar Grove Community Cen.|3-2 Cedar Grove Community Cen.
+47|173|009005|4-7 Big Ridge Elementary Sch.|4-7 Big Ridge Elementary Sch.
+47|173|009006|6-6 Paulette Elementary School|6-6 Paulette Elementary School
+47|173|009007|7-1 Plainview Community Center|7-1 Plainview Community Center
+47|173|009008|5-13 Braden Chapel Church|5-13 Braden Chapel Church
+47|173|009009|5-10 Sharps Chapel Elementary|5-10 Sharps Chapel Elementary
+47|175|009101|Cedar Grove Community Cntr.|Cedar Grove Community Cntr.
+47|175|009102|Piney Fire Hall|Piney Fire Hall
+47|175|009103|Fall Creek Falls Comm. Center|Fall Creek Falls Comm. Center
+47|175|009104|Spencer 1|Spencer 1
+47|175|009105|Spencer 5|Spencer 5
+47|175|009106|Cummingsville Community Cntr|Cummingsville Community Cntr
+47|175|009107|White Hill Community Cntr.|White Hill Community Cntr.
+47|177|009201|01-1 Civic Center|01-1 Civic Center
+47|177|009202|02-1 Courthouse|02-1 Courthouse
+47|177|009203|02-2 Warren County Airport|02-2 Warren County Airport
+47|177|009204|03-1 Westwood Church of Christ|03-1 Westwood Church of Christ
+47|177|009205|03-2 Smartt First Baptist Church|03-2 Smartt First Baptist Church
+47|177|009206|04-1 TSU Nursery Res. Center|04-1 TSU Nursery Res. Center
+47|177|009207|05-1 Three Star Mall|05-1 Three Star Mall
+47|177|009208|05-2 Beersheba Towers|05-2 Beersheba Towers
+47|177|009209|06-1 Caney Fork Electric Auditorium|06-1 Caney Fork Electric Auditorium
+47|177|009210|07-1 Friendship The Baptist Church|07-1 Friendship The Baptist Church
+47|177|009211|08-1 Fairview Community Center|08-1 Fairview Community Center
+47|177|009213|08-3 Bonner Church of Christ|08-3 Bonner Church of Christ
+47|177|009214|09-1 Morrison Ruritan Club|09-1 Morrison Ruritan Club
+47|177|009215|09-2 Viola Valley Comm. Center|09-2 Viola Valley Comm. Center
+47|177|009216|10-1 Centertown United Methodist Church|10-1 Centertown United Methodist Church
+47|177|009217|10-2 Centertown Comm. Ctr.|10-2 Centertown Comm. Ctr.
+47|177|009218|11-1 Midway Community Center|11-1 Midway Community Center
+47|177|009219|11-2 Hwy 56 N Church of Christ|11-2 Hwy 56 N Church of Christ
+47|177|009220|12-1 Northside Baptist Church|12-1 Northside Baptist Church
+47|177|009221|12-2 Lucky Community Center|12-2 Lucky Community Center
+47|179|009301|Asbury|Asbury
+47|179|009302|Boones Creek Central|Boones Creek Central
+47|179|009304|Boones Creek City|Boones Creek City
+47|179|009305|Boones Creek East|Boones Creek East
+47|179|009306|Boones Creek West|Boones Creek West
+47|179|009307|Bowmantown|Bowmantown
+47|179|009308|Carver|Carver
+47|179|009309|Courthouse|Courthouse
+47|179|009310|Embreeville|Embreeville
+47|179|009311|Fairhaven|Fairhaven
+47|179|009312|Fairmont|Fairmont
+47|179|009313|Fall Branch|Fall Branch
+47|179|009314|Grace City|Grace City
+47|179|009315|Grace East|Grace East
+47|179|009316|Grace West|Grace West
+47|179|009317|Gray City|Gray City
+47|179|009318|Gray County|Gray County
+47|179|009319|Harmony|Harmony
+47|179|009320|Henry Johnson 6|Henry Johnson 6
+47|179|009321|Henry Johnson 7|Henry Johnson 7
+47|179|009322|Indian Trail City|Indian Trail City
+47|179|009323|Keystone|Keystone
+47|179|009324|Lake Ridge|Lake Ridge
+47|179|009325|Lamar|Lamar
+47|179|009326|New Salem|New Salem
+47|179|009327|New Victory|New Victory
+47|179|009328|Princeton|Princeton
+47|179|009329|South Central 6|South Central 6
+47|179|009330|South Central 7|South Central 7
+47|179|009331|South Side|South Side
+47|179|009332|Sulphur Springs|Sulphur Springs
+47|179|009333|Town Acres CIty|Town Acres CIty
+47|179|009334|Town Acres County|Town Acres County
+47|179|009335|Visitor's Center|Visitor's Center
+47|179|009336|Woodland|Woodland
+47|181|009401|2 Clifton|2 Clifton
+47|181|009402|3 Beech Creek Fire Hall|3 Beech Creek Fire Hall
+47|181|009403|4 Shawnatee|4 Shawnatee
+47|181|009404|1 Waynesboro City|1 Waynesboro City
+47|181|009405|5 Lutts|5 Lutts
+47|181|009406|6 Holly Creek Fire Hall|6 Holly Creek Fire Hall
+47|181|009407|7 Ovilla Fire Hall|7 Ovilla Fire Hall
+47|181|009408|3 Eagle Creek Fire Hall|3 Eagle Creek Fire Hall
+47|181|009409|3 Crazy Horse|3 Crazy Horse
+47|181|009410|7 Buffalo River Fire Dept.|7 Buffalo River Fire Dept.
+47|181|009411|4 Collinwood City|4 Collinwood City
+47|181|009412|6 Southgate Fire Hall|6 Southgate Fire Hall
+47|181|009413|5 Big Cypress|5 Big Cypress
+47|181|009414|5 Wayne Co. High School|5 Wayne Co. High School
+47|183|009501|01A Palmersville Fire Station|01A Palmersville Fire Station
+47|183|009502|02 Gleason Community Building|02 Gleason Community Building
+47|183|009503|01B Latham Vol. Fire Dept.|01B Latham Vol. Fire Dept.
+47|183|009504|09 Dresden First United Methodist Church|09 Dresden First United Methodist Church
+47|183|009505|08 Martin First United Methodist Church|08 Martin First United Methodist Church
+47|183|009506|04 Sharon First Baptist Church|04 Sharon First Baptist Church
+47|183|009507|03 Greenfield First Baptist Church|03 Greenfield First Baptist Church
+47|183|009508|05 Martin Church of Christ|05 Martin Church of Christ
+47|183|009509|07 Martin Shepardsfield Church|07 Martin Shepardsfield Church
+47|183|009510|06 Martin Trinity Presbyterian Church|06 Martin Trinity Presbyterian Church
+47|185|009601|6-2 Cassville School, County|6-2 Cassville School, County
+47|185|009602|6-1 Central View School, County|6-1 Central View School, County
+47|185|009603|5-1 Doyle Civic Center Hall, County|5-1 Doyle Civic Center Hall, County
+47|185|009604|7-1 Northfield School, County|7-1 Northfield School, County
+47|185|009605|4-1 Woodland Park School, County|4-1 Woodland Park School, County
+47|185|009606|4-2 Bondecroft School, County|4-2 Bondecroft School, County
+47|185|009607|3-1 Ag Fair Complex, County|3-1 Ag Fair Complex, County
+47|185|009608|1-1 Sparta Civic Center, City|1-1 Sparta Civic Center, City
+47|185|009609|1-2 Sparta Civic Center, County|1-2 Sparta Civic Center, County
+47|185|009610|2-2 Woodland Park School, County|2-2 Woodland Park School, County
+47|185|009611|2-1 Ag Fair Complex, City|2-1 Ag Fair Complex, City
+47|187|009701|1-1 Westwood Elementary School|1-1 Westwood Elementary School
+47|187|009702|1-2 Fairview Recreation Center|1-2 Fairview Recreation Center
+47|187|009703|1-3 Old Pinewood School|1-3 Old Pinewood School
+47|187|009704|1-4 Burwood Community Center|1-4 Burwood Community Center
+47|187|009705|2-1 Bethesda Recreation Center|2-1 Bethesda Recreation Center
+47|187|009706|2-2 Thompson Station Baptist Church|2-2 Thompson Station Baptist Church
+47|187|009707|2-3 Oakview Elementary School|2-3 Oakview Elementary School
+47|187|009708|2-4 College Grove Community Center|2-4 College Grove Community Center
+47|187|009709|3-1 Heritage Elementary School|3-1 Heritage Elementary School
+47|187|009710|3-2 Longview Recreation Center|3-2 Longview Recreation Center
+47|187|009711|3-3 Chapman's Retreat Elementary School|3-3 Chapman's Retreat Elementary School
+47|187|009712|4-1 Prairie Life Fitness Center|4-1 Prairie Life Fitness Center
+47|187|009713|4-2 Millview Church of Christ|4-2 Millview Church of Christ
+47|187|009714|4-3 Franklin Christian Church|4-3 Franklin Christian Church
+47|187|009715|5-1 Sunset Elementary School|5-1 Sunset Elementary School
+47|187|009716|5-2 Nolensville Methodist Church|5-2 Nolensville Methodist Church
+47|187|009717|5-3 Triune Baptist Church|5-3 Triune Baptist Church
+47|187|009718|5-4 Nolensville Baptist Church|5-4 Nolensville Baptist Church
+47|187|009719|6-1 Brentwood Library|6-1 Brentwood Library
+47|187|009720|6-2 Brentwood Safety Center|6-2 Brentwood Safety Center
+47|187|009721|6-3 Holy Family Catholic Church|6-3 Holy Family Catholic Church
+47|187|009722|7-1 Brenthaven Church|7-1 Brenthaven Church
+47|187|009723|7-2 Baptist Children's Home|7-2 Baptist Children's Home
+47|187|009724|7-3 New Hope Community Church|7-3 New Hope Community Church
+47|187|009725|8-1 Grassland Middle School|8-1 Grassland Middle School
+47|187|009726|8-2 First Presbyterian Church|8-2 First Presbyterian Church
+47|187|009727|8-3 Episcopal Church|8-3 Episcopal Church
+47|187|009728|9-1 Walnut Grove Elementary School|9-1 Walnut Grove Elementary School
+47|187|009729|9-2 Benton Hall School|9-2 Benton Hall School
+47|187|009730|9-3 Westhaven Clubhouse|9-3 Westhaven Clubhouse
+47|187|009731|9-4 Grace Chapel Church|9-4 Grace Chapel Church
+47|187|009732|10-1 Franklin Recreation Complex|10-1 Franklin Recreation Complex
+47|187|009733|10-2 Liberty Elementary School|10-2 Liberty Elementary School
+47|187|009734|10-3 Hunter's Bend Elementary School|10-3 Hunter's Bend Elementary School
+47|187|009735|11-1 Franklin Elementary School|11-1 Franklin Elementary School
+47|187|009736|11-2 Robert Ring Indoor Soccer Complex|11-2 Robert Ring Indoor Soccer Complex
+47|187|009737|11-3 Winstead Elementary School|11-3 Winstead Elementary School
+47|187|009738|12-1 Franklin Community of Faith Church|12-1 Franklin Community of Faith Church
+47|187|009739|12-2 The Church of the City-Franklin|12-2 The Church of the City-Franklin
+47|187|009740|12-3 The Gate Community Church|12-3 The Gate Community Church
+47|187|009741|9-5 Independence High School|9-5 Independence High School
+47|187|009742|1-5 The Church of Spring Hill|1-5 The Church of Spring Hill
+47|187|009999|2-5 Fire & Rescue Station #24|2-5 Fire & Rescue Station #24
+47|189|009801|1-1|1-1
+47|189|009802|2-1|2-1
+47|189|009803|3-1|3-1
+47|189|009804|4-1|4-1
+47|189|009805|4-2|4-2
+47|189|009806|5-1|5-1
+47|189|009807|6-1|6-1
+47|189|009808|7-1|7-1
+47|189|009809|7-2|7-2
+47|189|009810|8-1|8-1
+47|189|009811|9-1|9-1
+47|189|009812|9-2|9-2
+47|189|009814|10-1|10-1
+47|189|009815|11-1|11-1
+47|189|009816|12-1|12-1
+47|189|009817|12-2|12-2
+47|189|009818|13-1|13-1
+47|189|009819|14-1|14-1
+47|189|009820|15-1|15-1
+47|189|009822|16-1|16-1
+47|189|009823|17-1|17-1
+47|189|009824|18-1|18-1
+47|189|009825|19-1|19-1
+47|189|009826|20-1|20-1
+47|189|009827|21-1|21-1
+47|189|009828|21-2|21-2
+47|189|009829|22-1|22-1
+47|189|009830|23-1|23-1
+47|189|009831|24-1|24-1
+47|189|009832|25-1|25-1
+47|189|009833|25-2|25-2

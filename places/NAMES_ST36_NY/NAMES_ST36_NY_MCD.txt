@@ -1,0 +1,1024 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+36|001|01000|Albany|Albany city
+36|001|06211|Berne|Berne town
+36|001|06354|Bethlehem|Bethlehem town
+36|001|16694|Coeymans|Coeymans town
+36|001|16749|Cohoes|Cohoes city
+36|001|17343|Colonie|Colonie town
+36|001|30532|Green Island|Green Island town
+36|001|31104|Guilderland|Guilderland town
+36|001|40002|Knox|Knox town
+36|001|50672|New Scotland|New Scotland town
+36|001|61181|Rensselaerville|Rensselaerville town
+36|001|78674|Watervliet|Watervliet city
+36|001|79851|Westerlo|Westerlo town
+36|003|01209|Alfred|Alfred town
+36|003|01319|Allen|Allen town
+36|003|01429|Alma|Alma town
+36|003|01451|Almond|Almond town
+36|003|02011|Amity|Amity town
+36|003|02154|Andover|Andover town
+36|003|02187|Angelica|Angelica town
+36|003|05573|Belfast|Belfast town
+36|003|06717|Birdsall|Birdsall town
+36|003|07201|Bolivar|Bolivar town
+36|003|11253|Burns|Burns town
+36|003|12243|Caneadea|Caneadea town
+36|003|13475|Centerville|Centerville town
+36|003|15990|Clarksville|Clarksville town
+36|003|19367|Cuba|Cuba town
+36|003|27705|Friendship|Friendship town
+36|003|28563|Genesee|Genesee town
+36|003|29905|Granger|Granger town
+36|003|30994|Grove|Grove town
+36|003|36112|Hume|Hume town
+36|003|37297|Independence|Independence town
+36|003|50375|New Hudson|New Hudson town
+36|003|54523|Oil Springs|Oil Springs Reservation
+36|003|64166|Rushford|Rushford town
+36|003|65772|Scio|Scio town
+36|003|78201|Ward|Ward town
+36|003|79103|Wellsville|Wellsville town
+36|003|79202|West Almond|West Almond town
+36|003|82095|Willing|Willing town
+36|003|82623|Wirt|Wirt town
+36|005|08510|Bronx|Bronx borough
+36|007|04429|Barker|Barker town
+36|007|06607|Binghamton|Binghamton city
+36|007|06618|Binghamton|Binghamton town
+36|007|15110|Chenango|Chenango town
+36|007|17046|Colesville|Colesville town
+36|007|17772|Conklin|Conklin town
+36|007|20588|Dickinson|Dickinson town
+36|007|25604|Fenton|Fenton town
+36|007|39837|Kirkwood|Kirkwood town
+36|007|42653|Lisle|Lisle town
+36|007|44611|Maine|Maine town
+36|007|49396|Nanticoke|Nanticoke town
+36|007|65112|Sanford|Sanford town
+36|007|75319|Triangle|Triangle town
+36|007|76056|Union|Union town
+36|007|77255|Vestal|Vestal town
+36|007|82535|Windsor|Windsor town
+36|009|01297|Allegany|Allegany town
+36|009|01308|Allegany|Allegany Reservation
+36|009|02759|Ashford|Ashford town
+36|009|12661|Carrollton|Carrollton town
+36|009|13035|Cattaraugus|Cattaraugus Reservation
+36|009|16903|Coldspring|Coldspring town
+36|009|17684|Conewango|Conewango town
+36|009|19840|Dayton|Dayton town
+36|009|22678|East Otto|East Otto town
+36|009|24031|Ellicottville|Ellicottville town
+36|009|25340|Farmersville|Farmersville town
+36|009|27342|Franklinville|Franklinville town
+36|009|27441|Freedom|Freedom town
+36|009|30257|Great Valley|Great Valley town
+36|009|34946|Hinsdale|Hinsdale town
+36|009|36123|Humphrey|Humphrey town
+36|009|37825|Ischua|Ischua town
+36|009|41982|Leon|Leon town
+36|009|42840|Little Valley|Little Valley town
+36|009|43896|Lyndon|Lyndon town
+36|009|44237|Machias|Machias town
+36|009|45161|Mansfield|Mansfield town
+36|009|49462|Napoli|Napoli town
+36|009|49880|New Albion|New Albion town
+36|009|54523|Oil Springs|Oil Springs Reservation
+36|009|54716|Olean|Olean city
+36|009|54727|Olean|Olean town
+36|009|55783|Otto|Otto town
+36|009|57298|Perrysburg|Perrysburg town
+36|009|57331|Persia|Persia town
+36|009|59509|Portville|Portville town
+36|009|60587|Randolph|Randolph town
+36|009|60950|Red House|Red House town
+36|009|64749|Salamanca|Salamanca city
+36|009|64760|Salamanca|Salamanca town
+36|009|69870|South Valley|South Valley town
+36|009|84055|Yorkshire|Yorkshire town
+36|011|00000|County subdivisions not defined|County subdivisions not defined
+36|011|03078|Auburn|Auburn city
+36|011|03166|Aurelius|Aurelius town
+36|011|10297|Brutus|Brutus town
+36|011|12969|Cato|Cato town
+36|011|17849|Conquest|Conquest town
+36|011|26231|Fleming|Fleming town
+36|011|28673|Genoa|Genoa town
+36|011|37660|Ira|Ira town
+36|011|41740|Ledyard|Ledyard town
+36|011|43071|Locke|Locke town
+36|011|46602|Mentz|Mentz town
+36|011|48131|Montezuma|Montezuma town
+36|011|48307|Moravia|Moravia town
+36|011|51198|Niles|Niles town
+36|011|55871|Owasco|Owasco town
+36|011|65816|Scipio|Scipio town
+36|011|66278|Sempronius|Sempronius town
+36|011|66443|Sennett|Sennett town
+36|011|70376|Springport|Springport town
+36|011|71146|Sterling|Sterling town
+36|011|72037|Summerhill|Summerhill town
+36|011|73770|Throop|Throop town
+36|011|77024|Venice|Venice town
+36|011|77420|Victory|Victory town
+36|013|00000|County subdivisions not defined|County subdivisions not defined
+36|013|02605|Arkwright|Arkwright town
+36|013|11451|Busti|Busti town
+36|013|12639|Carroll|Carroll town
+36|013|13035|Cattaraugus|Cattaraugus Reservation
+36|013|13860|Charlotte|Charlotte town
+36|013|14069|Chautauqua|Chautauqua town
+36|013|14072|Chautauqua Lake|Chautauqua Lake UT
+36|013|15198|Cherry Creek|Cherry Creek town
+36|013|16595|Clymer|Clymer town
+36|013|21105|Dunkirk|Dunkirk city
+36|013|21116|Dunkirk|Dunkirk town
+36|013|23976|Ellery|Ellery town
+36|013|23998|Ellicott|Ellicott town
+36|013|24053|Ellington|Ellington town
+36|013|27606|French Creek|French Creek town
+36|013|28838|Gerry|Gerry town
+36|013|32050|Hanover|Hanover town
+36|013|32248|Harmony|Harmony town
+36|013|38264|Jamestown|Jamestown city
+36|013|39507|Kiantone|Kiantone town
+36|013|47592|Mina|Mina town
+36|013|52155|North Harmony|North Harmony town
+36|013|58926|Poland|Poland town
+36|013|58981|Pomfret|Pomfret town
+36|013|59421|Portland|Portland town
+36|013|61885|Ripley|Ripley town
+36|013|66916|Sheridan|Sheridan town
+36|013|66960|Sherman|Sherman town
+36|013|71476|Stockton|Stockton town
+36|013|77530|Villenova|Villenova town
+36|013|79950|Westfield|Westfield town
+36|015|02781|Ashland|Ashland town
+36|015|04132|Baldwin|Baldwin town
+36|015|06475|Big Flats|Big Flats town
+36|015|12947|Catlin|Catlin town
+36|015|15077|Chemung|Chemung town
+36|015|24229|Elmira|Elmira city
+36|015|24240|Elmira|Elmira town
+36|015|24636|Erin|Erin town
+36|015|35705|Horseheads|Horseheads town
+36|015|69617|Southport|Southport town
+36|015|76892|Van Etten|Van Etten town
+36|015|77310|Veteran|Veteran town
+36|017|00353|Afton|Afton town
+36|017|04044|Bainbridge|Bainbridge town
+36|017|17486|Columbus|Columbus town
+36|017|18619|Coventry|Coventry town
+36|017|28739|German|German town
+36|017|30422|Greene|Greene town
+36|017|31148|Guilford|Guilford town
+36|017|42411|Lincklaen|Lincklaen town
+36|017|44127|McDonough|McDonough town
+36|017|49957|New Berlin|New Berlin town
+36|017|53297|North Norwich|North Norwich town
+36|017|53979|Norwich|Norwich city
+36|017|53990|Norwich|Norwich town
+36|017|55717|Otselic|Otselic town
+36|017|55959|Oxford|Oxford town
+36|017|57507|Pharsalia|Pharsalia town
+36|017|58288|Pitcher|Pitcher town
+36|017|58772|Plymouth|Plymouth town
+36|017|59817|Preston|Preston town
+36|017|66894|Sherburne|Sherburne town
+36|017|68055|Smithville|Smithville town
+36|017|68110|Smyrna|Smyrna town
+36|019|01583|Altona|Altona town
+36|019|03221|Au Sable|Au Sable town
+36|019|05485|Beekmantown|Beekmantown town
+36|019|06761|Black Brook|Black Brook town
+36|019|13750|Champlain|Champlain town
+36|019|14113|Chazy|Chazy town
+36|019|16397|Clinton|Clinton town
+36|019|19653|Dannemora|Dannemora town
+36|019|23921|Ellenburg|Ellenburg town
+36|019|48252|Mooers|Mooers town
+36|019|57375|Peru|Peru town
+36|019|58574|Plattsburgh|Plattsburgh city
+36|019|58585|Plattsburgh|Plattsburgh town
+36|019|65211|Saranac|Saranac town
+36|019|65717|Schuyler Falls|Schuyler Falls town
+36|021|02099|Ancram|Ancram town
+36|021|03287|Austerlitz|Austerlitz town
+36|021|12056|Canaan|Canaan town
+36|021|14014|Chatham|Chatham town
+36|021|16045|Claverack|Claverack town
+36|021|16177|Clermont|Clermont town
+36|021|18102|Copake|Copake town
+36|021|28068|Gallatin|Gallatin town
+36|021|28772|Germantown|Germantown town
+36|021|28871|Ghent|Ghent town
+36|021|30565|Greenport|Greenport town
+36|021|34748|Hillsdale|Hillsdale town
+36|021|35969|Hudson|Hudson city
+36|021|39573|Kinderhook|Kinderhook town
+36|021|42917|Livingston|Livingston town
+36|021|50452|New Lebanon|New Lebanon town
+36|021|71443|Stockport|Stockport town
+36|021|71850|Stuyvesant|Stuyvesant town
+36|021|73077|Taghkanic|Taghkanic town
+36|023|15748|Cincinnatus|Cincinnatus town
+36|023|18388|Cortland|Cortland city
+36|023|18421|Cortlandville|Cortlandville town
+36|023|19499|Cuyler|Cuyler town
+36|023|27496|Freetown|Freetown town
+36|023|32160|Harford|Harford town
+36|023|35287|Homer|Homer town
+36|023|41300|Lapeer|Lapeer town
+36|023|45403|Marathon|Marathon town
+36|023|59773|Preble|Preble town
+36|023|65915|Scott|Scott town
+36|023|68264|Solon|Solon town
+36|023|73220|Taylor|Taylor town
+36|023|75550|Truxton|Truxton town
+36|023|77596|Virgil|Virgil town
+36|023|81963|Willet|Willet town
+36|025|02132|Andes|Andes town
+36|025|07597|Bovina|Bovina town
+36|025|16793|Colchester|Colchester town
+36|025|19763|Davenport|Davenport town
+36|025|20137|Delhi|Delhi town
+36|025|20357|Deposit|Deposit town
+36|025|27232|Franklin|Franklin town
+36|025|31698|Hamden|Hamden town
+36|025|31951|Hancock|Hancock town
+36|025|32281|Harpersfield|Harpersfield town
+36|025|40068|Kortright|Kortright town
+36|025|45964|Masonville|Masonville town
+36|025|46624|Meredith|Meredith town
+36|025|47031|Middletown|Middletown town
+36|025|64001|Roxbury|Roxbury town
+36|025|67345|Sidney|Sidney town
+36|025|70629|Stamford|Stamford town
+36|025|74111|Tompkins|Tompkins town
+36|025|78047|Walton|Walton town
+36|027|01693|Amenia|Amenia town
+36|027|05100|Beacon|Beacon city
+36|027|05452|Beekman|Beekman town
+36|027|16408|Clinton|Clinton town
+36|027|20819|Dover|Dover town
+36|027|21996|East Fishkill|East Fishkill town
+36|027|25978|Fishkill|Fishkill town
+36|027|37209|Hyde Park|Hyde Park town
+36|027|40299|LaGrange|LaGrange town
+36|027|47207|Milan|Milan town
+36|027|51891|North East|North East town
+36|027|56825|Pawling|Pawling town
+36|027|58156|Pine Plains|Pine Plains town
+36|027|58695|Pleasant Valley|Pleasant Valley town
+36|027|59641|Poughkeepsie|Poughkeepsie city
+36|027|59652|Poughkeepsie|Poughkeepsie town
+36|027|60905|Red Hook|Red Hook town
+36|027|61357|Rhinebeck|Rhinebeck town
+36|027|70662|Stanford|Stanford town
+36|027|76166|Union Vale|Union Vale town
+36|027|78157|Wappinger|Wappinger town
+36|027|78388|Washington|Washington town
+36|029|00000|County subdivisions not defined|County subdivisions not defined
+36|029|01099|Alden|Alden town
+36|029|02000|Amherst|Amherst town
+36|029|03199|Aurora|Aurora town
+36|029|07454|Boston|Boston town
+36|029|07894|Brant|Brant town
+36|029|11000|Buffalo|Buffalo city
+36|029|13035|Cattaraugus|Cattaraugus Reservation
+36|029|15011|Cheektowaga|Cheektowaga town
+36|029|15825|Clarence|Clarence town
+36|029|16870|Colden|Colden town
+36|029|17200|Collins|Collins town
+36|029|17585|Concord|Concord town
+36|029|23415|Eden|Eden town
+36|029|24130|Elma|Elma town
+36|029|24801|Evans|Evans town
+36|029|29828|Grand Island|Grand Island town
+36|029|31654|Hamburg|Hamburg town
+36|029|35122|Holland|Holland town
+36|029|40189|Lackawanna|Lackawanna city
+36|029|41146|Lancaster|Lancaster town
+36|029|45601|Marilla|Marilla town
+36|029|50716|Newstead|Newstead town
+36|029|51803|North Collins|North Collins town
+36|029|55277|Orchard Park|Orchard Park town
+36|029|65277|Sardinia|Sardinia town
+36|029|74166|Tonawanda|Tonawanda city
+36|029|75000|Tonawanda|Tonawanda town
+36|029|75011|Tonawanda|Tonawanda Reservation
+36|029|77871|Wales|Wales town
+36|029|80918|West Seneca|West Seneca town
+36|031|15330|Chesterfield|Chesterfield town
+36|031|19246|Crown Point|Crown Point town
+36|031|23833|Elizabethtown|Elizabethtown town
+36|031|24768|Essex|Essex town
+36|031|38396|Jay|Jay town
+36|031|39067|Keene|Keene town
+36|031|42114|Lewis|Lewis town
+36|031|47669|Minerva|Minerva town
+36|031|48428|Moriah|Moriah town
+36|031|50144|Newcomb|Newcomb town
+36|031|51935|North Elba|North Elba town
+36|031|53077|North Hudson|North Hudson town
+36|031|64529|St. Armand|St. Armand town
+36|031|65629|Schroon|Schroon town
+36|031|73891|Ticonderoga|Ticonderoga town
+36|031|80775|Westport|Westport town
+36|031|82271|Willsboro|Willsboro town
+36|031|82315|Wilmington|Wilmington town
+36|033|04319|Bangor|Bangor town
+36|033|05716|Bellmont|Bellmont town
+36|033|07278|Bombay|Bombay town
+36|033|07839|Brandon|Brandon town
+36|033|08213|Brighton|Brighton town
+36|033|11165|Burke|Burke town
+36|033|13992|Chateaugay|Chateaugay town
+36|033|17871|Constable|Constable town
+36|033|20610|Dickinson|Dickinson town
+36|033|20973|Duane|Duane town
+36|033|26737|Fort Covington|Fort Covington town
+36|033|27243|Franklin|Franklin town
+36|033|32314|Harrietstown|Harrietstown town
+36|033|44721|Malone|Malone town
+36|033|47933|Moira|Moira town
+36|033|64727|St. Regis Mohawk|St. Regis Mohawk Reservation
+36|033|65178|Santa Clara|Santa Clara town
+36|033|75676|Tupper Lake|Tupper Lake town
+36|033|78795|Waverly|Waverly town
+36|033|81215|Westville|Westville town
+36|035|06882|Bleecker|Bleecker town
+36|035|08433|Broadalbin|Broadalbin town
+36|035|12573|Caroga|Caroga town
+36|035|24603|Ephratah|Ephratah town
+36|035|29443|Gloversville|Gloversville city
+36|035|38781|Johnstown|Johnstown city
+36|035|38792|Johnstown|Johnstown town
+36|035|46217|Mayfield|Mayfield town
+36|035|51407|Northampton|Northampton town
+36|035|55101|Oppenheim|Oppenheim town
+36|035|57353|Perth|Perth town
+36|035|71784|Stratford|Stratford town
+36|037|00474|Alabama|Alabama town
+36|037|01165|Alexander|Alexander town
+36|037|04715|Batavia|Batavia city
+36|037|04726|Batavia|Batavia town
+36|037|06057|Bergen|Bergen town
+36|037|06266|Bethany|Bethany town
+36|037|11572|Byron|Byron town
+36|037|19719|Darien|Darien town
+36|037|23756|Elba|Elba town
+36|037|42037|Le Roy|Le Roy town
+36|037|54166|Oakfield|Oakfield town
+36|037|56792|Pavilion|Pavilion town
+36|037|57078|Pembroke|Pembroke town
+36|037|70607|Stafford|Stafford town
+36|037|75011|Tonawanda|Tonawanda Reservation
+36|039|02803|Ashland|Ashland town
+36|039|02913|Athens|Athens town
+36|039|11649|Cairo|Cairo town
+36|039|13013|Catskill|Catskill town
+36|039|18729|Coxsackie|Coxsackie town
+36|039|21204|Durham|Durham town
+36|039|30620|Greenville|Greenville town
+36|039|31379|Halcott|Halcott town
+36|039|36178|Hunter|Hunter town
+36|039|38638|Jewett|Jewett town
+36|039|42202|Lexington|Lexington town
+36|039|49935|New Baltimore|New Baltimore town
+36|039|59751|Prattsville|Prattsville town
+36|039|82480|Windham|Windham town
+36|041|02572|Arietta|Arietta town
+36|041|05958|Benson|Benson town
+36|041|35496|Hope|Hope town
+36|041|37374|Indian Lake|Indian Lake town
+36|041|37495|Inlet|Inlet town
+36|041|40794|Lake Pleasant|Lake Pleasant town
+36|041|43412|Long Lake|Long Lake town
+36|041|48340|Morehouse|Morehouse town
+36|041|79059|Wells|Wells town
+36|043|17431|Columbia|Columbia town
+36|043|19686|Danube|Danube town
+36|043|24933|Fairfield|Fairfield town
+36|043|27199|Frankfort|Frankfort town
+36|043|28750|German Flatts|German Flatts town
+36|043|34132|Herkimer|Herkimer town
+36|043|42664|Litchfield|Litchfield town
+36|043|42741|Little Falls|Little Falls city
+36|043|42752|Little Falls|Little Falls town
+36|043|44974|Manheim|Manheim town
+36|043|50584|Newport|Newport town
+36|043|53968|Norway|Norway town
+36|043|54507|Ohio|Ohio town
+36|043|64254|Russia|Russia town
+36|043|64837|Salisbury|Salisbury town
+36|043|65695|Schuyler|Schuyler town
+36|043|70794|Stark|Stark town
+36|043|78278|Warren|Warren town
+36|043|78927|Webb|Webb town
+36|043|82568|Winfield|Winfield town
+36|045|00000|County subdivisions not defined|County subdivisions not defined
+36|045|00210|Adams|Adams town
+36|045|01176|Alexandria|Alexandria town
+36|045|02297|Antwerp|Antwerp town
+36|045|10242|Brownville|Brownville town
+36|045|12364|Cape Vincent|Cape Vincent town
+36|045|13717|Champion|Champion town
+36|045|16100|Clayton|Clayton town
+36|045|24086|Ellisburg|Ellisburg town
+36|045|34055|Henderson|Henderson town
+36|045|35782|Hounsfield|Hounsfield town
+36|045|42015|Le Ray|Le Ray town
+36|045|43544|Lorraine|Lorraine town
+36|045|43863|Lyme|Lyme town
+36|045|55398|Orleans|Orleans town
+36|045|56209|Pamelia|Pamelia town
+36|045|57562|Philadelphia|Philadelphia town
+36|045|63341|Rodman|Rodman town
+36|045|64265|Rutland|Rutland town
+36|045|73528|Theresa|Theresa town
+36|045|78608|Watertown|Watertown city
+36|045|78619|Watertown|Watertown town
+36|045|82348|Wilna|Wilna town
+36|045|83162|Worth|Worth town
+36|047|10022|Brooklyn|Brooklyn borough
+36|049|19081|Croghan|Croghan town
+36|049|20214|Denmark|Denmark town
+36|049|20555|Diana|Diana town
+36|049|30796|Greig|Greig town
+36|049|32358|Harrisburg|Harrisburg town
+36|049|42125|Lewis|Lewis town
+36|049|42213|Leyden|Leyden town
+36|049|43731|Lowville|Lowville town
+36|049|43995|Lyonsdale|Lyonsdale town
+36|049|45854|Martinsburg|Martinsburg town
+36|049|48032|Montague|Montague town
+36|049|50001|New Bremen|New Bremen town
+36|049|55497|Osceola|Osceola town
+36|049|57925|Pinckney|Pinckney town
+36|049|75693|Turin|Turin town
+36|049|78729|Watson|Watson town
+36|049|81094|West Turin|West Turin town
+36|051|03364|Avon|Avon town
+36|051|11715|Caledonia|Caledonia town
+36|051|17618|Conesus|Conesus town
+36|051|28629|Geneseo|Geneseo town
+36|051|31016|Groveland|Groveland town
+36|051|41883|Leicester|Leicester town
+36|051|42334|Lima|Lima town
+36|051|42961|Livonia|Livonia town
+36|051|48956|Mount Morris|Mount Morris town
+36|051|51869|North Dansville|North Dansville town
+36|051|54089|Nunda|Nunda town
+36|051|55508|Ossian|Ossian town
+36|051|59179|Portage|Portage town
+36|051|70101|Sparta|Sparta town
+36|051|70475|Springwater|Springwater town
+36|051|81006|West Sparta|West Sparta town
+36|051|84022|York|York town
+36|053|08587|Brookfield|Brookfield town
+36|053|13156|Cazenovia|Cazenovia town
+36|053|20401|DeRuyter|DeRuyter town
+36|053|23305|Eaton|Eaton town
+36|053|25593|Fenner|Fenner town
+36|053|28695|Georgetown|Georgetown town
+36|053|31720|Hamilton|Hamilton town
+36|053|41674|Lebanon|Lebanon town
+36|053|41905|Lenox|Lenox town
+36|053|42422|Lincoln|Lincoln town
+36|053|44435|Madison|Madison town
+36|053|49770|Nelson|Nelson town
+36|053|54837|Oneida|Oneida city
+36|053|67785|Smithfield|Smithfield town
+36|053|71399|Stockbridge|Stockbridge town
+36|053|71993|Sullivan|Sullivan town
+36|055|00000|County subdivisions not defined|County subdivisions not defined
+36|055|08246|Brighton|Brighton town
+36|055|15462|Chili|Chili town
+36|055|15957|Clarkson|Clarkson town
+36|055|22870|East Rochester|East Rochester town
+36|055|28442|Gates|Gates town
+36|055|30290|Greece|Greece town
+36|055|31797|Hamlin|Hamlin town
+36|055|34099|Henrietta|Henrietta town
+36|055|37726|Irondequoit|Irondequoit town
+36|055|46558|Mendon|Mendon town
+36|055|54474|Ogden|Ogden town
+36|055|56561|Parma|Parma town
+36|055|57144|Penfield|Penfield town
+36|055|57221|Perinton|Perinton town
+36|055|58365|Pittsford|Pittsford town
+36|055|61808|Riga|Riga town
+36|055|63000|Rochester|Rochester city
+36|055|64144|Rush|Rush town
+36|055|72455|Sweden|Sweden town
+36|055|78971|Webster|Webster town
+36|055|81402|Wheatland|Wheatland town
+36|057|02066|Amsterdam|Amsterdam city
+36|057|02077|Amsterdam|Amsterdam town
+36|057|12122|Canajoharie|Canajoharie town
+36|057|13816|Charleston|Charleston town
+36|057|26308|Florida|Florida town
+36|057|29047|Glen|Glen town
+36|057|47614|Minden|Minden town
+36|057|47834|Mohawk|Mohawk town
+36|057|56099|Palatine|Palatine town
+36|057|63561|Root|Root town
+36|057|64650|St. Johnsville|St. Johnsville town
+36|059|29113|Glen Cove|Glen Cove city
+36|059|34000|Hempstead|Hempstead town
+36|059|43335|Long Beach|Long Beach city
+36|059|53000|North Hempstead|North Hempstead town
+36|059|56000|Oyster Bay|Oyster Bay town
+36|061|44919|Manhattan|Manhattan borough
+36|063|00000|County subdivisions not defined|County subdivisions not defined
+36|063|11803|Cambria|Cambria town
+36|063|32490|Hartland|Hartland town
+36|063|42158|Lewiston|Lewiston town
+36|063|43082|Lockport|Lockport city
+36|063|43093|Lockport|Lockport town
+36|063|50232|Newfane|Newfane town
+36|063|51033|Niagara|Niagara town
+36|063|51055|Niagara Falls|Niagara Falls city
+36|063|53682|North Tonawanda|North Tonawanda city
+36|063|57111|Pendleton|Pendleton town
+36|063|59267|Porter|Porter town
+36|063|64034|Royalton|Royalton town
+36|063|68330|Somerset|Somerset town
+36|063|75011|Tonawanda|Tonawanda Reservation
+36|063|75748|Tuscarora Nation|Tuscarora Nation Reservation
+36|063|81380|Wheatfield|Wheatfield town
+36|063|82370|Wilson|Wilson town
+36|065|02253|Annsville|Annsville town
+36|065|03155|Augusta|Augusta town
+36|065|03309|Ava|Ava town
+36|065|07366|Boonville|Boonville town
+36|065|08180|Bridgewater|Bridgewater town
+36|065|11858|Camden|Camden town
+36|065|19928|Deerfield|Deerfield town
+36|065|26297|Florence|Florence town
+36|065|26385|Floyd|Floyd town
+36|065|26627|Forestport|Forestport town
+36|065|39804|Kirkland|Kirkland town
+36|065|41762|Lee|Lee town
+36|065|45535|Marcy|Marcy town
+36|065|45755|Marshall|Marshall town
+36|065|50309|New Hartford|New Hartford town
+36|065|56330|Paris|Paris town
+36|065|61126|Remsen|Remsen town
+36|065|63418|Rome|Rome city
+36|065|65134|Sangerfield|Sangerfield town
+36|065|71212|Steuben|Steuben town
+36|065|75280|Trenton|Trenton town
+36|065|76540|Utica|Utica city
+36|065|77123|Vernon|Vernon town
+36|065|77178|Verona|Verona town
+36|065|77486|Vienna|Vienna town
+36|065|79862|Western|Western town
+36|065|80533|Westmoreland|Westmoreland town
+36|065|81754|Whitestown|Whitestown town
+36|067|11913|Camillus|Camillus town
+36|067|15704|Cicero|Cicero town
+36|067|16067|Clay|Clay town
+36|067|20478|De Witt|De Witt town
+36|067|23800|Elbridge|Elbridge town
+36|067|24878|Fabius|Fabius town
+36|067|28519|Geddes|Geddes town
+36|067|40266|LaFayette|LaFayette town
+36|067|44039|Lysander|Lysander town
+36|067|45029|Manlius|Manlius town
+36|067|45491|Marcellus|Marcellus town
+36|067|54958|Onondaga|Onondaga town
+36|067|54980|Onondaga Nation|Onondaga Nation Reservation
+36|067|55651|Otisco|Otisco town
+36|067|59036|Pompey|Pompey town
+36|067|64815|Salina|Salina town
+36|067|67521|Skaneateles|Skaneateles town
+36|067|70057|Spafford|Spafford town
+36|067|73000|Syracuse|Syracuse city
+36|067|75638|Tully|Tully town
+36|067|76760|Van Buren|Van Buren town
+36|069|08378|Bristol|Bristol town
+36|069|12100|Canadice|Canadice town
+36|069|12144|Canandaigua|Canandaigua city
+36|069|12155|Canandaigua|Canandaigua town
+36|069|21699|East Bloomfield|East Bloomfield town
+36|069|25406|Farmington|Farmington town
+36|069|28640|Geneva|Geneva city
+36|069|28651|Geneva|Geneva town
+36|069|29531|Gorham|Gorham town
+36|069|35551|Hopewell|Hopewell town
+36|069|44864|Manchester|Manchester town
+36|069|49440|Naples|Naples town
+36|069|57529|Phelps|Phelps town
+36|069|61544|Richmond|Richmond town
+36|069|66289|Seneca|Seneca town
+36|069|68660|South Bristol|South Bristol town
+36|069|77387|Victor|Victor town
+36|069|79356|West Bloomfield|West Bloomfield town
+36|071|07003|Blooming Grove|Blooming Grove town
+36|071|15308|Chester|Chester town
+36|071|18300|Cornwall|Cornwall town
+36|071|18916|Crawford|Crawford town
+36|071|19961|Deerpark|Deerpark town
+36|071|29553|Goshen|Goshen town
+36|071|30631|Greenville|Greenville town
+36|071|31907|Hamptonburgh|Hamptonburgh town
+36|071|34550|Highlands|Highlands town
+36|071|47042|Middletown|Middletown city
+36|071|47713|Minisink|Minisink town
+36|071|47999|Monroe|Monroe town
+36|071|48153|Montgomery|Montgomery town
+36|071|48857|Mount Hope|Mount Hope town
+36|071|50034|Newburgh|Newburgh city
+36|071|50045|Newburgh|Newburgh town
+36|071|50848|New Windsor|New Windsor town
+36|071|56185|Palm Tree|Palm Tree town
+36|071|59388|Port Jervis|Port Jervis city
+36|071|75781|Tuxedo|Tuxedo town
+36|071|77992|Wallkill|Wallkill town
+36|071|78366|Warwick|Warwick town
+36|071|78839|Wawayanda|Wawayanda town
+36|071|82755|Woodbury|Woodbury town
+36|073|00000|County subdivisions not defined|County subdivisions not defined
+36|073|01044|Albion|Albion town
+36|073|04572|Barre|Barre town
+36|073|12496|Carlton|Carlton town
+36|073|15880|Clarendon|Clarendon town
+36|073|27958|Gaines|Gaines town
+36|073|39188|Kendall|Kendall town
+36|073|49286|Murray|Murray town
+36|073|61742|Ridgeway|Ridgeway town
+36|073|66751|Shelby|Shelby town
+36|073|83448|Yates|Yates town
+36|075|00000|County subdivisions not defined|County subdivisions not defined
+36|075|01055|Albion|Albion town
+36|075|01649|Amboy|Amboy town
+36|075|07674|Boylston|Boylston town
+36|075|17904|Constantia|Constantia town
+36|075|27815|Fulton|Fulton city
+36|075|29729|Granby|Granby town
+36|075|32028|Hannibal|Hannibal town
+36|075|32688|Hastings|Hastings town
+36|075|46822|Mexico|Mexico town
+36|075|47691|Minetto|Minetto town
+36|075|50342|New Haven|New Haven town
+36|075|55453|Orwell|Orwell town
+36|075|55574|Oswego|Oswego city
+36|075|55585|Oswego|Oswego town
+36|075|56154|Palermo|Palermo town
+36|075|56352|Parish|Parish town
+36|075|60873|Redfield|Redfield town
+36|075|61533|Richland|Richland town
+36|075|65079|Sandy Creek|Sandy Creek town
+36|075|65618|Schroeppel|Schroeppel town
+36|075|65992|Scriba|Scriba town
+36|075|77662|Volney|Volney town
+36|075|80500|West Monroe|West Monroe town
+36|075|82073|Williamstown|Williamstown town
+36|077|11209|Burlington|Burlington town
+36|077|11528|Butternuts|Butternuts town
+36|077|15253|Cherry Valley|Cherry Valley town
+36|077|19895|Decatur|Decatur town
+36|077|23613|Edmeston|Edmeston town
+36|077|24845|Exeter|Exeter town
+36|077|32589|Hartwick|Hartwick town
+36|077|41531|Laurens|Laurens town
+36|077|45920|Maryland|Maryland town
+36|077|46910|Middlefield|Middlefield town
+36|077|47240|Milford|Milford town
+36|077|48494|Morris|Morris town
+36|077|50485|New Lisbon|New Lisbon town
+36|077|54881|Oneonta|Oneonta city
+36|077|54892|Oneonta|Oneonta town
+36|077|55629|Otego|Otego town
+36|077|55695|Otsego|Otsego town
+36|077|58343|Pittsfield|Pittsfield town
+36|077|58420|Plainfield|Plainfield town
+36|077|61467|Richfield|Richfield town
+36|077|63638|Roseboom|Roseboom town
+36|077|70310|Springfield|Springfield town
+36|077|76012|Unadilla|Unadilla town
+36|077|79972|Westford|Westford town
+36|077|83129|Worcester|Worcester town
+36|079|12529|Carmel|Carmel town
+36|079|39331|Kent|Kent town
+36|079|56748|Patterson|Patterson town
+36|079|57584|Philipstown|Philipstown town
+36|079|60147|Putnam Valley|Putnam Valley town
+36|079|68924|Southeast|Southeast town
+36|081|60323|Queens|Queens borough
+36|083|06189|Berlin|Berlin town
+36|083|10275|Brunswick|Brunswick town
+36|083|22117|East Greenbush|East Greenbush town
+36|083|29674|Grafton|Grafton town
+36|083|35463|Hoosick|Hoosick town
+36|083|49517|Nassau|Nassau town
+36|083|52100|North Greenbush|North Greenbush town
+36|083|57441|Petersburgh|Petersburgh town
+36|083|58398|Pittstown|Pittstown town
+36|083|58805|Poestenkill|Poestenkill town
+36|083|61148|Rensselaer|Rensselaer city
+36|083|65013|Sand Lake|Sand Lake town
+36|083|65486|Schaghticoke|Schaghticoke town
+36|083|65541|Schodack|Schodack town
+36|083|71102|Stephentown|Stephentown town
+36|083|75484|Troy|Troy city
+36|085|70915|Staten Island|Staten Island borough
+36|087|15968|Clarkstown|Clarkstown town
+36|087|32765|Haverstraw|Haverstraw town
+36|087|55211|Orangetown|Orangetown town
+36|087|60510|Ramapo|Ramapo town
+36|087|71674|Stony Point|Stony Point town
+36|089|07938|Brasher|Brasher town
+36|089|12342|Canton|Canton town
+36|089|15792|Clare|Clare town
+36|089|16287|Clifton|Clifton town
+36|089|17409|Colton|Colton town
+36|089|20038|De Kalb|De Kalb town
+36|089|20335|De Peyster|De Peyster town
+36|089|23646|Edwards|Edwards town
+36|089|25791|Fine|Fine town
+36|089|27100|Fowler|Fowler town
+36|089|29608|Gouverneur|Gouverneur town
+36|089|31841|Hammond|Hammond town
+36|089|34176|Hermon|Hermon town
+36|089|35595|Hopkinton|Hopkinton town
+36|089|41564|Lawrence|Lawrence town
+36|089|42631|Lisbon|Lisbon town
+36|089|43588|Louisville|Louisville town
+36|089|44391|Macomb|Macomb town
+36|089|44490|Madrid|Madrid town
+36|089|46030|Massena|Massena town
+36|089|48582|Morristown|Morristown town
+36|089|51330|Norfolk|Norfolk town
+36|089|54485|Ogdensburg|Ogdensburg city
+36|089|55563|Oswegatchie|Oswegatchie town
+36|089|56374|Parishville|Parishville town
+36|089|57716|Piercefield|Piercefield town
+36|089|57771|Pierrepont|Pierrepont town
+36|089|58266|Pitcairn|Pitcairn town
+36|089|59575|Potsdam|Potsdam town
+36|089|63858|Rossie|Rossie town
+36|089|64221|Russell|Russell town
+36|089|71410|Stockholm|Stockholm town
+36|089|77739|Waddington|Waddington town
+36|091|04220|Ballston|Ballston town
+36|091|13926|Charlton|Charlton town
+36|091|16353|Clifton Park|Clifton Park town
+36|091|18223|Corinth|Corinth town
+36|091|19807|Day|Day town
+36|091|23591|Edinburg|Edinburg town
+36|091|28112|Galway|Galway town
+36|091|30444|Greenfield|Greenfield town
+36|091|31269|Hadley|Hadley town
+36|091|31489|Halfmoon|Halfmoon town
+36|091|44743|Malta|Malta town
+36|091|46360|Mechanicville|Mechanicville city
+36|091|47537|Milton|Milton town
+36|091|48318|Moreau|Moreau town
+36|091|53737|Northumberland|Northumberland town
+36|091|59949|Providence|Providence town
+36|091|65244|Saratoga|Saratoga town
+36|091|65255|Saratoga Springs|Saratoga Springs city
+36|091|71333|Stillwater|Stillwater town
+36|091|78531|Waterford|Waterford town
+36|091|82403|Wilton|Wilton town
+36|093|21006|Duanesburg|Duanesburg town
+36|093|29366|Glenville|Glenville town
+36|093|51264|Niskayuna|Niskayuna town
+36|093|59861|Princetown|Princetown town
+36|093|63935|Rotterdam|Rotterdam town
+36|093|65508|Schenectady|Schenectady city
+36|095|06893|Blenheim|Blenheim town
+36|095|10154|Broome|Broome town
+36|095|12452|Carlisle|Carlisle town
+36|095|16639|Cobleskill|Cobleskill town
+36|095|17651|Conesville|Conesville town
+36|095|24724|Esperance|Esperance town
+36|095|27826|Fulton|Fulton town
+36|095|28981|Gilboa|Gilboa town
+36|095|38440|Jefferson|Jefferson town
+36|095|46855|Middleburgh|Middleburgh town
+36|095|61599|Richmondville|Richmondville town
+36|095|65596|Schoharie|Schoharie town
+36|095|66542|Seward|Seward town
+36|095|66641|Sharon|Sharon town
+36|095|72070|Summit|Summit town
+36|095|83195|Wright|Wright town
+36|097|12914|Catharine|Catharine town
+36|097|13112|Cayuta|Cayuta town
+36|097|20676|Dix|Dix town
+36|097|33073|Hector|Hector town
+36|097|48186|Montour|Montour town
+36|097|55156|Orange|Orange town
+36|097|60763|Reading|Reading town
+36|097|75924|Tyrone|Tyrone town
+36|099|18663|Covert|Covert town
+36|099|25505|Fayette|Fayette town
+36|099|28640|Geneva|Geneva city
+36|099|38858|Junius|Junius town
+36|099|43225|Lodi|Lodi town
+36|099|55827|Ovid|Ovid town
+36|099|63440|Romulus|Romulus town
+36|099|66333|Seneca Falls|Seneca Falls town
+36|099|75902|Tyre|Tyre town
+36|099|76958|Varick|Varick town
+36|099|78564|Waterloo|Waterloo town
+36|101|00287|Addison|Addison town
+36|101|03342|Avoca|Avoca town
+36|101|04770|Bath|Bath town
+36|101|07740|Bradford|Bradford town
+36|101|11880|Cameron|Cameron town
+36|101|11946|Campbell|Campbell town
+36|101|12265|Canisteo|Canisteo town
+36|101|12991|Caton|Caton town
+36|101|16738|Cohocton|Cohocton town
+36|101|18256|Corning|Corning city
+36|101|18267|Corning|Corning town
+36|101|19675|Dansville|Dansville town
+36|101|24647|Erwin|Erwin town
+36|101|27551|Fremont|Fremont town
+36|101|30741|Greenwood|Greenwood town
+36|101|32567|Hartsville|Hartsville town
+36|101|35661|Hornby|Hornby town
+36|101|35672|Hornell|Hornell city
+36|101|35683|Hornellsville|Hornellsville town
+36|101|35837|Howard|Howard town
+36|101|38319|Jasper|Jasper town
+36|101|42576|Lindley|Lindley town
+36|101|59718|Prattsburgh|Prattsburgh town
+36|101|59982|Pulteney|Pulteney town
+36|101|60653|Rathbone|Rathbone town
+36|101|73836|Thurston|Thurston town
+36|101|75440|Troupsburg|Troupsburg town
+36|101|75737|Tuscarora|Tuscarora town
+36|101|76496|Urbana|Urbana town
+36|101|78861|Wayland|Wayland town
+36|101|78883|Wayne|Wayne town
+36|101|81105|West Union|West Union town
+36|101|81457|Wheeler|Wheeler town
+36|101|82843|Woodhull|Woodhull town
+36|103|04000|Babylon|Babylon town
+36|103|10000|Brookhaven|Brookhaven town
+36|103|22194|East Hampton|East Hampton town
+36|103|37000|Huntington|Huntington town
+36|103|38000|Islip|Islip town
+36|103|59106|Poospatuck|Poospatuck Reservation
+36|103|61984|Riverhead|Riverhead town
+36|103|66839|Shelter Island|Shelter Island town
+36|103|67059|Shinnecock|Shinnecock Reservation
+36|103|68000|Smithtown|Smithtown town
+36|103|68473|Southampton|Southampton town
+36|103|69463|Southold|Southold town
+36|105|06310|Bethel|Bethel town
+36|105|11759|Callicoon|Callicoon town
+36|105|16661|Cochecton|Cochecton town
+36|105|20104|Delaware|Delaware town
+36|105|25241|Fallsburg|Fallsburg town
+36|105|26528|Forestburgh|Forestburgh town
+36|105|27573|Fremont|Fremont town
+36|105|34473|Highland|Highland town
+36|105|42235|Liberty|Liberty town
+36|105|43786|Lumberland|Lumberland town
+36|105|44809|Mamakating|Mamakating town
+36|105|49847|Neversink|Neversink town
+36|105|63176|Rockland|Rockland town
+36|105|73627|Thompson|Thompson town
+36|105|75759|Tusten|Tusten town
+36|107|04671|Barton|Barton town
+36|107|06145|Berkshire|Berkshire town
+36|107|12221|Candor|Candor town
+36|107|49913|Newark Valley|Newark Valley town
+36|107|51121|Nichols|Nichols town
+36|107|55893|Owego|Owego town
+36|107|61511|Richford|Richford town
+36|107|70178|Spencer|Spencer town
+36|107|73968|Tioga|Tioga town
+36|109|12606|Caroline|Caroline town
+36|109|19620|Danby|Danby town
+36|109|20962|Dryden|Dryden town
+36|109|24548|Enfield|Enfield town
+36|109|30972|Groton|Groton town
+36|109|38077|Ithaca|Ithaca city
+36|109|38088|Ithaca|Ithaca town
+36|109|41234|Lansing|Lansing town
+36|109|50254|Newfield|Newfield town
+36|109|75990|Ulysses|Ulysses town
+36|111|20247|Denning|Denning town
+36|111|24691|Esopus|Esopus town
+36|111|28255|Gardiner|Gardiner town
+36|111|32116|Hardenburgh|Hardenburgh town
+36|111|37143|Hurley|Hurley town
+36|111|39727|Kingston|Kingston city
+36|111|39738|Kingston|Kingston town
+36|111|42994|Lloyd|Lloyd town
+36|111|45458|Marbletown|Marbletown town
+36|111|45722|Marlborough|Marlborough town
+36|111|50562|New Paltz|New Paltz town
+36|111|54749|Olive|Olive town
+36|111|58552|Plattekill|Plattekill town
+36|111|63011|Rochester|Rochester town
+36|111|63737|Rosendale|Rosendale town
+36|111|65299|Saugerties|Saugerties town
+36|111|66597|Shandaken|Shandaken town
+36|111|66674|Shawangunk|Shawangunk town
+36|111|75935|Ulster|Ulster town
+36|111|78828|Wawarsing|Wawarsing town
+36|111|83052|Woodstock|Woodstock town
+36|113|07234|Bolton|Bolton town
+36|113|15319|Chester|Chester town
+36|113|29333|Glens Falls|Glens Falls city
+36|113|31335|Hague|Hague town
+36|113|35639|Horicon|Horicon town
+36|113|38715|Johnsburg|Johnsburg town
+36|113|40519|Lake George|Lake George town
+36|113|40662|Lake Luzerne|Lake Luzerne town
+36|113|60356|Queensbury|Queensbury town
+36|113|71641|Stony Creek|Stony Creek town
+36|113|73814|Thurman|Thurman town
+36|113|78300|Warrensburg|Warrensburg town
+36|115|02561|Argyle|Argyle town
+36|115|11836|Cambridge|Cambridge town
+36|115|20885|Dresden|Dresden town
+36|115|22656|Easton|Easton town
+36|115|26715|Fort Ann|Fort Ann town
+36|115|26781|Fort Edward|Fort Edward town
+36|115|30037|Granville|Granville town
+36|115|30686|Greenwich|Greenwich town
+36|115|31885|Hampton|Hampton town
+36|115|32457|Hartford|Hartford town
+36|115|33040|Hebron|Hebron town
+36|115|38143|Jackson|Jackson town
+36|115|39650|Kingsbury|Kingsbury town
+36|115|60092|Putnam|Putnam town
+36|115|64782|Salem|Salem town
+36|115|81578|White Creek|White Creek town
+36|115|81633|Whitehall|Whitehall town
+36|117|00000|County subdivisions not defined|County subdivisions not defined
+36|117|02440|Arcadia|Arcadia town
+36|117|11473|Butler|Butler town
+36|117|28013|Galen|Galen town
+36|117|37165|Huron|Huron town
+36|117|43973|Lyons|Lyons town
+36|117|44160|Macedon|Macedon town
+36|117|45645|Marion|Marion town
+36|117|55013|Ontario|Ontario town
+36|117|56198|Palmyra|Palmyra town
+36|117|63605|Rose|Rose town
+36|117|65343|Savannah|Savannah town
+36|117|68220|Sodus|Sodus town
+36|117|78102|Walworth|Walworth town
+36|117|82040|Williamson|Williamson town
+36|117|82689|Wolcott|Wolcott town
+36|119|05320|Bedford|Bedford town
+36|119|18410|Cortlandt|Cortlandt town
+36|119|21820|Eastchester|Eastchester town
+36|119|30367|Greenburgh|Greenburgh town
+36|119|32413|Harrison|Harrison town
+36|119|42136|Lewisboro|Lewisboro town
+36|119|44842|Mamaroneck|Mamaroneck town
+36|119|48895|Mount Kisco|Mount Kisco town
+36|119|49011|Mount Pleasant|Mount Pleasant town
+36|119|49121|Mount Vernon|Mount Vernon city
+36|119|50078|New Castle|New Castle town
+36|119|50617|New Rochelle|New Rochelle city
+36|119|51693|North Castle|North Castle town
+36|119|53517|North Salem|North Salem town
+36|119|55541|Ossining|Ossining town
+36|119|56979|Peekskill|Peekskill city
+36|119|57012|Pelham|Pelham town
+36|119|59685|Pound Ridge|Pound Ridge town
+36|119|64309|Rye|Rye city
+36|119|64320|Rye|Rye town
+36|119|65442|Scarsdale|Scarsdale town
+36|119|68308|Somers|Somers town
+36|119|81677|White Plains|White Plains city
+36|119|84000|Yonkers|Yonkers city
+36|119|84077|Yorktown|Yorktown town
+36|121|02418|Arcade|Arcade town
+36|121|03012|Attica|Attica town
+36|121|05936|Bennington|Bennington town
+36|121|12782|Castile|Castile town
+36|121|18696|Covington|Covington town
+36|121|21369|Eagle|Eagle town
+36|121|27980|Gainesville|Gainesville town
+36|121|28596|Genesee Falls|Genesee Falls town
+36|121|38341|Java|Java town
+36|121|46877|Middlebury|Middlebury town
+36|121|55222|Orangeville|Orangeville town
+36|121|57254|Perry|Perry town
+36|121|57826|Pike|Pike town
+36|121|66773|Sheldon|Sheldon town
+36|121|78344|Warsaw|Warsaw town
+36|121|81325|Wethersfield|Wethersfield town
+36|123|04594|Barrington|Barrington town
+36|123|06002|Benton|Benton town
+36|123|38044|Italy|Italy town
+36|123|38583|Jerusalem|Jerusalem town
+36|123|47020|Middlesex|Middlesex town
+36|123|47504|Milo|Milo town
+36|123|59597|Potter|Potter town
+36|123|70816|Starkey|Starkey town
+36|123|75055|Torrey|Torrey town

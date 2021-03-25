@@ -1,0 +1,286 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+50|001|500101|Addison|Addison Voting District
+50|001|500102|Bridport|Bridport Voting District
+50|001|500103|Bristol|Bristol Voting District
+50|001|500104|Cornwall|Cornwall Voting District
+50|001|500105|Ferrisburgh|Ferrisburgh Voting District
+50|001|500106|Goshen|Goshen Voting District
+50|001|500107|Granville|Granville Voting District
+50|001|500108|Hancock|Hancock Voting District
+50|001|500109|Leicester|Leicester Voting District
+50|001|500110|Lincoln|Lincoln Voting District
+50|001|500111|Middlebury|Middlebury Voting District
+50|001|500112|Monkton|Monkton Voting District
+50|001|500113|New Haven|New Haven Voting District
+50|001|500114|Orwell|Orwell Voting District
+50|001|500115|Panton|Panton Voting District
+50|001|500116|Ripton|Ripton Voting District
+50|001|500117|Salisbury|Salisbury Voting District
+50|001|500118|Shoreham|Shoreham Voting District
+50|001|500119|Starksboro|Starksboro Voting District
+50|001|500120|Vergennes|Vergennes Voting District
+50|001|500121|Waltham|Waltham Voting District
+50|001|500122|Weybridge|Weybridge Voting District
+50|001|500123|Whiting|Whiting Voting District
+50|003|500301|Artlington|Artlington Voting District
+50|003|500302|Bennignton District 1|Bennignton District 1
+50|003|500303|Bennington District 2|Bennington District 2
+50|003|500304|Dorset|Dorset Voting District
+50|003|500305|Glastenbury|Glastenbury Voting District
+50|003|500306|Landgrove|Landgrove Voting District
+50|003|500307|Manchester|Manchester Voting District
+50|003|500308|Peru|Peru Voting District
+50|003|500309|Pownal|Pownal Voting District
+50|003|500310|Readsboro|Readsboro Voting District
+50|003|500311|Rupert|Rupert Voting District
+50|003|500312|Sandgate|Sandgate Voting District
+50|003|500313|Searsburg|Searsburg Voting District
+50|003|500314|Shaftsbury|Shaftsbury Voting District
+50|003|500315|Stamford|Stamford Voting District
+50|003|500316|Sunderland|Sunderland Voting District
+50|003|500317|Winhall|Winhall Voting District
+50|003|500318|Woodford|Woodford Voting District
+50|005|050050|Lyndon|Lyndon Voting District
+50|005|050501|Barnet|Barnet Voting District
+50|005|500501|Burke|Burke Voting District
+50|005|500503|Danville|Danville Voting District
+50|005|500504|Groton|Groton Voting District
+50|005|500505|Hardwick|Hardwick Voting District
+50|005|500506|Kirby|Kirby Voting District
+50|005|500508|Newark|Newark Voting District
+50|005|500509|Peacham|Peacham Voting District
+50|005|500510|Ryegate|Ryegate Voting District
+50|005|500511|Sheffield|Sheffield Voting District
+50|005|500512|St. Johnsbury|St. Johnsbury Voting District
+50|005|500513|Stannard|Stannard Voting District
+50|005|500514|Sutton|Sutton Voting District
+50|005|500515|Walden|Walden Voting District
+50|005|500516|Waterford|Waterford Voting District
+50|005|500517|Wheelock|Wheelock Voting District
+50|007|500701|Bolton|Bolton Voting District
+50|007|500702|Buel's Gore|Buel's Gore Voting District
+50|007|500703|Burlington Ward 1|Burlington Ward 1
+50|007|500704|Burlington Ward 2|Burlington Ward 2
+50|007|500705|Burlington Ward 3|Burlington Ward 3
+50|007|500706|Burlington Ward 4|Burlington Ward 4
+50|007|500707|Burlington Ward 5|Burlington Ward 5
+50|007|500708|Burlington Ward 6|Burlington Ward 6
+50|007|500709|Burlington Ward 7|Burlington Ward 7
+50|007|500710|Burlington Ward 8|Burlington Ward 8
+50|007|500711|Charlotte|Charlotte Voting District
+50|007|500712|Colchester|Colchester Voting District
+50|007|500713|Essex District 1|Essex District 1
+50|007|500714|Essex District 2|Essex District 2
+50|007|500715|Essex District 3|Essex District 3
+50|007|500717|Hinesburg|Hinesburg Voting District
+50|007|500718|Huntington|Huntington Voting District
+50|007|500719|Jericho|Jericho Voting District
+50|007|500720|Milton|Milton Voting District
+50|007|500721|Richmond|Richmond Voting District
+50|007|500722|Saint George|Saint George Voting District
+50|007|500724|Shelburne|Shelburne Voting District
+50|007|500725|South Burlington District 1|South Burlington District 1
+50|007|500726|South Burlington District 2|South Burlington District 2
+50|007|500727|South Burlington District 3|South Burlington District 3
+50|007|500728|South Burlington District 4|South Burlington District 4
+50|007|500729|Underhill|Underhill Voting District
+50|007|500730|Westford|Westford Voting District
+50|007|500731|Williston|Williston Voting District
+50|007|500732|Winooski|Winooski Voting District
+50|009|500901|Averill|Averill Voting District
+50|009|500902|Avery's Gore|Avery's Gore Voting District
+50|009|500903|Bloomfield|Bloomfield Voting District
+50|009|500904|Brighton|Brighton Voting District
+50|009|500905|Brunswick|Brunswick Voting District
+50|009|500906|Canaan|Canaan Voting District
+50|009|500907|Concord|Concord Voting District
+50|009|500908|East Haven|East Haven Voting District
+50|009|500909|Ferdinand|Ferdinand Voting District
+50|009|500910|Granby|Granby Voting District
+50|009|500911|Guildhall|Guildhall Voting District
+50|009|500912|Lemington|Lemington Voting District
+50|009|500913|Lewis|Lewis Voting District
+50|009|500914|Luneburg|Luneburg Voting District
+50|009|500915|Maidstone|Maidstone Voting District
+50|009|500916|Norton|Norton Voting District
+50|009|500917|Victory|Victory Voting District
+50|009|500918|Warner's Grant|Warner's Grant Voting District
+50|009|500919|Warren's Gore|Warren's Gore Voting District
+50|011|050113|St. Albans City Ward 1|St. Albans City Ward 1
+50|011|501101|Bakersfield|Bakersfield Voting District
+50|011|501102|Berkshire|Berkshire Voting District
+50|011|501103|Enosburgh|Enosburgh Voting District
+50|011|501104|Fairfax|Fairfax Voting District
+50|011|501105|Fairfield|Fairfield Voting District
+50|011|501106|Fletcher|Fletcher Voting District
+50|011|501107|Franklin|Franklin Voting District
+50|011|501108|Georgia|Georgia Voting District
+50|011|501109|Highgate|Highgate Voting District
+50|011|501110|Montgomery|Montgomery Voting District
+50|011|501111|Richford|Richford Voting District
+50|011|501112|Sheldon|Sheldon Voting District
+50|011|501114|St. Albans City Ward 2|St. Albans City Ward 2
+50|011|501115|St. Albans City Ward 3|St. Albans City Ward 3
+50|011|501116|St. Albans City Ward 4|St. Albans City Ward 4
+50|011|501117|St. Albans City Ward 5|St. Albans City Ward 5
+50|011|501118|St. Albans City Ward 6|St. Albans City Ward 6
+50|011|501119|St. Albans Town|St. Albans Town Voting District
+50|011|501120|Swanton|Swanton Voting District
+50|013|501203|Isle La Motte|Isle La Motte Voting District
+50|013|501301|Alburgh|Alburgh Voting District
+50|013|501302|Grand Isle|Grand Isle Voting District
+50|013|501304|North Hero|North Hero Voting District
+50|013|501305|South Hero|South Hero Voting District
+50|015|501501|Belvidere|Belvidere Voting District
+50|015|501502|Cambridge|Cambridge Voting District
+50|015|501503|Eden|Eden Voting District
+50|015|501504|Elmore|Elmore Voting District
+50|015|501505|Hyde Park|Hyde Park Voting District
+50|015|501506|Johnson|Johnson Voting District
+50|015|501507|Morristown|Morristown Voting District
+50|015|501508|Stowe|Stowe Voting District
+50|015|501509|Waterville|Waterville Voting District
+50|015|501510|Wolcott|Wolcott Voting District
+50|017|501701|Bradford|Bradford Voting District
+50|017|501702|Braintree|Braintree Voting District
+50|017|501703|Brookfield|Brookfield Voting District
+50|017|501704|Chelsea|Chelsea Voting District
+50|017|501705|Corinth|Corinth Voting District
+50|017|501706|Fairlee|Fairlee Voting District
+50|017|501707|Newbury Town|Newbury Town Voting District
+50|017|501708|Newbury Village|Newbury Village Voting District
+50|017|501709|Orange|Orange Voting District
+50|017|501710|Randolph|Randolph Voting District
+50|017|501711|Strafford|Strafford Voting District
+50|017|501712|Thetford|Thetford Voting District
+50|017|501713|Topsham|Topsham Voting District
+50|017|501714|Tunbridge|Tunbridge Voting District
+50|017|501715|Vershire|Vershire Voting District
+50|017|501716|Washington|Washington Voting District
+50|017|501717|Wells River|Wells River Voting District
+50|017|501718|West Fairlee|West Fairlee Voting District
+50|017|501719|Williamstown|Williamstown Voting District
+50|019|501901|Albany|Albany Voting District
+50|019|501902|Barton|Barton Voting District
+50|019|501903|Brownington|Brownington Voting District
+50|019|501904|Charleston|Charleston Voting District
+50|019|501905|Coventry|Coventry Voting District
+50|019|501906|Craftsbury|Craftsbury Voting District
+50|019|501907|Derby|Derby Voting District
+50|019|501908|Glover|Glover Voting District
+50|019|501909|Greensboro|Greensboro Voting District
+50|019|501910|Holland|Holland Voting District
+50|019|501911|Irasburg|Irasburg Voting District
+50|019|501912|Jay|Jay Voting District
+50|019|501913|Lowell|Lowell Voting District
+50|019|501914|Morgan|Morgan Voting District
+50|019|501915|Newport City|Newport City Voting District
+50|019|501916|Newport Town|Newport Town Voting District
+50|019|501917|Troy|Troy Voting District
+50|019|501918|Westfield|Westfield Voting District
+50|019|501920|Westmore|Westmore Voting District
+50|021|502101|Benson|Benson Voting District
+50|021|502102|Brandon|Brandon Voting District
+50|021|502103|Castleton|Castleton Voting District
+50|021|502104|Chittenden|Chittenden Voting District
+50|021|502105|Clarendon|Clarendon Voting District
+50|021|502106|Danby|Danby Voting District
+50|021|502107|Fair Haven|Fair Haven Voting District
+50|021|502108|Hubbardton|Hubbardton Voting District
+50|021|502109|Ira|Ira Voting District
+50|021|502110|Killington|Killington Voting District
+50|021|502111|Mendon|Mendon Voting District
+50|021|502112|Middletown Springs|Middletown Springs Voting District
+50|021|502113|Mount Holly|Mount Holly Voting District
+50|021|502114|Mount Tabor|Mount Tabor Voting District
+50|021|502115|Pawlet|Pawlet Voting District
+50|021|502116|Pittsfield|Pittsfield Voting District
+50|021|502117|Pittsford|Pittsford Voting District
+50|021|502118|Poultney|Poultney Voting District
+50|021|502119|Proctor|Proctor Voting District
+50|021|502120|Rutland City Ward 1|Rutland City Ward 1
+50|021|502121|Rutland City Ward 2|Rutland City Ward 2
+50|021|502122|Rutland City Ward 3|Rutland City Ward 3
+50|021|502123|Rutland City Ward 4|Rutland City Ward 4
+50|021|502124|Rutland Town|Rutland Town Voting District
+50|021|502125|Shrewsbury|Shrewsbury Voting District
+50|021|502126|Sudbury|Sudbury Voting District
+50|021|502127|Tinmouth|Tinmouth Voting District
+50|021|502128|Wallingford|Wallingford Voting District
+50|021|502129|Wells|Wells Voting District
+50|021|502130|West Haven|West Haven Voting District
+50|021|502131|West Rutland|West Rutland Voting District
+50|023|502301|Barre City Ward 1|Barre City Ward 1
+50|023|502302|Barre City Ward 2|Barre City Ward 2
+50|023|502303|Barre City Ward 3|Barre City Ward 3
+50|023|502304|Barre Town|Barre Town Voting District
+50|023|502305|Berlin|Berlin Voting District
+50|023|502306|Cabot|Cabot Voting District
+50|023|502307|Calais|Calais Voting District
+50|023|502308|Duxbury|Duxbury Voting District
+50|023|502309|East Montpelier|East Montpelier Voting District
+50|023|502310|Fayston|Fayston Voting District
+50|023|502311|Marshfield|Marshfield Voting District
+50|023|502312|Middlesex|Middlesex Voting District
+50|023|502313|Montpelier District 1|Montpelier District 1
+50|023|502314|Montpelier District 2|Montpelier District 2
+50|023|502315|Montpelier District 3|Montpelier District 3
+50|023|502316|Mooretown|Mooretown Voting District
+50|023|502317|Northfield|Northfield Voting District
+50|023|502318|Plainfield|Plainfield Voting District
+50|023|502319|Roxbury|Roxbury Voting District
+50|023|502320|Waitsfield|Waitsfield Voting District
+50|023|502321|Warren|Warren Voting District
+50|023|502322|Waterbury|Waterbury Voting District
+50|023|502323|Woodbury|Woodbury Voting District
+50|023|502324|Worcester|Worcester Voting District
+50|025|502010|Halifax|Halifax Voting District
+50|025|502501|Athens|Athens Voting District
+50|025|502502|Brattleboro District 1|Brattleboro District 1
+50|025|502503|Brattleboro District 2|Brattleboro District 2
+50|025|502504|Brattleboro District 3|Brattleboro District 3
+50|025|502505|Brookline|Brookline Voting District
+50|025|502506|Dover|Dover Voting District
+50|025|502507|Dummerston|Dummerston Voting District
+50|025|502508|Grafton|Grafton Voting District
+50|025|502509|Guilford|Guilford Voting District
+50|025|502511|Jamacia|Jamacia Voting District
+50|025|502512|Londonderry|Londonderry Voting District
+50|025|502513|Marlboro|Marlboro Voting District
+50|025|502514|Newfane|Newfane Voting District
+50|025|502515|Putney|Putney Voting District
+50|025|502516|Rockingham|Rockingham Voting District
+50|025|502517|Somerset|Somerset Voting District
+50|025|502518|Stratton|Stratton Voting District
+50|025|502519|Townshend|Townshend Voting District
+50|025|502520|Vernon|Vernon Voting District
+50|025|502521|Wardsboro|Wardsboro Voting District
+50|025|502522|Westminster|Westminster Voting District
+50|025|502523|Whittingham|Whittingham Voting District
+50|025|502524|Wilmington|Wilmington Voting District
+50|025|502525|Windham|Windham Voting District
+50|027|502701|Andover|Andover Voting District
+50|027|502702|Baltimore|Baltimore Voting District
+50|027|502703|Barnard|Barnard Voting District
+50|027|502704|Bethel|Bethel Voting District
+50|027|502705|Bridgewater|Bridgewater Voting District
+50|027|502706|Cavendish|Cavendish Voting District
+50|027|502707|Chester|Chester Voting District
+50|027|502708|Hartford District 1|Hartford District 1
+50|027|502709|Hartford District 2|Hartford District 2
+50|027|502710|Hartland|Hartland Voting District
+50|027|502711|Ludlow|Ludlow Voting District
+50|027|502712|Norwich|Norwich Voting District
+50|027|502713|Plymouth|Plymouth Voting District
+50|027|502714|Pomfret|Pomfret Voting District
+50|027|502715|Reading|Reading Voting District
+50|027|502716|Rochester|Rochester Voting District
+50|027|502717|Royalton|Royalton Voting District
+50|027|502718|Sharon|Sharon Voting District
+50|027|502719|Springfield|Springfield Voting District
+50|027|502720|Stockbridge|Stockbridge Voting District
+50|027|502721|Weathersfield|Weathersfield Voting District
+50|027|502722|West Windsor|West Windsor Voting District
+50|027|502723|Weston|Weston Voting District
+50|027|502724|Windsor|Windsor Voting District
+50|027|502725|Woodstock|Woodstock Voting District

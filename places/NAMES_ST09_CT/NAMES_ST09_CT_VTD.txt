@@ -1,0 +1,767 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+09|001|01-001|Bethel 001-00|Bethel 001-00
+09|001|01-002|Bethel 002-00|Bethel 002-00
+09|001|01-003|Bethel 003-00|Bethel 003-00
+09|001|01-004|Bethel 004-00|Bethel 004-00
+09|001|01-005|Bethel 005-00|Bethel 005-00
+09|001|01-006|Bethel 005-00A|Bethel 005-00A
+09|001|01-007|Bridgeport 124-01|Bridgeport 124-01
+09|001|01-008|Bridgeport 124-02|Bridgeport 124-02
+09|001|01-009|Bridgeport 124-03|Bridgeport 124-03
+09|001|01-010|Bridgeport 124-04|Bridgeport 124-04
+09|001|01-011|Bridgeport 126-01|Bridgeport 126-01
+09|001|01-012|Bridgeport 126-02|Bridgeport 126-02
+09|001|01-013|Bridgeport 126-03|Bridgeport 126-03
+09|001|01-014|Bridgeport 126-04|Bridgeport 126-04
+09|001|01-015|Bridgeport 126-05|Bridgeport 126-05
+09|001|01-016|Bridgeport 126-06|Bridgeport 126-06
+09|001|01-017|Bridgeport 127-01|Bridgeport 127-01
+09|001|01-018|Bridgeport 127-02|Bridgeport 127-02
+09|001|01-019|Bridgeport 127-03|Bridgeport 127-03
+09|001|01-020|Bridgeport 128-01|Bridgeport 128-01
+09|001|01-021|Bridgeport 128-02|Bridgeport 128-02
+09|001|01-022|Bridgeport 129-01|Bridgeport 129-01
+09|001|01-023|Bridgeport 129-02|Bridgeport 129-02
+09|001|01-024|Bridgeport 129-02A|Bridgeport 129-02A
+09|001|01-025|Bridgeport 129-03|Bridgeport 129-03
+09|001|01-026|Bridgeport 129-04|Bridgeport 129-04
+09|001|01-028|Bridgeport 130-01|Bridgeport 130-01
+09|001|01-029|Bridgeport 130-02|Bridgeport 130-02
+09|001|01-030|Bridgeport 130-02A|Bridgeport 130-02A
+09|001|01-031|Bridgeport 130-03|Bridgeport 130-03
+09|001|01-032|Bridgeport 130-04|Bridgeport 130-04
+09|001|01-033|Bridgeport 130-05|Bridgeport 130-05
+09|001|01-034|Brookfield 001-00|Brookfield 001-00
+09|001|01-035|Brookfield 002-00|Brookfield 002-00
+09|001|01-036|Danbury 001-09|Danbury 001-09
+09|001|01-037|Danbury 001-10|Danbury 001-10
+09|001|01-038|Danbury 001-38|Danbury 001-38
+09|001|01-039|Danbury 002-08|Danbury 002-08
+09|001|01-040|Danbury 002-09|Danbury 002-09
+09|001|01-041|Danbury 002-38|Danbury 002-38
+09|001|01-042|Danbury 003-07|Danbury 003-07
+09|001|01-043|Danbury 003-09|Danbury 003-09
+09|001|01-044|Danbury 004-09|Danbury 004-09
+09|001|01-045|Danbury 004-10|Danbury 004-10
+09|001|01-046|Danbury 005-02|Danbury 005-02
+09|001|01-047|Danbury 005-09|Danbury 005-09
+09|001|01-048|Danbury 005-10|Danbury 005-10
+09|001|01-049|Danbury 006-02|Danbury 006-02
+09|001|01-050|Danbury 006-10|Danbury 006-10
+09|001|01-051|Danbury 006-38|Danbury 006-38
+09|001|01-052|Danbury 007-02|Danbury 007-02
+09|001|01-053|Danbury 007-10|Danbury 007-10
+09|001|01-054|Danbury 007-38|Danbury 007-38
+09|001|01-055|Darien 001-00|Darien 001-00
+09|001|01-056|Darien 002-00|Darien 002-00
+09|001|01-057|Darien 003-00|Darien 003-00
+09|001|01-058|Darien 004-00|Darien 004-00
+09|001|01-059|Darien 005-00|Darien 005-00
+09|001|01-060|Darien 006-00|Darien 006-00
+09|001|01-061|Easton 001-00|Easton 001-00
+09|001|01-062|Fairfield 001-34|Fairfield 001-34
+09|001|01-063|Fairfield 002-34|Fairfield 002-34
+09|001|01-064|Fairfield 003-32|Fairfield 003-32
+09|001|01-065|Fairfield 004-33|Fairfield 004-33
+09|001|01-066|Fairfield 005-33|Fairfield 005-33
+09|001|01-067|Fairfield 006-33|Fairfield 006-33
+09|001|01-068|Fairfield 007-33|Fairfield 007-33
+09|001|01-069|Fairfield 008-32|Fairfield 008-32
+09|001|01-070|Fairfield 009-32|Fairfield 009-32
+09|001|01-071|Fairfield 010-32|Fairfield 010-32
+09|001|01-072|Greenwich 001-00|Greenwich 001-00
+09|001|01-073|Greenwich 001-01|Greenwich 001-01
+09|001|01-074|Greenwich 002-00|Greenwich 002-00
+09|001|01-075|Greenwich 003-00|Greenwich 003-00
+09|001|01-076|Greenwich 004-00|Greenwich 004-00
+09|001|01-077|Greenwich 004-01|Greenwich 004-01
+09|001|01-078|Greenwich 005-00|Greenwich 005-00
+09|001|01-079|Greenwich 005-01|Greenwich 005-01
+09|001|01-080|Greenwich 006-00|Greenwich 006-00
+09|001|01-081|Greenwich 006-01|Greenwich 006-01
+09|001|01-082|Greenwich 007-00|Greenwich 007-00
+09|001|01-083|Greenwich 007-01|Greenwich 007-01
+09|001|01-084|Greenwich 008-00|Greenwich 008-00
+09|001|01-085|Greenwich 009-00|Greenwich 009-00
+09|001|01-086|Greenwich 010-00|Greenwich 010-00
+09|001|01-087|Greenwich 011-00|Greenwich 011-00
+09|001|01-088|Greenwich 011-01|Greenwich 011-01
+09|001|01-089|Greenwich 012-00|Greenwich 012-00
+09|001|01-090|Monroe 001-00|Monroe 001-00
+09|001|01-091|Monroe 002-00|Monroe 002-00
+09|001|01-092|Monroe 003-00|Monroe 003-00
+09|001|01-093|Monroe 004-00|Monroe 004-00
+09|001|01-094|New Canaan 001-00|New Canaan 001-00
+09|001|01-095|New Canaan 002-00|New Canaan 002-00
+09|001|01-096|New Canaan 003-00|New Canaan 003-00
+09|001|01-097|New Fairfield 001-00|New Fairfield 001-00
+09|001|01-098|New Fairfield 002-00|New Fairfield 002-00
+09|001|01-099|Newtown 001-00|Newtown 001-00
+09|001|01-100|Newtown 001-05|Newtown 001-05
+09|001|01-101|Newtown 002-00|Newtown 002-00
+09|001|01-102|Newtown 003-01|Newtown 003-01
+09|001|01-103|Newtown 003-02|Newtown 003-02
+09|001|01-104|Newtown 003-05|Newtown 003-05
+09|001|01-105|Norwalk 137-01|Norwalk 137-01
+09|001|01-106|Norwalk 137-02|Norwalk 137-02
+09|001|01-107|Norwalk 137-03|Norwalk 137-03
+09|001|01-108|Norwalk 140-01|Norwalk 140-01
+09|001|01-109|Norwalk 140-02|Norwalk 140-02
+09|001|01-110|Norwalk 140-03|Norwalk 140-03
+09|001|01-111|Norwalk 141-01|Norwalk 141-01
+09|001|01-112|Norwalk 142-01|Norwalk 142-01
+09|001|01-113|Norwalk 142-02|Norwalk 142-02
+09|001|01-114|Norwalk 142-03|Norwalk 142-03
+09|001|01-115|Norwalk 143-01|Norwalk 143-01
+09|001|01-116|Norwalk 143-02|Norwalk 143-02
+09|001|01-117|Redding 001-00|Redding 001-00
+09|001|01-118|Redding 002-00|Redding 002-00
+09|001|01-119|Ridgefield 001-00|Ridgefield 001-00
+09|001|01-120|Ridgefield 002-00|Ridgefield 002-00
+09|001|01-121|Ridgefield 003-00|Ridgefield 003-00
+09|001|01-122|Ridgefield 004-00|Ridgefield 004-00
+09|001|01-123|Shelton 001-00|Shelton 001-00
+09|001|01-124|Shelton 002-00|Shelton 002-00
+09|001|01-125|Shelton 002-01|Shelton 002-01
+09|001|01-126|Shelton 003-00|Shelton 003-00
+09|001|01-127|Shelton 004-00|Shelton 004-00
+09|001|01-128|Sherman 001-00|Sherman 001-00
+09|001|01-129|Stamford 001-01|Stamford 001-01
+09|001|01-130|Stamford 002-00|Stamford 002-00
+09|001|01-131|Stamford 003-00|Stamford 003-00
+09|001|01-132|Stamford 003-28|Stamford 003-28
+09|001|01-133|Stamford 004-00|Stamford 004-00
+09|001|01-134|Stamford 005-00|Stamford 005-00
+09|001|01-135|Stamford 005-48|Stamford 005-48
+09|001|01-136|Stamford 006-01|Stamford 006-01
+09|001|01-137|Stamford 006-01A|Stamford 006-01A
+09|001|01-138|Stamford 007-02|Stamford 007-02
+09|001|01-140|Stamford 008-00|Stamford 008-00
+09|001|01-141|Stamford 008-00A|Stamford 008-00A
+09|001|01-142|Stamford 009-00|Stamford 009-00
+09|001|01-143|Stamford 010-00|Stamford 010-00
+09|001|01-144|Stamford 011-00|Stamford 011-00
+09|001|01-145|Stamford 012-00A|Stamford 012-00A
+09|001|01-146|Stamford 012-00B|Stamford 012-00B
+09|001|01-147|Stamford 013-00|Stamford 013-00
+09|001|01-148|Stamford 014-00|Stamford 014-00
+09|001|01-149|Stamford 015-00|Stamford 015-00
+09|001|01-150|Stamford 016-01|Stamford 016-01
+09|001|01-151|Stamford 017-00|Stamford 017-00
+09|001|01-152|Stamford 018-02|Stamford 018-02
+09|001|01-153|Stamford 019-00|Stamford 019-00
+09|001|01-154|Stamford 020-01|Stamford 020-01
+09|001|01-155|Stamford 020-01A|Stamford 020-01A
+09|001|01-156|Stamford 021-00|Stamford 021-00
+09|001|01-157|Stamford 021-00A|Stamford 021-00A
+09|001|01-158|Stamford 022-02|Stamford 022-02
+09|001|01-159|Stratford 001-01|Stratford 001-01
+09|001|01-160|Stratford 002-01|Stratford 002-01
+09|001|01-161|Stratford 003-01|Stratford 003-01
+09|001|01-162|Stratford 002-02|Stratford 002-02
+09|001|01-163|Stratford 005-01|Stratford 005-01
+09|001|01-164|Stratford 006-01|Stratford 006-01
+09|001|01-165|Stratford 007-01|Stratford 007-01
+09|001|01-166|Stratford 008-01|Stratford 008-01
+09|001|01-167|Stratford 009-01|Stratford 009-01
+09|001|01-168|Stratford 010-01|Stratford 010-01
+09|001|01-171|Trumbull 001-23|Trumbull 001-23
+09|001|01-172|Trumbull 002-22|Trumbull 002-22
+09|001|01-173|Trumbull 002-23|Trumbull 002-23
+09|001|01-174|Trumbull 003-23|Trumbull 003-23
+09|001|01-175|Trumbull 004-34|Trumbull 004-34
+09|001|01-176|Weston 001-00|Weston 001-00
+09|001|01-177|Weston 002-00|Weston 002-00
+09|001|01-178|Westport 136-01|Westport 136-01
+09|001|01-179|Westport 143-02A|Westport 143-02A
+09|001|01-180|Westport 136-03|Westport 136-03
+09|001|01-181|Westport 136-06|Westport 136-06
+09|001|01-182|Westport 136-04|Westport 136-04
+09|001|01-183|Westport 136-04A|Westport 136-04A
+09|001|01-184|Westport 136-09|Westport 136-09
+09|001|01-185|Westport 143-01A|Westport 143-01A
+09|001|01-186|Wilton 001-00|Wilton 001-00
+09|001|01-187|Wilton 002-00|Wilton 002-00
+09|001|01-188|Wilton 003-00|Wilton 003-00
+09|001|01-189|Stratford 004-01|Stratford 004-01
+09|001|01-190|Stratford 004-02|Stratford 004-02
+09|001|01-191|Westport 136-08|Westport 136-08
+09|001|01-192|Westport 143-02|Westport 143-02
+09|001|01-193|Stamford 001-00|Stamford 001-00
+09|001|01-194|Stratford 001-02|Stratford 001-02
+09|001|01-195|Stratford 003-02|Stratford 003-02
+09|001|01-196|Stratford 005-02|Stratford 005-02
+09|001|01-197|Stratford 006-02|Stratford 006-02
+09|001|01-198|Stratford 009-02|Stratford 009-02
+09|001|01-199|Westport 136-05|Westport 136-05
+09|001|01-200|Westport 136-07|Westport 136-07
+09|003|03-001|Avon 001-00|Avon 001-00
+09|003|03-002|Avon 002-00|Avon 002-00
+09|003|03-003|Avon 003-00|Avon 003-00
+09|003|03-004|Berlin 001-00|Berlin 001-00
+09|003|03-005|Berlin 002-00|Berlin 002-00
+09|003|03-006|Berlin 003-00|Berlin 003-00
+09|003|03-007|Berlin 004-00|Berlin 004-00
+09|003|03-008|Berlin 005-00|Berlin 005-00
+09|003|03-009|Bloomfield 001-00|Bloomfield 001-00
+09|003|03-010|Bloomfield 002-00|Bloomfield 002-00
+09|003|03-011|Bloomfield 003-00|Bloomfield 003-00
+09|003|03-012|Bloomfield 004-00|Bloomfield 004-00
+09|003|03-013|Bloomfield 005-00|Bloomfield 005-00
+09|003|03-014|Bristol 077-01|Bristol 077-01
+09|003|03-015|Bristol 077-02|Bristol 077-02
+09|003|03-016|Bristol 077-03|Bristol 077-03
+09|003|03-017|Bristol 077-04|Bristol 077-04
+09|003|03-018|Bristol 078-01|Bristol 078-01
+09|003|03-019|Bristol 078-02|Bristol 078-02
+09|003|03-020|Bristol 079-01|Bristol 079-01
+09|003|03-021|Bristol 079-02|Bristol 079-02
+09|003|03-022|Bristol 079-03|Bristol 079-03
+09|003|03-023|Burlington 001-00|Burlington 001-00
+09|003|03-024|Canton 001-00|Canton 001-00
+09|003|03-025|East Granby 001-00|East Granby 001-00
+09|003|03-026|East Hartford 001-00|East Hartford 001-00
+09|003|03-027|East Hartford 002-00|East Hartford 002-00
+09|003|03-028|East Hartford 003-00|East Hartford 003-00
+09|003|03-029|East Hartford 004-00|East Hartford 004-00
+09|003|03-030|East Hartford 005-00|East Hartford 005-00
+09|003|03-031|East Hartford 006-00|East Hartford 006-00
+09|003|03-032|East Hartford 007-00|East Hartford 007-00
+09|003|03-033|East Windsor 001-00|East Windsor 001-00
+09|003|03-034|East Windsor 001-02|East Windsor 001-02
+09|003|03-035|East Windsor 002-00|East Windsor 002-00
+09|003|03-036|Enfield 158-00|Enfield 158-00
+09|003|03-037|Enfield 159-00|Enfield 159-00
+09|003|03-038|Enfield 258-00|Enfield 258-00
+09|003|03-039|Enfield 358-00|Enfield 358-00
+09|003|03-040|Enfield 359-00|Enfield 359-00
+09|003|03-041|Enfield 458-00|Enfield 458-00
+09|003|03-042|Enfield 459-00|Enfield 459-00
+09|003|03-043|Farmington 001-01|Farmington 001-01
+09|003|03-044|Farmington 001-02|Farmington 001-02
+09|003|03-045|Farmington 001-03|Farmington 001-03
+09|003|03-046|Farmington 001-04|Farmington 001-04
+09|003|03-047|Farmington 001-05|Farmington 001-05
+09|003|03-048|Farmington 002-06|Farmington 002-06
+09|003|03-049|Farmington 002-07|Farmington 002-07
+09|003|03-050|Glastonbury 001-00|Glastonbury 001-00
+09|003|03-051|Glastonbury 002-00|Glastonbury 002-00
+09|003|03-052|Glastonbury 003-00|Glastonbury 003-00
+09|003|03-053|Glastonbury 004-00|Glastonbury 004-00
+09|003|03-054|Glastonbury 005-00|Glastonbury 005-00
+09|003|03-056|Glastonbury 007-00|Glastonbury 007-00
+09|003|03-057|Granby 001-00|Granby 001-00
+09|003|03-058|Granby 002-00|Granby 002-00
+09|003|03-059|Hartford 001-00|Hartford 001-00
+09|003|03-060|Hartford 002-00|Hartford 002-00
+09|003|03-061|Hartford 003-00|Hartford 003-00
+09|003|03-062|Hartford 004-00|Hartford 004-00
+09|003|03-063|Hartford 005-00|Hartford 005-00
+09|003|03-064|Hartford 005-00A|Hartford 005-00A
+09|003|03-065|Hartford 006-00|Hartford 006-00
+09|003|03-066|Hartford 006-00A|Hartford 006-00A
+09|003|03-067|Hartford 007-00|Hartford 007-00
+09|003|03-068|Hartford 008-00|Hartford 008-00
+09|003|03-069|Hartford 009-00|Hartford 009-00
+09|003|03-070|Hartford 010-00|Hartford 010-00
+09|003|03-071|Hartford 011-00|Hartford 011-00
+09|003|03-072|Hartford 011-00A|Hartford 011-00A
+09|003|03-073|Hartford 012-00|Hartford 012-00
+09|003|03-074|Hartford 013-00|Hartford 013-00
+09|003|03-075|Hartford 014-00|Hartford 014-00
+09|003|03-076|Hartford 015-00|Hartford 015-00
+09|003|03-077|Hartford 016-00|Hartford 016-00
+09|003|03-078|Hartford 017-00|Hartford 017-00
+09|003|03-079|Hartford 018-00|Hartford 018-00
+09|003|03-080|Hartford 019-00|Hartford 019-00
+09|003|03-081|Hartford 020-00|Hartford 020-00
+09|003|03-082|Hartford 021-00|Hartford 021-00
+09|003|03-083|Hartford 022-00|Hartford 022-00
+09|003|03-084|Hartford 023-00|Hartford 023-00
+09|003|03-085|Hartford 024-00|Hartford 024-00
+09|003|03-086|Hartland 001-00|Hartland 001-00
+09|003|03-087|Manchester 001-00|Manchester 001-00
+09|003|03-088|Manchester 002-00|Manchester 002-00
+09|003|03-089|Manchester 003-00|Manchester 003-00
+09|003|03-090|Manchester 004-00|Manchester 004-00
+09|003|03-091|Manchester 005-00|Manchester 005-00
+09|003|03-092|Manchester 006-00|Manchester 006-00
+09|003|03-093|Manchester 007-00|Manchester 007-00
+09|003|03-094|Manchester 008-00|Manchester 008-00
+09|003|03-095|Manchester 009-00|Manchester 009-00
+09|003|03-096|Marlborough 001-00|Marlborough 001-00
+09|003|03-097|New Britain 001-00|New Britain 001-00
+09|003|03-098|New Britain 002-00|New Britain 002-00
+09|003|03-099|New Britain 003-00|New Britain 003-00
+09|003|03-100|New Britain 004-00|New Britain 004-00
+09|003|03-101|New Britain 005-00|New Britain 005-00
+09|003|03-102|New Britain 005-01|New Britain 005-01
+09|003|03-103|New Britain 005-02|New Britain 005-02
+09|003|03-104|New Britain 006-00|New Britain 006-00
+09|003|03-105|New Britain 007-00|New Britain 007-00
+09|003|03-106|New Britain 008-00|New Britain 008-00
+09|003|03-107|New Britain 009-00|New Britain 009-00
+09|003|03-108|New Britain 010-00|New Britain 010-00
+09|003|03-109|New Britain 011-00|New Britain 011-00
+09|003|03-110|New Britain 012-00|New Britain 012-00
+09|003|03-111|New Britain 012-00A|New Britain 012-00A
+09|003|03-112|New Britain 013-00|New Britain 013-00
+09|003|03-113|New Britain 014-00|New Britain 014-00
+09|003|03-114|New Britain 015-00|New Britain 015-00
+09|003|03-115|Newington 001-00|Newington 001-00
+09|003|03-116|Newington 002-00|Newington 002-00
+09|003|03-117|Newington 003-00|Newington 003-00
+09|003|03-118|Newington 004-00|Newington 004-00
+09|003|03-119|Newington 005-00|Newington 005-00
+09|003|03-120|Newington 006-00|Newington 006-00
+09|003|03-121|Newington 007-00|Newington 007-00
+09|003|03-122|Newington 008-00|Newington 008-00
+09|003|03-123|Plainville 001-00|Plainville 001-00
+09|003|03-124|Plainville 002-00|Plainville 002-00
+09|003|03-125|Plainville 003-00|Plainville 003-00
+09|003|03-126|Plainville 004-00|Plainville 004-00
+09|003|03-127|Rocky Hill 001-00|Rocky Hill 001-00
+09|003|03-128|Rocky Hill 002-00|Rocky Hill 002-00
+09|003|03-129|Rocky Hill 003-00|Rocky Hill 003-00
+09|003|03-130|Simsbury 001-00|Simsbury 001-00
+09|003|03-131|Simsbury 002-00|Simsbury 002-00
+09|003|03-132|Simsbury 003-00|Simsbury 003-00
+09|003|03-133|Simsbury 004-00|Simsbury 004-00
+09|003|03-134|South Windsor 001-00|South Windsor 001-00
+09|003|03-135|South Windsor 002-00|South Windsor 002-00
+09|003|03-136|South Windsor 003-00|South Windsor 003-00
+09|003|03-137|South Windsor 004-00|South Windsor 004-00
+09|003|03-138|South Windsor 005-00|South Windsor 005-00
+09|003|03-139|Southington 001-00|Southington 001-00
+09|003|03-140|Southington 002-00|Southington 002-00
+09|003|03-141|Southington 003-00|Southington 003-00
+09|003|03-142|Southington 004-00|Southington 004-00
+09|003|03-143|Southington 005-00|Southington 005-00
+09|003|03-144|Southington 006-00|Southington 006-00
+09|003|03-145|Southington 007-00|Southington 007-00
+09|003|03-146|Southington 008-00|Southington 008-00
+09|003|03-147|Southington 009-00|Southington 009-00
+09|003|03-148|Southington 010-00|Southington 010-00
+09|003|03-149|Southington 011-00|Southington 011-00
+09|003|03-150|Suffield 001-00|Suffield 001-00
+09|003|03-151|West Hartford 001-00|West Hartford 001-00
+09|003|03-152|West Hartford 002-00|West Hartford 002-00
+09|003|03-153|West Hartford 003-00|West Hartford 003-00
+09|003|03-154|West Hartford 004-00|West Hartford 004-00
+09|003|03-155|West Hartford 005-00|West Hartford 005-00
+09|003|03-156|West Hartford 006-00|West Hartford 006-00
+09|003|03-157|West Hartford 007-00|West Hartford 007-00
+09|003|03-158|West Hartford 008-00|West Hartford 008-00
+09|003|03-159|West Hartford 009-00|West Hartford 009-00
+09|003|03-160|Wethersfield 001-00|Wethersfield 001-00
+09|003|03-161|Wethersfield 002-00|Wethersfield 002-00
+09|003|03-162|Wethersfield 003-00|Wethersfield 003-00
+09|003|03-163|Wethersfield 004-00|Wethersfield 004-00
+09|003|03-164|Wethersfield 005-00|Wethersfield 005-00
+09|003|03-165|Wethersfield 006-00|Wethersfield 006-00
+09|003|03-166|Windsor 001-00|Windsor 001-00
+09|003|03-167|Windsor 002-00|Windsor 002-00
+09|003|03-168|Windsor 003-00|Windsor 003-00
+09|003|03-169|Windsor 004-00|Windsor 004-00
+09|003|03-170|Windsor 005-00|Windsor 005-00
+09|003|03-171|Windsor 006-00|Windsor 006-00
+09|003|03-172|Windsor 007-00|Windsor 007-00
+09|003|03-173|Windsor Locks 001-00|Windsor Locks 001-00
+09|003|03-174|Windsor Locks 002-00|Windsor Locks 002-00
+09|003|03-175|Glastonbury 009-00|Glastonbury 009-00
+09|005|05-001|Barkhamsted 001-00|Barkhamsted 001-00
+09|005|05-002|Bethlehem 001-00|Bethlehem 001-00
+09|005|05-003|Bridgewater 001-00|Bridgewater 001-00
+09|005|05-004|Canaan 001-00|Canaan 001-00
+09|005|05-005|Colebrook 001-00|Colebrook 001-00
+09|005|05-006|Cornwall 001-00|Cornwall 001-00
+09|005|05-007|Goshen 001-00|Goshen 001-00
+09|005|05-008|Goshen 002-00|Goshen 002-00
+09|005|05-009|Harwinton 008-00|Harwinton 008-00
+09|005|05-010|Harwinton 031-00|Harwinton 031-00
+09|005|05-011|Kent 001-00|Kent 001-00
+09|005|05-012|Litchfield 001-00|Litchfield 001-00
+09|005|05-013|Litchfield 002-00|Litchfield 002-00
+09|005|05-014|Litchfield 003-00|Litchfield 003-00
+09|005|05-015|Litchfield 004-00|Litchfield 004-00
+09|005|05-016|Morris 001-00|Morris 001-00
+09|005|05-017|New Hartford 001-00|New Hartford 001-00
+09|005|05-018|New Hartford 002-00|New Hartford 002-00
+09|005|05-019|New Milford 001-00|New Milford 001-00
+09|005|05-020|New Milford 002-00|New Milford 002-00
+09|005|05-021|New Milford 003-00|New Milford 003-00
+09|005|05-022|New Milford 004-00|New Milford 004-00
+09|005|05-023|New Milford 005-00|New Milford 005-00
+09|005|05-024|New Milford 006-00|New Milford 006-00
+09|005|05-025|New Milford 007-00|New Milford 007-00
+09|005|05-026|Norfolk 001-00|Norfolk 001-00
+09|005|05-027|North Canaan 001-00|North Canaan 001-00
+09|005|05-028|Plymouth 001-00|Plymouth 001-00
+09|005|05-029|Roxbury 001-00|Roxbury 001-00
+09|005|05-030|Salisbury 001-00|Salisbury 001-00
+09|005|05-031|Sharon 001-00|Sharon 001-00
+09|005|05-032|Thomaston 001-00|Thomaston 001-00
+09|005|05-033|Torrington 001-00|Torrington 001-00
+09|005|05-034|Torrington 002-00|Torrington 002-00
+09|005|05-035|Torrington 003-00|Torrington 003-00
+09|005|05-036|Torrington 004-00|Torrington 004-00
+09|005|05-037|Torrington 005-00|Torrington 005-00
+09|005|05-038|Torrington 006-00|Torrington 006-00
+09|005|05-039|Torrington 006-00A|Torrington 006-00A
+09|005|05-042|Torrington 007-00B|Torrington 007-00B
+09|005|05-043|Torrington 007-00|Torrington 007-00
+09|005|05-044|Warren 001-00|Warren 001-00
+09|005|05-045|Washington 001-00|Washington 001-00
+09|005|05-046|Watertown 001-00|Watertown 001-00
+09|005|05-047|Watertown 002-00|Watertown 002-00
+09|005|05-048|Watertown 003-00|Watertown 003-00
+09|005|05-049|Watertown 004-00|Watertown 004-00
+09|005|05-050|Winchester 001-00|Winchester 001-00
+09|005|05-051|Woodbury 001-00|Woodbury 001-00
+09|005|05-052|Woodbury 002-00|Woodbury 002-00
+09|005|05-053|Torrington 007-00A|Torrington 007-00A
+09|005|05-054|Torrington 008-00|Torrington 008-00
+09|007|07-001|Chester 001-00|Chester 001-00
+09|007|07-002|Clinton 002-00|Clinton 002-00
+09|007|07-003|Cromwell 001-01|Cromwell 001-01
+09|007|07-004|Deep River 001-00|Deep River 001-00
+09|007|07-005|Durham 002-00|Durham 002-00
+09|007|07-006|Durham 003-00|Durham 003-00
+09|007|07-007|Durham 003-00A|Durham 003-00A
+09|007|07-008|Durham 004-00|Durham 004-00
+09|007|07-009|East Haddam 001-00|East Haddam 001-00
+09|007|07-010|East Hampton 001-00|East Hampton 001-00
+09|007|07-011|Essex 001-00|Essex 001-00
+09|007|07-012|Haddam 001-00|Haddam 001-00
+09|007|07-013|Haddam 002-00|Haddam 002-00
+09|007|07-014|Haddam 003-00|Haddam 003-00
+09|007|07-015|Killingworth 001-00|Killingworth 001-00
+09|007|07-016|Middlefield 100-00|Middlefield 100-00
+09|007|07-017|Middletown 001-00|Middletown 001-00
+09|007|07-018|Middletown 002-00|Middletown 002-00
+09|007|07-019|Middletown 003-00|Middletown 003-00
+09|007|07-020|Middletown 004-00|Middletown 004-00
+09|007|07-021|Middletown 005-00|Middletown 005-00
+09|007|07-022|Middletown 006-00|Middletown 006-00
+09|007|07-023|Middletown 007-00|Middletown 007-00
+09|007|07-024|Middletown 008-00|Middletown 008-00
+09|007|07-025|Middletown 009-00|Middletown 009-00
+09|007|07-026|Middletown 010-00|Middletown 010-00
+09|007|07-027|Middletown 011-00|Middletown 011-00
+09|007|07-028|Middletown 012-00|Middletown 012-00
+09|007|07-029|Middletown 013-00|Middletown 013-00
+09|007|07-030|Middletown 014-00|Middletown 014-00
+09|007|07-031|Old Saybrook 001-00|Old Saybrook 001-00
+09|007|07-032|Old Saybrook 002-00|Old Saybrook 002-00
+09|007|07-033|Portland 001-00|Portland 001-00
+09|007|07-034|Westbrook 001-00|Westbrook 001-00
+09|007|07-035|Westbrook 002-00|Westbrook 002-00
+09|009|09-001|Ansonia 001-00|Ansonia 001-00
+09|009|09-002|Ansonia 002-01|Ansonia 002-01
+09|009|09-003|Ansonia 003-01|Ansonia 003-01
+09|009|09-004|Ansonia 004-00|Ansonia 004-00
+09|009|09-005|Ansonia 005-00|Ansonia 005-00
+09|009|09-006|Ansonia 006-00|Ansonia 006-00
+09|009|09-007|Ansonia 007-00|Ansonia 007-00
+09|009|09-008|Beacon Falls 001-00|Beacon Falls 001-00
+09|009|09-009|Bethany 001-00|Bethany 001-00
+09|009|09-010|Branford 001-00|Branford 001-00
+09|009|09-011|Branford 002-00|Branford 002-00
+09|009|09-012|Branford 003-00|Branford 003-00
+09|009|09-013|Branford 004-00|Branford 004-00
+09|009|09-014|Branford 005-00|Branford 005-00
+09|009|09-015|Branford 006-00|Branford 006-00
+09|009|09-016|Branford 007-00|Branford 007-00
+09|009|09-017|Cheshire 001-00|Cheshire 001-00
+09|009|09-018|Cheshire 002-00|Cheshire 002-00
+09|009|09-019|Cheshire 003-00|Cheshire 003-00
+09|009|09-020|Cheshire 004-00|Cheshire 004-00
+09|009|09-021|Cheshire 005-00|Cheshire 005-00
+09|009|09-022|Cheshire 006-00|Cheshire 006-00
+09|009|09-023|Cheshire 007-00|Cheshire 007-00
+09|009|09-024|Derby 004-00|Derby 004-00
+09|009|09-025|Derby 005-00|Derby 005-00
+09|009|09-026|Derby 014-00|Derby 014-00
+09|009|09-027|East Haven 001-00|East Haven 001-00
+09|009|09-028|East Haven 002-00|East Haven 002-00
+09|009|09-029|East Haven 003-00|East Haven 003-00
+09|009|09-030|East Haven 003-03|East Haven 003-03
+09|009|09-031|East Haven 003-03A|East Haven 003-03A
+09|009|09-032|East Haven 004-00|East Haven 004-00
+09|009|09-033|East Haven 005-00|East Haven 005-00
+09|009|09-034|Guilford 001-00|Guilford 001-00
+09|009|09-035|Guilford 002-00|Guilford 002-00
+09|009|09-036|Guilford 003-00|Guilford 003-00
+09|009|09-037|Guilford 004-00|Guilford 004-00
+09|009|09-038|Guilford 005-00|Guilford 005-00
+09|009|09-039|Hamden 001-00|Hamden 001-00
+09|009|09-040|Hamden 002-00|Hamden 002-00
+09|009|09-041|Hamden 003-00|Hamden 003-00
+09|009|09-042|Hamden 004-00|Hamden 004-00
+09|009|09-043|Hamden 005-00|Hamden 005-00
+09|009|09-044|Hamden 005-01|Hamden 005-01
+09|009|09-045|Hamden 006-00|Hamden 006-00
+09|009|09-046|Hamden 007-00|Hamden 007-00
+09|009|09-047|Hamden 008-00|Hamden 008-00
+09|009|09-048|Hamden 008-01|Hamden 008-01
+09|009|09-049|Hamden 009-00|Hamden 009-00
+09|009|09-050|Hamden 010-00|Hamden 010-00
+09|009|09-051|Hamden 010-01|Hamden 010-01
+09|009|09-052|Madison 001-00|Madison 001-00
+09|009|09-053|Madison 002-00|Madison 002-00
+09|009|09-054|Meriden 001-00|Meriden 001-00
+09|009|09-055|Meriden 002-00|Meriden 002-00
+09|009|09-056|Meriden 003-00|Meriden 003-00
+09|009|09-057|Meriden 004-00|Meriden 004-00
+09|009|09-058|Meriden 005-00|Meriden 005-00
+09|009|09-059|Meriden 006-00|Meriden 006-00
+09|009|09-060|Meriden 007-00|Meriden 007-00
+09|009|09-061|Meriden 008-00|Meriden 008-00
+09|009|09-062|Meriden 009-00|Meriden 009-00
+09|009|09-063|Meriden 010-00|Meriden 010-00
+09|009|09-064|Meriden 011-00|Meriden 011-00
+09|009|09-065|Meriden 012-00|Meriden 012-00
+09|009|09-066|Meriden 013-00|Meriden 013-00
+09|009|09-067|Middlebury 001-00|Middlebury 001-00
+09|009|09-068|Middlebury 002-00|Middlebury 002-00
+09|009|09-069|Milford 117-00|Milford 117-00
+09|009|09-070|Milford 118-01|Milford 118-01
+09|009|09-071|Milford 118-02|Milford 118-02
+09|009|09-072|Milford 118-03|Milford 118-03
+09|009|09-073|Milford 118-04|Milford 118-04
+09|009|09-074|Milford 118-05|Milford 118-05
+09|009|09-075|Milford 119-01|Milford 119-01
+09|009|09-076|Milford 119-02|Milford 119-02
+09|009|09-077|Milford 119-03|Milford 119-03
+09|009|09-078|Naugatuck 001-01|Naugatuck 001-01
+09|009|09-079|Naugatuck 001-02|Naugatuck 001-02
+09|009|09-080|Naugatuck 001-03|Naugatuck 001-03
+09|009|09-081|Naugatuck 002-01|Naugatuck 002-01
+09|009|09-082|Naugatuck 002-02|Naugatuck 002-02
+09|009|09-083|Naugatuck 002-03|Naugatuck 002-03
+09|009|09-084|Naugatuck 003-01|Naugatuck 003-01
+09|009|09-085|Naugatuck 003-02|Naugatuck 003-02
+09|009|09-086|Naugatuck 003-03|Naugatuck 003-03
+09|009|09-087|Naugatuck 003-03A|Naugatuck 003-03A
+09|009|09-088|New Haven 001-02|New Haven 001-02
+09|009|09-089|New Haven 002-02|New Haven 002-02
+09|009|09-090|New Haven 003-01|New Haven 003-01
+09|009|09-091|New Haven 003-02|New Haven 003-02
+09|009|09-092|New Haven 004-01|New Haven 004-01
+09|009|09-093|New Haven 004-02|New Haven 004-02
+09|009|09-094|New Haven 005-00|New Haven 005-00
+09|009|09-095|New Haven 006-02|New Haven 006-02
+09|009|09-096|New Haven 006-03|New Haven 006-03
+09|009|09-097|New Haven 007-02|New Haven 007-02
+09|009|09-098|New Haven 008-01|New Haven 008-01
+09|009|09-099|New Haven 008-02|New Haven 008-02
+09|009|09-100|New Haven 009-02|New Haven 009-02
+09|009|09-101|New Haven 009-02A|New Haven 009-02A
+09|009|09-102|New Haven 010-00|New Haven 010-00
+09|009|09-103|New Haven 011-02|New Haven 011-02
+09|009|09-104|New Haven 011-03|New Haven 011-03
+09|009|09-105|New Haven 012-01|New Haven 012-01
+09|009|09-106|New Haven 012-02|New Haven 012-02
+09|009|09-107|New Haven 013-00|New Haven 013-00
+09|009|09-108|New Haven 014-01|New Haven 014-01
+09|009|09-109|New Haven 015-01|New Haven 015-01
+09|009|09-110|New Haven 016-00|New Haven 016-00
+09|009|09-111|New Haven 017-00|New Haven 017-00
+09|009|09-112|New Haven 017-00A|New Haven 017-00A
+09|009|09-113|New Haven 018-00|New Haven 018-00
+09|009|09-114|New Haven 019-01|New Haven 019-01
+09|009|09-115|New Haven 019-02|New Haven 019-02
+09|009|09-116|New Haven 020-02|New Haven 020-02
+09|009|09-117|New Haven 021-01|New Haven 021-01
+09|009|09-118|New Haven 021-01A|New Haven 021-01A
+09|009|09-119|New Haven 022-01|New Haven 022-01
+09|009|09-120|New Haven 022-02|New Haven 022-02
+09|009|09-121|New Haven 023-00|New Haven 023-00
+09|009|09-122|New Haven 024-00|New Haven 024-00
+09|009|09-123|New Haven 025-00|New Haven 025-00
+09|009|09-124|New Haven 026-00|New Haven 026-00
+09|009|09-125|New Haven 027-01|New Haven 027-01
+09|009|09-126|New Haven 028-00|New Haven 028-00
+09|009|09-127|New Haven 029-00|New Haven 029-00
+09|009|09-128|New Haven 030-01|New Haven 030-01
+09|009|09-129|New Haven 030-02|New Haven 030-02
+09|009|09-130|North Branford 001-00|North Branford 001-00
+09|009|09-131|North Branford 002-00|North Branford 002-00
+09|009|09-132|North Haven 001-00|North Haven 001-00
+09|009|09-133|North Haven 002-00|North Haven 002-00
+09|009|09-134|North Haven 003-00|North Haven 003-00
+09|009|09-135|North Haven 003-11|North Haven 003-11
+09|009|09-136|North Haven 004-00|North Haven 004-00
+09|009|09-137|North Haven 005-00|North Haven 005-00
+09|009|09-138|Orange 001-00|Orange 001-00
+09|009|09-139|Orange 002-00|Orange 002-00
+09|009|09-140|Orange 003-00|Orange 003-00
+09|009|09-141|Oxford 001-00|Oxford 001-00
+09|009|09-142|Prospect 001-00|Prospect 001-00
+09|009|09-143|Prospect 002-00|Prospect 002-00
+09|009|09-144|Seymour 001-00|Seymour 001-00
+09|009|09-145|Seymour 002-00|Seymour 002-00
+09|009|09-146|Seymour 003-00|Seymour 003-00
+09|009|09-147|Southbury 001-00|Southbury 001-00
+09|009|09-148|Southbury 002-00|Southbury 002-00
+09|009|09-149|Southbury 003-00|Southbury 003-00
+09|009|09-150|Wallingford 001-00|Wallingford 001-00
+09|009|09-151|Wallingford 002-00|Wallingford 002-00
+09|009|09-152|Wallingford 003-00|Wallingford 003-00
+09|009|09-153|Wallingford 004-00|Wallingford 004-00
+09|009|09-154|Wallingford 005-00|Wallingford 005-00
+09|009|09-155|Wallingford 006-00|Wallingford 006-00
+09|009|09-156|Wallingford 007-00|Wallingford 007-00
+09|009|09-157|Wallingford 008-00|Wallingford 008-00
+09|009|09-158|Wallingford 009-00|Wallingford 009-00
+09|009|09-159|Waterbury 071-01|Waterbury 071-01
+09|009|09-160|Waterbury 071-02|Waterbury 071-02
+09|009|09-161|Waterbury 071-03|Waterbury 071-03
+09|009|09-162|Waterbury 072-01|Waterbury 072-01
+09|009|09-163|Waterbury 072-02|Waterbury 072-02
+09|009|09-164|Waterbury 072-03|Waterbury 072-03
+09|009|09-165|Waterbury 072-04|Waterbury 072-04
+09|009|09-166|Waterbury 072-05|Waterbury 072-05
+09|009|09-167|Waterbury 073-01|Waterbury 073-01
+09|009|09-168|Waterbury 073-02|Waterbury 073-02
+09|009|09-169|Waterbury 073-03|Waterbury 073-03
+09|009|09-170|Waterbury 073-04|Waterbury 073-04
+09|009|09-171|Waterbury 074-01|Waterbury 074-01
+09|009|09-172|Waterbury 074-02|Waterbury 074-02
+09|009|09-173|Waterbury 074-03|Waterbury 074-03
+09|009|09-174|Waterbury 074-04|Waterbury 074-04
+09|009|09-175|Waterbury 074-05|Waterbury 074-05
+09|009|09-176|Waterbury 074-05A|Waterbury 074-05A
+09|009|09-177|Waterbury 075-01|Waterbury 075-01
+09|009|09-178|Waterbury 075-02|Waterbury 075-02
+09|009|09-179|Waterbury 075-03|Waterbury 075-03
+09|009|09-180|Waterbury 075-04|Waterbury 075-04
+09|009|09-181|West Haven 003-00|West Haven 003-00
+09|009|09-182|West Haven 002-00|West Haven 002-00
+09|009|09-184|West Haven 001-00|West Haven 001-00
+09|009|09-185|West Haven 004-00|West Haven 004-00
+09|009|09-186|West Haven 006-00|West Haven 006-00
+09|009|09-190|West Haven 009-00|West Haven 009-00
+09|009|09-191|Wolcott 001-00|Wolcott 001-00
+09|009|09-192|Wolcott 002-00|Wolcott 002-00
+09|009|09-193|Wolcott 003-00|Wolcott 003-00
+09|009|09-194|Woodbridge 003-00|Woodbridge 003-00
+09|009|09-195|Woodbridge 014-00|Woodbridge 014-00
+09|009|09-196|West Haven 005-00|West Haven 005-00
+09|009|09-197|West Haven 007-00|West Haven 007-00
+09|009|09-198|West Haven 008-00|West Haven 008-00
+09|009|09-199|West Haven 010-00|West Haven 010-00
+09|011|11-001|Bozrah 001-00|Bozrah 001-00
+09|011|11-002|Colchester 001-00|Colchester 001-00
+09|011|11-003|Colchester 002-00|Colchester 002-00
+09|011|11-004|Colchester 003-00|Colchester 003-00
+09|011|11-005|Colchester 004-00|Colchester 004-00
+09|011|11-006|East Lyme 001-00|East Lyme 001-00
+09|011|11-007|East Lyme 002-00|East Lyme 002-00
+09|011|11-008|East Lyme 003-00|East Lyme 003-00
+09|011|11-009|Franklin 001-00|Franklin 001-00
+09|011|11-010|Griswold 001-00|Griswold 001-00
+09|011|11-011|Griswold 002-00|Griswold 002-00
+09|011|11-012|Groton 001-00|Groton 001-00
+09|011|11-013|Groton 002-00|Groton 002-00
+09|011|11-014|Groton 003-00|Groton 003-00
+09|011|11-015|Groton 004-00|Groton 004-00
+09|011|11-016|Groton 005-00|Groton 005-00
+09|011|11-017|Groton 006-00|Groton 006-00
+09|011|11-018|Groton 007-00|Groton 007-00
+09|011|11-019|Lebanon 001-00|Lebanon 001-00
+09|011|11-020|Lebanon 002-00|Lebanon 002-00
+09|011|11-021|Ledyard 001-00|Ledyard 001-00
+09|011|11-022|Ledyard 002-00|Ledyard 002-00
+09|011|11-023|Ledyard 003-00|Ledyard 003-00
+09|011|11-024|Lisbon 001-00|Lisbon 001-00
+09|011|11-025|Lisbon 002-00|Lisbon 002-00
+09|011|11-026|Lyme 001-00|Lyme 001-00
+09|011|11-027|Montville 001-00|Montville 001-00
+09|011|11-028|Montville 002-00|Montville 002-00
+09|011|11-030|Montville 003-00|Montville 003-00
+09|011|11-031|Montville 005-00|Montville 005-00
+09|011|11-032|Montville 006-00|Montville 006-00
+09|011|11-033|New London 001-00|New London 001-00
+09|011|11-034|New London 002-00|New London 002-00
+09|011|11-035|New London 003-00|New London 003-00
+09|011|11-036|North Stonington 001-00|North Stonington 001-00
+09|011|11-037|Norwich 001-00|Norwich 001-00
+09|011|11-038|Norwich 002-00|Norwich 002-00
+09|011|11-039|Norwich 003-00|Norwich 003-00
+09|011|11-040|Norwich 004-00|Norwich 004-00
+09|011|11-041|Norwich 005-00|Norwich 005-00
+09|011|11-042|Norwich 006-00|Norwich 006-00
+09|011|11-043|Old Lyme 001-00|Old Lyme 001-00
+09|011|11-044|Preston 001-00|Preston 001-00
+09|011|11-045|Salem 001-00|Salem 001-00
+09|011|11-046|Sprague 001-00|Sprague 001-00
+09|011|11-047|Stonington 001-00|Stonington 001-00
+09|011|11-048|Stonington 002-00|Stonington 002-00
+09|011|11-049|Stonington 003-00|Stonington 003-00
+09|011|11-050|Stonington 004-00|Stonington 004-00
+09|011|11-051|Stonington 005-00|Stonington 005-00
+09|011|11-052|Voluntown 001-00|Voluntown 001-00
+09|011|11-053|Waterford 001-00|Waterford 001-00
+09|011|11-054|Waterford 002-00|Waterford 002-00
+09|011|11-055|Waterford 003-00|Waterford 003-00
+09|011|11-056|Waterford 004-00|Waterford 004-00
+09|011|11-057|Montville 004-00|Montville 004-00
+09|013|13-001|Andover 001-00|Andover 001-00
+09|013|13-002|Bolton 001-00|Bolton 001-00
+09|013|13-003|Columbia 001-00|Columbia 001-00
+09|013|13-004|Coventry 001-00|Coventry 001-00
+09|013|13-005|Coventry 002-00|Coventry 002-00
+09|013|13-006|Ellington 001-00|Ellington 001-00
+09|013|13-007|Ellington 002-00|Ellington 002-00
+09|013|13-008|Hebron 001-00|Hebron 001-00
+09|013|13-009|Mansfield 001-00|Mansfield 001-00
+09|013|13-010|Mansfield 002-00|Mansfield 002-00
+09|013|13-011|Mansfield 003-00|Mansfield 003-00
+09|013|13-012|Mansfield 004-00|Mansfield 004-00
+09|013|13-013|Somers 001-00|Somers 001-00
+09|013|13-014|Stafford 001-00|Stafford 001-00
+09|013|13-015|Stafford 002-00|Stafford 002-00
+09|013|13-016|Stafford 003-00|Stafford 003-00
+09|013|13-017|Tolland 001-00|Tolland 001-00
+09|013|13-018|Tolland 002-00|Tolland 002-00
+09|013|13-019|Tolland 003-00|Tolland 003-00
+09|013|13-020|Union 001-00|Union 001-00
+09|013|13-021|Vernon 001-00|Vernon 001-00
+09|013|13-022|Vernon 002-00|Vernon 002-00
+09|013|13-023|Vernon 003-00|Vernon 003-00
+09|013|13-024|Vernon 004-00|Vernon 004-00
+09|013|13-025|Willington 001-00|Willington 001-00
+09|015|15-001|Ashford 001-00|Ashford 001-00
+09|015|15-002|Brooklyn 001-00|Brooklyn 001-00
+09|015|15-003|Canterbury 001-00|Canterbury 001-00
+09|015|15-004|Chaplin 001-00|Chaplin 001-00
+09|015|15-005|Eastford 001-00|Eastford 001-00
+09|015|15-006|Hampton 001-00|Hampton 001-00
+09|015|15-007|Killingly 001-01|Killingly 001-01
+09|015|15-008|Killingly 002-01|Killingly 002-01
+09|015|15-009|Killingly 002-02|Killingly 002-02
+09|015|15-010|Killingly 003-00|Killingly 003-00
+09|015|15-011|Killingly 004-01|Killingly 004-01
+09|015|15-012|Killingly 004-02|Killingly 004-02
+09|015|15-013|Killingly 005-00|Killingly 005-00
+09|015|15-014|Plainfield 001-00|Plainfield 001-00
+09|015|15-015|Plainfield 001-01|Plainfield 001-01
+09|015|15-016|Plainfield 002-00|Plainfield 002-00
+09|015|15-017|Plainfield 003-00|Plainfield 003-00
+09|015|15-018|Plainfield 004-00|Plainfield 004-00
+09|015|15-019|Pomfret 001-00|Pomfret 001-00
+09|015|15-020|Putnam 001-00|Putnam 001-00
+09|015|15-021|Putnam 002-00|Putnam 002-00
+09|015|15-022|Scotland 001-00|Scotland 001-00
+09|015|15-023|Sterling 001-00|Sterling 001-00
+09|015|15-024|Thompson 001-00|Thompson 001-00
+09|015|15-025|Thompson 002-00|Thompson 002-00
+09|015|15-026|Thompson 003-00|Thompson 003-00
+09|015|15-027|Thompson 004-00|Thompson 004-00
+09|015|15-028|Windham 004-00|Windham 004-00
+09|015|15-029|Windham 005-00|Windham 005-00
+09|015|15-030|Windham 006-00|Windham 006-00
+09|015|15-031|Windham 007-00|Windham 007-00
+09|015|15-032|Windham 008-00|Windham 008-00
+09|015|15-033|Woodstock 001-00|Woodstock 001-00

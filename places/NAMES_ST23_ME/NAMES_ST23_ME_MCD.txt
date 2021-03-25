@@ -1,0 +1,531 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+23|001|02060|Auburn|Auburn city
+23|001|19105|Durham|Durham town
+23|001|29255|Greene|Greene town
+23|001|38565|Leeds|Leeds town
+23|001|38740|Lewiston|Lewiston city
+23|001|40035|Lisbon|Lisbon town
+23|001|40665|Livermore|Livermore town
+23|001|40770|Livermore Falls|Livermore Falls town
+23|001|44585|Mechanic Falls|Mechanic Falls town
+23|001|46160|Minot|Minot town
+23|001|60020|Poland|Poland town
+23|001|64570|Sabattus|Sabattus town
+23|001|77800|Turner|Turner town
+23|001|79585|Wales|Wales town
+23|003|00800|Allagash|Allagash town
+23|003|01220|Amity|Amity town
+23|003|01710|Ashland|Ashland town
+23|003|02762|Bancroft|Bancroft UT
+23|003|05385|Blaine|Blaine town
+23|003|07065|Bridgewater|Bridgewater town
+23|003|10565|Caribou|Caribou city
+23|003|11300|Castle Hill|Castle Hill town
+23|003|11335|Caswell|Caswell town
+23|003|11785|Central Aroostook|Central Aroostook UT
+23|003|12000|Chapman|Chapman town
+23|003|13900|Connor|Connor UT
+23|003|15395|Crystal|Crystal town
+23|003|15990|Cyr|Cyr plantation
+23|003|19210|Dyer Brook|Dyer Brook town
+23|003|19420|Eagle Lake|Eagle Lake town
+23|003|21380|Easton|Easton town
+23|003|25615|Fort Fairfield|Fort Fairfield town
+23|003|25755|Fort Kent|Fort Kent town
+23|003|26735|Frenchville|Frenchville town
+23|003|27120|Garfield|Garfield plantation
+23|003|27855|Glenwood|Glenwood plantation
+23|003|28590|Grand Isle|Grand Isle town
+23|003|30690|Hamlin|Hamlin town
+23|003|30725|Hammond|Hammond town
+23|003|32195|Haynesville|Haynesville town
+23|003|32685|Hersey|Hersey town
+23|003|33385|Hodgdon|Hodgdon town
+23|003|33980|Houlton|Houlton town
+23|003|35065|Island Falls|Island Falls town
+23|003|39300|Limestone|Limestone town
+23|003|39965|Linneus|Linneus town
+23|003|40595|Littleton|Littleton town
+23|003|41715|Ludlow|Ludlow town
+23|003|42450|Macwahoc|Macwahoc plantation
+23|003|42520|Madawaska|Madawaska town
+23|003|43255|Mapleton|Mapleton town
+23|003|43710|Mars Hill|Mars Hill town
+23|003|43990|Masardis|Masardis town
+23|003|45180|Merrill|Merrill town
+23|003|46685|Monticello|Monticello town
+23|003|47175|Moro|Moro plantation
+23|003|48120|Nashville|Nashville plantation
+23|003|48575|New Canada|New Canada town
+23|003|48960|New Limerick|New Limerick town
+23|003|49415|New Sweden|New Sweden town
+23|003|53602|Northwest Aroostook|Northwest Aroostook UT
+23|003|54385|Oakfield|Oakfield town
+23|003|55435|Orient|Orient town
+23|003|57936|Penobscot Indian Island|Penobscot Indian Island Reservation
+23|003|58060|Perham|Perham town
+23|003|60300|Portage Lake|Portage Lake town
+23|003|60825|Presque Isle|Presque Isle city
+23|003|62400|Reed|Reed plantation
+23|003|64780|St. Agatha|St. Agatha town
+23|003|65025|St. Francis|St. Francis town
+23|003|65200|St. John|St. John plantation
+23|003|67790|Sherman|Sherman town
+23|003|69260|Smyrna|Smyrna town
+23|003|69930|South Aroostook|South Aroostook UT
+23|003|73472|Square Lake|Square Lake UT
+23|003|74405|Stockholm|Stockholm town
+23|003|78570|Van Buren|Van Buren town
+23|003|79270|Wade|Wade town
+23|003|79865|Wallagrass|Wallagrass town
+23|003|80285|Washburn|Washburn town
+23|003|82770|Westfield|Westfield town
+23|003|83540|Westmanland|Westmanland town
+23|003|83785|Weston|Weston town
+23|003|86865|Winterville|Winterville plantation
+23|003|87215|Woodland|Woodland town
+23|005|02655|Baldwin|Baldwin town
+23|005|07170|Bridgton|Bridgton town
+23|005|08430|Brunswick|Brunswick town
+23|005|10180|Cape Elizabeth|Cape Elizabeth town
+23|005|11125|Casco|Casco town
+23|005|12300|Chebeague Island|Chebeague Island town
+23|005|15430|Cumberland|Cumberland town
+23|005|24495|Falmouth|Falmouth town
+23|005|26525|Freeport|Freeport town
+23|005|27025|Frye Island|Frye Island town
+23|005|28240|Gorham|Gorham town
+23|005|28870|Gray|Gray town
+23|005|31390|Harpswell|Harpswell town
+23|005|31600|Harrison|Harrison town
+23|005|41067|Long Island|Long Island town
+23|005|48085|Naples|Naples town
+23|005|48820|New Gloucester|New Gloucester town
+23|005|53860|North Yarmouth|North Yarmouth town
+23|005|60545|Portland|Portland city
+23|005|60685|Pownal|Pownal town
+23|005|61945|Raymond|Raymond town
+23|005|66145|Scarborough|Scarborough town
+23|005|66775|Sebago|Sebago town
+23|005|71990|South Portland|South Portland city
+23|005|73670|Standish|Standish town
+23|005|82105|Westbrook|Westbrook city
+23|005|86025|Windham|Windham town
+23|005|87845|Yarmouth|Yarmouth town
+23|007|02235|Avon|Avon town
+23|007|10740|Carrabassett Valley|Carrabassett Valley town
+23|007|10915|Carthage|Carthage town
+23|007|12595|Chesterville|Chesterville town
+23|007|14205|Coplin|Coplin plantation
+23|007|16165|Dallas|Dallas plantation
+23|007|19865|East Central Franklin|East Central Franklin UT
+23|007|24005|Eustis|Eustis town
+23|007|24775|Farmington|Farmington town
+23|007|34820|Industry|Industry town
+23|007|35625|Jay|Jay town
+23|007|37025|Kingfield|Kingfield town
+23|007|49345|New Sharon|New Sharon town
+23|007|49520|New Vineyard|New Vineyard town
+23|007|51400|North Franklin|North Franklin UT
+23|007|58445|Phillips|Phillips town
+23|007|61840|Rangeley|Rangeley town
+23|007|61875|Rangeley|Rangeley plantation
+23|007|65655|Sandy River|Sandy River plantation
+23|007|70760|South Franklin|South Franklin UT
+23|007|74825|Strong|Strong town
+23|007|75980|Temple|Temple town
+23|007|81300|Weld|Weld town
+23|007|82235|West Central Franklin|West Central Franklin UT
+23|007|85850|Wilton|Wilton town
+23|007|87680|Wyman|Wyman UT
+23|009|01185|Amherst|Amherst town
+23|009|02165|Aurora|Aurora town
+23|009|02865|Bar Harbor|Bar Harbor town
+23|009|05700|Blue Hill|Blue Hill town
+23|009|07800|Brooklin|Brooklin town
+23|009|07975|Brooksville|Brooksville town
+23|009|08815|Bucksport|Bucksport town
+23|009|11265|Castine|Castine town
+23|009|11800|Central Hancock|Central Hancock UT
+23|009|14905|Cranberry Isles|Cranberry Isles town
+23|009|16935|Dedham|Dedham town
+23|009|17145|Deer Isle|Deer Isle town
+23|009|19770|Eastbrook|Eastbrook town
+23|009|20405|East Hancock|East Hancock UT
+23|009|23200|Ellsworth|Ellsworth city
+23|009|26350|Franklin|Franklin town
+23|009|26595|Frenchboro|Frenchboro town
+23|009|28450|Gouldsboro|Gouldsboro town
+23|009|28975|Great Pond|Great Pond town
+23|009|30970|Hancock|Hancock town
+23|009|38180|Lamoine|Lamoine town
+23|009|43430|Mariaville|Mariaville town
+23|009|43578|Marshall Island|Marshall Island UT
+23|009|47630|Mount Desert|Mount Desert town
+23|009|53620|Northwest Hancock|Northwest Hancock UT
+23|009|55505|Orland|Orland town
+23|009|55855|Osborn|Osborn town
+23|009|55890|Otis|Otis town
+23|009|57920|Penobscot|Penobscot town
+23|009|67300|Sedgwick|Sedgwick town
+23|009|69750|Sorrento|Sorrento town
+23|009|72865|Southwest Harbor|Southwest Harbor town
+23|009|74580|Stonington|Stonington town
+23|009|74965|Sullivan|Sullivan town
+23|009|75280|Surry|Surry town
+23|009|75455|Swans Island|Swans Island town
+23|009|77345|Tremont|Tremont town
+23|009|77415|Trenton|Trenton town
+23|009|78925|Verona Island|Verona Island town
+23|009|80040|Waltham|Waltham town
+23|009|86655|Winter Harbor|Winter Harbor town
+23|011|00590|Albion|Albion town
+23|011|02100|Augusta|Augusta city
+23|011|04020|Belgrade|Belgrade town
+23|011|04475|Benton|Benton town
+23|011|12350|Chelsea|Chelsea town
+23|011|12735|China|China town
+23|011|13470|Clinton|Clinton town
+23|011|24670|Farmingdale|Farmingdale town
+23|011|24950|Fayette|Fayette town
+23|011|27085|Gardiner|Gardiner city
+23|011|30550|Hallowell|Hallowell city
+23|011|40175|Litchfield|Litchfield town
+23|011|43080|Manchester|Manchester town
+23|011|46405|Monmouth|Monmouth town
+23|011|47770|Mount Vernon|Mount Vernon town
+23|011|54560|Oakland|Oakland town
+23|011|59110|Pittston|Pittston town
+23|011|61700|Randolph|Randolph town
+23|011|62190|Readfield|Readfield town
+23|011|63835|Rome|Rome town
+23|011|68385|Sidney|Sidney town
+23|011|78190|Unity|Unity UT
+23|011|78745|Vassalboro|Vassalboro town
+23|011|79025|Vienna|Vienna town
+23|011|80740|Waterville|Waterville city
+23|011|80880|Wayne|Wayne town
+23|011|82945|West Gardiner|West Gardiner town
+23|011|86165|Windsor|Windsor town
+23|011|86515|Winslow|Winslow town
+23|011|86970|Winthrop|Winthrop town
+23|013|01465|Appleton|Appleton town
+23|013|09725|Camden|Camden town
+23|013|15125|Criehaven|Criehaven UT
+23|013|15780|Cushing|Cushing town
+23|013|26805|Friendship|Friendship town
+23|013|33840|Hope|Hope town
+23|013|35135|Isle au Haut|Isle au Haut town
+23|013|44165|Matinicus Isle|Matinicus Isle plantation
+23|013|47962|Muscle Ridge Islands|Muscle Ridge Islands UT
+23|013|51620|North Haven|North Haven town
+23|013|56135|Owls Head|Owls Head town
+23|013|63590|Rockland|Rockland city
+23|013|63660|Rockport|Rockport town
+23|013|65130|St. George|St. George town
+23|013|72585|South Thomaston|South Thomaston town
+23|013|76365|Thomaston|Thomaston town
+23|013|78115|Union|Union town
+23|013|79130|Vinalhaven|Vinalhaven town
+23|013|80215|Warren|Warren town
+23|013|80425|Washington|Washington town
+23|015|01010|Alna|Alna town
+23|015|06050|Boothbay|Boothbay town
+23|015|06120|Boothbay Harbor|Boothbay Harbor town
+23|015|06855|Bremen|Bremen town
+23|015|07485|Bristol|Bristol town
+23|015|16235|Damariscotta|Damariscotta town
+23|015|18475|Dresden|Dresden town
+23|015|22675|Edgecomb|Edgecomb town
+23|015|32715|Hibberts|Hibberts gore
+23|015|35695|Jefferson|Jefferson town
+23|015|41280|Louds Island|Louds Island UT
+23|015|46335|Monhegan|Monhegan plantation
+23|015|48645|Newcastle|Newcastle town
+23|015|49660|Nobleboro|Nobleboro town
+23|015|69645|Somerville|Somerville town
+23|015|70240|South Bristol|South Bristol town
+23|015|71955|Southport|Southport town
+23|015|79550|Waldoboro|Waldoboro town
+23|015|84140|Westport Island|Westport Island town
+23|015|85010|Whitefield|Whitefield town
+23|015|87075|Wiscasset|Wiscasset town
+23|017|01325|Andover|Andover town
+23|017|04825|Bethel|Bethel town
+23|017|08150|Brownfield|Brownfield town
+23|017|08710|Buckfield|Buckfield town
+23|017|09550|Byron|Byron town
+23|017|10005|Canton|Canton town
+23|017|17250|Denmark|Denmark town
+23|017|17740|Dixfield|Dixfield town
+23|017|26910|Fryeburg|Fryeburg town
+23|017|27505|Gilead|Gilead town
+23|017|29710|Greenwood|Greenwood town
+23|017|31110|Hanover|Hanover town
+23|017|31670|Hartford|Hartford town
+23|017|32370|Hebron|Hebron town
+23|017|33315|Hiram|Hiram town
+23|017|39422|Lincoln|Lincoln plantation
+23|017|41365|Lovell|Lovell town
+23|017|42835|Magalloway|Magalloway plantation
+23|017|45285|Mexico|Mexico town
+23|017|46105|Milton|Milton UT
+23|017|49275|Newry|Newry town
+23|017|52575|North Oxford|North Oxford UT
+23|017|54000|Norway|Norway town
+23|017|55960|Otisfield|Otisfield town
+23|017|56310|Oxford|Oxford town
+23|017|56625|Paris|Paris town
+23|017|58270|Peru|Peru town
+23|017|60405|Porter|Porter town
+23|017|64185|Roxbury|Roxbury town
+23|017|64290|Rumford|Rumford town
+23|017|71755|South Oxford|South Oxford UT
+23|017|74510|Stoneham|Stoneham town
+23|017|74685|Stow|Stow town
+23|017|75035|Sumner|Sumner town
+23|017|75595|Sweden|Sweden town
+23|017|78465|Upton|Upton town
+23|017|80635|Waterford|Waterford town
+23|017|83890|West Paris|West Paris town
+23|017|87355|Woodstock|Woodstock town
+23|019|01115|Alton|Alton town
+23|019|01500|Argyle|Argyle UT
+23|019|02795|Bangor|Bangor city
+23|019|06575|Bradford|Bradford town
+23|019|06680|Bradley|Bradley town
+23|019|06925|Brewer|Brewer city
+23|019|09200|Burlington|Burlington town
+23|019|10670|Carmel|Carmel town
+23|019|10810|Carroll|Carroll plantation
+23|019|12105|Charleston|Charleston town
+23|019|12525|Chester|Chester town
+23|019|13365|Clifton|Clifton town
+23|019|14310|Corinna|Corinna town
+23|019|14380|Corinth|Corinth town
+23|019|17530|Dexter|Dexter town
+23|019|17950|Dixmont|Dixmont town
+23|019|18580|Drew|Drew plantation
+23|019|19868|East Central Penobscot|East Central Penobscot UT
+23|019|21030|East Millinocket|East Millinocket town
+23|019|22535|Eddington|Eddington town
+23|019|22710|Edinburg|Edinburg town
+23|019|23620|Enfield|Enfield town
+23|019|23865|Etna|Etna town
+23|019|24110|Exeter|Exeter town
+23|019|27190|Garland|Garland town
+23|019|27645|Glenburn|Glenburn town
+23|019|29185|Greenbush|Greenbush town
+23|019|30795|Hampden|Hampden town
+23|019|32510|Hermon|Hermon town
+23|019|33490|Holden|Holden town
+23|019|34190|Howland|Howland town
+23|019|34365|Hudson|Hudson town
+23|019|36325|Kenduskeag|Kenduskeag town
+23|019|37075|Kingman|Kingman UT
+23|019|37760|Lagrange|Lagrange town
+23|019|38005|Lakeville|Lakeville town
+23|019|38530|Lee|Lee town
+23|019|38705|Levant|Levant town
+23|019|39475|Lincoln|Lincoln town
+23|019|41435|Lowell|Lowell town
+23|019|44270|Mattawamkeag|Mattawamkeag town
+23|019|44340|Maxfield|Maxfield town
+23|019|45005|Medway|Medway town
+23|019|45670|Milford|Milford town
+23|019|45810|Millinocket|Millinocket town
+23|019|47560|Mount Chase|Mount Chase town
+23|019|48505|Newburgh|Newburgh town
+23|019|49065|Newport|Newport town
+23|019|52710|North Penobscot|North Penobscot UT
+23|019|55225|Old Town|Old Town city
+23|019|55565|Orono|Orono town
+23|019|55680|Orrington|Orrington town
+23|019|57045|Passadumkeag|Passadumkeag town
+23|019|57150|Patten|Patten town
+23|019|57936|Penobscot Indian Island|Penobscot Indian Island Reservation
+23|019|59950|Plymouth|Plymouth town
+23|019|60790|Prentiss|Prentiss UT
+23|019|67160|Seboeis|Seboeis plantation
+23|019|73250|Springfield|Springfield town
+23|019|73600|Stacyville|Stacyville town
+23|019|74055|Stetson|Stetson town
+23|019|78015|Twombly Ridge|Twombly Ridge UT
+23|019|78780|Veazie|Veazie town
+23|019|81055|Webster|Webster plantation
+23|019|85230|Whitney|Whitney UT
+23|019|86305|Winn|Winn town
+23|019|87390|Woodville|Woodville town
+23|021|00100|Abbot|Abbot town
+23|021|03740|Beaver Cove|Beaver Cove town
+23|021|05560|Blanchard|Blanchard UT
+23|021|06400|Bowerbank|Bowerbank town
+23|021|08325|Brownville|Brownville town
+23|021|18195|Dover-Foxcroft|Dover-Foxcroft town
+23|021|29535|Greenville|Greenville town
+23|021|30095|Guilford|Guilford town
+23|021|37095|Kingsbury|Kingsbury plantation
+23|021|37970|Lake View|Lake View plantation
+23|021|44830|Medford|Medford town
+23|021|46020|Milo|Milo town
+23|021|46580|Monson|Monson town
+23|021|51105|Northeast Piscataquis|Northeast Piscataquis UT
+23|021|53628|Northwest Piscataquis|Northwest Piscataquis UT
+23|021|56765|Parkman|Parkman town
+23|021|65865|Sangerville|Sangerville town
+23|021|66950|Sebec|Sebec town
+23|021|68140|Shirley|Shirley town
+23|021|70655|Southeast Piscataquis|Southeast Piscataquis UT
+23|021|81405|Wellington|Wellington town
+23|021|85710|Willimantic|Willimantic town
+23|023|01570|Arrowsic|Arrowsic town
+23|023|03355|Bath|Bath city
+23|023|06260|Bowdoin|Bowdoin town
+23|023|06365|Bowdoinham|Bowdoinham town
+23|023|27295|Georgetown|Georgetown town
+23|023|58070|Perkins|Perkins UT
+23|023|58515|Phippsburg|Phippsburg town
+23|023|62645|Richmond|Richmond town
+23|023|76960|Topsham|Topsham town
+23|023|81930|West Bath|West Bath town
+23|023|87460|Woolwich|Woolwich town
+23|025|01395|Anson|Anson town
+23|025|01885|Athens|Athens town
+23|025|05000|Bingham|Bingham town
+23|025|07380|Brighton|Brighton plantation
+23|025|09655|Cambridge|Cambridge town
+23|025|09935|Canaan|Canaan town
+23|025|10495|Caratunk|Caratunk town
+23|025|11820|Central Somerset|Central Somerset UT
+23|025|14555|Cornville|Cornville town
+23|025|17285|Dennistown|Dennistown plantation
+23|025|17460|Detroit|Detroit town
+23|025|23410|Embden|Embden town
+23|025|24320|Fairfield|Fairfield town
+23|025|31355|Harmony|Harmony town
+23|025|31740|Hartland|Hartland town
+23|025|32895|Highland|Highland plantation
+23|025|35345|Jackman|Jackman town
+23|025|42660|Madison|Madison town
+23|025|45110|Mercer|Mercer town
+23|025|47140|Moose River|Moose River town
+23|025|47455|Moscow|Moscow town
+23|025|49205|New Portland|New Portland town
+23|025|49835|Norridgewock|Norridgewock town
+23|025|51114|Northeast Somerset|Northeast Somerset UT
+23|025|53636|Northwest Somerset|Northwest Somerset UT
+23|025|56520|Palmyra|Palmyra town
+23|025|59005|Pittsfield|Pittsfield town
+23|025|59705|Pleasant Ridge|Pleasant Ridge plantation
+23|025|62995|Ripley|Ripley town
+23|025|64850|St. Albans|St. Albans town
+23|025|67238|Seboomook Lake|Seboomook Lake UT
+23|025|68910|Skowhegan|Skowhegan town
+23|025|69155|Smithfield|Smithfield town
+23|025|69505|Solon|Solon town
+23|025|73845|Starks|Starks town
+23|025|76190|The Forks|The Forks plantation
+23|025|82840|West Forks|West Forks plantation
+23|027|03950|Belfast|Belfast city
+23|027|04125|Belmont|Belmont town
+23|027|07870|Brooks|Brooks town
+23|027|09270|Burnham|Burnham town
+23|027|26280|Frankfort|Frankfort town
+23|027|26420|Freedom|Freedom town
+23|027|35240|Islesboro|Islesboro town
+23|027|35450|Jackson|Jackson town
+23|027|37585|Knox|Knox town
+23|027|39055|Liberty|Liberty town
+23|027|39755|Lincolnville|Lincolnville town
+23|027|46475|Monroe|Monroe town
+23|027|46790|Montville|Montville town
+23|027|47245|Morrill|Morrill town
+23|027|52845|Northport|Northport town
+23|027|56450|Palermo|Palermo town
+23|027|61210|Prospect|Prospect town
+23|027|66565|Searsmont|Searsmont town
+23|027|66635|Searsport|Searsport town
+23|027|74475|Stockton Springs|Stockton Springs town
+23|027|75525|Swanville|Swanville town
+23|027|76610|Thorndike|Thorndike town
+23|027|77625|Troy|Troy town
+23|027|78255|Unity|Unity town
+23|027|79480|Waldo|Waldo town
+23|027|86760|Winterport|Winterport town
+23|029|00380|Addison|Addison town
+23|029|00660|Alexander|Alexander town
+23|029|02480|Baileyville|Baileyville town
+23|029|02970|Baring|Baring plantation
+23|029|03670|Beals|Beals town
+23|029|03810|Beddington|Beddington town
+23|029|09585|Calais|Calais city
+23|029|12175|Charlotte|Charlotte town
+23|029|12455|Cherryfield|Cherryfield town
+23|029|13610|Codyville|Codyville plantation
+23|029|13750|Columbia|Columbia town
+23|029|13820|Columbia Falls|Columbia Falls town
+23|029|14100|Cooper|Cooper town
+23|029|14940|Crawford|Crawford town
+23|029|15920|Cutler|Cutler town
+23|029|16410|Danforth|Danforth town
+23|029|16865|Deblois|Deblois town
+23|029|17355|Dennysville|Dennysville town
+23|029|19870|East Central Washington|East Central Washington UT
+23|029|20960|East Machias|East Machias town
+23|029|21730|Eastport|Eastport city
+23|029|28660|Grand Lake Stream|Grand Lake Stream plantation
+23|029|31530|Harrington|Harrington town
+23|029|35905|Jonesboro|Jonesboro town
+23|029|36010|Jonesport|Jonesport town
+23|029|41610|Lubec|Lubec town
+23|029|41960|Machias|Machias town
+23|029|42100|Machiasport|Machiasport town
+23|029|43640|Marshfield|Marshfield town
+23|029|44760|Meddybemps|Meddybemps town
+23|029|45600|Milbridge|Milbridge town
+23|029|51375|Northfield|Northfield town
+23|029|53500|North Washington|North Washington UT
+23|029|57082|Passamaquoddy Indian Township|Passamaquoddy Indian Township Reservation
+23|029|57090|Passamaquoddy Pleasant Point|Passamaquoddy Pleasant Point Reservation
+23|029|57780|Pembroke|Pembroke town
+23|029|58165|Perry|Perry town
+23|029|61035|Princeton|Princeton town
+23|029|63275|Robbinston|Robbinston town
+23|029|63940|Roque Bluffs|Roque Bluffs town
+23|029|74125|Steuben|Steuben town
+23|029|75770|Talmadge|Talmadge town
+23|029|76895|Topsfield|Topsfield town
+23|029|78675|Vanceboro|Vanceboro town
+23|029|79375|Waite|Waite town
+23|029|81685|Wesley|Wesley town
+23|029|85185|Whiting|Whiting town
+23|029|85290|Whitneyville|Whitneyville town
+23|031|00275|Acton|Acton town
+23|031|00730|Alfred|Alfred town
+23|031|01605|Arundel|Arundel town
+23|031|04720|Berwick|Berwick town
+23|031|04860|Biddeford|Biddeford city
+23|031|09410|Buxton|Buxton town
+23|031|14485|Cornish|Cornish town
+23|031|16725|Dayton|Dayton town
+23|031|22955|Eliot|Eliot town
+23|031|33665|Hollis|Hollis town
+23|031|36535|Kennebunk|Kennebunk town
+23|031|36745|Kennebunkport|Kennebunkport town
+23|031|37270|Kittery|Kittery town
+23|031|38425|Lebanon|Lebanon town
+23|031|39195|Limerick|Limerick town
+23|031|39405|Limington|Limington town
+23|031|41750|Lyman|Lyman town
+23|031|48750|Newfield|Newfield town
+23|031|50325|North Berwick|North Berwick town
+23|031|54980|Ogunquit|Ogunquit town
+23|031|55085|Old Orchard Beach|Old Orchard Beach town
+23|031|56870|Parsonsfield|Parsonsfield town
+23|031|64675|Saco|Saco city
+23|031|65725|Sanford|Sanford city
+23|031|67475|Shapleigh|Shapleigh town
+23|031|70030|South Berwick|South Berwick town
+23|031|80530|Waterboro|Waterboro town
+23|031|81475|Wells|Wells town
+23|031|87985|York|York town

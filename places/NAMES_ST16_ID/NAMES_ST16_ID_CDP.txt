@@ -1,0 +1,37 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+16|02935|Arbon Valley|Arbon Valley CDP
+16|04105|Avimor|Avimor CDP
+16|04600|Banks|Banks CDP
+16|06670|Bennington|Bennington CDP
+16|08290|Blanchard|Blanchard CDP
+16|10450|Bruneau|Bruneau CDP
+16|17830|Conkling Park|Conkling Park CDP
+16|18010|Coolin|Coolin CDP
+16|21520|De Smet|De Smet CDP
+16|25030|Elk City|Elk City CDP
+16|27640|Fernwood|Fernwood CDP
+16|28360|Fort Hall|Fort Hall CDP
+16|29440|Gannett|Gannett CDP
+16|29710|Garden Valley|Garden Valley CDP
+16|34030|Groveland|Groveland CDP
+16|34750|Hammett|Hammett CDP
+16|37500|Hidden Springs|Hidden Springs CDP
+16|44560|Laclede|Laclede CDP
+16|46450|Letha|Letha CDP
+16|47080|Lincoln|Lincoln CDP
+16|48250|Lowman|Lowman CDP
+16|54370|Moreland|Moreland CDP
+16|54820|Mountain Home AFB|Mountain Home AFB CDP
+16|55720|Murphy|Murphy CDP
+16|60880|Parkline|Parkline CDP
+16|65620|Princeton|Princeton CDP
+16|68230|Riverside|Riverside CDP
+16|68545|Robie Creek|Robie Creek CDP
+16|68860|Rockford|Rockford CDP
+16|68950|Rockford Bay|Rockford Bay CDP
+16|74440|Silverton|Silverton CDP
+16|75160|Smiths Ferry|Smiths Ferry CDP
+16|79300|Sweetwater|Sweetwater CDP
+16|83170|Tyhee|Tyhee CDP
+16|84430|Viola|Viola CDP
+16|88660|Yellow Pine|Yellow Pine CDP

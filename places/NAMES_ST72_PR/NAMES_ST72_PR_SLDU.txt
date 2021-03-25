@@ -1,0 +1,10 @@
+STATEFP|DISTRICT|NAME|NAMELSAD
+72|001|I|State Senate District I
+72|002|II|State Senate District II
+72|003|III|State Senate District III
+72|004|IV|State Senate District IV
+72|005|V|State Senate District V
+72|006|VI|State Senate District VI
+72|007|VII|State Senate District VII
+72|008|VIII|State Senate District VIII
+72|ZZZ|State Senate Districts not defined|State Senate Districts not defined

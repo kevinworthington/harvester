@@ -1,0 +1,200 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+23|001|019105|Durham|Durham
+23|001|020601|Auburn Ward 1|Auburn Ward 1
+23|001|020602|Auburn Ward 2|Auburn Ward 2
+23|001|020603|Auburn Ward 3|Auburn Ward 3
+23|001|020604|Auburn Ward 4|Auburn Ward 4
+23|001|020605|Auburn Ward 5|Auburn Ward 5
+23|001|029255|Greene|Greene
+23|001|038565|Leeds|Leeds
+23|001|040035|Lisbon|Lisbon
+23|001|040665|Livermore|Livermore
+23|001|040770|Livermore Falls|Livermore Falls
+23|001|044585|Mechanic Falls|Mechanic Falls
+23|001|046160|Minot|Minot
+23|001|060020|Poland|Poland
+23|001|064570|Sabattus|Sabattus
+23|001|077800|Turner|Turner
+23|001|079585|Wales|Wales
+23|001|387401|Lewiston Ward 1|Lewiston Ward 1
+23|001|387402|Lewiston Ward 2|Lewiston Ward 2
+23|001|387403|Lewiston Ward 3|Lewiston Ward 3
+23|001|387404|Lewiston Ward 4|Lewiston Ward 4
+23|001|387405|Lewiston Ward 5|Lewiston Ward 5
+23|001|387406|Lewiston Ward 6|Lewiston Ward 6
+23|001|387407|Lewiston Ward 7|Lewiston Ward 7
+23|005|002655|Baldwin|Baldwin
+23|005|007170|Bridgton|Bridgton
+23|005|010180|Cape Elizabeth|Cape Elizabeth
+23|005|011125|Casco|Casco
+23|005|012300|Chebeague Island|Chebeague Island
+23|005|015430|Cumberland|Cumberland
+23|005|024495|Falmouth|Falmouth
+23|005|026525|Freeport|Freeport
+23|005|027025|Frye Island|Frye Island
+23|005|028240|Gorham|Gorham
+23|005|028870|Gray|Gray
+23|005|031390|Harpswell|Harpswell
+23|005|031600|Harrison|Harrison
+23|005|041067|Long Island|Long Island
+23|005|048085|Naples|Naples
+23|005|048820|New Gloucester|New Gloucester
+23|005|053860|North Yarmouth|North Yarmouth
+23|005|060685|Pownal|Pownal
+23|005|061945|Raymond|Raymond
+23|005|066145|Scarborough|Scarborough
+23|005|066775|Sebago|Sebago
+23|005|073670|Standish|Standish
+23|005|084301|Brunswick Voting District 1|Brunswick Voting District 1
+23|005|084302|Brunswick Voting District 2|Brunswick Voting District 2
+23|005|084303|Brunswick Voting District 3|Brunswick Voting District 3
+23|005|084304|Brunswick Voting District 4|Brunswick Voting District 4
+23|005|084305|Brunswick Voting District 5|Brunswick Voting District 5
+23|005|084306|Brunswick Voting District 6|Brunswick Voting District 6
+23|005|084307|Brunswick Voting District 7|Brunswick Voting District 7
+23|005|086025|Windham|Windham
+23|005|087845|Yarmouth|Yarmouth
+23|005|605411|Portland Precinct 1-1|Portland Precinct 1-1
+23|005|605412|Portland Precinct 1-2|Portland Precinct 1-2
+23|005|605413|Portland Precinct 1-3|Portland Precinct 1-3
+23|005|605421|Portland Precinct 2-1|Portland Precinct 2-1
+23|005|605422|Portland Precinct 2-2|Portland Precinct 2-2
+23|005|605431|Portland Precinct 3-1|Portland Precinct 3-1
+23|005|605432|Portland Precinct 3-2|Portland Precinct 3-2
+23|005|605441|Portland Precinct 4-1|Portland Precinct 4-1
+23|005|605442|Portland Precinct 4-2|Portland Precinct 4-2
+23|005|605451|Portland Precinct 5-1|Portland Precinct 5-1
+23|005|605452|Portland Precinct 5-2|Portland Precinct 5-2
+23|005|719901|South Portland District 1|South Portland District 1
+23|005|719902|South Portland District 2|South Portland District 2
+23|005|719903|South Portland District 3|South Portland District 3
+23|005|719904|South Portland District 4|South Portland District 4
+23|005|719905|South Portland District 5|South Portland District 5
+23|005|821051|Westbrook Ward 1|Westbrook Ward 1
+23|005|821052|Westbrook Ward 2|Westbrook Ward 2
+23|005|821053|Westbrook Ward 3|Westbrook Ward 3
+23|005|821054|Westbrook Ward 4|Westbrook Ward 4
+23|005|821055|Westbrook Ward 5|Westbrook Ward 5
+23|011|000590|Albion|Albion
+23|011|004020|Belgrade|Belgrade
+23|011|004475|Benton|Benton
+23|011|012350|Chelsea|Chelsea
+23|011|012735|China|China
+23|011|013470|Clinton|Clinton
+23|011|021001|Augusta Ward 1|Augusta Ward 1
+23|011|021002|Augusta Ward 2|Augusta Ward 2
+23|011|021003|Augusta Ward 3|Augusta Ward 3
+23|011|021004|Augusta Ward 4|Augusta Ward 4
+23|011|024670|Farmingdale|Farmingdale
+23|011|024950|Fayette|Fayette
+23|011|027085|Gardiner|Gardiner
+23|011|030550|Hallowell|Hallowell
+23|011|040175|Litchfield|Litchfield
+23|011|043080|Manchester|Manchester
+23|011|046405|Monmouth|Monmouth
+23|011|047770|Mount Vernon|Mount Vernon
+23|011|054560|Oakland|Oakland
+23|011|059110|Pittston|Pittston
+23|011|061700|Randolph|Randolph
+23|011|062190|Readfield|Readfield
+23|011|063835|Rome|Rome
+23|011|068385|Sidney|Sidney
+23|011|078190|Unity|Unity
+23|011|078745|Vassalboro|Vassalboro
+23|011|079025|Vienna|Vienna
+23|011|080880|Wayne|Wayne
+23|011|082945|West Gardiner|West Gardiner
+23|011|086165|Windsor|Windsor
+23|011|086515|Winslow|Winslow
+23|011|086970|Winthrop|Winthrop
+23|011|807401|Waterville Ward 1|Waterville Ward 1
+23|011|807402|Waterville Ward 2|Waterville Ward 2
+23|011|807403|Waterville Ward 3|Waterville Ward 3
+23|011|807404|Waterville Ward 4|Waterville Ward 4
+23|011|807405|Waterville Ward 5|Waterville Ward 5
+23|011|807406|Waterville Ward 6|Waterville Ward 6
+23|011|807407|Waterville Ward 7|Waterville Ward 7
+23|023|001570|Arrowsic|Arrowsic
+23|023|006260|Bowdoin|Bowdoin
+23|023|006365|Bowdoinham|Bowdoinham
+23|023|027295|Georgetown|Georgetown
+23|023|033551|Bath Ward 1|Bath Ward 1
+23|023|033552|Bath Ward 2|Bath Ward 2
+23|023|033553|Bath Ward 3|Bath Ward 3
+23|023|033554|Bath Ward 4|Bath Ward 4
+23|023|033555|Bath Ward 5|Bath Ward 5
+23|023|033556|Bath Ward 6|Bath Ward 6
+23|023|033557|Bath Ward 7|Bath Ward 7
+23|023|058070|Perkins|Perkins
+23|023|058515|Phippsburg|Phippsburg
+23|023|062645|Richmond|Richmond
+23|023|076960|Topsham|Topsham
+23|023|081930|West Bath|West Bath
+23|023|087460|Woolwich|Woolwich
+23|027|004125|Belmont|Belmont
+23|027|007870|Brooks|Brooks
+23|027|009270|Burnham|Burnham
+23|027|026280|Frankfort|Frankfort
+23|027|026420|Freedom|Freedom
+23|027|035240|Islesboro|Islesboro
+23|027|035450|Jackson|Jackson
+23|027|037585|Knox|Knox
+23|027|039055|Liberty|Liberty
+23|027|039501|Belfast Ward 1|Belfast Ward 1
+23|027|039502|Belfast Ward 2|Belfast Ward 2
+23|027|039503|Belfast Ward 3|Belfast Ward 3
+23|027|039504|Belfast Ward 4|Belfast Ward 4
+23|027|039505|Belfast Ward 5|Belfast Ward 5
+23|027|039755|Lincolnville|Lincolnville
+23|027|046475|Monroe|Monroe
+23|027|046790|Montville|Montville
+23|027|047245|Morrill|Morrill
+23|027|052845|Northport|Northport
+23|027|056450|Palermo|Palermo
+23|027|061210|Prospect|Prospect
+23|027|066565|Searsmont|Searsmont
+23|027|066635|Searsport|Searsport
+23|027|074475|Stockton Springs|Stockton Springs
+23|027|075525|Swanville|Swanville
+23|027|076610|Thorndike|Thorndike
+23|027|077625|Troy|Troy
+23|027|078255|Unity|Unity
+23|027|079480|Waldo|Waldo
+23|027|086760|Winterport|Winterport
+23|031|000275|Acton|Acton
+23|031|000730|Alfred|Alfred
+23|031|001605|Arundel|Arundel
+23|031|004720|Berwick|Berwick
+23|031|004860|Biddeford|Biddeford
+23|031|009410|Buxton|Buxton
+23|031|014485|Cornish|Cornish
+23|031|016725|Dayton|Dayton
+23|031|022955|Eliot|Eliot
+23|031|033665|Hollis|Hollis
+23|031|036535|Kennebunk|Kennebunk
+23|031|036745|Kennebunkport|Kennebunkport
+23|031|037270|Kittery|Kittery
+23|031|038425|Lebanon|Lebanon
+23|031|039195|Limerick|Limerick
+23|031|039405|Limington|Limington
+23|031|041750|Lyman|Lyman
+23|031|048750|Newfield|Newfield
+23|031|050325|North Berwick|North Berwick
+23|031|054980|Ogunquit|Ogunquit
+23|031|055085|Old Orchard Beach|Old Orchard Beach
+23|031|056870|Parsonsfield|Parsonsfield
+23|031|067475|Shapleigh|Shapleigh
+23|031|070030|South Berwick|South Berwick
+23|031|080530|Waterboro|Waterboro
+23|031|081475|Wells|Wells
+23|031|087985|York|York
+23|031|646751|Saco Ward 1|Saco Ward 1
+23|031|646752|Saco Ward 2|Saco Ward 2
+23|031|646753|Saco Ward 3|Saco Ward 3
+23|031|646754|Saco Ward 4|Saco Ward 4
+23|031|646755|Saco Ward 5|Saco Ward 5
+23|031|646756|Saco Ward 6|Saco Ward 6
+23|031|646757|Saco Ward 7|Saco Ward 7
+23|031|657251|Sanford Ward 1|Sanford Ward 1
+23|031|657252|Sanford Ward 2|Sanford Ward 2
+23|031|657253|Sanford Ward 3|Sanford Ward 3

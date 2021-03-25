@@ -1,0 +1,2574 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+42|001|00116|Abbottstown|Abbottstown borough
+42|001|02928|Arendtsville|Arendtsville borough
+42|001|05536|Bendersville|Bendersville borough
+42|001|05880|Berwick|Berwick township
+42|001|06296|Biglerville|Biglerville borough
+42|001|07560|Bonneauville|Bonneauville borough
+42|001|10456|Butler|Butler township
+42|001|11472|Carroll Valley|Carroll Valley borough
+42|001|15632|Conewago|Conewago township
+42|001|17640|Cumberland|Cumberland township
+42|001|20792|East Berlin|East Berlin borough
+42|001|24560|Fairfield|Fairfield borough
+42|001|27320|Franklin|Franklin township
+42|001|27704|Freedom|Freedom township
+42|001|28936|Germany|Germany township
+42|001|28960|Gettysburg|Gettysburg borough
+42|001|32144|Hamilton|Hamilton township
+42|001|32200|Hamiltonban|Hamiltonban township
+42|001|34424|Highland|Highland township
+42|001|36424|Huntington|Huntington township
+42|001|41672|Latimore|Latimore township
+42|001|43056|Liberty|Liberty township
+42|001|43944|Littlestown|Littlestown borough
+42|001|46376|McSherrystown|McSherrystown borough
+42|001|48608|Menallen|Menallen township
+42|001|51640|Mount Joy|Mount Joy township
+42|001|51776|Mount Pleasant|Mount Pleasant township
+42|001|53920|New Oxford|New Oxford borough
+42|001|57472|Oxford|Oxford township
+42|001|63616|Reading|Reading township
+42|001|74680|Straban|Straban township
+42|001|78160|Tyrone|Tyrone township
+42|001|78264|Union|Union township
+42|001|87136|York Springs|York Springs borough
+42|003|00724|Aleppo|Aleppo township
+42|003|03320|Aspinwall|Aspinwall borough
+42|003|03608|Avalon|Avalon borough
+42|003|03928|Baldwin|Baldwin borough
+42|003|03932|Baldwin|Baldwin township
+42|003|05216|Bell Acres|Bell Acres borough
+42|003|05312|Bellevue|Bellevue borough
+42|003|05504|Ben Avon|Ben Avon borough
+42|003|05520|Ben Avon Heights|Ben Avon Heights borough
+42|003|06064|Bethel Park|Bethel Park municipality
+42|003|07000|Blawnox|Blawnox borough
+42|003|07976|Brackenridge|Brackenridge borough
+42|003|07992|Braddock|Braddock borough
+42|003|08008|Braddock Hills|Braddock Hills borough
+42|003|08064|Bradford Woods|Bradford Woods borough
+42|003|08416|Brentwood|Brentwood borough
+42|003|08624|Bridgeville|Bridgeville borough
+42|003|11336|Carnegie|Carnegie borough
+42|003|11680|Castle Shannon|Castle Shannon borough
+42|003|12496|Chalfant|Chalfant borough
+42|003|13392|Cheswick|Cheswick borough
+42|003|13608|Churchill|Churchill borough
+42|003|13704|Clairton|Clairton city
+42|003|15216|Collier|Collier township
+42|003|16144|Coraopolis|Coraopolis borough
+42|003|16848|Crafton|Crafton borough
+42|003|17048|Crescent|Crescent township
+42|003|19576|Dormont|Dormont borough
+42|003|19856|Dravosburg|Dravosburg borough
+42|003|20432|Duquesne|Duquesne city
+42|003|21024|East Deer|East Deer township
+42|003|21444|East McKeesport|East McKeesport borough
+42|003|21712|East Pittsburgh|East Pittsburgh borough
+42|003|22520|Edgewood|Edgewood borough
+42|003|22576|Edgeworth|Edgeworth borough
+42|003|22992|Elizabeth|Elizabeth borough
+42|003|23000|Elizabeth|Elizabeth township
+42|003|23616|Emsworth|Emsworth borough
+42|003|24160|Etna|Etna borough
+42|003|25400|Fawn|Fawn township
+42|003|25904|Findlay|Findlay township
+42|003|26592|Forest Hills|Forest Hills borough
+42|003|26896|Forward|Forward township
+42|003|27120|Fox Chapel|Fox Chapel borough
+42|003|27552|Franklin Park|Franklin Park borough
+42|003|27608|Frazer|Frazer township
+42|003|29432|Glassport|Glassport borough
+42|003|29592|Glenfield|Glenfield borough
+42|003|29732|Glen Osborne|Glen Osborne borough
+42|003|31256|Green Tree|Green Tree borough
+42|003|32328|Hampton|Hampton township
+42|003|32624|Harmar|Harmar township
+42|003|32832|Harrison|Harrison township
+42|003|33312|Haysville|Haysville borough
+42|003|33592|Heidelberg|Heidelberg borough
+42|003|35424|Homestead|Homestead borough
+42|003|36808|Indiana|Indiana township
+42|003|37000|Ingram|Ingram borough
+42|003|37955|Jefferson Hills|Jefferson Hills borough
+42|003|39312|Kennedy|Kennedy township
+42|003|39624|Kilbuck|Kilbuck township
+42|003|42368|Leet|Leet township
+42|003|42392|Leetsdale|Leetsdale borough
+42|003|43064|Liberty|Liberty borough
+42|003|43408|Lincoln|Lincoln borough
+42|003|45900|McCandless|McCandless township
+42|003|46072|McDonald|McDonald borough
+42|003|46256|McKeesport|McKeesport city
+42|003|46264|McKees Rocks|McKees Rocks borough
+42|003|47696|Marshall|Marshall township
+42|003|49920|Millvale|Millvale borough
+42|003|50528|Monroeville|Monroeville municipality
+42|003|50784|Moon|Moon township
+42|003|51696|Mount Lebanon|Mount Lebanon township
+42|003|51744|Mount Oliver|Mount Oliver borough
+42|003|52320|Munhall|Munhall borough
+42|003|53136|Neville|Neville township
+42|003|54816|North Braddock|North Braddock borough
+42|003|55016|North Fayette|North Fayette township
+42|003|55488|North Versailles|North Versailles township
+42|003|55840|Oakdale|Oakdale borough
+42|003|56088|Oakmont|Oakmont borough
+42|003|56384|O'Hara|O'Hara township
+42|003|56392|Ohio|Ohio township
+42|003|59032|Penn Hills|Penn Hills township
+42|003|59152|Pennsbury Village|Pennsbury Village borough
+42|003|60272|Pine|Pine township
+42|003|60712|Pitcairn|Pitcairn borough
+42|003|61000|Pittsburgh|Pittsburgh city
+42|003|61328|Pleasant Hills|Pleasant Hills borough
+42|003|61536|Plum|Plum borough
+42|003|62320|Port Vue|Port Vue borough
+42|003|63408|Rankin|Rankin borough
+42|003|64240|Reserve|Reserve township
+42|003|64528|Richland|Richland township
+42|003|65352|Robinson|Robinson township
+42|003|66264|Ross|Ross township
+42|003|66320|Rosslyn Farms|Rosslyn Farms borough
+42|003|68388|Scott|Scott township
+42|003|69376|Sewickley|Sewickley borough
+42|003|69400|Sewickley Heights|Sewickley Heights borough
+42|003|69416|Sewickley Hills|Sewickley Hills borough
+42|003|69584|Shaler|Shaler township
+42|003|69776|Sharpsburg|Sharpsburg borough
+42|003|72160|South Fayette|South Fayette township
+42|003|72400|South Park|South Park township
+42|003|72568|South Versailles|South Versailles township
+42|003|72960|Springdale|Springdale borough
+42|003|72968|Springdale|Springdale township
+42|003|74648|Stowe|Stowe township
+42|003|75816|Swissvale|Swissvale borough
+42|003|76104|Tarentum|Tarentum borough
+42|003|76560|Thornburg|Thornburg borough
+42|003|77272|Trafford|Trafford borough
+42|003|77912|Turtle Creek|Turtle Creek borough
+42|003|79274|Upper St. Clair|Upper St. Clair township
+42|003|80032|Verona|Verona borough
+42|003|80040|Versailles|Versailles borough
+42|003|80600|Wall|Wall borough
+42|003|82800|West Deer|West Deer township
+42|003|82848|West Elizabeth|West Elizabeth borough
+42|003|83200|West Homestead|West Homestead borough
+42|003|83512|West Mifflin|West Mifflin borough
+42|003|84144|West View|West View borough
+42|003|84440|Whitaker|Whitaker borough
+42|003|84512|Whitehall|Whitehall borough
+42|003|84704|White Oak|White Oak borough
+42|003|85184|Wilkins|Wilkins township
+42|003|85188|Wilkinsburg|Wilkinsburg borough
+42|003|85496|Wilmerding|Wilmerding borough
+42|005|02720|Apollo|Apollo borough
+42|005|02752|Applewold|Applewold borough
+42|005|03480|Atwood|Atwood borough
+42|005|05992|Bethel|Bethel township
+42|005|07416|Boggs|Boggs township
+42|005|08152|Bradys Bend|Bradys Bend township
+42|005|10344|Burrell|Burrell township
+42|005|10680|Cadogan|Cadogan township
+42|005|16728|Cowanshannock|Cowanshannock township
+42|005|18400|Dayton|Dayton borough
+42|005|21160|East Franklin|East Franklin township
+42|005|22832|Elderton|Elderton borough
+42|005|26512|Ford City|Ford City borough
+42|005|26520|Ford Cliff|Ford Cliff borough
+42|005|27784|Freeport|Freeport borough
+42|005|29184|Gilpin|Gilpin township
+42|005|35936|Hovey|Hovey township
+42|005|39968|Kiskiminetas|Kiskiminetas township
+42|005|40040|Kittanning|Kittanning borough
+42|005|40056|Kittanning|Kittanning township
+42|005|42280|Leechburg|Leechburg borough
+42|005|46456|Madison|Madison township
+42|005|46632|Mahoning|Mahoning township
+42|005|46976|Manor|Manor township
+42|005|47064|Manorville|Manorville borough
+42|005|54728|North Apollo|North Apollo borough
+42|005|54856|North Buffalo|North Buffalo township
+42|005|57976|Parker|Parker city
+42|005|58160|Parks|Parks township
+42|005|59440|Perry|Perry township
+42|005|60280|Pine|Pine township
+42|005|61576|Plumcreek|Plumcreek township
+42|005|63560|Rayburn|Rayburn township
+42|005|63712|Redbank|Redbank township
+42|005|66720|Rural Valley|Rural Valley borough
+42|005|71968|South Bend|South Bend township
+42|005|71976|South Bethlehem|South Bethlehem borough
+42|005|72000|South Buffalo|South Buffalo township
+42|005|74992|Sugarcreek|Sugarcreek township
+42|005|79528|Valley|Valley township
+42|005|81176|Washington|Washington township
+42|005|81720|Wayne|Wayne township
+42|005|83024|West Franklin|West Franklin township
+42|005|83248|West Kittanning|West Kittanning borough
+42|005|86560|Worthington|Worthington borough
+42|007|00820|Aliquippa|Aliquippa city
+42|007|02288|Ambridge|Ambridge borough
+42|007|03736|Baden|Baden borough
+42|007|04688|Beaver|Beaver borough
+42|007|04792|Beaver Falls|Beaver Falls city
+42|007|06240|Big Beaver|Big Beaver borough
+42|007|08632|Bridgewater|Bridgewater borough
+42|007|08680|Brighton|Brighton township
+42|007|12016|Center|Center township
+42|007|13488|Chippewa|Chippewa township
+42|007|15872|Conway|Conway borough
+42|007|18192|Darlington|Darlington borough
+42|007|18200|Darlington|Darlington township
+42|007|18264|Daugherty|Daugherty township
+42|007|21752|East Rochester|East Rochester borough
+42|007|21968|Eastvale|Eastvale borough
+42|007|22264|Economy|Economy borough
+42|007|23304|Ellwood City|Ellwood City borough
+42|007|25152|Fallston|Fallston borough
+42|007|27312|Frankfort Springs|Frankfort Springs borough
+42|007|27336|Franklin|Franklin township
+42|007|27712|Freedom|Freedom borough
+42|007|28824|Georgetown|Georgetown borough
+42|007|29392|Glasgow|Glasgow borough
+42|007|30920|Greene|Greene township
+42|007|32392|Hanover|Hanover township
+42|007|32680|Harmony|Harmony township
+42|007|35488|Homewood|Homewood borough
+42|007|35576|Hookstown|Hookstown borough
+42|007|35640|Hopewell|Hopewell township
+42|007|36776|Independence|Independence township
+42|007|36944|Industry|Industry borough
+42|007|40400|Koppel|Koppel borough
+42|007|47432|Marion|Marion township
+42|007|49184|Midland|Midland borough
+42|007|50320|Monaca|Monaca borough
+42|007|53288|New Brighton|New Brighton borough
+42|007|53592|New Galilee|New Galilee borough
+42|007|54072|New Sewickley|New Sewickley township
+42|007|55400|North Sewickley|North Sewickley township
+42|007|56432|Ohioville|Ohioville borough
+42|007|58375|Patterson|Patterson township
+42|007|58384|Patterson Heights|Patterson Heights borough
+42|007|62352|Potter|Potter township
+42|007|62888|Pulaski|Pulaski township
+42|007|63224|Raccoon|Raccoon township
+42|007|65392|Rochester|Rochester borough
+42|007|65400|Rochester|Rochester township
+42|007|70376|Shippingport|Shippingport borough
+42|007|71952|South Beaver|South Beaver township
+42|007|72216|South Heights|South Heights borough
+42|007|79856|Vanport|Vanport township
+42|007|83472|West Mayfield|West Mayfield borough
+42|007|84444|White|White township
+42|009|04944|Bedford|Bedford borough
+42|009|04952|Bedford|Bedford township
+42|009|07024|Bloomfield|Bloomfield township
+42|009|08880|Broad Top|Broad Top township
+42|009|14584|Coaldale|Coaldale borough
+42|009|15032|Colerain|Colerain township
+42|009|17664|Cumberland Valley|Cumberland Valley township
+42|009|21736|East Providence|East Providence township
+42|009|21788|East St. Clair|East St. Clair township
+42|009|24304|Everett|Everett borough
+42|009|32840|Harrison|Harrison township
+42|009|35648|Hopewell|Hopewell borough
+42|009|35656|Hopewell|Hopewell township
+42|009|36640|Hyndman|Hyndman borough
+42|009|38576|Juniata|Juniata township
+42|009|39658|Kimmel|Kimmel township
+42|009|39720|King|King township
+42|009|43072|Liberty|Liberty township
+42|009|43416|Lincoln|Lincoln township
+42|009|44448|Londonderry|Londonderry township
+42|009|46928|Mann|Mann township
+42|009|46944|Manns Choice|Manns Choice borough
+42|009|50424|Monroe|Monroe township
+42|009|52648|Napier|Napier township
+42|009|53928|New Paris|New Paris borough
+42|009|58492|Pavia|Pavia township
+42|009|61496|Pleasantville|Pleasantville borough
+42|009|63312|Rainsburg|Rainsburg borough
+42|009|67256|St. Clairsville|St. Clairsville borough
+42|009|68072|Saxton|Saxton borough
+42|009|68152|Schellsburg|Schellsburg borough
+42|009|71544|Snake Spring|Snake Spring township
+42|009|71888|Southampton|Southampton township
+42|009|72656|South Woodbury|South Woodbury township
+42|009|83920|West Providence|West Providence township
+42|009|83972|West St. Clair|West St. Clair township
+42|009|86128|Woodbury|Woodbury borough
+42|009|86136|Woodbury|Woodbury township
+42|011|00364|Adamstown|Adamstown borough
+42|011|00588|Albany|Albany township
+42|011|02120|Alsace|Alsace township
+42|011|02328|Amity|Amity township
+42|011|03984|Bally|Bally borough
+42|011|04896|Bechtelsville|Bechtelsville borough
+42|011|05816|Bern|Bern township
+42|011|05848|Bernville|Bernville borough
+42|011|06008|Bethel|Bethel township
+42|011|06504|Birdsboro|Birdsboro borough
+42|011|07960|Boyertown|Boyertown borough
+42|011|08344|Brecknock|Brecknock township
+42|011|10696|Caernarvon|Caernarvon township
+42|011|12104|Centerport|Centerport borough
+42|011|12344|Centre|Centre township
+42|011|14984|Colebrookdale|Colebrookdale township
+42|011|17720|Cumru|Cumru township
+42|011|19312|District|District township
+42|011|19664|Douglass|Douglass township
+42|011|20680|Earl|Earl township
+42|011|24384|Exeter|Exeter township
+42|011|26280|Fleetwood|Fleetwood borough
+42|011|31352|Greenwich|Greenwich township
+42|011|32120|Hamburg|Hamburg borough
+42|011|33600|Heidelberg|Heidelberg township
+42|011|34016|Hereford|Hereford township
+42|011|37824|Jefferson|Jefferson township
+42|011|39256|Kenhorst|Kenhorst borough
+42|011|40656|Kutztown|Kutztown borough
+42|011|41768|Laureldale|Laureldale borough
+42|011|42352|Leesport|Leesport borough
+42|011|42688|Lenhartsville|Lenhartsville borough
+42|011|44584|Longswamp|Longswamp township
+42|011|44840|Lower Alsace|Lower Alsace township
+42|011|44928|Lower Heidelberg|Lower Heidelberg township
+42|011|45752|Lyons|Lyons borough
+42|011|46680|Maidencreek|Maidencreek township
+42|011|47440|Marion|Marion township
+42|011|48128|Maxatawny|Maxatawny township
+42|011|50272|Mohnton|Mohnton borough
+42|011|51760|Mount Penn|Mount Penn borough
+42|011|52200|Muhlenberg|Muhlenberg township
+42|011|53916|New Morgan|New Morgan borough
+42|011|55088|North Heidelberg|North Heidelberg township
+42|011|56672|Oley|Oley township
+42|011|56856|Ontelaunee|Ontelaunee township
+42|011|58784|Penn|Penn township
+42|011|59448|Perry|Perry township
+42|011|60176|Pike|Pike township
+42|011|63624|Reading|Reading city
+42|011|64592|Richmond|Richmond township
+42|011|65320|Robeson|Robeson township
+42|011|65336|Robesonia|Robesonia borough
+42|011|65544|Rockland|Rockland township
+42|011|66728|Ruscombmanor|Ruscombmanor township
+42|011|67304|St. Lawrence|St. Lawrence borough
+42|011|70248|Shillington|Shillington borough
+42|011|70464|Shoemakersville|Shoemakersville borough
+42|011|70880|Sinking Spring|Sinking Spring borough
+42|011|72208|South Heidelberg|South Heidelberg township
+42|011|72824|Spring|Spring township
+42|011|76712|Tilden|Tilden township
+42|011|77104|Topton|Topton borough
+42|011|77752|Tulpehocken|Tulpehocken township
+42|011|78280|Union|Union township
+42|011|78752|Upper Bern|Upper Bern township
+42|011|79328|Upper Tulpehocken|Upper Tulpehocken township
+42|011|81184|Washington|Washington township
+42|011|82296|Wernersville|Wernersville borough
+42|011|83928|West Reading|West Reading borough
+42|011|85720|Windsor|Windsor township
+42|011|86056|Womelsdorf|Womelsdorf borough
+42|011|86880|Wyomissing|Wyomissing borough
+42|013|00852|Allegheny|Allegheny township
+42|013|02184|Altoona|Altoona city
+42|013|02680|Antis|Antis township
+42|013|05384|Bellwood|Bellwood borough
+42|013|06872|Blair|Blair township
+42|013|11760|Catharine|Catharine township
+42|013|20248|Duncansville|Duncansville borough
+42|013|27600|Frankstown|Frankstown township
+42|013|27720|Freedom|Freedom township
+42|013|31000|Greenfield|Greenfield township
+42|013|35224|Hollidaysburg|Hollidaysburg borough
+42|013|36496|Huston|Huston township
+42|013|38592|Juniata|Juniata township
+42|013|44328|Logan|Logan township
+42|013|47872|Martinsburg|Martinsburg borough
+42|013|54024|Newry|Newry borough
+42|013|55592|North Woodbury|North Woodbury township
+42|013|65256|Roaring Spring|Roaring Spring borough
+42|013|71624|Snyder|Snyder township
+42|013|76160|Taylor|Taylor township
+42|013|77808|Tunnelhill|Tunnelhill borough
+42|013|78168|Tyrone|Tyrone borough
+42|013|78176|Tyrone|Tyrone township
+42|013|85272|Williamsburg|Williamsburg borough
+42|013|86144|Woodbury|Woodbury township
+42|015|00572|Alba|Alba borough
+42|015|00596|Albany|Albany township
+42|015|03056|Armenia|Armenia township
+42|015|03360|Asylum|Asylum township
+42|015|03392|Athens|Athens borough
+42|015|03400|Athens|Athens township
+42|015|10240|Burlington|Burlington borough
+42|015|10248|Burlington|Burlington township
+42|015|11160|Canton|Canton borough
+42|015|11168|Canton|Canton township
+42|015|15376|Columbia|Columbia township
+42|015|27344|Franklin|Franklin township
+42|015|30464|Granville|Granville township
+42|015|34088|Herrick|Herrick township
+42|015|42824|LeRaysville|LeRaysville borough
+42|015|42856|Leroy|Leroy township
+42|015|43792|Litchfield|Litchfield township
+42|015|50432|Monroe|Monroe borough
+42|015|50440|Monroe|Monroe township
+42|015|53152|New Albany|New Albany borough
+42|015|55448|North Towanda|North Towanda township
+42|015|57176|Orwell|Orwell township
+42|015|57448|Overton|Overton township
+42|015|60184|Pike|Pike township
+42|015|64696|Ridgebury|Ridgebury township
+42|015|65944|Rome|Rome borough
+42|015|65952|Rome|Rome township
+42|015|68096|Sayre|Sayre borough
+42|015|70208|Sheshequin|Sheshequin township
+42|015|71312|Smithfield|Smithfield township
+42|015|72096|South Creek|South Creek township
+42|015|72592|South Waverly|South Waverly borough
+42|015|73008|Springfield|Springfield township
+42|015|73632|Standing Stone|Standing Stone township
+42|015|74032|Stevens|Stevens township
+42|015|75944|Sylvania|Sylvania borough
+42|015|76408|Terry|Terry township
+42|015|77168|Towanda|Towanda borough
+42|015|77176|Towanda|Towanda township
+42|015|77584|Troy|Troy borough
+42|015|77592|Troy|Troy township
+42|015|77936|Tuscarora|Tuscarora township
+42|015|78232|Ulster|Ulster township
+42|015|80984|Warren|Warren township
+42|015|82144|Wells|Wells township
+42|015|82656|West Burlington|West Burlington township
+42|015|85544|Wilmot|Wilmot township
+42|015|85672|Windham|Windham township
+42|015|86656|Wyalusing|Wyalusing borough
+42|015|86664|Wyalusing|Wyalusing township
+42|015|86912|Wysox|Wysox township
+42|017|04976|Bedminster|Bedminster township
+42|017|05616|Bensalem|Bensalem township
+42|017|08592|Bridgeton|Bridgeton township
+42|017|08760|Bristol|Bristol borough
+42|017|08768|Bristol|Bristol township
+42|017|09816|Buckingham|Buckingham township
+42|017|12504|Chalfont|Chalfont borough
+42|017|19784|Doylestown|Doylestown borough
+42|017|19792|Doylestown|Doylestown township
+42|017|20104|Dublin|Dublin borough
+42|017|20480|Durham|Durham township
+42|017|21760|East Rockhill|East Rockhill township
+42|017|25112|Falls|Falls township
+42|017|33224|Haycock|Haycock township
+42|017|34952|Hilltown|Hilltown township
+42|017|36192|Hulmeville|Hulmeville borough
+42|017|37304|Ivyland|Ivyland borough
+42|017|41392|Langhorne|Langhorne borough
+42|017|41416|Langhorne Manor|Langhorne Manor borough
+42|017|44968|Lower Makefield|Lower Makefield township
+42|017|45112|Lower Southampton|Lower Southampton township
+42|017|49120|Middletown|Middletown township
+42|017|49384|Milford|Milford township
+42|017|51144|Morrisville|Morrisville borough
+42|017|53296|New Britain|New Britain borough
+42|017|53304|New Britain|New Britain township
+42|017|53712|New Hope|New Hope borough
+42|017|54184|Newtown|Newtown borough
+42|017|54192|Newtown|Newtown township
+42|017|54576|Nockamixon|Nockamixon township
+42|017|54688|Northampton|Northampton township
+42|017|58936|Penndel|Penndel borough
+42|017|59384|Perkasie|Perkasie borough
+42|017|61616|Plumstead|Plumstead township
+42|017|63048|Quakertown|Quakertown borough
+42|017|64536|Richland|Richland township
+42|017|64584|Richlandtown|Richlandtown borough
+42|017|64856|Riegelsville|Riegelsville borough
+42|017|69248|Sellersville|Sellersville borough
+42|017|70744|Silverdale|Silverdale borough
+42|017|71752|Solebury|Solebury township
+42|017|73016|Springfield|Springfield township
+42|017|76304|Telford|Telford borough
+42|017|76784|Tinicum|Tinicum township
+42|017|77704|Trumbauersville|Trumbauersville borough
+42|017|77744|Tullytown|Tullytown borough
+42|017|79128|Upper Makefield|Upper Makefield township
+42|017|79296|Upper Southampton|Upper Southampton township
+42|017|80952|Warminster|Warminster township
+42|017|81048|Warrington|Warrington township
+42|017|81144|Warwick|Warwick township
+42|017|83960|West Rockhill|West Rockhill township
+42|017|86624|Wrightstown|Wrightstown township
+42|017|86920|Yardley|Yardley borough
+42|019|00300|Adams|Adams township
+42|019|00860|Allegheny|Allegheny township
+42|019|08096|Brady|Brady township
+42|019|09528|Bruin|Bruin borough
+42|019|10000|Buffalo|Buffalo township
+42|019|10464|Butler|Butler city
+42|019|10472|Butler|Butler township
+42|019|10800|Callery|Callery borough
+42|019|12024|Center|Center township
+42|019|12992|Cherry|Cherry township
+42|019|13152|Cherry Valley|Cherry Valley borough
+42|019|13440|Chicora|Chicora borough
+42|019|13936|Clay|Clay township
+42|019|14048|Clearfield|Clearfield township
+42|019|14320|Clinton|Clinton township
+42|019|15480|Concord|Concord township
+42|019|15808|Connoquenessing|Connoquenessing borough
+42|019|15816|Connoquenessing|Connoquenessing township
+42|019|16920|Cranberry|Cranberry township
+42|019|19456|Donegal|Donegal township
+42|019|20904|East Butler|East Butler borough
+42|019|22128|Eau Claire|Eau Claire borough
+42|019|24248|Evans City|Evans City borough
+42|019|24832|Fairview|Fairview borough
+42|019|24840|Fairview|Fairview township
+42|019|26904|Forward|Forward township
+42|019|27352|Franklin|Franklin township
+42|019|32688|Harmony|Harmony borough
+42|019|32896|Harrisville|Harrisville borough
+42|019|37344|Jackson|Jackson township
+42|019|37848|Jefferson|Jefferson township
+42|019|38768|Karns City|Karns City borough
+42|019|41208|Lancaster|Lancaster township
+42|019|47448|Marion|Marion township
+42|019|47672|Mars|Mars borough
+42|019|48688|Mercer|Mercer township
+42|019|49056|Middlesex|Middlesex township
+42|019|52176|Muddy Creek|Muddy Creek township
+42|019|55992|Oakland|Oakland township
+42|019|57984|Parker|Parker township
+42|019|58792|Penn|Penn township
+42|019|59672|Petrolia|Petrolia borough
+42|019|62224|Portersville|Portersville borough
+42|019|62752|Prospect|Prospect borough
+42|019|68056|Saxonburg|Saxonburg borough
+42|019|69309|Seven Fields|Seven Fields borough
+42|019|71184|Slippery Rock|Slippery Rock borough
+42|019|71192|Slippery Rock|Slippery Rock township
+42|019|75184|Summit|Summit township
+42|019|79504|Valencia|Valencia borough
+42|019|79904|Venango|Venango township
+42|019|81192|Washington|Washington township
+42|019|83376|West Liberty|West Liberty borough
+42|019|84064|West Sunbury|West Sunbury borough
+42|019|85784|Winfield|Winfield township
+42|019|86536|Worth|Worth township
+42|019|87272|Zelienople|Zelienople borough
+42|021|00308|Adams|Adams township
+42|021|00868|Allegheny|Allegheny township
+42|021|03296|Ashville|Ashville borough
+42|021|04272|Barr|Barr township
+42|021|06736|Blacklick|Blacklick township
+42|021|09400|Brownstown|Brownstown borough
+42|021|10880|Cambria|Cambria township
+42|021|11456|Carrolltown|Carrolltown borough
+42|021|11616|Cassandra|Cassandra borough
+42|021|13192|Chest|Chest township
+42|021|13384|Chest Springs|Chest Springs borough
+42|021|14056|Clearfield|Clearfield township
+42|021|15552|Conemaugh|Conemaugh township
+42|021|17136|Cresson|Cresson borough
+42|021|17144|Cresson|Cresson township
+42|021|17496|Croyle|Croyle township
+42|021|17976|Daisytown|Daisytown borough
+42|021|18000|Dale|Dale borough
+42|021|18432|Dean|Dean township
+42|021|20952|East Carroll|East Carroll township
+42|021|20992|East Conemaugh|East Conemaugh borough
+42|021|21896|East Taylor|East Taylor township
+42|021|22144|Ebensburg|Ebensburg borough
+42|021|22712|Ehrenfeld|Ehrenfeld borough
+42|021|22808|Elder|Elder township
+42|021|25680|Ferndale|Ferndale borough
+42|021|27360|Franklin|Franklin borough
+42|021|28328|Gallitzin|Gallitzin borough
+42|021|28336|Gallitzin|Gallitzin township
+42|021|28720|Geistown|Geistown borough
+42|021|33080|Hastings|Hastings borough
+42|021|37352|Jackson|Jackson township
+42|021|38288|Johnstown|Johnstown city
+42|021|43248|Lilly|Lilly borough
+42|021|44664|Lorain|Lorain borough
+42|021|44704|Loretto|Loretto borough
+42|021|45160|Lower Yoder|Lower Yoder township
+42|021|49104|Middle Taylor|Middle Taylor township
+42|021|52360|Munster|Munster township
+42|021|52616|Nanty-Glo|Nanty-Glo borough
+42|021|55000|Northern Cambria|Northern Cambria borough
+42|021|58432|Patton|Patton borough
+42|021|62048|Portage|Portage borough
+42|021|62056|Portage|Portage township
+42|021|63608|Reade|Reade township
+42|021|64544|Richland|Richland township
+42|021|67920|Sankertown|Sankertown borough
+42|021|68104|Scalp Level|Scalp Level borough
+42|021|72168|South Fork|South Fork borough
+42|021|72344|Southmont|Southmont borough
+42|021|74432|Stonycreek|Stonycreek township
+42|021|75136|Summerhill|Summerhill borough
+42|021|75144|Summerhill|Summerhill township
+42|021|75520|Susquehanna|Susquehanna township
+42|021|77808|Tunnelhill|Tunnelhill borough
+42|021|79360|Upper Yoder|Upper Yoder township
+42|021|80288|Vintondale|Vintondale borough
+42|021|81200|Washington|Washington township
+42|021|82688|West Carroll|West Carroll township
+42|021|83584|Westmont|Westmont borough
+42|021|84080|West Taylor|West Taylor township
+42|021|84448|White|White township
+42|021|85528|Wilmore|Wilmore borough
+42|023|19976|Driftwood|Driftwood borough
+42|023|23600|Emporium|Emporium borough
+42|023|29008|Gibson|Gibson township
+42|023|31632|Grove|Grove township
+42|023|45432|Lumber|Lumber township
+42|023|62064|Portage|Portage township
+42|023|70336|Shippen|Shippen township
+42|025|04048|Banks|Banks township
+42|025|04816|Beaver Meadows|Beaver Meadows borough
+42|025|07880|Bowmanstown|Bowmanstown borough
+42|025|21664|East Penn|East Penn township
+42|025|21816|East Side|East Side borough
+42|025|27368|Franklin|Franklin township
+42|025|38200|Jim Thorpe|Jim Thorpe borough
+42|025|39608|Kidder|Kidder township
+42|025|41464|Lansford|Lansford borough
+42|025|41888|Lausanne|Lausanne township
+42|025|42400|Lehigh|Lehigh township
+42|025|42472|Lehighton|Lehighton borough
+42|025|45128|Lower Towamensing|Lower Towamensing township
+42|025|46640|Mahoning|Mahoning township
+42|025|53088|Nesquehoning|Nesquehoning borough
+42|025|57504|Packer|Packer township
+42|025|57696|Palmerton|Palmerton borough
+42|025|58304|Parryville|Parryville borough
+42|025|58968|Penn Forest|Penn Forest township
+42|025|75248|Summit Hill|Summit Hill borough
+42|025|77160|Towamensing|Towamensing township
+42|025|81856|Weatherly|Weatherly borough
+42|025|82080|Weissport|Weissport borough
+42|027|05256|Bellefonte|Bellefonte borough
+42|027|05608|Benner|Benner township
+42|027|07424|Boggs|Boggs township
+42|027|10272|Burnside|Burnside township
+42|027|12376|Centre Hall|Centre Hall borough
+42|027|15136|College|College township
+42|027|17800|Curtin|Curtin township
+42|027|25624|Ferguson|Ferguson township
+42|027|31472|Gregg|Gregg township
+42|027|31960|Haines|Haines township
+42|027|31992|Halfmoon|Halfmoon township
+42|027|32792|Harris|Harris township
+42|027|35960|Howard|Howard borough
+42|027|35968|Howard|Howard township
+42|027|36504|Huston|Huston township
+42|027|43080|Liberty|Liberty township
+42|027|47456|Marion|Marion township
+42|027|49360|Miles|Miles township
+42|027|49368|Milesburg|Milesburg borough
+42|027|49768|Millheim|Millheim borough
+42|027|58440|Patton|Patton township
+42|027|58800|Penn|Penn township
+42|027|60008|Philipsburg|Philipsburg borough
+42|027|62280|Port Matilda|Port Matilda borough
+42|027|62360|Potter|Potter township
+42|027|66736|Rush|Rush township
+42|027|71600|Snow Shoe|Snow Shoe borough
+42|027|71608|Snow Shoe|Snow Shoe township
+42|027|72832|Spring|Spring township
+42|027|73808|State College|State College borough
+42|027|76168|Taylor|Taylor township
+42|027|78288|Union|Union township
+42|027|78616|Unionville|Unionville borough
+42|027|80552|Walker|Walker township
+42|027|86544|Worth|Worth township
+42|029|03384|Atglen|Atglen borough
+42|029|03656|Avondale|Avondale borough
+42|029|06544|Birmingham|Birmingham township
+42|029|10824|Caln|Caln township
+42|029|12744|Charlestown|Charlestown township
+42|029|14712|Coatesville|Coatesville city
+42|029|19752|Downingtown|Downingtown borough
+42|029|20824|East Bradford|East Bradford township
+42|029|20864|East Brandywine|East Brandywine township
+42|029|20920|East Caln|East Caln township
+42|029|21008|East Coventry|East Coventry township
+42|029|21104|East Fallowfield|East Fallowfield township
+42|029|21192|East Goshen|East Goshen township
+42|029|21480|East Marlborough|East Marlborough township
+42|029|21576|East Nantmeal|East Nantmeal township
+42|029|21624|East Nottingham|East Nottingham township
+42|029|21696|East Pikeland|East Pikeland township
+42|029|21928|Easttown|Easttown township
+42|029|22000|East Vincent|East Vincent township
+42|029|22056|East Whiteland|East Whiteland township
+42|029|23032|Elk|Elk township
+42|029|23440|Elverson|Elverson borough
+42|029|27376|Franklin|Franklin township
+42|029|34448|Highland|Highland township
+42|029|35528|Honey Brook|Honey Brook borough
+42|029|35536|Honey Brook|Honey Brook township
+42|029|39344|Kennett|Kennett township
+42|029|39352|Kennett Square|Kennett Square borough
+42|029|44440|London Britain|London Britain township
+42|029|44456|Londonderry|Londonderry township
+42|029|44480|London Grove|London Grove township
+42|029|45040|Lower Oxford|Lower Oxford township
+42|029|46792|Malvern|Malvern borough
+42|029|50232|Modena|Modena borough
+42|029|53608|New Garden|New Garden township
+42|029|53784|Newlin|Newlin township
+42|029|53816|New London|New London township
+42|029|54936|North Coventry|North Coventry township
+42|029|57480|Oxford|Oxford borough
+42|029|58032|Parkesburg|Parkesburg borough
+42|029|58808|Penn|Penn township
+42|029|59136|Pennsbury|Pennsbury township
+42|029|60120|Phoenixville|Phoenixville borough
+42|029|61800|Pocopson|Pocopson township
+42|029|67080|Sadsbury|Sadsbury township
+42|029|68288|Schuylkill|Schuylkill township
+42|029|72072|South Coatesville|South Coatesville borough
+42|029|72088|South Coventry|South Coventry township
+42|029|72920|Spring City|Spring City borough
+42|029|76568|Thornbury|Thornbury township
+42|029|77344|Tredyffrin|Tredyffrin township
+42|029|79208|Upper Oxford|Upper Oxford township
+42|029|79352|Upper Uwchlan|Upper Uwchlan township
+42|029|79480|Uwchlan|Uwchlan township
+42|029|79544|Valley|Valley township
+42|029|80616|Wallace|Wallace township
+42|029|81160|Warwick|Warwick township
+42|029|82544|West Bradford|West Bradford township
+42|029|82576|West Brandywine|West Brandywine township
+42|029|82664|West Caln|West Caln township
+42|029|82704|West Chester|West Chester borough
+42|029|82936|West Fallowfield|West Fallowfield township
+42|029|83080|West Goshen|West Goshen township
+42|029|83104|West Grove|West Grove borough
+42|029|83464|West Marlborough|West Marlborough township
+42|029|83664|West Nantmeal|West Nantmeal township
+42|029|83712|West Nottingham|West Nottingham township
+42|029|83832|West Pikeland|West Pikeland township
+42|029|83968|West Sadsbury|West Sadsbury township
+42|029|84104|Westtown|Westtown township
+42|029|84160|West Vincent|West Vincent township
+42|029|84192|West Whiteland|West Whiteland township
+42|029|85352|Willistown|Willistown township
+42|031|03248|Ashland|Ashland township
+42|031|04696|Beaver|Beaver township
+42|031|08112|Brady|Brady township
+42|031|10792|Callensburg|Callensburg borough
+42|031|13800|Clarion|Clarion borough
+42|031|13808|Clarion|Clarion township
+42|031|20840|East Brady|East Brady borough
+42|031|23040|Elk|Elk township
+42|031|23568|Emlenton|Emlenton borough
+42|031|25272|Farmington|Farmington township
+42|031|27112|Foxburg|Foxburg borough
+42|031|33216|Hawthorn|Hawthorn borough
+42|031|34456|Highland|Highland township
+42|031|40272|Knox|Knox borough
+42|031|40288|Knox|Knox township
+42|031|43192|Licking|Licking township
+42|031|43344|Limestone|Limestone township
+42|031|46464|Madison|Madison township
+42|031|49536|Millcreek|Millcreek township
+42|031|50464|Monroe|Monroe township
+42|031|53248|New Bethlehem|New Bethlehem borough
+42|031|57536|Paint|Paint township
+42|031|59456|Perry|Perry township
+42|031|60648|Piney|Piney township
+42|031|62144|Porter|Porter township
+42|031|63728|Redbank|Redbank township
+42|031|64552|Richland|Richland township
+42|031|64904|Rimersburg|Rimersburg borough
+42|031|67384|St. Petersburg|St. Petersburg borough
+42|031|67432|Salem|Salem township
+42|031|70368|Shippenville|Shippenville borough
+42|031|71176|Sligo|Sligo borough
+42|031|74728|Strattanville|Strattanville borough
+42|031|76928|Toby|Toby township
+42|031|81208|Washington|Washington township
+42|033|04888|Beccaria|Beccaria township
+42|033|05192|Bell|Bell township
+42|033|06288|Bigler|Bigler township
+42|033|07008|Bloom|Bloom township
+42|033|07432|Boggs|Boggs township
+42|033|08032|Bradford|Bradford township
+42|033|08120|Brady|Brady township
+42|033|08744|Brisbin|Brisbin borough
+42|033|10280|Burnside|Burnside borough
+42|033|10288|Burnside|Burnside township
+42|033|13200|Chest|Chest township
+42|033|13240|Chester Hill|Chester Hill borough
+42|033|14064|Clearfield|Clearfield borough
+42|033|14656|Coalport|Coalport borough
+42|033|16040|Cooper|Cooper township
+42|033|16656|Covington|Covington township
+42|033|17840|Curwensville|Curwensville borough
+42|033|18456|Decatur|Decatur township
+42|033|20136|DuBois|DuBois city
+42|033|25136|Falls Creek|Falls Creek borough
+42|033|25632|Ferguson|Ferguson township
+42|033|29224|Girard|Girard township
+42|033|29632|Glen Hope|Glen Hope borough
+42|033|30152|Goshen|Goshen township
+42|033|30272|Graham|Graham township
+42|033|30280|Grampian|Grampian borough
+42|033|31376|Greenwood|Greenwood township
+42|033|31752|Gulich|Gulich township
+42|033|35928|Houtzdale|Houtzdale borough
+42|033|36512|Huston|Huston township
+42|033|37192|Irvona|Irvona borough
+42|033|38432|Jordan|Jordan township
+42|033|38784|Karthaus|Karthaus township
+42|033|40296|Knox|Knox township
+42|033|41952|Lawrence|Lawrence township
+42|033|46568|Mahaffey|Mahaffey borough
+42|033|51056|Morris|Morris township
+42|033|53336|Newburg|Newburg borough
+42|033|54344|New Washington|New Washington borough
+42|033|57232|Osceola Mills|Osceola Mills borough
+42|033|58816|Penn|Penn township
+42|033|60192|Pike|Pike township
+42|033|60288|Pine|Pine township
+42|033|63360|Ramey|Ramey borough
+42|033|67792|Sandy|Sandy township
+42|033|77568|Troutville|Troutville borough
+42|033|78296|Union|Union township
+42|033|80640|Wallaceton|Wallaceton borough
+42|033|83736|Westover|Westover borough
+42|033|86440|Woodward|Woodward township
+42|035|02032|Allison|Allison township
+42|035|03632|Avis|Avis borough
+42|035|03912|Bald Eagle|Bald Eagle township
+42|035|04984|Beech Creek|Beech Creek borough
+42|035|04992|Beech Creek|Beech Creek township
+42|035|11640|Castanea|Castanea township
+42|035|12640|Chapman|Chapman township
+42|035|14960|Colebrook|Colebrook township
+42|035|16976|Crawford|Crawford township
+42|035|20408|Dunnstable|Dunnstable township
+42|035|21328|East Keating|East Keating township
+42|035|26296|Flemington|Flemington borough
+42|035|28296|Gallagher|Gallagher township
+42|035|30928|Greene|Greene township
+42|035|31680|Grugan|Grugan township
+42|035|41112|Lamar|Lamar township
+42|035|42544|Leidy|Leidy township
+42|035|44128|Lock Haven|Lock Haven city
+42|035|44336|Logan|Logan township
+42|035|44400|Loganton|Loganton borough
+42|035|49760|Mill Hall|Mill Hall borough
+42|035|55744|Noyes|Noyes township
+42|035|60360|Pine Creek|Pine Creek township
+42|035|62152|Porter|Porter township
+42|035|64200|Renovo|Renovo borough
+42|035|72448|South Renovo|South Renovo borough
+42|035|81728|Wayne|Wayne township
+42|035|83240|West Keating|West Keating township
+42|035|86448|Woodward|Woodward township
+42|037|03264|Ashland|Ashland borough
+42|037|04704|Beaver|Beaver township
+42|037|05680|Benton|Benton borough
+42|037|05688|Benton|Benton township
+42|037|05888|Berwick|Berwick borough
+42|037|07128|Bloomsburg|Bloomsburg town
+42|037|08472|Briar Creek|Briar Creek borough
+42|037|08480|Briar Creek|Briar Creek township
+42|037|11736|Catawissa|Catawissa borough
+42|037|11744|Catawissa|Catawissa township
+42|037|12312|Centralia|Centralia borough
+42|037|14184|Cleveland|Cleveland township
+42|037|15880|Conyngham|Conyngham township
+42|037|26056|Fishing Creek|Fishing Creek township
+42|037|27384|Franklin|Franklin township
+42|037|31392|Greenwood|Greenwood township
+42|037|33760|Hemlock|Hemlock township
+42|037|37360|Jackson|Jackson township
+42|037|44208|Locust|Locust township
+42|037|46472|Madison|Madison township
+42|037|46688|Main|Main township
+42|037|49256|Mifflin|Mifflin township
+42|037|49944|Millville|Millville borough
+42|037|50704|Montour|Montour township
+42|037|51792|Mount Pleasant|Mount Pleasant township
+42|037|54880|North Centre|North Centre township
+42|037|56896|Orange|Orange township
+42|037|56912|Orangeville|Orangeville borough
+42|037|60304|Pine|Pine township
+42|037|65240|Roaring Creek|Roaring Creek township
+42|037|68392|Scott|Scott township
+42|037|72040|South Centre|South Centre township
+42|037|74184|Stillwater|Stillwater borough
+42|037|75048|Sugarloaf|Sugarloaf township
+42|039|03408|Athens|Athens township
+42|039|04720|Beaver|Beaver township
+42|039|07032|Bloomfield|Bloomfield township
+42|039|07120|Blooming Valley|Blooming Valley borough
+42|039|10904|Cambridge|Cambridge township
+42|039|10912|Cambridge Springs|Cambridge Springs borough
+42|039|12184|Centerville|Centerville borough
+42|039|14800|Cochranton|Cochranton borough
+42|039|15728|Conneaut|Conneaut township
+42|039|15744|Conneaut Lake|Conneaut Lake borough
+42|039|15760|Conneautville|Conneautville borough
+42|039|17848|Cussewago|Cussewago township
+42|039|21096|East Fairfield|East Fairfield township
+42|039|21112|East Fallowfield|East Fallowfield township
+42|039|21504|East Mead|East Mead township
+42|039|24568|Fairfield|Fairfield township
+42|039|31400|Greenwood|Greenwood township
+42|039|33256|Hayfield|Hayfield township
+42|039|36616|Hydetown|Hydetown borough
+42|039|43656|Linesville|Linesville borough
+42|039|48360|Meadville|Meadville city
+42|039|55408|North Shenango|North Shenango township
+42|039|56464|Oil Creek|Oil Creek township
+42|039|60312|Pine|Pine township
+42|039|63400|Randolph|Randolph township
+42|039|64600|Richmond|Richmond township
+42|039|65440|Rockdale|Rockdale township
+42|039|65960|Rome|Rome township
+42|039|67088|Sadsbury|Sadsbury township
+42|039|67120|Saegertown|Saegertown borough
+42|039|72472|South Shenango|South Shenango township
+42|039|72688|Sparta|Sparta township
+42|039|72704|Spartansburg|Spartansburg borough
+42|039|72840|Spring|Spring township
+42|039|72872|Springboro|Springboro borough
+42|039|74016|Steuben|Steuben township
+42|039|75160|Summerhill|Summerhill township
+42|039|75200|Summit|Summit township
+42|039|76904|Titusville|Titusville city
+42|039|77232|Townville|Townville borough
+42|039|77616|Troy|Troy township
+42|039|78304|Union|Union township
+42|039|79912|Venango|Venango borough
+42|039|79920|Venango|Venango township
+42|039|80000|Vernon|Vernon township
+42|039|81736|Wayne|Wayne township
+42|039|82944|West Fallowfield|West Fallowfield township
+42|039|83480|West Mead|West Mead township
+42|039|84008|West Shenango|West Shenango township
+42|039|86160|Woodcock|Woodcock borough
+42|039|86168|Woodcock|Woodcock township
+42|041|11000|Camp Hill|Camp Hill borough
+42|041|11272|Carlisle|Carlisle borough
+42|041|15920|Cooke|Cooke township
+42|041|19144|Dickinson|Dickinson township
+42|041|21680|East Pennsboro|East Pennsboro township
+42|041|32296|Hampden|Hampden township
+42|041|35672|Hopewell|Hopewell township
+42|041|42648|Lemoyne|Lemoyne borough
+42|041|44832|Lower Allen|Lower Allen township
+42|041|44904|Lower Frankford|Lower Frankford township
+42|041|44984|Lower Mifflin|Lower Mifflin township
+42|041|48376|Mechanicsburg|Mechanicsburg borough
+42|041|49072|Middlesex|Middlesex township
+42|041|50472|Monroe|Monroe township
+42|041|51592|Mount Holly Springs|Mount Holly Springs borough
+42|041|53344|Newburg|Newburg borough
+42|041|53464|New Cumberland|New Cumberland borough
+42|041|54320|Newville|Newville borough
+42|041|55216|North Middleton|North Middleton township
+42|041|55248|North Newton|North Newton township
+42|041|58824|Penn|Penn township
+42|041|70352|Shippensburg|Shippensburg borough
+42|041|70360|Shippensburg|Shippensburg township
+42|041|70384|Shiremanstown|Shiremanstown borough
+42|041|70792|Silver Spring|Silver Spring township
+42|041|71904|Southampton|Southampton township
+42|041|72336|South Middleton|South Middleton township
+42|041|72384|South Newton|South Newton township
+42|041|78736|Upper Allen|Upper Allen township
+42|041|79032|Upper Frankford|Upper Frankford township
+42|041|79152|Upper Mifflin|Upper Mifflin township
+42|041|83800|West Pennsboro|West Pennsboro township
+42|041|86528|Wormleysburg|Wormleysburg borough
+42|043|05856|Berrysburg|Berrysburg borough
+42|043|15640|Conewago|Conewago township
+42|043|18272|Dauphin|Dauphin borough
+42|043|18936|Derry|Derry township
+42|043|21208|East Hanover|East Hanover township
+42|043|23024|Elizabethville|Elizabethville borough
+42|043|30600|Gratz|Gratz borough
+42|043|32032|Halifax|Halifax borough
+42|043|32040|Halifax|Halifax township
+42|043|32800|Harrisburg|Harrisburg city
+42|043|34664|Highspire|Highspire borough
+42|043|36232|Hummelstown|Hummelstown borough
+42|043|37368|Jackson|Jackson township
+42|043|37864|Jefferson|Jefferson township
+42|043|44464|Londonderry|Londonderry township
+42|043|45056|Lower Paxton|Lower Paxton township
+42|043|45120|Lower Swatara|Lower Swatara township
+42|043|45592|Lykens|Lykens borough
+42|043|45600|Lykens|Lykens township
+42|043|49040|Middle Paxton|Middle Paxton township
+42|043|49128|Middletown|Middletown borough
+42|043|49264|Mifflin|Mifflin township
+42|043|49680|Millersburg|Millersburg borough
+42|043|58504|Paxtang|Paxtang borough
+42|043|58712|Penbrook|Penbrook borough
+42|043|60264|Pillow|Pillow borough
+42|043|63928|Reed|Reed township
+42|043|66560|Royalton|Royalton borough
+42|043|66744|Rush|Rush township
+42|043|72200|South Hanover|South Hanover township
+42|043|73888|Steelton|Steelton borough
+42|043|75528|Susquehanna|Susquehanna township
+42|043|75672|Swatara|Swatara township
+42|043|79216|Upper Paxton|Upper Paxton township
+42|043|81216|Washington|Washington township
+42|043|81744|Wayne|Wayne township
+42|043|83128|West Hanover|West Hanover township
+42|043|84976|Wiconisco|Wiconisco township
+42|043|85232|Williams|Williams township
+42|043|85320|Williamstown|Williamstown borough
+42|045|00676|Aldan|Aldan borough
+42|045|03336|Aston|Aston township
+42|045|06024|Bethel|Bethel township
+42|045|09080|Brookhaven|Brookhaven borough
+42|045|12442|Chadds Ford|Chadds Ford township
+42|045|13208|Chester|Chester city
+42|045|13212|Chester|Chester township
+42|045|13232|Chester Heights|Chester Heights borough
+42|045|14264|Clifton Heights|Clifton Heights borough
+42|045|15232|Collingdale|Collingdale borough
+42|045|15432|Colwyn|Colwyn borough
+42|045|15488|Concord|Concord township
+42|045|18152|Darby|Darby borough
+42|045|18160|Darby|Darby township
+42|045|21384|East Lansdowne|East Lansdowne borough
+42|045|22296|Eddystone|Eddystone borough
+42|045|22584|Edgmont|Edgmont township
+42|045|26408|Folcroft|Folcroft borough
+42|045|29720|Glenolden|Glenolden borough
+42|045|33144|Haverford|Haverford township
+42|045|41440|Lansdowne|Lansdowne borough
+42|045|44888|Lower Chichester|Lower Chichester township
+42|045|47344|Marcus Hook|Marcus Hook borough
+42|045|47616|Marple|Marple township
+42|045|48480|Media|Media borough
+42|045|49136|Middletown|Middletown township
+42|045|49504|Millbourne|Millbourne borough
+42|045|51176|Morton|Morton borough
+42|045|53104|Nether Providence|Nether Providence township
+42|045|54224|Newtown|Newtown township
+42|045|55664|Norwood|Norwood borough
+42|045|58176|Parkside|Parkside borough
+42|045|62792|Prospect Park|Prospect Park borough
+42|045|63264|Radnor|Radnor township
+42|045|64800|Ridley|Ridley township
+42|045|64832|Ridley Park|Ridley Park borough
+42|045|66192|Rose Valley|Rose Valley borough
+42|045|66928|Rutledge|Rutledge borough
+42|045|69752|Sharon Hill|Sharon Hill borough
+42|045|73032|Springfield|Springfield township
+42|045|75648|Swarthmore|Swarthmore borough
+42|045|76576|Thornbury|Thornbury township
+42|045|76792|Tinicum|Tinicum township
+42|045|77288|Trainer|Trainer borough
+42|045|78712|Upland|Upland borough
+42|045|78776|Upper Chichester|Upper Chichester township
+42|045|79000|Upper Darby|Upper Darby township
+42|045|79248|Upper Providence|Upper Providence township
+42|045|86968|Yeadon|Yeadon borough
+42|047|05576|Benezette|Benezette township
+42|047|27088|Fox|Fox township
+42|047|34464|Highland|Highland township
+42|047|35816|Horton|Horton township
+42|047|37760|Jay|Jay township
+42|047|38248|Johnsonburg|Johnsonburg borough
+42|047|38368|Jones|Jones township
+42|047|49888|Millstone|Millstone township
+42|047|64784|Ridgway|Ridgway borough
+42|047|64792|Ridgway|Ridgway township
+42|047|67344|St. Marys|St. Marys city
+42|047|72928|Spring Creek|Spring Creek township
+42|049|00000|County subdivisions not defined|County subdivisions not defined
+42|049|00628|Albion|Albion borough
+42|049|02336|Amity|Amity township
+42|049|15504|Concord|Concord township
+42|049|15736|Conneaut|Conneaut township
+42|049|16296|Corry|Corry city
+42|049|16960|Cranesville|Cranesville borough
+42|049|22608|Edinboro|Edinboro borough
+42|049|22960|Elgin|Elgin borough
+42|049|23088|Elk Creek|Elk Creek township
+42|049|24000|Erie|Erie city
+42|049|24864|Fairview|Fairview township
+42|049|27392|Franklin|Franklin township
+42|049|29232|Girard|Girard borough
+42|049|29240|Girard|Girard township
+42|049|30936|Greene|Greene township
+42|049|31008|Greenfield|Greenfield township
+42|049|32520|Harborcreek|Harborcreek township
+42|049|40960|Lake City|Lake City borough
+42|049|41984|Lawrence Park|Lawrence Park township
+42|049|42208|LeBoeuf|LeBoeuf township
+42|049|46216|McKean|McKean borough
+42|049|46224|McKean|McKean township
+42|049|49548|Millcreek|Millcreek township
+42|049|49936|Mill Village|Mill Village borough
+42|049|54952|North East|North East borough
+42|049|54960|North East|North East township
+42|049|61168|Platea|Platea borough
+42|049|73048|Springfield|Springfield township
+42|049|75208|Summit|Summit township
+42|049|78312|Union|Union township
+42|049|78448|Union City|Union City borough
+42|049|79928|Venango|Venango township
+42|049|81224|Washington|Washington township
+42|049|81456|Waterford|Waterford borough
+42|049|81472|Waterford|Waterford township
+42|049|81648|Wattsburg|Wattsburg borough
+42|049|81760|Wayne|Wayne township
+42|049|82344|Wesleyville|Wesleyville borough
+42|051|05288|Belle Vernon|Belle Vernon borough
+42|051|09432|Brownsville|Brownsville borough
+42|051|09434|Brownsville|Brownsville township
+42|051|10152|Bullskin|Bullskin township
+42|051|15776|Connellsville|Connellsville city
+42|051|15784|Connellsville|Connellsville township
+42|051|18360|Dawson|Dawson borough
+42|051|20216|Dunbar|Dunbar borough
+42|051|20224|Dunbar|Dunbar township
+42|051|24336|Everson|Everson borough
+42|051|24536|Fairchance|Fairchance borough
+42|051|25456|Fayette City|Fayette City borough
+42|051|27400|Franklin|Franklin township
+42|051|28792|Georges|Georges township
+42|051|28856|German|German township
+42|051|33896|Henry Clay|Henry Clay township
+42|051|37872|Jefferson|Jefferson township
+42|051|45144|Lower Tyrone|Lower Tyrone township
+42|051|45560|Luzerne|Luzerne township
+42|051|47560|Markleysburg|Markleysburg borough
+42|051|48000|Masontown|Masontown borough
+42|051|48616|Menallen|Menallen township
+42|051|53504|Newell|Newell borough
+42|051|54392|Nicholson|Nicholson township
+42|051|55464|North Union|North Union township
+42|051|56408|Ohiopyle|Ohiopyle borough
+42|051|59464|Perry|Perry township
+42|051|59520|Perryopolis|Perryopolis borough
+42|051|61864|Point Marion|Point Marion borough
+42|051|63904|Redstone|Redstone township
+42|051|67640|Saltlick|Saltlick township
+42|051|69336|Seven Springs|Seven Springs borough
+42|051|71320|Smithfield|Smithfield borough
+42|051|72080|South Connellsville|South Connellsville borough
+42|051|72544|South Union|South Union township
+42|051|73064|Springfield|Springfield township
+42|051|73240|Springhill|Springhill township
+42|051|74080|Stewart|Stewart township
+42|051|78528|Uniontown|Uniontown city
+42|051|79344|Upper Tyrone|Upper Tyrone township
+42|051|79768|Vanderbilt|Vanderbilt borough
+42|051|81232|Washington|Washington township
+42|051|84344|Wharton|Wharton township
+42|053|04224|Barnett|Barnett township
+42|053|30808|Green|Green township
+42|053|32704|Harmony|Harmony township
+42|053|34240|Hickory|Hickory township
+42|053|35992|Howe|Howe township
+42|053|38016|Jenks|Jenks township
+42|053|39760|Kingsley|Kingsley township
+42|053|76848|Tionesta|Tionesta borough
+42|053|76864|Tionesta|Tionesta township
+42|055|02696|Antrim|Antrim township
+42|055|12536|Chambersburg|Chambersburg borough
+42|055|25176|Fannett|Fannett township
+42|055|30896|Greencastle|Greencastle borough
+42|055|30944|Greene|Greene township
+42|055|31720|Guilford|Guilford township
+42|055|32152|Hamilton|Hamilton township
+42|055|42888|Letterkenny|Letterkenny township
+42|055|45496|Lurgan|Lurgan township
+42|055|48704|Mercersburg|Mercersburg borough
+42|055|48888|Metal|Metal township
+42|055|50544|Mont Alto|Mont Alto borough
+42|055|50616|Montgomery|Montgomery township
+42|055|57112|Orrstown|Orrstown borough
+42|055|59600|Peters|Peters township
+42|055|63200|Quincy|Quincy township
+42|055|67400|St. Thomas|St. Thomas township
+42|055|70352|Shippensburg|Shippensburg borough
+42|055|71912|Southampton|Southampton township
+42|055|80992|Warren|Warren township
+42|055|81240|Washington|Washington township
+42|055|81824|Waynesboro|Waynesboro borough
+42|057|03704|Ayr|Ayr township
+42|057|05144|Belfast|Belfast township
+42|057|06032|Bethel|Bethel township
+42|057|09568|Brush Creek|Brush Creek township
+42|057|20112|Dublin|Dublin township
+42|057|43200|Licking Creek|Licking Creek township
+42|057|46000|McConnellsburg|McConnellsburg borough
+42|057|76176|Taylor|Taylor township
+42|057|76488|Thompson|Thompson township
+42|057|76984|Todd|Todd township
+42|057|78320|Union|Union township
+42|057|79644|Valley-Hi|Valley-Hi borough
+42|057|82152|Wells|Wells township
+42|059|00740|Aleppo|Aleppo township
+42|059|11328|Carmichaels|Carmichaels borough
+42|059|12032|Center|Center township
+42|059|13896|Clarksville|Clarksville borough
+42|059|17648|Cumberland|Cumberland township
+42|059|20296|Dunkard|Dunkard township
+42|059|27408|Franklin|Franklin township
+42|059|27800|Freeport|Freeport township
+42|059|29152|Gilmore|Gilmore township
+42|059|30640|Gray|Gray township
+42|059|30952|Greene|Greene township
+42|059|31192|Greensboro|Greensboro borough
+42|059|37376|Jackson|Jackson township
+42|059|37880|Jefferson|Jefferson borough
+42|059|37888|Jefferson|Jefferson township
+42|059|50400|Monongahela|Monongahela township
+42|059|50992|Morgan|Morgan township
+42|059|51064|Morris|Morris township
+42|059|59472|Perry|Perry township
+42|059|64432|Rices Landing|Rices Landing borough
+42|059|64512|Richhill|Richhill township
+42|059|73248|Springhill|Springhill township
+42|059|81248|Washington|Washington township
+42|059|81768|Wayne|Wayne township
+42|059|81832|Waynesburg|Waynesburg borough
+42|059|84608|Whiteley|Whiteley township
+42|061|00756|Alexandria|Alexandria borough
+42|061|04288|Barree|Barree township
+42|061|06560|Birmingham|Birmingham borough
+42|061|08128|Brady|Brady township
+42|061|08896|Broad Top City|Broad Top City borough
+42|061|11208|Carbon|Carbon township
+42|061|11600|Cass|Cass township
+42|061|11632|Cassville|Cassville borough
+42|061|13944|Clay|Clay township
+42|061|14640|Coalmont|Coalmont borough
+42|061|17280|Cromwell|Cromwell township
+42|061|20120|Dublin|Dublin township
+42|061|20152|Dudley|Dudley borough
+42|061|27416|Franklin|Franklin township
+42|061|33808|Henderson|Henderson township
+42|061|35688|Hopewell|Hopewell township
+42|061|36368|Huntingdon|Huntingdon borough
+42|061|37384|Jackson|Jackson township
+42|061|38608|Juniata|Juniata township
+42|061|43424|Lincoln|Lincoln township
+42|061|44344|Logan|Logan township
+42|061|47248|Mapleton|Mapleton borough
+42|061|47544|Marklesburg|Marklesburg borough
+42|061|49552|Mill Creek|Mill Creek borough
+42|061|49624|Miller|Miller township
+42|061|51080|Morris|Morris township
+42|061|51984|Mount Union|Mount Union borough
+42|061|56808|Oneida|Oneida township
+42|061|56928|Orbisonia|Orbisonia borough
+42|061|58832|Penn|Penn township
+42|061|59616|Petersburg|Petersburg borough
+42|061|62160|Porter|Porter township
+42|061|65496|Rockhill|Rockhill borough
+42|061|67632|Saltillo|Saltillo borough
+42|061|69456|Shade Gap|Shade Gap borough
+42|061|70400|Shirley|Shirley township
+42|061|70408|Shirleysburg|Shirleysburg borough
+42|061|71328|Smithfield|Smithfield township
+42|061|73072|Springfield|Springfield township
+42|061|73488|Spruce Creek|Spruce Creek township
+42|061|76312|Tell|Tell township
+42|061|76632|Three Springs|Three Springs borough
+42|061|77000|Todd|Todd township
+42|061|78328|Union|Union township
+42|061|80560|Walker|Walker township
+42|061|81104|Warriors Mark|Warriors Mark township
+42|061|82352|West|West township
+42|061|86080|Wood|Wood township
+42|063|03032|Armagh|Armagh borough
+42|063|03064|Armstrong|Armstrong township
+42|063|04056|Banks|Banks township
+42|063|06752|Black Lick|Black Lick township
+42|063|06904|Blairsville|Blairsville borough
+42|063|09624|Brush Valley|Brush Valley township
+42|063|10104|Buffington|Buffington township
+42|063|10352|Burrell|Burrell township
+42|063|11120|Canoe|Canoe township
+42|063|12040|Center|Center township
+42|063|13072|Cherryhill|Cherryhill township
+42|063|13120|Cherry Tree|Cherry Tree borough
+42|063|14520|Clymer|Clymer borough
+42|063|15560|Conemaugh|Conemaugh township
+42|063|17024|Creekside|Creekside borough
+42|063|21456|East Mahoning|East Mahoning township
+42|063|22048|East Wheatfield|East Wheatfield township
+42|063|24040|Ernest|Ernest borough
+42|063|29512|Glen Campbell|Glen Campbell borough
+42|063|30416|Grant|Grant township
+42|063|30816|Green|Green township
+42|063|35408|Homer City|Homer City borough
+42|063|36816|Indiana|Indiana borough
+42|063|47472|Marion Center|Marion Center borough
+42|063|50624|Montgomery|Montgomery township
+42|063|55184|North Mahoning|North Mahoning township
+42|063|60320|Pine|Pine township
+42|063|61632|Plumville|Plumville borough
+42|063|63584|Rayne|Rayne township
+42|063|67648|Saltsburg|Saltsburg borough
+42|063|70040|Shelocta|Shelocta borough
+42|063|71256|Smicksburg|Smicksburg borough
+42|063|72304|South Mahoning|South Mahoning township
+42|063|81256|Washington|Washington township
+42|063|83416|West Mahoning|West Mahoning township
+42|063|84184|West Wheatfield|West Wheatfield township
+42|063|84472|White|White township
+42|063|87160|Young|Young township
+42|065|04240|Barnett|Barnett township
+42|065|04728|Beaver|Beaver township
+42|065|05200|Bell|Bell township
+42|065|06344|Big Run|Big Run borough
+42|065|08960|Brockway|Brockway borough
+42|065|09224|Brookville|Brookville borough
+42|065|14408|Clover|Clover township
+42|065|16304|Corsica|Corsica borough
+42|065|22872|Eldred|Eldred township
+42|065|25136|Falls Creek|Falls Creek borough
+42|065|28592|Gaskill|Gaskill township
+42|065|33448|Heath|Heath township
+42|065|33816|Henderson|Henderson township
+42|065|40304|Knox|Knox township
+42|065|45888|McCalmont|McCalmont township
+42|065|56712|Oliver|Oliver township
+42|065|59480|Perry|Perry township
+42|065|60368|Pine Creek|Pine Creek township
+42|065|61920|Polk|Polk township
+42|065|62176|Porter|Porter township
+42|065|62920|Punxsutawney|Punxsutawney borough
+42|065|64376|Reynoldsville|Reynoldsville borough
+42|065|64960|Ringgold|Ringgold township
+42|065|66032|Rose|Rose township
+42|065|71632|Snyder|Snyder township
+42|065|75168|Summerville|Summerville borough
+42|065|75888|Sykesville|Sykesville borough
+42|065|76744|Timblin|Timblin borough
+42|065|78336|Union|Union township
+42|065|81120|Warsaw|Warsaw township
+42|065|81264|Washington|Washington township
+42|065|85840|Winslow|Winslow township
+42|065|86568|Worthville|Worthville borough
+42|065|87168|Young|Young township
+42|067|04560|Beale|Beale township
+42|067|18680|Delaware|Delaware township
+42|067|25440|Fayette|Fayette township
+42|067|25648|Fermanagh|Fermanagh township
+42|067|31424|Greenwood|Greenwood township
+42|067|40752|Lack|Lack township
+42|067|49272|Mifflin|Mifflin borough
+42|067|49304|Mifflintown|Mifflintown borough
+42|067|49392|Milford|Milford township
+42|067|50480|Monroe|Monroe township
+42|067|62304|Port Royal|Port Royal borough
+42|067|73504|Spruce Hill|Spruce Hill township
+42|067|75536|Susquehanna|Susquehanna township
+42|067|76536|Thompsontown|Thompsontown borough
+42|067|77824|Turbett|Turbett township
+42|067|77952|Tuscarora|Tuscarora township
+42|067|80568|Walker|Walker township
+42|069|02832|Archbald|Archbald borough
+42|069|05696|Benton|Benton township
+42|069|06928|Blakely|Blakely borough
+42|069|11232|Carbondale|Carbondale city
+42|069|11240|Carbondale|Carbondale township
+42|069|13864|Clarks Green|Clarks Green borough
+42|069|13880|Clarks Summit|Clarks Summit borough
+42|069|14256|Clifton|Clifton township
+42|069|16664|Covington|Covington township
+42|069|18088|Dalton|Dalton borough
+42|069|19160|Dickson City|Dickson City borough
+42|069|20352|Dunmore|Dunmore borough
+42|069|23336|Elmhurst|Elmhurst township
+42|069|25560|Fell|Fell township
+42|069|29504|Glenburn|Glenburn township
+42|069|31016|Greenfield|Greenfield township
+42|069|37896|Jefferson|Jefferson township
+42|069|38096|Jermyn|Jermyn borough
+42|069|38160|Jessup|Jessup borough
+42|069|41504|La Plume|La Plume township
+42|069|46480|Madison|Madison township
+42|069|48176|Mayfield|Mayfield borough
+42|069|50880|Moosic|Moosic borough
+42|069|51208|Moscow|Moscow borough
+42|069|54136|Newton|Newton township
+42|069|54680|North Abington|North Abington township
+42|069|56576|Old Forge|Old Forge borough
+42|069|56792|Olyphant|Olyphant borough
+42|069|63432|Ransom|Ransom township
+42|069|65224|Roaring Brook|Roaring Brook township
+42|069|68400|Scott|Scott township
+42|069|69000|Scranton|Scranton city
+42|069|71872|South Abington|South Abington township
+42|069|72896|Spring Brook|Spring Brook township
+42|069|76184|Taylor|Taylor borough
+42|069|76601|Thornhurst|Thornhurst township
+42|069|76648|Throop|Throop borough
+42|069|79792|Vandling|Vandling borough
+42|069|81668|Waverly|Waverly township
+42|069|82360|West Abington|West Abington township
+42|071|00364|Adamstown|Adamstown borough
+42|071|00540|Akron|Akron borough
+42|071|04376|Bart|Bart township
+42|071|08352|Brecknock|Brecknock township
+42|071|10704|Caernarvon|Caernarvon township
+42|071|13512|Christiana|Christiana borough
+42|071|13960|Clay|Clay township
+42|071|15056|Colerain|Colerain township
+42|071|15384|Columbia|Columbia borough
+42|071|15592|Conestoga|Conestoga township
+42|071|15824|Conoy|Conoy township
+42|071|18888|Denver|Denver borough
+42|071|20032|Drumore|Drumore township
+42|071|20688|Earl|Earl township
+42|071|20984|East Cocalico|East Cocalico township
+42|071|21032|East Donegal|East Donegal township
+42|071|21040|East Drumore|East Drumore township
+42|071|21072|East Earl|East Earl township
+42|071|21232|East Hempfield|East Hempfield township
+42|071|21344|East Lampeter|East Lampeter township
+42|071|21688|East Petersburg|East Petersburg borough
+42|071|22336|Eden|Eden township
+42|071|23008|Elizabeth|Elizabeth township
+42|071|23016|Elizabethtown|Elizabethtown borough
+42|071|23832|Ephrata|Ephrata borough
+42|071|23840|Ephrata|Ephrata township
+42|071|28168|Fulton|Fulton township
+42|071|41216|Lancaster|Lancaster city
+42|071|41224|Lancaster|Lancaster township
+42|071|42080|Leacock|Leacock township
+42|071|43816|Lititz|Lititz borough
+42|071|43832|Little Britain|Little Britain township
+42|071|46888|Manheim|Manheim borough
+42|071|46896|Manheim|Manheim township
+42|071|46992|Manor|Manor township
+42|071|47424|Marietta|Marietta borough
+42|071|47824|Martic|Martic township
+42|071|49728|Millersville|Millersville borough
+42|071|51656|Mount Joy|Mount Joy borough
+42|071|51664|Mount Joy|Mount Joy township
+42|071|52016|Mountville|Mountville borough
+42|071|53696|New Holland|New Holland borough
+42|071|57848|Paradise|Paradise township
+42|071|58840|Penn|Penn township
+42|071|59360|Pequea|Pequea township
+42|071|62832|Providence|Providence township
+42|071|63064|Quarryville|Quarryville borough
+42|071|63440|Rapho|Rapho township
+42|071|67096|Sadsbury|Sadsbury township
+42|071|67568|Salisbury|Salisbury township
+42|071|74712|Strasburg|Strasburg borough
+42|071|74720|Strasburg|Strasburg township
+42|071|76400|Terre Hill|Terre Hill borough
+42|071|79080|Upper Leacock|Upper Leacock township
+42|071|81168|Warwick|Warwick township
+42|071|82728|West Cocalico|West Cocalico township
+42|071|82816|West Donegal|West Donegal township
+42|071|82824|West Earl|West Earl township
+42|071|83152|West Hempfield|West Hempfield township
+42|071|83256|West Lampeter|West Lampeter township
+42|073|05936|Bessemer|Bessemer borough
+42|073|23280|Ellport|Ellport borough
+42|073|23304|Ellwood City|Ellwood City borough
+42|073|23768|Enon Valley|Enon Valley borough
+42|073|34248|Hickory|Hickory township
+42|073|43824|Little Beaver|Little Beaver township
+42|073|46648|Mahoning|Mahoning township
+42|073|53064|Neshannock|Neshannock township
+42|073|53184|New Beaver|New Beaver borough
+42|073|53368|New Castle|New Castle city
+42|073|54352|New Wilmington|New Wilmington borough
+42|073|54768|North Beaver|North Beaver township
+42|073|59488|Perry|Perry township
+42|073|61104|Plain Grove|Plain Grove township
+42|073|62904|Pulaski|Pulaski township
+42|073|68408|Scott|Scott township
+42|073|70080|Shenango|Shenango township
+42|073|71200|Slippery Rock|Slippery Rock township
+42|073|71620|S.N.P.J.|S.N.P.J. borough
+42|073|72376|South New Castle|South New Castle borough
+42|073|76192|Taylor|Taylor township
+42|073|78368|Union|Union township
+42|073|80368|Volant|Volant borough
+42|073|80880|Wampum|Wampum borough
+42|073|81272|Washington|Washington township
+42|073|81776|Wayne|Wayne township
+42|073|85504|Wilmington|Wilmington township
+42|075|02600|Annville|Annville township
+42|075|06040|Bethel|Bethel township
+42|075|14160|Cleona|Cleona borough
+42|075|14944|Cold Spring|Cold Spring township
+42|075|16256|Cornwall|Cornwall borough
+42|075|21224|East Hanover|East Hanover township
+42|075|33608|Heidelberg|Heidelberg township
+42|075|37392|Jackson|Jackson township
+42|075|38400|Jonestown|Jonestown borough
+42|075|42168|Lebanon|Lebanon city
+42|075|49560|Millcreek|Millcreek township
+42|075|51568|Mount Gretna|Mount Gretna borough
+42|075|52488|Myerstown|Myerstown borough
+42|075|54720|North Annville|North Annville township
+42|075|54928|North Cornwall|North Cornwall township
+42|075|55160|North Lebanon|North Lebanon township
+42|075|55176|North Londonderry|North Londonderry township
+42|075|57720|Palmyra|Palmyra borough
+42|075|64560|Richland|Richland borough
+42|075|71928|South Annville|South Annville township
+42|075|72288|South Lebanon|South Lebanon township
+42|075|72296|South Londonderry|South Londonderry township
+42|075|75680|Swatara|Swatara township
+42|075|78376|Union|Union township
+42|075|82752|West Cornwall|West Cornwall township
+42|075|83312|West Lebanon|West Lebanon township
+42|077|00660|Alburtis|Alburtis borough
+42|077|02000|Allentown|Allentown city
+42|077|06088|Bethlehem|Bethlehem city
+42|077|11720|Catasauqua|Catasauqua borough
+42|077|16056|Coopersburg|Coopersburg borough
+42|077|16128|Coplay|Coplay borough
+42|077|23584|Emmaus|Emmaus borough
+42|077|27008|Fountain Hill|Fountain Hill borough
+42|077|32400|Hanover|Hanover township
+42|077|33616|Heidelberg|Heidelberg township
+42|077|44952|Lower Macungie|Lower Macungie township
+42|077|44992|Lower Milford|Lower Milford township
+42|077|45168|Lowhill|Lowhill township
+42|077|45656|Lynn|Lynn township
+42|077|46392|Macungie|Macungie borough
+42|077|55576|North Whitehall|North Whitehall township
+42|077|67576|Salisbury|Salisbury township
+42|077|71144|Slatington|Slatington borough
+42|077|72632|South Whitehall|South Whitehall township
+42|077|79104|Upper Macungie|Upper Macungie township
+42|077|79160|Upper Milford|Upper Milford township
+42|077|79288|Upper Saucon|Upper Saucon township
+42|077|81280|Washington|Washington township
+42|077|82064|Weisenberg|Weisenberg township
+42|077|84528|Whitehall|Whitehall township
+42|079|03272|Ashley|Ashley borough
+42|079|03640|Avoca|Avoca borough
+42|079|04592|Bear Creek|Bear Creek township
+42|079|04599|Bear Creek Village|Bear Creek Village borough
+42|079|06672|Black Creek|Black Creek township
+42|079|09760|Buck|Buck township
+42|079|10480|Butler|Butler township
+42|079|15888|Conyngham|Conyngham borough
+42|079|15904|Conyngham|Conyngham township
+42|079|16568|Courtdale|Courtdale borough
+42|079|18048|Dallas|Dallas borough
+42|079|18056|Dallas|Dallas township
+42|079|18868|Dennison|Dennison township
+42|079|19616|Dorrance|Dorrance township
+42|079|20424|Dupont|Dupont borough
+42|079|20512|Duryea|Duryea borough
+42|079|22672|Edwardsville|Edwardsville borough
+42|079|24392|Exeter|Exeter borough
+42|079|24400|Exeter|Exeter township
+42|079|24752|Fairmount|Fairmount township
+42|079|24888|Fairview|Fairview township
+42|079|26880|Forty Fort|Forty Fort borough
+42|079|26928|Foster|Foster township
+42|079|27424|Franklin|Franklin township
+42|079|27744|Freeland|Freeland borough
+42|079|32416|Hanover|Hanover township
+42|079|33000|Harveys Lake|Harveys Lake borough
+42|079|33376|Hazle|Hazle township
+42|079|33408|Hazleton|Hazleton city
+42|079|35192|Hollenback|Hollenback township
+42|079|36152|Hughestown|Hughestown borough
+42|079|36296|Hunlock|Hunlock township
+42|079|36432|Huntington|Huntington township
+42|079|37400|Jackson|Jackson township
+42|079|37792|Jeddo|Jeddo borough
+42|079|37984|Jenkins|Jenkins township
+42|079|39784|Kingston|Kingston borough
+42|079|39792|Kingston|Kingston township
+42|079|40848|Laflin|Laflin borough
+42|079|40920|Lake|Lake township
+42|079|41608|Larksville|Larksville borough
+42|079|41848|Laurel Run|Laurel Run borough
+42|079|42504|Lehman|Lehman township
+42|079|45568|Luzerne|Luzerne borough
+42|079|52584|Nanticoke|Nanticoke city
+42|079|52984|Nescopeck|Nescopeck borough
+42|079|52992|Nescopeck|Nescopeck township
+42|079|53448|New Columbus|New Columbus borough
+42|079|53960|Newport|Newport township
+42|079|55752|Nuangola|Nuangola borough
+42|079|59054|Penn Lake Park|Penn Lake Park borough
+42|079|61048|Pittston|Pittston city
+42|079|61056|Pittston|Pittston township
+42|079|61120|Plains|Plains township
+42|079|61648|Plymouth|Plymouth borough
+42|079|61656|Plymouth|Plymouth township
+42|079|62712|Pringle|Pringle borough
+42|079|64424|Rice|Rice township
+42|079|66272|Ross|Ross township
+42|079|67456|Salem|Salem township
+42|079|70224|Shickshinny|Shickshinny borough
+42|079|71216|Slocum|Slocum township
+42|079|75064|Sugarloaf|Sugarloaf township
+42|079|75072|Sugar Notch|Sugar Notch borough
+42|079|75832|Swoyersville|Swoyersville borough
+42|079|78384|Union|Union township
+42|079|81080|Warrior Run|Warrior Run borough
+42|079|83136|West Hazleton|West Hazleton borough
+42|079|83856|West Pittston|West Pittston borough
+42|079|84272|West Wyoming|West Wyoming borough
+42|079|84552|White Haven|White Haven borough
+42|079|85152|Wilkes-Barre|Wilkes-Barre city
+42|079|85160|Wilkes-Barre|Wilkes-Barre township
+42|079|86584|Wright|Wright township
+42|079|86856|Wyoming|Wyoming borough
+42|079|86952|Yatesville|Yatesville borough
+42|081|02656|Anthony|Anthony township
+42|081|03072|Armstrong|Armstrong township
+42|081|04424|Bastress|Bastress township
+42|081|08136|Brady|Brady township
+42|081|09280|Brown|Brown township
+42|081|11560|Cascade|Cascade township
+42|081|14336|Clinton|Clinton township
+42|081|14872|Cogan House|Cogan House township
+42|081|17696|Cummings|Cummings township
+42|081|20144|Duboistown|Duboistown borough
+42|081|22880|Eldred|Eldred township
+42|081|24592|Fairfield|Fairfield township
+42|081|27432|Franklin|Franklin township
+42|081|28352|Gamble|Gamble township
+42|081|33944|Hepburn|Hepburn township
+42|081|36160|Hughesville|Hughesville borough
+42|081|37408|Jackson|Jackson township
+42|081|38128|Jersey Shore|Jersey Shore borough
+42|081|38448|Jordan|Jordan township
+42|081|42944|Lewis|Lewis township
+42|081|43352|Limestone|Limestone township
+42|081|45224|Loyalsock|Loyalsock township
+42|081|45584|Lycoming|Lycoming township
+42|081|46184|McHenry|McHenry township
+42|081|46208|McIntyre|McIntyre township
+42|081|46352|McNett|McNett township
+42|081|49280|Mifflin|Mifflin township
+42|081|49568|Mill Creek|Mill Creek township
+42|081|50632|Montgomery|Montgomery borough
+42|081|50720|Montoursville|Montoursville borough
+42|081|50936|Moreland|Moreland township
+42|081|52264|Muncy|Muncy borough
+42|081|52280|Muncy|Muncy township
+42|081|52288|Muncy Creek|Muncy Creek township
+42|081|54504|Nippenose|Nippenose township
+42|081|56608|Old Lycoming|Old Lycoming township
+42|081|58848|Penn|Penn township
+42|081|60128|Piatt|Piatt township
+42|081|60136|Picture Rocks|Picture Rocks borough
+42|081|60328|Pine|Pine township
+42|081|61640|Plunketts Creek|Plunketts Creek township
+42|081|62184|Porter|Porter township
+42|081|67616|Salladasburg|Salladasburg borough
+42|081|70552|Shrewsbury|Shrewsbury township
+42|081|72648|South Williamsport|South Williamsport borough
+42|081|75544|Susquehanna|Susquehanna township
+42|081|79024|Upper Fairfield|Upper Fairfield township
+42|081|81288|Washington|Washington township
+42|081|81576|Watson|Watson township
+42|081|85312|Williamsport|Williamsport city
+42|081|85984|Wolf|Wolf township
+42|081|86456|Woodward|Woodward township
+42|083|02576|Annin|Annin township
+42|083|08040|Bradford|Bradford city
+42|083|08048|Bradford|Bradford township
+42|083|12408|Ceres|Ceres township
+42|083|16352|Corydon|Corydon township
+42|083|22888|Eldred|Eldred borough
+42|083|22896|Eldred|Eldred township
+42|083|26936|Foster|Foster township
+42|083|32168|Hamilton|Hamilton township
+42|083|32232|Hamlin|Hamlin township
+42|083|38688|Kane|Kane borough
+42|083|38912|Keating|Keating township
+42|083|40808|Lafayette|Lafayette township
+42|083|42984|Lewis Run|Lewis Run borough
+42|083|43096|Liberty|Liberty township
+42|083|51632|Mount Jewett|Mount Jewett borough
+42|083|55632|Norwich|Norwich township
+42|083|57312|Otto|Otto township
+42|083|62088|Port Allegany|Port Allegany borough
+42|083|69304|Sergeant|Sergeant township
+42|083|71248|Smethport|Smethport borough
+42|083|84312|Wetmore|Wetmore township
+42|085|13832|Clark|Clark borough
+42|085|15992|Coolspring|Coolspring township
+42|085|18536|Deer Creek|Deer Creek township
+42|085|18688|Delaware|Delaware township
+42|085|21336|East Lackawannock|East Lackawannock township
+42|085|24904|Fairview|Fairview township
+42|085|25360|Farrell|Farrell city
+42|085|25912|Findley|Findley township
+42|085|27688|Fredonia|Fredonia borough
+42|085|27824|French Creek|French Creek township
+42|085|30968|Greene|Greene township
+42|085|31328|Greenville|Greenville borough
+42|085|31656|Grove City|Grove City borough
+42|085|33784|Hempfield|Hempfield township
+42|085|34064|Hermitage|Hermitage city
+42|085|37416|Jackson|Jackson township
+42|085|37496|Jackson Center|Jackson Center borough
+42|085|37696|Jamestown|Jamestown borough
+42|085|37904|Jefferson|Jefferson township
+42|085|40760|Lackawannock|Lackawannock township
+42|085|40928|Lake|Lake township
+42|085|43104|Liberty|Liberty township
+42|085|48696|Mercer|Mercer borough
+42|085|49576|Mill Creek|Mill Creek township
+42|085|53768|New Lebanon|New Lebanon borough
+42|085|54304|New Vernon|New Vernon township
+42|085|57304|Otter Creek|Otter Creek township
+42|085|59496|Perry|Perry township
+42|085|60336|Pine|Pine township
+42|085|63008|Pymatuning|Pymatuning township
+42|085|67472|Salem|Salem township
+42|085|67816|Sandy Creek|Sandy Creek township
+42|085|67848|Sandy Lake|Sandy Lake borough
+42|085|67856|Sandy Lake|Sandy Lake township
+42|085|69720|Sharon|Sharon city
+42|085|69800|Sharpsville|Sharpsville borough
+42|085|69936|Sheakleyville|Sheakleyville borough
+42|085|70096|Shenango|Shenango township
+42|085|72440|South Pymatuning|South Pymatuning township
+42|085|73080|Springfield|Springfield township
+42|085|74288|Stoneboro|Stoneboro borough
+42|085|75008|Sugar Grove|Sugar Grove township
+42|085|83496|West Middlesex|West Middlesex borough
+42|085|83976|West Salem|West Salem township
+42|085|84376|Wheatland|Wheatland borough
+42|085|85512|Wilmington|Wilmington township
+42|085|85992|Wolf Creek|Wolf Creek township
+42|085|86552|Worth|Worth township
+42|087|03040|Armagh|Armagh township
+42|087|08304|Bratton|Bratton township
+42|087|09288|Brown|Brown township
+42|087|10256|Burnham|Burnham borough
+42|087|18464|Decatur|Decatur township
+42|087|18944|Derry|Derry township
+42|087|30480|Granville|Granville township
+42|087|38640|Juniata Terrace|Juniata Terrace borough
+42|087|40016|Kistler|Kistler borough
+42|087|43000|Lewistown|Lewistown borough
+42|087|46400|McVeytown|McVeytown borough
+42|087|48664|Menno|Menno township
+42|087|54160|Newton Hamilton|Newton Hamilton borough
+42|087|56720|Oliver|Oliver township
+42|087|78392|Union|Union township
+42|087|81784|Wayne|Wayne township
+42|089|04320|Barrett|Barrett township
+42|089|13328|Chestnuthill|Chestnuthill township
+42|089|15960|Coolbaugh|Coolbaugh township
+42|089|18736|Delaware Water Gap|Delaware Water Gap borough
+42|089|21872|East Stroudsburg|East Stroudsburg borough
+42|089|22904|Eldred|Eldred township
+42|089|32176|Hamilton|Hamilton township
+42|089|37424|Jackson|Jackson township
+42|089|49080|Middle Smithfield|Middle Smithfield township
+42|089|51912|Mount Pocono|Mount Pocono borough
+42|089|57856|Paradise|Paradise township
+42|089|61728|Pocono|Pocono township
+42|089|61928|Polk|Polk township
+42|089|62632|Price|Price township
+42|089|66280|Ross|Ross township
+42|089|71344|Smithfield|Smithfield township
+42|089|74880|Stroud|Stroud township
+42|089|74888|Stroudsburg|Stroudsburg borough
+42|089|76960|Tobyhanna|Tobyhanna township
+42|089|77776|Tunkhannock|Tunkhannock township
+42|091|00156|Abington|Abington township
+42|091|02264|Ambler|Ambler borough
+42|091|08568|Bridgeport|Bridgeport borough
+42|091|09696|Bryn Athyn|Bryn Athyn borough
+42|091|12968|Cheltenham|Cheltenham township
+42|091|15192|Collegeville|Collegeville borough
+42|091|15848|Conshohocken|Conshohocken borough
+42|091|19672|Douglass|Douglass township
+42|091|21200|East Greenville|East Greenville borough
+42|091|21600|East Norriton|East Norriton township
+42|091|27280|Franconia|Franconia township
+42|091|31088|Green Lane|Green Lane borough
+42|091|33088|Hatboro|Hatboro borough
+42|091|33112|Hatfield|Hatfield borough
+42|091|33120|Hatfield|Hatfield township
+42|091|35808|Horsham|Horsham township
+42|091|38000|Jenkintown|Jenkintown borough
+42|091|41432|Lansdale|Lansdale borough
+42|091|43312|Limerick|Limerick township
+42|091|44912|Lower Frederick|Lower Frederick township
+42|091|44920|Lower Gwynedd|Lower Gwynedd township
+42|091|44976|Lower Merion|Lower Merion township
+42|091|45008|Lower Moreland|Lower Moreland township
+42|091|45072|Lower Pottsgrove|Lower Pottsgrove township
+42|091|45080|Lower Providence|Lower Providence township
+42|091|45096|Lower Salford|Lower Salford township
+42|091|47592|Marlborough|Marlborough township
+42|091|50640|Montgomery|Montgomery township
+42|091|52664|Narberth|Narberth borough
+42|091|53664|New Hanover|New Hanover township
+42|091|54656|Norristown|Norristown borough
+42|091|55512|North Wales|North Wales borough
+42|091|59120|Pennsburg|Pennsburg borough
+42|091|59392|Perkiomen|Perkiomen township
+42|091|61664|Plymouth|Plymouth township
+42|091|62416|Pottstown|Pottstown borough
+42|091|63808|Red Hill|Red Hill borough
+42|091|65568|Rockledge|Rockledge borough
+42|091|66576|Royersford|Royersford borough
+42|091|67528|Salford|Salford township
+42|091|68328|Schwenksville|Schwenksville borough
+42|091|71016|Skippack|Skippack township
+42|091|71856|Souderton|Souderton borough
+42|091|73088|Springfield|Springfield township
+42|091|76304|Telford|Telford borough
+42|091|77152|Towamencin|Towamencin township
+42|091|77304|Trappe|Trappe borough
+42|091|79008|Upper Dublin|Upper Dublin township
+42|091|79040|Upper Frederick|Upper Frederick township
+42|091|79056|Upper Gwynedd|Upper Gwynedd township
+42|091|79064|Upper Hanover|Upper Hanover township
+42|091|79136|Upper Merion|Upper Merion township
+42|091|79176|Upper Moreland|Upper Moreland township
+42|091|79240|Upper Pottsgrove|Upper Pottsgrove township
+42|091|79256|Upper Providence|Upper Providence township
+42|091|79280|Upper Salford|Upper Salford township
+42|091|82736|West Conshohocken|West Conshohocken borough
+42|091|83696|West Norriton|West Norriton township
+42|091|83912|West Pottsgrove|West Pottsgrove township
+42|091|84624|Whitemarsh|Whitemarsh township
+42|091|84888|Whitpain|Whitpain township
+42|091|86496|Worcester|Worcester township
+42|093|02664|Anthony|Anthony township
+42|093|16048|Cooper|Cooper township
+42|093|18136|Danville|Danville borough
+42|093|18952|Derry|Derry township
+42|093|43112|Liberty|Liberty township
+42|093|43360|Limestone|Limestone township
+42|093|46656|Mahoning|Mahoning township
+42|093|48152|Mayberry|Mayberry township
+42|093|79552|Valley|Valley township
+42|093|81424|Washingtonville|Washingtonville borough
+42|093|83144|West Hemlock|West Hemlock township
+42|095|00948|Allen|Allen township
+42|095|04032|Bangor|Bangor borough
+42|095|04432|Bath|Bath borough
+42|095|06088|Bethlehem|Bethlehem city
+42|095|06096|Bethlehem|Bethlehem township
+42|095|10400|Bushkill|Bushkill township
+42|095|12656|Chapman|Chapman borough
+42|095|20736|East Allen|East Allen township
+42|095|20776|East Bangor|East Bangor borough
+42|095|21648|Easton|Easton city
+42|095|26728|Forks|Forks township
+42|095|27760|Freemansburg|Freemansburg borough
+42|095|29568|Glendon|Glendon borough
+42|095|32432|Hanover|Hanover township
+42|095|33744|Hellertown|Hellertown borough
+42|095|42424|Lehigh|Lehigh township
+42|095|45016|Lower Mount Bethel|Lower Mount Bethel township
+42|095|45024|Lower Nazareth|Lower Nazareth township
+42|095|45104|Lower Saucon|Lower Saucon township
+42|095|50824|Moore|Moore township
+42|095|52808|Nazareth|Nazareth borough
+42|095|54696|Northampton|Northampton borough
+42|095|54872|North Catasauqua|North Catasauqua borough
+42|095|57672|Palmer|Palmer township
+42|095|58696|Pen Argyl|Pen Argyl borough
+42|095|61088|Plainfield|Plainfield township
+42|095|62264|Portland|Portland borough
+42|095|66168|Roseto|Roseto borough
+42|095|74232|Stockertown|Stockertown borough
+42|095|76144|Tatamy|Tatamy borough
+42|095|79184|Upper Mount Bethel|Upper Mount Bethel township
+42|095|79192|Upper Nazareth|Upper Nazareth township
+42|095|80800|Walnutport|Walnutport borough
+42|095|81296|Washington|Washington township
+42|095|82832|West Easton|West Easton borough
+42|095|85256|Williams|Williams township
+42|095|85592|Wilson|Wilson borough
+42|095|85664|Wind Gap|Wind Gap borough
+42|097|14536|Coal|Coal township
+42|097|18696|Delaware|Delaware township
+42|097|20928|East Cameron|East Cameron township
+42|097|20976|East Chillisquaque|East Chillisquaque township
+42|097|34080|Herndon|Herndon borough
+42|097|37432|Jackson|Jackson township
+42|097|38456|Jordan|Jordan township
+42|097|40584|Kulpmont|Kulpmont borough
+42|097|42952|Lewis|Lewis township
+42|097|43912|Little Mahanoy|Little Mahanoy township
+42|097|44856|Lower Augusta|Lower Augusta township
+42|097|44960|Lower Mahanoy|Lower Mahanoy township
+42|097|46120|McEwensville|McEwensville borough
+42|097|47480|Marion Heights|Marion Heights borough
+42|097|50016|Milton|Milton borough
+42|097|51496|Mount Carmel|Mount Carmel borough
+42|097|51504|Mount Carmel|Mount Carmel township
+42|097|55456|Northumberland|Northumberland borough
+42|097|61832|Point|Point township
+42|097|63328|Ralpho|Ralpho township
+42|097|65112|Riverside|Riverside borough
+42|097|65472|Rockefeller|Rockefeller township
+42|097|66752|Rush|Rush township
+42|097|69600|Shamokin|Shamokin city
+42|097|69608|Shamokin|Shamokin township
+42|097|71688|Snydertown|Snydertown borough
+42|097|75304|Sunbury|Sunbury city
+42|097|77830|Turbot|Turbot township
+42|097|77832|Turbotville|Turbotville borough
+42|097|78744|Upper Augusta|Upper Augusta township
+42|097|79112|Upper Mahanoy|Upper Mahanoy township
+42|097|81304|Washington|Washington township
+42|097|81616|Watsontown|Watsontown borough
+42|097|82680|West Cameron|West Cameron township
+42|097|82712|West Chillisquaque|West Chillisquaque township
+42|097|87280|Zerbe|Zerbe township
+42|099|06824|Blain|Blain borough
+42|099|07040|Bloomfield|Bloomfield borough
+42|099|10008|Buffalo|Buffalo township
+42|099|11416|Carroll|Carroll township
+42|099|12360|Centre|Centre township
+42|099|20240|Duncannon|Duncannon borough
+42|099|31440|Greenwood|Greenwood township
+42|099|36000|Howe|Howe township
+42|099|37440|Jackson|Jackson township
+42|099|38616|Juniata|Juniata township
+42|099|41272|Landisburg|Landisburg borough
+42|099|43968|Liverpool|Liverpool borough
+42|099|43976|Liverpool|Liverpool township
+42|099|47968|Marysville|Marysville borough
+42|099|49632|Miller|Miller township
+42|099|49720|Millerstown|Millerstown borough
+42|099|53320|New Buffalo|New Buffalo borough
+42|099|53968|Newport|Newport borough
+42|099|54968|Northeast Madison|Northeast Madison township
+42|099|56728|Oliver|Oliver township
+42|099|58856|Penn|Penn township
+42|099|66976|Rye|Rye township
+42|099|68032|Saville|Saville township
+42|099|72624|Southwest Madison|Southwest Madison township
+42|099|72848|Spring|Spring township
+42|099|76920|Toboyne|Toboyne township
+42|099|77960|Tuscarora|Tuscarora township
+42|099|78184|Tyrone|Tyrone township
+42|099|81640|Watts|Watts township
+42|099|84368|Wheatfield|Wheatfield township
+42|101|60000|Philadelphia|Philadelphia city
+42|103|07088|Blooming Grove|Blooming Grove township
+42|103|18704|Delaware|Delaware township
+42|103|19272|Dingman|Dingman township
+42|103|30976|Greene|Greene township
+42|103|40776|Lackawaxen|Lackawaxen township
+42|103|42512|Lehman|Lehman township
+42|103|48048|Matamoras|Matamoras borough
+42|103|49400|Milford|Milford borough
+42|103|49408|Milford|Milford township
+42|103|57728|Palmyra|Palmyra township
+42|103|62192|Porter|Porter township
+42|103|70496|Shohola|Shohola township
+42|103|82928|Westfall|Westfall township
+42|105|00108|Abbott|Abbott township
+42|105|00836|Allegany|Allegany township
+42|105|03576|Austin|Austin borough
+42|105|06432|Bingham|Bingham township
+42|105|13760|Clara|Clara township
+42|105|16448|Coudersport|Coudersport borough
+42|105|24184|Eulalia|Eulalia township
+42|105|28280|Galeton|Galeton borough
+42|105|28760|Genesee|Genesee township
+42|105|32848|Harrison|Harrison township
+42|105|33512|Hebron|Hebron township
+42|105|33568|Hector|Hector township
+42|105|35400|Homer|Homer township
+42|105|38920|Keating|Keating township
+42|105|57280|Oswayo|Oswayo borough
+42|105|57288|Oswayo|Oswayo township
+42|105|60200|Pike|Pike township
+42|105|61400|Pleasant Valley|Pleasant Valley township
+42|105|62072|Portage|Portage township
+42|105|66416|Roulette|Roulette township
+42|105|69736|Sharon|Sharon township
+42|105|70304|Shinglehouse|Shinglehouse borough
+42|105|74072|Stewardson|Stewardson township
+42|105|75224|Summit|Summit township
+42|105|75720|Sweden|Sweden township
+42|105|75952|Sylvania|Sylvania township
+42|105|78240|Ulysses|Ulysses borough
+42|105|78248|Ulysses|Ulysses township
+42|105|82568|West Branch|West Branch township
+42|105|84360|Wharton|Wharton township
+42|107|03264|Ashland|Ashland borough
+42|107|03488|Auburn|Auburn borough
+42|107|04352|Barry|Barry township
+42|107|07336|Blythe|Blythe township
+42|107|08200|Branch|Branch township
+42|107|10488|Butler|Butler township
+42|107|11608|Cass|Cass township
+42|107|14600|Coaldale|Coaldale borough
+42|107|17152|Cressona|Cressona borough
+42|107|18576|Deer Lake|Deer Lake borough
+42|107|18672|Delano|Delano township
+42|107|20880|East Brunswick|East Brunswick township
+42|107|21616|East Norwegian|East Norwegian township
+42|107|21952|East Union|East Union township
+42|107|22912|Eldred|Eldred township
+42|107|26944|Foster|Foster township
+42|107|27232|Frackville|Frackville borough
+42|107|27248|Frailey|Frailey township
+42|107|29088|Gilberton|Gilberton borough
+42|107|29264|Girardville|Girardville borough
+42|107|30128|Gordon|Gordon borough
+42|107|33584|Hegins|Hegins township
+42|107|36072|Hubley|Hubley township
+42|107|40096|Kline|Kline township
+42|107|41264|Landingville|Landingville borough
+42|107|45824|McAdoo|McAdoo borough
+42|107|46584|Mahanoy|Mahanoy township
+42|107|46592|Mahanoy City|Mahanoy City borough
+42|107|48448|Mechanicsville|Mechanicsville borough
+42|107|49048|Middleport|Middleport borough
+42|107|50088|Minersville|Minersville borough
+42|107|51488|Mount Carbon|Mount Carbon borough
+42|107|53376|New Castle|New Castle township
+42|107|53944|New Philadelphia|New Philadelphia borough
+42|107|54016|New Ringgold|New Ringgold borough
+42|107|55192|North Manheim|North Manheim township
+42|107|55472|North Union|North Union township
+42|107|55624|Norwegian|Norwegian township
+42|107|57184|Orwigsburg|Orwigsburg borough
+42|107|57752|Palo Alto|Palo Alto borough
+42|107|60456|Pine Grove|Pine Grove borough
+42|107|60464|Pine Grove|Pine Grove township
+42|107|62128|Port Carbon|Port Carbon borough
+42|107|62136|Port Clinton|Port Clinton borough
+42|107|62200|Porter|Porter township
+42|107|62432|Pottsville|Pottsville city
+42|107|64088|Reilly|Reilly township
+42|107|65000|Ringtown|Ringtown borough
+42|107|66760|Rush|Rush township
+42|107|66944|Ryan|Ryan township
+42|107|67224|St. Clair|St. Clair borough
+42|107|68304|Schuylkill|Schuylkill township
+42|107|68312|Schuylkill Haven|Schuylkill Haven borough
+42|107|70056|Shenandoah|Shenandoah borough
+42|107|72312|South Manheim|South Manheim township
+42|107|76032|Tamaqua|Tamaqua borough
+42|107|77184|Tower City|Tower City borough
+42|107|77392|Tremont|Tremont borough
+42|107|77400|Tremont|Tremont township
+42|107|78400|Union|Union township
+42|107|79120|Upper Mahantongo|Upper Mahantongo township
+42|107|80576|Walker|Walker township
+42|107|81312|Washington|Washington township
+42|107|81792|Wayne|Wayne township
+42|107|82632|West Brunswick|West Brunswick township
+42|107|83408|West Mahanoy|West Mahanoy township
+42|107|83792|West Penn|West Penn township
+42|109|00316|Adams|Adams township
+42|109|04736|Beaver|Beaver township
+42|109|04848|Beavertown|Beavertown borough
+42|109|12060|Center|Center township
+42|109|12672|Chapman|Chapman township
+42|109|27440|Franklin|Franklin township
+42|109|27696|Freeburg|Freeburg borough
+42|109|37448|Jackson|Jackson township
+42|109|45992|McClure|McClure borough
+42|109|48960|Middleburg|Middleburg borough
+42|109|49016|Middlecreek|Middlecreek township
+42|109|50488|Monroe|Monroe township
+42|109|58864|Penn|Penn township
+42|109|59504|Perry|Perry township
+42|109|69216|Selinsgrove|Selinsgrove borough
+42|109|69616|Shamokin Dam|Shamokin Dam borough
+42|109|72856|Spring|Spring township
+42|109|78408|Union|Union township
+42|109|81320|Washington|Washington township
+42|109|82464|West Beaver|West Beaver township
+42|109|83808|West Perry|West Perry township
+42|111|00396|Addison|Addison borough
+42|111|00404|Addison|Addison township
+42|111|00876|Allegheny|Allegheny township
+42|111|05648|Benson|Benson borough
+42|111|05776|Berlin|Berlin borough
+42|111|06640|Black|Black township
+42|111|07712|Boswell|Boswell borough
+42|111|09256|Brothersvalley|Brothersvalley township
+42|111|10808|Callimont|Callimont borough
+42|111|11624|Casselman|Casselman borough
+42|111|12296|Central City|Central City borough
+42|111|15568|Conemaugh|Conemaugh township
+42|111|15680|Confluence|Confluence borough
+42|111|23168|Elk Lick|Elk Lick township
+42|111|24680|Fairhope|Fairhope township
+42|111|28520|Garrett|Garrett borough
+42|111|31336|Greenville|Greenville township
+42|111|35608|Hooversville|Hooversville borough
+42|111|36888|Indian Lake|Indian Lake borough
+42|111|37920|Jefferson|Jefferson township
+42|111|38032|Jenner|Jenner township
+42|111|38048|Jennerstown|Jennerstown borough
+42|111|41568|Larimer|Larimer township
+42|111|43440|Lincoln|Lincoln township
+42|111|45136|Lower Turkeyfoot|Lower Turkeyfoot township
+42|111|48912|Meyersdale|Meyersdale borough
+42|111|49024|Middlecreek|Middlecreek township
+42|111|49416|Milford|Milford township
+42|111|53168|New Baltimore|New Baltimore borough
+42|111|53416|New Centerville|New Centerville borough
+42|111|54704|Northampton|Northampton township
+42|111|56352|Ogle|Ogle township
+42|111|57544|Paint|Paint borough
+42|111|57552|Paint|Paint township
+42|111|63144|Quemahoning|Quemahoning township
+42|111|65736|Rockwood|Rockwood borough
+42|111|67584|Salisbury|Salisbury borough
+42|111|69336|Seven Springs|Seven Springs borough
+42|111|69448|Shade|Shade township
+42|111|69680|Shanksville|Shanksville borough
+42|111|71776|Somerset|Somerset borough
+42|111|71784|Somerset|Somerset township
+42|111|71920|Southampton|Southampton township
+42|111|74440|Stonycreek|Stonycreek township
+42|111|74672|Stoystown|Stoystown borough
+42|111|75232|Summit|Summit township
+42|111|79336|Upper Turkeyfoot|Upper Turkeyfoot township
+42|111|79424|Ursina|Ursina borough
+42|111|82128|Wellersburg|Wellersburg borough
+42|111|85632|Windber|Windber borough
+42|113|13000|Cherry|Cherry township
+42|113|15208|Colley|Colley township
+42|113|18296|Davidson|Davidson township
+42|113|20528|Dushore|Dushore borough
+42|113|20648|Eagles Mere|Eagles Mere borough
+42|113|23144|Elkland|Elkland township
+42|113|26736|Forks|Forks township
+42|113|26760|Forksville|Forksville borough
+42|113|27096|Fox|Fox township
+42|113|34840|Hillsgrove|Hillsgrove township
+42|113|41512|Laporte|Laporte borough
+42|113|41520|Laporte|Laporte township
+42|113|70560|Shrewsbury|Shrewsbury township
+42|115|02712|Apolacon|Apolacon township
+42|115|02792|Ararat|Ararat township
+42|115|03496|Auburn|Auburn township
+42|115|08648|Bridgewater|Bridgewater township
+42|115|09128|Brooklyn|Brooklyn township
+42|115|13504|Choconut|Choconut township
+42|115|14224|Clifford|Clifford township
+42|115|19264|Dimock|Dimock township
+42|115|26560|Forest City|Forest City borough
+42|115|26648|Forest Lake|Forest Lake township
+42|115|27448|Franklin|Franklin township
+42|115|27968|Friendsville|Friendsville borough
+42|115|29024|Gibson|Gibson township
+42|115|30728|Great Bend|Great Bend borough
+42|115|30736|Great Bend|Great Bend township
+42|115|32080|Hallstead|Hallstead borough
+42|115|32568|Harford|Harford township
+42|115|32720|Harmony|Harmony township
+42|115|34096|Herrick|Herrick township
+42|115|35624|Hop Bottom|Hop Bottom borough
+42|115|37464|Jackson|Jackson township
+42|115|38168|Jessup|Jessup township
+42|115|41336|Lanesboro|Lanesboro borough
+42|115|41656|Lathrop|Lathrop township
+42|115|42760|Lenox|Lenox township
+42|115|43120|Liberty|Liberty township
+42|115|43928|Little Meadows|Little Meadows borough
+42|115|49152|Middletown|Middletown township
+42|115|50736|Montrose|Montrose borough
+42|115|53880|New Milford|New Milford borough
+42|115|53888|New Milford|New Milford township
+42|115|56008|Oakland|Oakland borough
+42|115|56016|Oakland|Oakland township
+42|115|66776|Rush|Rush township
+42|115|70776|Silver Lake|Silver Lake township
+42|115|73440|Springville|Springville township
+42|115|75568|Susquehanna Depot|Susquehanna Depot borough
+42|115|76496|Thompson|Thompson borough
+42|115|76504|Thompson|Thompson township
+42|115|78456|Union Dale|Union Dale borough
+42|117|07152|Bloss|Bloss township
+42|117|07160|Blossburg|Blossburg borough
+42|117|09072|Brookfield|Brookfield township
+42|117|12728|Charleston|Charleston township
+42|117|12880|Chatham|Chatham township
+42|117|14528|Clymer|Clymer township
+42|117|16680|Covington|Covington township
+42|117|18552|Deerfield|Deerfield township
+42|117|18760|Delmar|Delmar township
+42|117|20232|Duncan|Duncan township
+42|117|23056|Elk|Elk township
+42|117|23152|Elkland|Elkland borough
+42|117|25296|Farmington|Farmington township
+42|117|28264|Gaines|Gaines township
+42|117|32192|Hamilton|Hamilton township
+42|117|37472|Jackson|Jackson township
+42|117|40360|Knoxville|Knoxville borough
+42|117|41960|Lawrence|Lawrence township
+42|117|42016|Lawrenceville|Lawrenceville borough
+42|117|43128|Liberty|Liberty borough
+42|117|43136|Liberty|Liberty township
+42|117|47080|Mansfield|Mansfield borough
+42|117|48968|Middlebury|Middlebury township
+42|117|51096|Morris|Morris township
+42|117|52960|Nelson|Nelson township
+42|117|57224|Osceola|Osceola township
+42|117|62960|Putnam|Putnam township
+42|117|64624|Richmond|Richmond township
+42|117|66232|Roseville|Roseville borough
+42|117|66912|Rutland|Rutland township
+42|117|70344|Shippen|Shippen township
+42|117|75104|Sullivan|Sullivan township
+42|117|76808|Tioga|Tioga borough
+42|117|76824|Tioga|Tioga township
+42|117|78416|Union|Union township
+42|117|80936|Ward|Ward township
+42|117|82160|Wellsboro|Wellsboro borough
+42|117|82968|Westfield|Westfield borough
+42|117|82976|Westfield|Westfield township
+42|119|10016|Buffalo|Buffalo township
+42|119|20888|East Buffalo|East Buffalo township
+42|119|31480|Gregg|Gregg township
+42|119|32936|Hartleton|Hartleton borough
+42|119|32952|Hartley|Hartley township
+42|119|39136|Kelly|Kelly township
+42|119|42960|Lewis|Lewis township
+42|119|42976|Lewisburg|Lewisburg borough
+42|119|43368|Limestone|Limestone township
+42|119|49288|Mifflinburg|Mifflinburg borough
+42|119|53200|New Berlin|New Berlin borough
+42|119|78424|Union|Union township
+42|119|82640|West Buffalo|West Buffalo township
+42|119|84496|White Deer|White Deer township
+42|121|00884|Allegheny|Allegheny township
+42|121|04136|Barkeyville|Barkeyville borough
+42|121|11080|Canal|Canal township
+42|121|13136|Cherrytree|Cherrytree township
+42|121|14344|Clinton|Clinton township
+42|121|14376|Clintonville|Clintonville borough
+42|121|16080|Cooperstown|Cooperstown borough
+42|121|16232|Cornplanter|Cornplanter township
+42|121|16944|Cranberry|Cranberry township
+42|121|23568|Emlenton|Emlenton borough
+42|121|27456|Franklin|Franklin city
+42|121|27832|Frenchcreek|Frenchcreek township
+42|121|37200|Irwin|Irwin township
+42|121|37480|Jackson|Jackson township
+42|121|50048|Mineral|Mineral township
+42|121|56024|Oakland|Oakland township
+42|121|56456|Oil City|Oil City city
+42|121|56480|Oil Creek|Oil Creek township
+42|121|60472|Pinegrove|Pinegrove township
+42|121|61512|Pleasantville|Pleasantville borough
+42|121|61552|Plum|Plum township
+42|121|61936|Polk|Polk borough
+42|121|62544|President|President township
+42|121|64568|Richland|Richland township
+42|121|65560|Rockland|Rockland township
+42|121|66440|Rouseville|Rouseville borough
+42|121|67824|Sandycreek|Sandycreek township
+42|121|69016|Scrubgrass|Scrubgrass township
+42|121|75000|Sugarcreek|Sugarcreek borough
+42|121|79472|Utica|Utica borough
+42|121|80168|Victory|Victory township
+42|123|04608|Bear Lake|Bear Lake borough
+42|123|09024|Brokenstraw|Brokenstraw township
+42|123|13056|Cherry Grove|Cherry Grove township
+42|123|13776|Clarendon|Clarendon borough
+42|123|15408|Columbus|Columbus township
+42|123|15672|Conewango|Conewango township
+42|123|18560|Deerfield|Deerfield township
+42|123|22920|Eldred|Eldred township
+42|123|23064|Elk|Elk township
+42|123|25304|Farmington|Farmington township
+42|123|27736|Freehold|Freehold township
+42|123|29328|Glade|Glade township
+42|123|43372|Limestone|Limestone township
+42|123|48272|Mead|Mead township
+42|123|60480|Pine Grove|Pine Grove township
+42|123|61040|Pittsfield|Pittsfield township
+42|123|61208|Pleasant|Pleasant township
+42|123|69992|Sheffield|Sheffield township
+42|123|72600|Southwest|Southwest township
+42|123|72952|Spring Creek|Spring Creek township
+42|123|75024|Sugar Grove|Sugar Grove borough
+42|123|75032|Sugar Grove|Sugar Grove township
+42|123|76696|Tidioute|Tidioute borough
+42|123|77512|Triumph|Triumph township
+42|123|81000|Warren|Warren city
+42|123|81584|Watson|Watson township
+42|123|87224|Youngsville|Youngsville borough
+42|125|00988|Allenport|Allenport borough
+42|125|02384|Amwell|Amwell township
+42|125|04568|Beallsville|Beallsville borough
+42|125|05672|Bentleyville|Bentleyville borough
+42|125|06840|Blaine|Blaine township
+42|125|10032|Buffalo|Buffalo township
+42|125|10224|Burgettstown|Burgettstown borough
+42|125|10768|California|California borough
+42|125|11152|Canonsburg|Canonsburg borough
+42|125|11176|Canton|Canton township
+42|125|11424|Carroll|Carroll township
+42|125|11800|Cecil|Cecil township
+42|125|12224|Centerville|Centerville borough
+42|125|12704|Charleroi|Charleroi borough
+42|125|12848|Chartiers|Chartiers township
+42|125|14000|Claysville|Claysville borough
+42|125|14568|Coal Center|Coal Center borough
+42|125|14896|Cokeburg|Cokeburg borough
+42|125|17314|Cross Creek|Cross Creek township
+42|125|18496|Deemston|Deemston borough
+42|125|19464|Donegal|Donegal township
+42|125|19536|Donora|Donora borough
+42|125|20328|Dunlevy|Dunlevy borough
+42|125|20808|East Bethlehem|East Bethlehem township
+42|125|21144|East Finley|East Finley township
+42|125|22016|East Washington|East Washington borough
+42|125|22800|Elco|Elco borough
+42|125|23296|Ellsworth|Ellsworth borough
+42|125|25104|Fallowfield|Fallowfield township
+42|125|25944|Finleyville|Finleyville borough
+42|125|31082|Green Hills|Green Hills borough
+42|125|32440|Hanover|Hanover township
+42|125|35696|Hopewell|Hopewell township
+42|125|35896|Houston|Houston borough
+42|125|36800|Independence|Independence township
+42|125|37936|Jefferson|Jefferson township
+42|125|44512|Long Branch|Long Branch borough
+42|125|46072|McDonald|McDonald borough
+42|125|47400|Marianna|Marianna borough
+42|125|49240|Midway|Midway borough
+42|125|50408|Monongahela|Monongahela city
+42|125|51104|Morris|Morris township
+42|125|51864|Mount Pleasant|Mount Pleasant township
+42|125|53496|New Eagle|New Eagle borough
+42|125|54800|North Bethlehem|North Bethlehem township
+42|125|54888|North Charleroi|North Charleroi borough
+42|125|55040|North Franklin|North Franklin township
+42|125|55432|North Strabane|North Strabane township
+42|125|55712|Nottingham|Nottingham township
+42|125|59608|Peters|Peters township
+42|125|65376|Robinson|Robinson township
+42|125|66016|Roscoe|Roscoe borough
+42|125|71288|Smith|Smith township
+42|125|71792|Somerset|Somerset township
+42|125|72176|South Franklin|South Franklin township
+42|125|72504|South Strabane|South Strabane township
+42|125|72736|Speers|Speers borough
+42|125|74224|Stockdale|Stockdale borough
+42|125|78008|Twilight|Twilight borough
+42|125|78432|Union|Union township
+42|125|81328|Washington|Washington city
+42|125|82512|West Bethlehem|West Bethlehem township
+42|125|82616|West Brownsville|West Brownsville borough
+42|125|83000|West Finley|West Finley township
+42|125|83504|West Middletown|West Middletown borough
+42|125|83840|West Pike Run|West Pike Run township
+42|127|05784|Berlin|Berlin township
+42|127|05976|Bethany|Bethany borough
+42|127|09824|Buckingham|Buckingham township
+42|127|11056|Canaan|Canaan township
+42|127|13096|Cherry Ridge|Cherry Ridge township
+42|127|14352|Clinton|Clinton township
+42|127|18104|Damascus|Damascus township
+42|127|19864|Dreher|Dreher township
+42|127|20576|Dyberry|Dyberry township
+42|127|33200|Hawley|Hawley borough
+42|127|35520|Honesdale|Honesdale borough
+42|127|40936|Lake|Lake township
+42|127|42176|Lebanon|Lebanon township
+42|127|42432|Lehigh|Lehigh township
+42|127|46856|Manchester|Manchester township
+42|127|51872|Mount Pleasant|Mount Pleasant township
+42|127|57000|Oregon|Oregon township
+42|127|57736|Palmyra|Palmyra township
+42|127|58480|Paupack|Paupack township
+42|127|62600|Preston|Preston township
+42|127|62744|Prompton|Prompton borough
+42|127|67488|Salem|Salem township
+42|127|68416|Scott|Scott township
+42|127|72024|South Canaan|South Canaan township
+42|127|73784|Starrucca|Starrucca borough
+42|127|73968|Sterling|Sterling township
+42|127|76424|Texas|Texas township
+42|127|81712|Waymart|Waymart borough
+42|129|00332|Adamsburg|Adamsburg borough
+42|129|00892|Allegheny|Allegheny township
+42|129|03088|Arnold|Arnold city
+42|129|03120|Arona|Arona borough
+42|129|03688|Avonmore|Avonmore borough
+42|129|05208|Bell|Bell township
+42|129|07480|Bolivar|Bolivar borough
+42|129|15912|Cook|Cook township
+42|129|18768|Delmont|Delmont borough
+42|129|18960|Derry|Derry borough
+42|129|18968|Derry|Derry township
+42|129|19472|Donegal|Donegal borough
+42|129|19480|Donegal|Donegal township
+42|129|21304|East Huntingdon|East Huntingdon township
+42|129|21976|East Vandergrift|East Vandergrift borough
+42|129|24432|Export|Export borough
+42|129|24608|Fairfield|Fairfield township
+42|129|31200|Greensburg|Greensburg city
+42|129|33792|Hempfield|Hempfield township
+42|129|36288|Hunker|Hunker borough
+42|129|36592|Hyde Park|Hyde Park borough
+42|129|37208|Irwin|Irwin borough
+42|129|37784|Jeannette|Jeannette city
+42|129|41680|Latrobe|Latrobe borough
+42|129|41834|Laurel Mountain|Laurel Mountain borough
+42|129|43232|Ligonier|Ligonier borough
+42|129|43240|Ligonier|Ligonier township
+42|129|44864|Lower Burrell|Lower Burrell city
+42|129|45200|Loyalhanna|Loyalhanna township
+42|129|46488|Madison|Madison borough
+42|129|47000|Manor|Manor borough
+42|129|50344|Monessen|Monessen city
+42|129|51880|Mount Pleasant|Mount Pleasant borough
+42|129|51888|Mount Pleasant|Mount Pleasant township
+42|129|52432|Murrysville|Murrysville municipality
+42|129|53160|New Alexandria|New Alexandria borough
+42|129|53544|New Florence|New Florence borough
+42|129|53736|New Kensington|New Kensington city
+42|129|54104|New Stanton|New Stanton borough
+42|129|54776|North Belle Vernon|North Belle Vernon borough
+42|129|55128|North Huntingdon|North Huntingdon township
+42|129|55136|North Irwin|North Irwin borough
+42|129|56496|Oklahoma|Oklahoma borough
+42|129|58872|Penn|Penn borough
+42|129|58880|Penn|Penn township
+42|129|66376|Rostraver|Rostraver township
+42|129|67240|St. Clair|St. Clair township
+42|129|67496|Salem|Salem township
+42|129|68432|Scottdale|Scottdale borough
+42|129|69368|Seward|Seward borough
+42|129|69392|Sewickley|Sewickley township
+42|129|71424|Smithton|Smithton borough
+42|129|72192|South Greensburg|South Greensburg borough
+42|129|72256|South Huntingdon|South Huntingdon township
+42|129|72616|Southwest Greensburg|Southwest Greensburg borough
+42|129|75584|Sutersville|Sutersville borough
+42|129|77272|Trafford|Trafford borough
+42|129|78656|Unity|Unity township
+42|129|78768|Upper Burrell|Upper Burrell township
+42|129|79776|Vandergrift|Vandergrift borough
+42|129|81336|Washington|Washington township
+42|129|83328|West Leechburg|West Leechburg borough
+42|129|83680|West Newton|West Newton borough
+42|129|87208|Youngstown|Youngstown borough
+42|129|87232|Youngwood|Youngwood borough
+42|131|08176|Braintrim|Braintrim township
+42|131|14360|Clinton|Clinton township
+42|131|22112|Eaton|Eaton township
+42|131|24408|Exeter|Exeter township
+42|131|24488|Factoryville|Factoryville borough
+42|131|25128|Falls|Falls township
+42|131|26752|Forkston|Forkston township
+42|131|40744|Laceyville|Laceyville borough
+42|131|42616|Lemon|Lemon township
+42|131|48528|Mehoopany|Mehoopany township
+42|131|48856|Meshoppen|Meshoppen borough
+42|131|48864|Meshoppen|Meshoppen township
+42|131|50496|Monroe|Monroe township
+42|131|54400|Nicholson|Nicholson borough
+42|131|54408|Nicholson|Nicholson township
+42|131|54824|North Branch|North Branch township
+42|131|55232|Northmoreland|Northmoreland township
+42|131|55736|Noxen|Noxen township
+42|131|57408|Overfield|Overfield township
+42|131|77784|Tunkhannock|Tunkhannock borough
+42|131|77792|Tunkhannock|Tunkhannock township
+42|131|81344|Washington|Washington township
+42|131|85680|Windham|Windham township
+42|133|11432|Carroll|Carroll township
+42|133|12584|Chanceford|Chanceford township
+42|133|14832|Codorus|Codorus township
+42|133|15656|Conewago|Conewago township
+42|133|17416|Cross Roads|Cross Roads borough
+42|133|18072|Dallastown|Dallastown borough
+42|133|18800|Delta|Delta borough
+42|133|19208|Dillsburg|Dillsburg borough
+42|133|19696|Dover|Dover borough
+42|133|19704|Dover|Dover township
+42|133|21296|East Hopewell|East Hopewell township
+42|133|21464|East Manchester|East Manchester township
+42|133|21728|East Prospect|East Prospect borough
+42|133|24936|Fairview|Fairview township
+42|133|25408|Fawn|Fawn township
+42|133|25416|Fawn Grove|Fawn Grove borough
+42|133|25584|Felton|Felton borough
+42|133|27480|Franklin|Franklin township
+42|133|27576|Franklintown|Franklintown borough
+42|133|29760|Glen Rock|Glen Rock borough
+42|133|30016|Goldsboro|Goldsboro borough
+42|133|32056|Hallam|Hallam borough
+42|133|32448|Hanover|Hanover borough
+42|133|33624|Heidelberg|Heidelberg township
+42|133|33728|Hellam|Hellam township
+42|133|35704|Hopewell|Hopewell township
+42|133|37488|Jackson|Jackson township
+42|133|37640|Jacobus|Jacobus borough
+42|133|37944|Jefferson|Jefferson borough
+42|133|42968|Lewisberry|Lewisberry borough
+42|133|44416|Loganville|Loganville borough
+42|133|44872|Lower Chanceford|Lower Chanceford township
+42|133|45152|Lower Windsor|Lower Windsor township
+42|133|46864|Manchester|Manchester borough
+42|133|46872|Manchester|Manchester township
+42|133|46904|Manheim|Manheim township
+42|133|50328|Monaghan|Monaghan township
+42|133|52056|Mount Wolf|Mount Wolf borough
+42|133|53224|Newberry|Newberry township
+42|133|53568|New Freedom|New Freedom borough
+42|133|54056|New Salem|New Salem borough
+42|133|54904|North Codorus|North Codorus township
+42|133|55112|North Hopewell|North Hopewell township
+42|133|55608|North York|North York borough
+42|133|57872|Paradise|Paradise township
+42|133|58560|Peach Bottom|Peach Bottom township
+42|133|58888|Penn|Penn township
+42|133|63288|Railroad|Railroad borough
+42|133|63840|Red Lion|Red Lion borough
+42|133|69360|Seven Valleys|Seven Valleys borough
+42|133|70568|Shrewsbury|Shrewsbury borough
+42|133|70576|Shrewsbury|Shrewsbury township
+42|133|72992|Springettsbury|Springettsbury township
+42|133|73096|Springfield|Springfield township
+42|133|73168|Spring Garden|Spring Garden township
+42|133|73192|Spring Grove|Spring Grove borough
+42|133|74104|Stewartstown|Stewartstown borough
+42|133|81056|Warrington|Warrington township
+42|133|81352|Washington|Washington township
+42|133|82200|Wellsville|Wellsville borough
+42|133|83432|West Manchester|West Manchester township
+42|133|83440|West Manheim|West Manheim township
+42|133|84288|West York|West York borough
+42|133|85728|Windsor|Windsor borough
+42|133|85736|Windsor|Windsor township
+42|133|85872|Winterstown|Winterstown borough
+42|133|86640|Wrightsville|Wrightsville borough
+42|133|87040|Yoe|Yoe borough
+42|133|87048|York|York city
+42|133|87056|York|York township
+42|133|87064|Yorkana|Yorkana borough
+42|133|87080|York Haven|York Haven borough

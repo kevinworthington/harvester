@@ -1,0 +1,786 @@
+STATEFP|COUNTYFP|DISTRICT|NAME|NAMELSAD
+46|003|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|003|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|003|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|003|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|003|0VTD-7|VTD-precinct 7|VTD-precinct 7
+46|005|0VTD-1|VTD-Huron W01 (part of precinct 2)|VTD-Huron W01 (part of precinct 2)
+46|005|VTD-01|VTD-precinct 01|VTD-precinct 01
+46|005|VTD-02|VTD-precinct 02|VTD-precinct 02
+46|005|VTD-04|VTD-precinct 04|VTD-precinct 04
+46|005|VTD-05|VTD-precinct 05|VTD-precinct 05
+46|005|VTD-W2|VTD- Huron W02 (part of precinct 4)|VTD- Huron W02 (part of precinct 4)
+46|005|VTD-W3|VTD-Huron W03 (part of precinct 3)|VTD-Huron W03 (part of precinct 3)
+46|005|VTDW01|VTD-Huron W01 (part of precinct 4)|VTD-Huron W01 (part of precinct 4)
+46|005|VTDW71|VTD-Huron W7-1 (part of precinct 1)|VTD-Huron W7-1 (part of precinct 1)
+46|005|VTDW72|VTD-Huron W7-2 (part of precinct 5)|VTD-Huron W7-2 (part of precinct 5)
+46|005|VTDW81|VTD-Huron W8-1 (part of precinct 3)|VTD-Huron W8-1 (part of precinct 3)
+46|005|VTDW82|VTD-Huron W8-2 (part of precinct 5)|VTD-Huron W8-2 (part of precinct 5)
+46|007|0VTD-1|VTD - Allen|VTD - Allen
+46|007|0VTD-4|VTD - Vetal- Tuthill|VTD - Vetal- Tuthill
+46|007|VTD-02|VTD - Martin Ward 2 Part of Martin City precinct|VTD - Martin Ward 2 Part of Martin City precinct
+46|007|VTD-05|VTD - Martin Ward 1 Part of Martin City precinct|VTD - Martin Ward 1 Part of Martin City precinct
+46|007|VTD-06|VTD - Martin Ward 3 Part of Martin City precinct|VTD - Martin Ward 3 Part of Martin City precinct
+46|007|VTD-27|VTD - Martin Rural 26/27|VTD - Martin Rural 26/27
+46|009|0VTD-1|VTD-Scotland precinct 1|VTD-Scotland precinct 1
+46|009|0VTD-2|VTD-Avon precinct 2|VTD-Avon precinct 2
+46|009|0VTD-3|VTD-Tyndall precinct 3|VTD-Tyndall precinct 3
+46|009|0VTD-4|VTD-Tabor precinct 4|VTD-Tabor precinct 4
+46|009|0VTD-5|VTD-Springfield precinct 5|VTD-Springfield precinct 5
+46|011|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|011|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|011|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|011|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|011|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|011|0VTD-6|VTD-precinct 6|VTD-precinct 6
+46|011|0VTD-8|VTD-precinct 8|VTD-precinct 8
+46|011|0VTD-9|VTD-precinct 9|VTD-precinct 9
+46|011|VTD-10|VTD-precinct 10|VTD-precinct 10
+46|011|VTD-11|VTD-precinct 11|VTD-precinct 11
+46|011|VTD-12|VTD-precinct 12|VTD-precinct 12
+46|011|VTD-13|VTD-precinct 13|VTD-precinct 13
+46|011|VTD-14|VTD-precinct 14|VTD-precinct 14
+46|011|VTD-15|VTD-precinct 15|VTD-precinct 15
+46|011|VTD-16|VTD-precinct 16|VTD-precinct 16
+46|013|0VTD-1|VTD-precinct 1 Aberdeen|VTD-precinct 1 Aberdeen
+46|013|0VTD-2|VTD-precinct 2 Aberdeen|VTD-precinct 2 Aberdeen
+46|013|0VTD-3|VTD-precinct 3 Aberdeen|VTD-precinct 3 Aberdeen
+46|013|0VTD-4|VTD-precinct 4 Aberdeen|VTD-precinct 4 Aberdeen
+46|013|0VTD-5|VTD-precinct 5 Aberdeen|VTD-precinct 5 Aberdeen
+46|013|0VTD-6|VTD-precinct 6 Aberdeen|VTD-precinct 6 Aberdeen
+46|013|0VTD-7|VTD-precinct 7 Aberdeen|VTD-precinct 7 Aberdeen
+46|013|0VTD-8|VTD-precinct 8 Aberdeen|VTD-precinct 8 Aberdeen
+46|013|0VTD-9|VTD-precinct 9 Aberdeen|VTD-precinct 9 Aberdeen
+46|013|VTD-10|VTD-precinct 10 Aberdeen|VTD-precinct 10 Aberdeen
+46|013|VTD-11|VTD-precinct 11 Aberdeen|VTD-precinct 11 Aberdeen
+46|013|VTD-12|VTD-precinct 12 EAberdeen|VTD-precinct 12 EAberdeen
+46|013|VTD-13|VTD-precinct 13 Shlby--Clmbia-Cmbria-OrdwyTwp-ClmbiaCity|VTD-precinct 13 Shlby--Clmbia-Cmbria-OrdwyTwp-ClmbiaCity
+46|013|VTD-14|VTD-precinct 14 Oneota-Brnrd-Wstprt-GrlndTwp-WestprtCty|VTD-precinct 14 Oneota-Brnrd-Wstprt-GrlndTwp-WestprtCty
+46|013|VTD-15|VTD-precinct 15 Franklin-Carlisle-Ravinia-Mercier-LincolnTwp|VTD-precinct 15 Franklin-Carlisle-Ravinia-Mercier-LincolnTwp
+46|013|VTD-16|VTD-precinct 16 WAberdeenTwp|VTD-precinct 16 WAberdeenTwp
+46|013|VTD-17|VTD-precinct 17 Highland-NewHope-WarnerTwp-Warner|VTD-precinct 17 Highland-NewHope-WarnerTwp-Warner
+46|013|VTD-18|VTD-precinct 18 Gem-WRondell-ERondellTwp-Stratford|VTD-precinct 18 Gem-WRondell-ERondellTwp-Stratford
+46|013|VTD-19|VTD-precinct 19|VTD-precinct 19
+46|013|VTD-20|VTD-precinct 20 SDetroit-ClaremontTwp-ClaremontCity|VTD-precinct 20 SDetroit-ClaremontTwp-ClaremontCity
+46|013|VTD-21|VTD-precinct 21 Lbrt-Hcla-Prt-Grnld-Lnsg-Nth-DtrtTwp-HclCy|VTD-precinct 21 Lbrt-Hcla-Prt-Grnld-Lnsg-Nth-DtrtTwp-HclCy
+46|013|VTD-22|VTD-precinct 22 Plmr-Ocla-Savo-Alsn-Frdrck-RchdTwp-FrdrCy|VTD-precinct 22 Plmr-Ocla-Savo-Alsn-Frdrck-RchdTwp-FrdrCy
+46|015|0VTD-2|VTD precinct 5|VTD precinct 5
+46|015|0VTD-3|VTD precinct 1|VTD precinct 1
+46|015|0VTD-5|VTD precinct 3|VTD precinct 3
+46|015|VTD-D2|VTD-Chamberlain district 2|VTD-Chamberlain district 2
+46|015|VTD-D3|VTD-Chamberlain district 3|VTD-Chamberlain district 3
+46|015|VTD-D4|VTD-Chamberlain district 4|VTD-Chamberlain district 4
+46|017|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|017|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|017|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|019|0VTD-6|VTD - Precinct 6|VTD - Precinct 6
+46|019|0VTD-8|VTD - Precinct 8|VTD - Precinct 8
+46|019|VTD-11|VTD - Precinct 11|VTD - Precinct 11
+46|019|VTD-12|VTD - Precinct 12|VTD - Precinct 12
+46|019|VTD-13|VTD - Precinct 13|VTD - Precinct 13
+46|019|VTD-14|VTD - Precinct 14|VTD - Precinct 14
+46|019|VTD-16|VTD - Precinct 16|VTD - Precinct 16
+46|019|VTD-17|VTD - Precinct 17|VTD - Precinct 17
+46|019|VTD-18|VTD - Precinct 18|VTD - Precinct 18
+46|019|VTD-20|VTD - Precinct 20|VTD - Precinct 20
+46|019|VTD-21|VTD - Precinct 21|VTD - Precinct 21
+46|019|VTD-22|VTD - Precinct 22|VTD - Precinct 22
+46|019|VTD-23|VTD - Precinct 23|VTD - Precinct 23
+46|019|VTD-24|VTD - Precinct 24|VTD - Precinct 24
+46|019|VTD-25|VTD - Precinct 25|VTD - Precinct 25
+46|019|VTD-26|VTD - Precinct 26|VTD - Precinct 26
+46|019|VTD-27|VTD - Precinct 27|VTD - Precinct 27
+46|019|VTD-28|VTD - Precinct 28|VTD - Precinct 28
+46|021|0VTD-1|VTD-precinct 1 Herreid City|VTD-precinct 1 Herreid City
+46|021|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|021|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|021|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|021|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|023|0VTD-1|VTD precinct 1|VTD precinct 1
+46|023|0VTD-2|VTD precinct 2|VTD precinct 2
+46|023|0VTD-4|VTD precinct 4|VTD precinct 4
+46|023|0VTD-5|VTD precinct 5|VTD precinct 5
+46|023|0VTD-7|VTD-precinct 7-Pickstown|VTD-precinct 7-Pickstown
+46|023|0VTD-8|VTD precinct 8|VTD precinct 8
+46|023|0VTD-9|VTD precinct 9|VTD precinct 9
+46|023|0VTD6B|VTD Lake Andes precinct 6 ward 2(b)|VTD Lake Andes precinct 6 ward 2(b)
+46|023|VTD-10|VTD precinct 10|VTD precinct 10
+46|023|VTD-13|VTD-precinct 13|VTD-precinct 13
+46|023|VTD-3a|VTD-Wagner precinct 3 ward 1 (a)|VTD-Wagner precinct 3 ward 1 (a)
+46|023|VTD-3b|VTD-Wagner precinct 3 ward 2 (b)|VTD-Wagner precinct 3 ward 2 (b)
+46|023|VTD-3c|VTD-Wagner precinct 3 ward 3 (c)|VTD-Wagner precinct 3 ward 3 (c)
+46|023|VTD-6a|VTD-Lake Andes precinct 6 ward 1 (a)|VTD-Lake Andes precinct 6 ward 1 (a)
+46|023|VTD-6c|VTD-Lake Andes precinct 6 ward 3 (c)|VTD-Lake Andes precinct 6 ward 3 (c)
+46|023|VTD11a|VTD-Platte precinct 11 Ward 1 (a)|VTD-Platte precinct 11 Ward 1 (a)
+46|023|VTD11b|VTD-Platte precinct 11 ward 2 (b)|VTD-Platte precinct 11 ward 2 (b)
+46|023|VTD11c|VTD-Platte precinct 11 ward 3 (c)|VTD-Platte precinct 11 ward 3 (c)
+46|023|VTD12a|VTD-Geddes precinct 12 ward 1 (a)|VTD-Geddes precinct 12 ward 1 (a)
+46|023|VTD12b|VTD-Geddes precinct 12 ward 2 (b)|VTD-Geddes precinct 12 ward 2 (b)
+46|023|VTD12c|VTD-Geddes precinct 12 ward 3 (c)|VTD-Geddes precinct 12 ward 3 (c)
+46|025|00VTD1|VTD-precinct 1|VTD-precinct 1
+46|025|00VTD2|VTD-precinct 2|VTD-precinct 2
+46|025|00VTD3|VTD-precinct 3|VTD-precinct 3
+46|025|00VTD5|VTD-precinct 5|VTD-precinct 5
+46|025|VTD-W3|VTD-Clark city ward 3 (part of precinct 3)|VTD-Clark city ward 3 (part of precinct 3)
+46|025|VTD4-1|VTD - Clark city ward 1(part of precinct 4)|VTD - Clark city ward 1(part of precinct 4)
+46|025|VTD4-2|VTD-Clark city ward 2 (part of precinct 4)|VTD-Clark city ward 2 (part of precinct 4)
+46|027|VTD-C1|VTD-Vermillion precinct Central - C1|VTD-Vermillion precinct Central - C1
+46|027|VTD-C2|VTD-Vermillion precinct Central - C2|VTD-Vermillion precinct Central - C2
+46|027|VTD-W1|VTD-precinct W01|VTD-precinct W01
+46|027|VTD-W2|VTD-precinct W02|VTD-precinct W02
+46|027|VTD-W3|VTD-precinct W03|VTD-precinct W03
+46|027|VTDNE1|VTD-Vermillion precinct Northeast - NE1|VTD-Vermillion precinct Northeast - NE1
+46|027|VTDNE2|VTD-Vermillion precinct Northeast - NE2|VTD-Vermillion precinct Northeast - NE2
+46|027|VTDNW1|VTD-Vermillion precinct Northwest - NW1|VTD-Vermillion precinct Northwest - NW1
+46|027|VTDNW2|VTD-Vermillion precinct Northwest - NW2|VTD-Vermillion precinct Northwest - NW2
+46|027|VTDSE1|VTD-Vermillion precinct Southeast - SE-1|VTD-Vermillion precinct Southeast - SE-1
+46|027|VTDSE2|VTD-Vermillion precinct Southeast - SE-2|VTD-Vermillion precinct Southeast - SE-2
+46|029|0VTD-2|VTD Voting District 2|VTD Voting District 2
+46|029|0VTD-3|VTD Voting District 3|VTD Voting District 3
+46|029|0VTD-5|VTD Voting District 5|VTD Voting District 5
+46|029|VTD-A1|VTD-Watertown ward A1 (part of Voting District 4)|VTD-Watertown ward A1 (part of Voting District 4)
+46|029|VTD-A2|VTD-Watertown ward A2 (part of Voting District 4)|VTD-Watertown ward A2 (part of Voting District 4)
+46|029|VTD-A3|VTD-Watertown ward A3 (part of Voting District 4)|VTD-Watertown ward A3 (part of Voting District 4)
+46|029|VTD-A4|VTD-Watertown ward A4 (part of Voting District 4)|VTD-Watertown ward A4 (part of Voting District 4)
+46|029|VTD-B1|VTD-Watertown ward B1 (part of Voting District 1)|VTD-Watertown ward B1 (part of Voting District 1)
+46|029|VTD-B2|VTD-Watertown ward B2 (part of Voting District 1)|VTD-Watertown ward B2 (part of Voting District 1)
+46|029|VTD-B3|VTD-Watertown ward B3 (part of Voting District 1)|VTD-Watertown ward B3 (part of Voting District 1)
+46|029|VTD-B4|VTD-Watertown ward B4 (part of Voting District 1)|VTD-Watertown ward B4 (part of Voting District 1)
+46|029|VTD-C1|VTD-Watertown ward C1 (part of Voting District 1)|VTD-Watertown ward C1 (part of Voting District 1)
+46|029|VTD-C2|VTD-Watertown ward C2 (part of Voting District 5)|VTD-Watertown ward C2 (part of Voting District 5)
+46|029|VTD-C3|VTD-Watertown ward C3 (part of Voting District 2)|VTD-Watertown ward C3 (part of Voting District 2)
+46|029|VTD-C4|VTD-Watertown ward C4 (part of Voting District 2)|VTD-Watertown ward C4 (part of Voting District 2)
+46|029|VTD-D1|VTD-Watertown ward D1 (part of Voting District 4)|VTD-Watertown ward D1 (part of Voting District 4)
+46|029|VTD-D2|VTD-Watertown ward D2 (part of Voting District 5)|VTD-Watertown ward D2 (part of Voting District 5)
+46|029|VTD-D3|VTD-Watertown ward D3 (part of Voting District 5)|VTD-Watertown ward D3 (part of Voting District 5)
+46|029|VTD-D4|VTD-Watertown ward D4 (part of Voting District 5)|VTD-Watertown ward D4 (part of Voting District 5)
+46|029|VTD-E1|VTD-Watertown ward E1 (part of Voting District 3)|VTD-Watertown ward E1 (part of Voting District 3)
+46|029|VTD-E2|VTD-Watertown ward E2 (part of Voting District 3)|VTD-Watertown ward E2 (part of Voting District 3)
+46|029|VTD-E3|VTD-Watertown ward E3 (part of Voting District 3)|VTD-Watertown ward E3 (part of Voting District 3)
+46|029|VTD-E4|VTD-Watertown ward E4 (part of Voting District 3)|VTD-Watertown ward E4 (part of Voting District 3)
+46|029|VTD-E5|VTD-Watertown ward E5 (part of Voting District 1)|VTD-Watertown ward E5 (part of Voting District 1)
+46|031|VTD-AR|VTD-precinct South McIntosh|VTD-precinct South McIntosh
+46|031|VTD-BH|VTD-precinct Bullhead|VTD-precinct Bullhead
+46|031|VTD-BU|VTD-precinct Oak Creek|VTD-precinct Oak Creek
+46|031|VTD-CD|VTD-precinct West Rural McLaughlin|VTD-precinct West Rural McLaughlin
+46|031|VTD-GV|VTD-precinct Grand Valley|VTD-precinct Grand Valley
+46|031|VTD-KN|VTD-precinct Kenel|VTD-precinct Kenel
+46|031|VTD-LC|VTD-precinct Lincoln|VTD-precinct Lincoln
+46|031|VTD-LE|VTD-precinct Little Eagle|VTD-precinct Little Eagle
+46|031|VTD-LO|VTD-precinct Stone Church|VTD-precinct Stone Church
+46|031|VTD-MI|VTD-precinct McIntosh|VTD-precinct McIntosh
+46|031|VTD-MT|VTD-precinct Morristown|VTD-precinct Morristown
+46|031|VTD-RL|VTD-precinct Ridgeland|VTD-precinct Ridgeland
+46|031|VTD-SM|VTD-precinct South McLaughlin City|VTD-precinct South McLaughlin City
+46|031|VTD-WK|VTD-precinct Wakpala|VTD-precinct Wakpala
+46|033|VTD-BG|BUFFALO GAP #3|BUFFALO GAP #3
+46|033|VTD-BR|BEAR ROCK #9|BEAR ROCK #9
+46|033|VTD-EM|ELK MOUNTAIN #10|ELK MOUNTAIN #10
+46|033|VTD-FB|FAIRBURN #2|FAIRBURN #2
+46|033|VTD-HE|HERMOSA #1|HERMOSA #1
+46|033|VTD-PR|PRINGLE #4|PRINGLE #4
+46|033|VTD-SD|SENTINEL HILL #5|SENTINEL HILL #5
+46|033|VTD6-1|Custer City #6 Ward I|Custer City #6 Ward I
+46|033|VTD7-1|Custer City #7 Ward II|Custer City #7 Ward II
+46|033|VTD8-1|Custer City #8 Ward III|Custer City #8 Ward III
+46|033|VTD8-2|Custer City #8 Ward III|Custer City #8 Ward III
+46|035|0000C4|VTD - county precinct 4|VTD - county precinct 4
+46|035|0VT-14|VTD - mitchell precinct 14|VTD - mitchell precinct 14
+46|035|0VTD10|VTD - mitchell precinct 10|VTD - mitchell precinct 10
+46|035|0VTD11|VTD - mitchell precinct 11|VTD - mitchell precinct 11
+46|035|0VTD12|VTD - mitchell precinct 12|VTD - mitchell precinct 12
+46|035|0VTD13|VTD - mitchell precinct 13|VTD - mitchell precinct 13
+46|035|0VTD15|VTD - mitchell precinct 15|VTD - mitchell precinct 15
+46|035|0VTD16|VTD - mitchell precinct 16|VTD - mitchell precinct 16
+46|035|0VTD17|VTD - mitchell precinct 17|VTD - mitchell precinct 17
+46|035|0VTD18|VTD - mitchell precinct 18|VTD - mitchell precinct 18
+46|035|0VTD19|VTD - mitchell precinct 19|VTD - mitchell precinct 19
+46|035|VTD-06|VTD - mitchell precinct 06|VTD - mitchell precinct 06
+46|035|VTD-07|VTD - mitchell precinct 07|VTD - mitchell precinct 07
+46|035|VTD-08|VTD - mitchell precinct 08|VTD - mitchell precinct 08
+46|035|VTD-09|VTD - mitchell precinct 09|VTD - mitchell precinct 09
+46|035|VTD-20|VTD - mitchell precinct 20|VTD - mitchell precinct 20
+46|035|VTD-C1|VTD - county precinct 1- Rome & Tobin twnships & Ethan town|VTD - county precinct 1- Rome & Tobin twnships & Ethan town
+46|035|VTD-C2|VTD - county precinct 2 - Baker, Union, Mt Vernon Twnships & Mt Vernon city|VTD - county precinct 2 - Baker, Union, Mt Vernon Twnships & Mt Vernon city
+46|035|VTD-C3|VTD - county precinct 3 - Beulah, Lisbon, Prosper & S 1/2 of Mitchell twnships|VTD - county precinct 3 - Beulah, Lisbon, Prosper & S 1/2 of Mitchell twnships
+46|035|VTD-C5|VTD - county precinct 5- Badger, Perry & N 1/2 of Mitchell twnships|VTD - county precinct 5- Badger, Perry & N 1/2 of Mitchell twnships
+46|037|0VTD-5|VTD-precinct 5 Waubay wards 1 & 2, Central Point-Egeland Twnshps|VTD-precinct 5 Waubay wards 1 & 2, Central Point-Egeland Twnshps
+46|037|0VTD-6|VTD-precinct 6 Waubay City Ward 3 and WaubayTwp|VTD-precinct 6 Waubay City Ward 3 and WaubayTwp
+46|037|VTD-AT|VTD- precinct AT- AndoverTown&Twp|VTD- precinct AT- AndoverTown&Twp
+46|037|VTD-BR|VTD-precinct BR- BristolCity-Bristo-KidderTwp|VTD-precinct BR- BristolCity-Bristo-KidderTwp
+46|037|VTD-BW|VTD-precinct BW- Webster-RacineTwp|VTD-precinct BW- Webster-RacineTwp
+46|037|VTD-FP|VTD-precinct FP Frm-Hmer-Ind-Unin-Lyn-PirpotTown|VTD-precinct FP Frm-Hmer-Ind-Unin-Lyn-PirpotTown
+46|037|VTD-GK|VTD-precinct GK-GrenvilleTown-Gren-KosciuskoTwp|VTD-precinct GK-GrenvilleTown-Gren-KosciuskoTwp
+46|037|VTD-LT|VTD-precinct LT Sld-OG-Vy-Ty-Blr-Yk-Btltn-LilyTwn|VTD-precinct LT Sld-OG-Vy-Ty-Blr-Yk-Btltn-LilyTwn
+46|037|VTD-RR|VTD-precinct RR- Raritan-Liberty-Nutley-RoslynTwn|VTD-precinct RR- Raritan-Liberty-Nutley-RoslynTwn
+46|037|VTD-RW|VTD-precinct RWRusk-Morton-Wheatland-Highland voting district|VTD-precinct RWRusk-Morton-Wheatland-Highland voting district
+46|037|VTD1w1|VTD-precinct 1 webster city ward 1|VTD-precinct 1 webster city ward 1
+46|037|VTD2W3|VTD-precinct 2 Webster-ward 3|VTD-precinct 2 Webster-ward 3
+46|037|VTD2w2|VTD-precinct 2 Webster ward 2|VTD-precinct 2 Webster ward 2
+46|037|VTD3W3|VTD-precinct 3 Webster-ward 3|VTD-precinct 3 Webster-ward 3
+46|037|VTD4W1|VTD-precinct 4 Webster ward 1|VTD-precinct 4 Webster ward 1
+46|037|VTD5W1|VTD - waubay ward 1 (part of precinct 5)|VTD - waubay ward 1 (part of precinct 5)
+46|037|VTD5W2|VTD - waubay city ward 2 (part of precinct 5)|VTD - waubay city ward 2 (part of precinct 5)
+46|037|VTD6W3|VTD- Waubay ward 3 (part of precinct 6)|VTD- Waubay ward 3 (part of precinct 6)
+46|039|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|039|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|039|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|039|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|039|0VTD-6|VTD-precinct 6|VTD-precinct 6
+46|039|0VTD-7|VTD-precinct 7|VTD-precinct 7
+46|039|0VTD-8|VTD-precinct 8|VTD-precinct 8
+46|039|0VTD-9|VTD-precinct 9|VTD-precinct 9
+46|039|VTD-10|VTD-precinct 10|VTD-precinct 10
+46|039|VTD-11|VTD-precinct 11|VTD-precinct 11
+46|041|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|041|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|041|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|041|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|041|0VTD-6|VTD-precinct 6|VTD-precinct 6
+46|041|0VTD-7|VTD-precinct 7|VTD-precinct 7
+46|041|0VTD-8|VTD-precinct 8|VTD-precinct 8
+46|041|0VTD-9|VTD-precinct 9|VTD-precinct 9
+46|041|VTD-10|VTD-precinct 10|VTD-precinct 10
+46|041|VTD-11|VTD-precinct 11|VTD-precinct 11
+46|041|VTD-12|VTD-precinct 12|VTD-precinct 12
+46|041|VTD-13|VTD-precinct 13|VTD-precinct 13
+46|041|VTD-14|VTD-precinct 14|VTD-precinct 14
+46|041|VTD-15|VTD-precinct 15|VTD-precinct 15
+46|043|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|043|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|043|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|043|0VTD-4|VTD-precinct 4 ArmourTown|VTD-precinct 4 ArmourTown
+46|043|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|045|000001|VTD-01- Pem-Cort-Union-Rich-Kent-CLTwp|VTD-01- Pem-Cort-Union-Rich-Kent-CLTwp
+46|045|000002|VTD-02 IpswichCity|VTD-02 IpswichCity
+46|045|000003|VTD-03 Adrian-Rosette-Belle-Ipswich-Hunty-Clev-Harmony-Fou-Liberty-PoweTwp|VTD-03 Adrian-Rosette-Belle-Ipswich-Hunty-Clev-Harmony-Fou-Liberty-PoweTwp
+46|045|000004|VTD-04 Glen-Glover-NBry-Bry-Mont-VermontTwp-Roscoe City|VTD-04 Glen-Glover-NBry-Bry-Mont-VermontTwp-Roscoe City
+46|045|000005|VTD-05-Modena-Bowdle-Cottonwood-Odessa-Cloyd-Hudson-Madison-HillsideTwp-BowdleCity|VTD-05-Modena-Bowdle-Cottonwood-Odessa-Cloyd-Hudson-Madison-HillsideTwp-BowdleCity
+46|045|000006|VTD-06-Sangamon-Hosmer-HosmerCity|VTD-06-Sangamon-Hosmer-HosmerCity
+46|047|VTD-BE|BEAVER|BEAVER
+46|047|VTD-CA|CASCADE|CASCADE
+46|047|VTD-E1|EDGEMONT 1|EDGEMONT 1
+46|047|VTD-E2|EDGEMONT 2|EDGEMONT 2
+46|047|VTD-E3|EDGEMONT 3|EDGEMONT 3
+46|047|VTD-EA|EDGEMONT AREA|EDGEMONT AREA
+46|047|VTD-H1|HOT SPRINGS 1|HOT SPRINGS 1
+46|047|VTD-H2|HOT SPRINGS 2|HOT SPRINGS 2
+46|047|VTD-H3|HOT SPRINGS 3|HOT SPRINGS 3
+46|047|VTD-H4|HOT SPRINGS 4|HOT SPRINGS 4
+46|047|VTD-JA|JACKSON|JACKSON
+46|047|VTD-OA|OELRICHS AREA|OELRICHS AREA
+46|047|VTD-OE|OELRICHS|OELRICHS
+46|049|0VTD-1|VTD-precinct 1 Union-WesleyTwp-ChelseaTown-Devoe-Fairview-Cresbard Town|VTD-precinct 1 Union-WesleyTwp-ChelseaTown-Devoe-Fairview-Cresbard Town
+46|049|0VTD-2|VTD-precinct 2 Entprs-Frdom-Emrson-Sartga-Pulsk-MyrnTwp|VTD-precinct 2 Entprs-Frdom-Emrson-Sartga-Pulsk-MyrnTwp
+46|049|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|049|0VTD-4|VTD-precinct 4 Irving-Orient-ArcadeTwp-OrientTown|VTD-precinct 4 Irving-Orient-ArcadeTwp-OrientTown
+46|049|0VTD-5|VTD-precinct 5 Centrvil-Pioner-Hildal-ZllTwp-RckhmTown|VTD-precinct 5 Centrvil-Pioner-Hildal-ZllTwp-RckhmTown
+46|049|0VTD-6|VTD-precinct 6 Bryant-Tamworth-LafonTwp|VTD-precinct 6 Bryant-Tamworth-LafonTwp
+46|051|0VDT46|DUMMANN TUCHOLKE|DUMMANN TUCHOLKE
+46|051|0VTD41|CLAYTON TUCHOLKE|CLAYTON TUCHOLKE
+46|051|0VTD42|TUCHOLKE STENGEL|TUCHOLKE STENGEL
+46|051|0VTD43|DOUGLAS STENGEL|DOUGLAS STENGEL
+46|051|0VTD44|PAUL DUMMANN|PAUL DUMMANN
+46|051|VTD2-1|DAVE FORRETTE|DAVE FORRETTE
+46|051|VTD2-2|GENE MANN|GENE MANN
+46|053|0VTD-1|VTD-Gregory county precinct 1|VTD-Gregory county precinct 1
+46|053|0VTD-2|VTD-Gregory county precinct 2|VTD-Gregory county precinct 2
+46|053|0VTD-3|VTD-Gregory county precinct 3|VTD-Gregory county precinct 3
+46|055|0VTD-1|VTD - precinct 1|VTD - precinct 1
+46|055|0VTD-4|VTD - precinct 4|VTD - precinct 4
+46|055|VTD-16|VTD - precinct 16|VTD - precinct 16
+46|055|VTD-17|VTD - precinct 17|VTD - precinct 17
+46|055|VTD-19|VTD-precinct 19|VTD-precinct 19
+46|055|VTD-20|VTD - precinct 20|VTD - precinct 20
+46|057|VTD-BY|VTD Bryant precinct|VTD Bryant precinct
+46|057|VTD-CW|VTD-Castlewood precinct|VTD-Castlewood precinct
+46|057|VTD-ES|VTD Estelline precinct|VTD Estelline precinct
+46|057|VTD-HI|VTD Hayti precinct|VTD Hayti precinct
+46|057|VTD-HZ|VTD-Hazel precinct|VTD-Hazel precinct
+46|057|VTD-ND|VTD Norden precinct|VTD Norden precinct
+46|057|VTD-OX|VTD-Oxford precinct|VTD-Oxford precinct
+46|059|0VTD-1|VTD-precinct 1 - Harson-Spri-Park-Ontar-Fairv-HoweTwp|VTD-precinct 1 - Harson-Spri-Park-Ontar-Fairv-HoweTwp
+46|059|0VTD-2|VTD-precinct 2 - Linn-Plato-Carlton-WheatonTwp|VTD-precinct 2 - Linn-Plato-Carlton-WheatonTwp
+46|059|0VTD-3|VTD-precinct 3 - Capbel-Aldn-Flornc-Grenlef-AlphaTwp|VTD-precinct 3 - Capbel-Aldn-Flornc-Grenlef-AlphaTwp
+46|059|0VTD-4|VTD-precinct 4 - Holden-BurdetteTwp|VTD-precinct 4 - Holden-BurdetteTwp
+46|059|0VTD-5|VTD-precinct 5 - Rvrsd-ReHghts-Midld-SprHil-RokdlTwp|VTD-precinct 5 - Rvrsd-ReHghts-Midld-SprHil-RokdlTwp
+46|059|0VTD-6|VTD-precinct 6 - York-StLawrence-Pearl-HilandTwp|VTD-precinct 6 - York-StLawrence-Pearl-HilandTwp
+46|059|0VTD-7|VTD-precinct 7 - Gilbert-Grand-Hulbert-RoseHillTwp|VTD-precinct 7 - Gilbert-Grand-Hulbert-RoseHillTwp
+46|059|0VTD-8|VTD-precinct 8 - Cedar-ComoTwp|VTD-precinct 8 - Cedar-ComoTwp
+46|059|0VTD-9|VTD-precinct 9 - Logn-Glndl-Ohio-Mndmn-PlsantVaeyTwp|VTD-precinct 9 - Logn-Glndl-Ohio-Mndmn-PlsantVaeyTwp
+46|059|0VTD10|VTD-precinct 10 - SpringLake-BatesTwp|VTD-precinct 10 - SpringLake-BatesTwp
+46|059|VTD-12|VTD - precinct 12 -MillerTwp|VTD - precinct 12 -MillerTwp
+46|059|VTD-M1|VTD - Miller town ward 1 (part of precinct 11)|VTD - Miller town ward 1 (part of precinct 11)
+46|059|VTD-M2|VTD - Miller town ward 2 (part of precinct 12)|VTD - Miller town ward 2 (part of precinct 12)
+46|059|VTDM3a|VTD - Miller town ward 3 (part of precinct 11)|VTD - Miller town ward 3 (part of precinct 11)
+46|059|VTDM3b|VTD - Miller town ward 3 (part of precinct 12)|VTD - Miller town ward 3 (part of precinct 12)
+46|061|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|061|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|061|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|061|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|061|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|063|VTD-BU|VTD-precinct BuffaloTown|VTD-precinct BuffaloTown
+46|063|VTD-CC|VTD-precinct -CampCrook|VTD-precinct -CampCrook
+46|063|VTD-FI|VTD-precinct Fillmore|VTD-precinct Fillmore
+46|063|VTD-HI|VTD-precinct Hilton|VTD-precinct Hilton
+46|063|VTD-LA|VTD-precinct Ladner|VTD-precinct Ladner
+46|063|VTD-LU|VTD- precinct Ludlow|VTD- precinct Ludlow
+46|063|VTD-PG|VTD-precinct Poplar Grove|VTD-precinct Poplar Grove
+46|063|VTD-RE|VTD-precinct Reva|VTD-precinct Reva
+46|065|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|065|0VTD-7|VTD-precinct 7|VTD-precinct 7
+46|065|0VTD-9|VTD-precinct 9|VTD-precinct 9
+46|065|VTD-11|VTD-precinct 11|VTD-precinct 11
+46|065|VTD-21|VTD-Pierre precinct 21|VTD-Pierre precinct 21
+46|065|VTD-23|VTD-Pierre precinct 23|VTD-Pierre precinct 23
+46|065|VTD-24|VTD-Pierre precinct 24|VTD-Pierre precinct 24
+46|065|VTD-26|VTD-Pierre precinct 26|VTD-Pierre precinct 26
+46|065|VTD-28|VTD-Pierre precinct 28|VTD-Pierre precinct 28
+46|065|VTD-29|VTD-Pierre precinct 29|VTD-Pierre precinct 29
+46|065|VTD-30|VTD-Pierre precinct 30|VTD-Pierre precinct 30
+46|065|VTD-31|VTD-Pierre precinct 31|VTD-Pierre precinct 31
+46|065|VTD-32|VTD-Pierre precinct 32|VTD-Pierre precinct 32
+46|065|VTD-33|VTD-Pierre precinct 33|VTD-Pierre precinct 33
+46|065|VTD-34|VTD-Pierre precinct 34|VTD-Pierre precinct 34
+46|067|0VTD-1|VTD precinct 1|VTD precinct 1
+46|067|0VTD-2|VTD precinct 2|VTD precinct 2
+46|067|0VTD-3|VTD precinct 3|VTD precinct 3
+46|067|0VTD-4|VTD precinct 4|VTD precinct 4
+46|067|0VTD-5|VTD precinct 5 City of Parkston|VTD precinct 5 City of Parkston
+46|067|0VTD-6|VTD precinct 6|VTD precinct 6
+46|067|0VTD-7|VTD precinct 7|VTD precinct 7
+46|069|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|069|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|069|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|069|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|069|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|071|0VTD-1|VTD - Cottonwood voting precinct|VTD - Cottonwood voting precinct
+46|071|0VTD-2|VTD - Interior voting precinct|VTD - Interior voting precinct
+46|071|0VTD-3|VTD - precinct 3|VTD - precinct 3
+46|071|0VTD-5|VTD - precinct 5|VTD - precinct 5
+46|071|0VTD-6|VTD - Long Valley precinct|VTD - Long Valley precinct
+46|071|0VTD-7|VTD - 7|VTD - 7
+46|071|0VTD-8|VTD - Green Valley voting precinct|VTD - Green Valley voting precinct
+46|071|VTD3W3|VTD - Kadoka City Ward 3 voting precinct|VTD - Kadoka City Ward 3 voting precinct
+46|071|VTD4W1|VTD - Kadoka City Ward 1 voting precinct (part of VTD-4)|VTD - Kadoka City Ward 1 voting precinct (part of VTD-4)
+46|071|VTD4W2|VTD - Kadoka City Ward 2 voting precinct (part of VTD-4)|VTD - Kadoka City Ward 2 voting precinct (part of VTD-4)
+46|073|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|073|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|073|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|073|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|073|VTD1-1|VTD-precinct 1 Wessington Springs|VTD-precinct 1 Wessington Springs
+46|075|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|075|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|075|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|075|VTD-M1|VTD - Murdo ward 1 (part of precinct 1)|VTD - Murdo ward 1 (part of precinct 1)
+46|075|VTD-M2|VTD - Murdo ward 2 (part of precinct 3)|VTD - Murdo ward 2 (part of precinct 3)
+46|075|VTD-M3|VTD - Murdo ward 3 (part of precinct 3)|VTD - Murdo ward 3 (part of precinct 3)
+46|077|000001|VTD - 01|VTD - 01
+46|077|000002|VTD -02|VTD -02
+46|077|000003|VTD-03|VTD-03
+46|077|000004|VTD - 04|VTD - 04
+46|077|000005|VTD-05|VTD-05
+46|079|004301|Chester-Franklin precinct|Chester-Franklin precinct
+46|079|004302|Wentworth-Rutland-Wentworth Village precinct|Wentworth-Rutland-Wentworth Village precinct
+46|079|004303|Nunda-Summit-Nunda Town precinct|Nunda-Summit-Nunda Town precinct
+46|079|004304|Concord-Badus-Wayne-Ramona Town precinct|Concord-Badus-Wayne-Ramona Town precinct
+46|079|004305|Herman-Winfred precinct|Herman-Winfred precinct
+46|079|004306|Farmington-LeRoy-Clarno-Orland precinct|Farmington-LeRoy-Clarno-Orland precinct
+46|079|004307|Lakeview precinct|Lakeview precinct
+46|079|004308|Madison ward 1|Madison ward 1
+46|079|004309|Madison ward 2|Madison ward 2
+46|079|004310|Madison ward 3|Madison ward 3
+46|081|VTD-CC|VTD- Rural 1- Central City|VTD- Rural 1- Central City
+46|081|VTD-DW|VTD - Deadwood city ward|VTD - Deadwood city ward
+46|081|VTD-LD|VTD - Lead city ward|VTD - Lead city ward
+46|081|VTD-NM|VTD - Nemo precinct|VTD - Nemo precinct
+46|081|VTD-R1|VTD- Rural 1 precinct|VTD- Rural 1 precinct
+46|081|VTD-R2|VTD - Rural 2 precinct|VTD - Rural 2 precinct
+46|081|VTD-S1|VTD - Spearfish city ward 1|VTD - Spearfish city ward 1
+46|081|VTD-S2|VTD - Spearfish city ward 2|VTD - Spearfish city ward 2
+46|081|VTD-S3|VTD - Spearfish city ward 3|VTD - Spearfish city ward 3
+46|081|VTD-SO|VTD - St. Onge|VTD - St. Onge
+46|081|VTD-W1|VTD - Whitewood city ward 1|VTD - Whitewood city ward 1
+46|081|VTD-W2|VTD - Whitewood city ward 2|VTD - Whitewood city ward 2
+46|081|VTD-W3|VTD - Whitewood city ward 3|VTD - Whitewood city ward 3
+46|081|VTD-WW|VTD - Whitewood precinct|VTD - Whitewood precinct
+46|083|VTD-02|VTD - Norway/ Fairview|VTD - Norway/ Fairview
+46|083|VTD-06|VTD - Highland/CantonTwp|VTD - Highland/CantonTwp
+46|083|VTD-08|VTD - Lincoln/ Delaware|VTD - Lincoln/ Delaware
+46|083|VTD-11|VTD - GrantTwp|VTD - GrantTwp
+46|083|VTD-12|VTD - Dayton twnshp|VTD - Dayton twnshp
+46|083|VTD-13|VTD - La ValleyTwp|VTD - La ValleyTwp
+46|083|VTD-14|VTD - Perry twshp|VTD - Perry twshp
+46|083|VTD-15|VTD - SpringdaleTwp|VTD - SpringdaleTwp
+46|083|VTD-16|VTD - DelapreTwp|VTD - DelapreTwp
+46|083|VTD-21|VTD - Hudson/Eden|VTD - Hudson/Eden
+46|083|VTD-23|VTD - LynnTwp-WorthingTown|VTD - LynnTwp-WorthingTown
+46|083|VTD-26|VTD - precinct 26 Brooklyn, Pleasant twps, Beresford town|VTD - precinct 26 Brooklyn, Pleasant twps, Beresford town
+46|083|VTD-B1|VTD - Beresford ward 1 (part of precinct 26)|VTD - Beresford ward 1 (part of precinct 26)
+46|083|VTD-B2|VTD - Beresford ward 2 (part of precinct 26)|VTD - Beresford ward 2 (part of precinct 26)
+46|083|VTD-B3|VTD - Beresford Ward 3 (part of precinct 26)|VTD - Beresford Ward 3 (part of precinct 26)
+46|083|VTD-C1|VTD - Canton Ward 1 (part of precinct 20)|VTD - Canton Ward 1 (part of precinct 20)
+46|083|VTD-C2|VTD - Canton Ward 2 (part of precinct 20)|VTD - Canton Ward 2 (part of precinct 20)
+46|083|VTD-C3|VTD - Canton Ward 3 (part of precinct 20)|VTD - Canton Ward 3 (part of precinct 20)
+46|083|VTD-C4|VTD - Canton Ward 4 (part of precinct 30)|VTD - Canton Ward 4 (part of precinct 30)
+46|083|VTD-C5|VTD - Canton Ward 5 (part of precinct 30)|VTD - Canton Ward 5 (part of precinct 30)
+46|083|VTD-H1|VTD - Harrisburg Ward 1 (part of precinct 27)|VTD - Harrisburg Ward 1 (part of precinct 27)
+46|083|VTD-H2|VTD - Harrisburg ward 2 (part of precinct 29)|VTD - Harrisburg ward 2 (part of precinct 29)
+46|083|VTD-L1|VTD - Lennox Ward 1 (part of precinct 25)|VTD - Lennox Ward 1 (part of precinct 25)
+46|083|VTD-L2|VTD - Lennox Ward 2 (part of precinct 25)|VTD - Lennox Ward 2 (part of precinct 25)
+46|083|VTD-L3|VTD - Lennox Ward 3 (part of precinct 25)|VTD - Lennox Ward 3 (part of precinct 25)
+46|083|VTD-T1|VTD - Tea Ward 1 (part of precinct 24)|VTD - Tea Ward 1 (part of precinct 24)
+46|083|VTD-T2|VTD - Tea Ward 2 (part of precinct 24)|VTD - Tea Ward 2 (part of precinct 24)
+46|083|VTD-T3|VTD - Tea Ward 3 (part of precinct 24)|VTD - Tea Ward 3 (part of precinct 24)
+46|083|VTD111|VTD - Sioux Falls precinct 1-11|VTD - Sioux Falls precinct 1-11
+46|083|VTD112|VTD - Sioux Falls precinct 1-12|VTD - Sioux Falls precinct 1-12
+46|083|VTD113|VTD - Sioux Falls precinct 1-13|VTD - Sioux Falls precinct 1-13
+46|083|VTD114|VTD - Sioux Falls precinct 1-14|VTD - Sioux Falls precinct 1-14
+46|083|VTD115|VTD - Sioux Falls precinct 1-15|VTD - Sioux Falls precinct 1-15
+46|083|VTD116|VTD - Sioux Falls precinct 1-16|VTD - Sioux Falls precinct 1-16
+46|083|VTD118|VTD - Sioux Falls precinct 1-18|VTD - Sioux Falls precinct 1-18
+46|083|VTD210|VTD - Sioux Falls precinct 2-10|VTD - Sioux Falls precinct 2-10
+46|083|VTD211|VTD - Sioux Falls precinct 2-11|VTD - Sioux Falls precinct 2-11
+46|083|VTD212|VTD - Sioux Falls precinct 2-12|VTD - Sioux Falls precinct 2-12
+46|083|VTD213|VTD - Sioux Falls precinct 2-13|VTD - Sioux Falls precinct 2-13
+46|083|VTD215|VTD - Sioux Falls precinct 2-15|VTD - Sioux Falls precinct 2-15
+46|085|0VTD-1|VTD-precinct 1 Iona|VTD-precinct 1 Iona
+46|085|0VTD-4|VTD-precinct 4 Oacoma|VTD-precinct 4 Oacoma
+46|085|0VTD-6|VTD-precinct 6 Reliance|VTD-precinct 6 Reliance
+46|085|0VTD-7|VTD-precinct 7 LowerBrule|VTD-precinct 7 LowerBrule
+46|085|0VTD-9|VTD-precinct 9 Kennebec|VTD-precinct 9 Kennebec
+46|085|VTD-12|VTD-precinct 12 Presho|VTD-precinct 12 Presho
+46|085|VTD-13|VTD-precinct 13 Vivian|VTD-precinct 13 Vivian
+46|087|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|087|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|087|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|087|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|087|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|087|0VTD-6|VTD-precinct 6|VTD-precinct 6
+46|089|VTD-CN|VTD-Central precinct|VTD-Central precinct
+46|089|VTD-E1|VTD-Eureka ward 1 (part of Northwest precinct)|VTD-Eureka ward 1 (part of Northwest precinct)
+46|089|VTD-E2|VTD-Eureka ward 2 (part of Southwest precinct)|VTD-Eureka ward 2 (part of Southwest precinct)
+46|089|VTD-E3|VTD-Eureka ward 3 (part of Central precinct)|VTD-Eureka ward 3 (part of Central precinct)
+46|089|VTD-L1|VTD-Leola town ward 1 (part of NE Leola precinct)|VTD-Leola town ward 1 (part of NE Leola precinct)
+46|089|VTD-L2|VTD-Leola town ward 2 (part of SE Leola precinct)|VTD-Leola town ward 2 (part of SE Leola precinct)
+46|089|VTD-L3|VTD-Leola town ward 3 (part of SE Leola precinct)|VTD-Leola town ward 3 (part of SE Leola precinct)
+46|089|VTD-NW|VTD-Northwest precinct|VTD-Northwest precinct
+46|089|VTD-SW|VTD-Southwest precinct|VTD-Southwest precinct
+46|089|VTD101|VTD-101 precinct|VTD-101 precinct
+46|089|VTDNEL|VTD-Northeast Leola|VTD-Northeast Leola
+46|089|VTDSEL|VTD-Southeast Leola|VTD-Southeast Leola
+46|091|VTD-A1|VTD-Britton ward 1|VTD-Britton ward 1
+46|091|VTD-A2|VTD-Britton ward 2|VTD-Britton ward 2
+46|091|VTD-A3|VTD-Britton ward 3|VTD-Britton ward 3
+46|091|VTD-A4|VTD-precinct A4|VTD-precinct A4
+46|091|VTD-A5|VTD-precinct A5|VTD-precinct A5
+46|091|VTD-A6|VTD-precinct A6|VTD-precinct A6
+46|091|VTD-A7|VTD-precinct A7|VTD-precinct A7
+46|091|VTD-A8|VTD-precinct A8|VTD-precinct A8
+46|091|VTD-A9|VTD-precinct A9|VTD-precinct A9
+46|093|VTD-00|00-Sturgis|00-Sturgis
+46|093|VTD-06|06-Tilford|06-Tilford
+46|093|VTD-08|08-Harmony|08-Harmony
+46|093|VTD-09|09-Bear Butte|09-Bear Butte
+46|093|VTD-10|10-Summerset|10-Summerset
+46|093|VTD-11|11-Piedmont|11-Piedmont
+46|093|VTD-12|12-East Piedmont|12-East Piedmont
+46|093|VTD-13|13-SE Piedmont|13-SE Piedmont
+46|093|VTD-14|14-Black Hawk|14-Black Hawk
+46|093|VTD-15|15-Rural Black Hawk|15-Rural Black Hawk
+46|093|VTD-16|16-West Black Hawk|16-West Black Hawk
+46|093|VTD-17|17-Viewfield|17-Viewfield
+46|093|VTD-18|18-Elm Springs|18-Elm Springs
+46|093|VTD-19|19-Central Black Hawk|19-Central Black Hawk
+46|093|VTD-20|20-Hereford|20-Hereford
+46|093|VTD-21|21-Elk Vale|21-Elk Vale
+46|093|VTD-23|23-BASE|23-BASE
+46|093|VTD-24|24-West Elk Vale|24-West Elk Vale
+46|093|VTD-25|25-White Owl|25-White Owl
+46|093|VTD-27|27-Chalk Butte|27-Chalk Butte
+46|093|VTD-29|29-Fairpoint|29-Fairpoint
+46|093|VTD-30|30-Red Owl|30-Red Owl
+46|093|VTD-31|31-Faith|31-Faith
+46|093|VTD-33|33-Pine|33-Pine
+46|093|VTD-35|35-Sulphur|35-Sulphur
+46|093|VTD-40|40-Union|40-Union
+46|093|VTD-41|41-Marcus|41-Marcus
+46|093|VTD-6A|6A-Alkali|6A-Alkali
+46|093|VTD-CS|Central Sturgis|Central Sturgis
+46|093|VTD-ES|East Sturgis|East Sturgis
+46|093|VTD-NE|Northeast Sturgis|Northeast Sturgis
+46|093|VTD-NW|Northwest Sturgis|Northwest Sturgis
+46|093|VTD-RS|Rural Sturgis|Rural Sturgis
+46|093|VTD-SE|Southeast Sturgis|Southeast Sturgis
+46|093|VTD-SS|South Sturgis|South Sturgis
+46|093|VTD-SW|Southwest Sturgis|Southwest Sturgis
+46|093|VTD-WS|West Sturgis|West Sturgis
+46|095|0VTD-2|VTD-D2|VTD-D2
+46|095|0VTD-3|VTD-D3|VTD-D3
+46|095|0VTD-4|VTD-D4|VTD-D4
+46|095|0VTD-5|VTD-precinct 5 White River|VTD-precinct 5 White River
+46|097|0VTD-1|VTD-Howard precinct 1|VTD-Howard precinct 1
+46|097|0VTD-2|VTD-Howard precinct 2|VTD-Howard precinct 2
+46|097|0VTD-3|VTD-Howard precinct 3|VTD-Howard precinct 3
+46|097|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|097|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|097|0VTD-6|VTD-precinct 6|VTD-precinct 6
+46|097|0VTD-7|VTD-precinct 7|VTD-precinct 7
+46|097|0VTD-8|VTD-precinct 8|VTD-precinct 8
+46|099|0000N3|VTD VP 03|VTD VP 03
+46|099|0000N4|VTD VP 04|VTD VP 04
+46|099|0000N5|VTD VP 05|VTD VP 05
+46|099|000N11|VTD VP 11|VTD VP 11
+46|099|000N13|VTD VP 13|VTD VP 13
+46|099|000N15|VTD VP 15|VTD VP 15
+46|099|000N21|VTD VP 21|VTD VP 21
+46|099|00N1-3|VTD 1-3|VTD 1-3
+46|099|00N1-4|VTD 1-4|VTD 1-4
+46|099|00N1-5|VTD 1-5|VTD 1-5
+46|099|00N1-6|VTD 1-6|VTD 1-6
+46|099|00N1-9|VTD 1-9|VTD 1-9
+46|099|00N2-1|VTD 2-1|VTD 2-1
+46|099|00N2-2|VTD 2-2|VTD 2-2
+46|099|00N2-3|VTD 2-3|VTD 2-3
+46|099|00N2-6|VTD 2-6|VTD 2-6
+46|099|00N2-7|VTD 2-7|VTD 2-7
+46|099|00N2-8|VTD 2-8|VTD 2-8
+46|099|00N2-9|VTD 2-9|VTD 2-9
+46|099|00N3-5|VTD 3-5|VTD 3-5
+46|099|00N3-6|VTD 3-6|VTD 3-6
+46|099|00N3-9|VTD 3-9|VTD 3-9
+46|099|00N4-1|VTD 4-1|VTD 4-1
+46|099|00N4-2|VTD 4-2|VTD 4-2
+46|099|00N4-3|VTD 4-3|VTD 4-3
+46|099|00N4-4|VTD 4-4|VTD 4-4
+46|099|00N4-5|VTD 4-5|VTD 4-5
+46|099|00N4-6|VTD 4-6|VTD 4-6
+46|099|00N4-7|VTD 4-7|VTD 4-7
+46|099|00N4-8|VTD 4-8|VTD 4-8
+46|099|00N4-9|VTD 4-9|VTD 4-9
+46|099|00N5-1|VTD 5-1|VTD 5-1
+46|099|00N5-2|VTD 5-2|VTD 5-2
+46|099|00N5-3|VTD 5-3|VTD 5-3
+46|099|00N5-4|VTD 5-4|VTD 5-4
+46|099|00N5-6|VTD 5-6|VTD 5-6
+46|099|00N5-7|VTD 5-7|VTD 5-7
+46|099|00N5-8|VTD 5-8|VTD 5-8
+46|099|00N5-9|VTD 5-9|VTD 5-9
+46|099|00NVP9|VTD VP 09|VTD VP 09
+46|099|0N1-10|VTD 1-10|VTD 1-10
+46|099|0N1-17|VTD 1-17|VTD 1-17
+46|099|0N2-14|VTD 2-14|VTD 2-14
+46|099|0N3-10|VTD 3-10|VTD 3-10
+46|099|0N3-11|VTD 3-11|VTD 3-11
+46|099|0N3-12|VTD 3-12|VTD 3-12
+46|099|0N3-13|VTD 3-13|VTD 3-13
+46|099|0N3-14|VTD 3-14|VTD 3-14
+46|099|0N3-15|VTD 3-15|VTD 3-15
+46|099|0N3-16|VTD 3-16|VTD 3-16
+46|099|0N3-17|VTD 3-17|VTD 3-17
+46|099|0N4-10|VTD 4-10|VTD 4-10
+46|099|0N4-11|VTD 4-11|VTD 4-11
+46|099|0N4-12|VTD 4-12|VTD 4-12
+46|099|0N4-13|VTD 4-13|VTD 4-13
+46|099|0N4-14|VTD 4-14|VTD 4-14
+46|099|0N5-10|VTD 5-10|VTD 5-10
+46|099|0N5-11|VTD 5-11|VTD 5-11
+46|099|0N5-12|VTD 5-12|VTD 5-12
+46|099|0N5-13|VTD 5-13|VTD 5-13
+46|099|0N5-14|VTD 5-14|VTD 5-14
+46|099|0N5-17|VTD 5-17|VTD 5-17
+46|099|0N5-18|VTD 5-18|VTD 5-18
+46|099|0N5-19|VTD 5-19|VTD 5-19
+46|099|0N5-20|VTD 5-20|VTD 5-20
+46|099|0N5-21|VTD 5-21|VTD 5-21
+46|099|0NVP-6|VTD VP 06|VTD VP 06
+46|099|0NVP01|VTD VP 01|VTD VP 01
+46|099|0NVP02|VTD VP 02|VTD VP 02
+46|099|0NVP10|VTD VP 10|VTD VP 10
+46|099|0NVP12|VTD VP 12|VTD VP 12
+46|099|0NVP16|VTD VP 16|VTD VP 16
+46|099|0NVP17|VTD VP 17|VTD VP 17
+46|099|NVP-07|VTD VP 07|VTD VP 07
+46|099|NVP-08|VTD VP 08|VTD VP 08
+46|101|000V-1|VTD-precinct 1|VTD-precinct 1
+46|101|000V-2|VTD-precinct 2|VTD-precinct 2
+46|101|000V-3|VTD-precinct 3|VTD-precinct 3
+46|101|000V-4|VTD-precinct 4|VTD-precinct 4
+46|101|000V-5|VTD-precinct 5|VTD-precinct 5
+46|101|V-3/4B|VTD-precinct 3/4B|VTD-precinct 3/4B
+46|102|VTD-BA|Batesland|Batesland
+46|102|VTD-CN|Cuny Table|Cuny Table
+46|102|VTD-KY|Kyle|Kyle
+46|102|VTD-MA|Manderson|Manderson
+46|102|VTD-OG|Oglala|Oglala
+46|102|VTD-P1|Pine Ridge #1|Pine Ridge #1
+46|102|VTD-P3|Pine Ridge #3|Pine Ridge #3
+46|102|VTD-PO|Porcupine|Porcupine
+46|102|VTD-RF|Rockyford|Rockyford
+46|103|0VTD-6|VTD - CL|VTD - CL
+46|103|0VTD-9|VTD - LS|VTD - LS
+46|103|VTD-10|VTD - NU|VTD - NU
+46|103|VTD-11|VTD - SC|VTD - SC
+46|103|VTD-12|VTD - WS|VTD - WS
+46|103|VTD-14|VTD - CR|VTD - CR
+46|103|VTD-15|VTD - WL|VTD - WL
+46|103|VTD-17|VTD - QU|VTD - QU
+46|103|VTD-18|VTD - NH|VTD - NH
+46|103|VTD-19|VTD - CA|VTD - CA
+46|103|VTD-23|VTD - WP|VTD - WP
+46|103|VTD-24|VTD - DT|VTD - DT
+46|103|VTD-AW|VTD - AW|VTD - AW
+46|103|VTD-E1|VTD - RK|VTD - RK
+46|103|VTD-F1|VTD - RV|VTD - RV
+46|103|VTD-F2|VTD - VF|VTD - VF
+46|103|VTD-K3|VTD - KY|VTD - KY
+46|103|VTD1-1|VTD - RC 1-1|VTD - RC 1-1
+46|103|VTD1-2|VTD - RC 1-2|VTD - RC 1-2
+46|103|VTD1-3|VTD - RC 1-3|VTD - RC 1-3
+46|103|VTD1-4|VTD - RC 1-4|VTD - RC 1-4
+46|103|VTD2-1|VTD - RC 2-1|VTD - RC 2-1
+46|103|VTD2-2|VTD - RC 2-2|VTD - RC 2-2
+46|103|VTD2-3|VTD - RC 2-3|VTD - RC 2-3
+46|103|VTD2-4|VTD - RC 2-4|VTD - RC 2-4
+46|103|VTD2-5|VTD - RC 2-5|VTD - RC 2-5
+46|103|VTD3-1|VTD - RC 3-1|VTD - RC 3-1
+46|103|VTD3-2|VTD - RC 3-2|VTD - RC 3-2
+46|103|VTD3-3|VTD - RC 3-3|VTD - RC 3-3
+46|103|VTD3-4|VTD - RC 3-4|VTD - RC 3-4
+46|103|VTD3-5|VTD - RC 3-5|VTD - RC 3-5
+46|103|VTD333|VTD - EL|VTD - EL
+46|103|VTD4-1|VTD - RC 4-1|VTD - RC 4-1
+46|103|VTD4-2|VTD - RC 4-2|VTD - RC 4-2
+46|103|VTD4-3|VTD - RC 4-3|VTD - RC 4-3
+46|103|VTD4-4|VTD - RC 4-4|VTD - RC 4-4
+46|103|VTD4-5|VTD - RC 4-5|VTD - RC 4-5
+46|103|VTD5-1|VTD - RC 5-1|VTD - RC 5-1
+46|103|VTD5-2|VTD - RC 5-2|VTD - RC 5-2
+46|103|VTD5-3|VTD - RC 5-3|VTD - RC 5-3
+46|103|VTD5-4|VTD - RC 5-4|VTD - RC 5-4
+46|103|VTD5-5|VTD - RC 5-5|VTD - RC 5-5
+46|103|VTDDG7|VTD - BE|VTD - BE
+46|103|VTDHC1|VTD - HC|VTD - HC
+46|103|VTDJS5|VTD - JS|VTD - JS
+46|103|VTDN34|VTD - VV|VTD - VV
+46|103|VTDRK4|VTD - HR|VTD - HR
+46|105|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|105|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|105|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|105|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|105|0VTD-6|VTD - precinct 6|VTD - precinct 6
+46|105|0VTD-7|VTD - precinct 7|VTD - precinct 7
+46|105|0VTD-8|VTD - precinct 8|VTD - precinct 8
+46|105|0VTD-9|VTD - precinct 9|VTD - precinct 9
+46|105|VTD-12|VTD - precinct 12|VTD - precinct 12
+46|105|VTD-L1|VTD - Lemmon city (precinct 1)|VTD - Lemmon city (precinct 1)
+46|105|VTD-L3|VTD - Lemmon city (part of precinct 3)|VTD - Lemmon city (part of precinct 3)
+46|107|VTD-01|VTD-precinct 01|VTD-precinct 01
+46|107|VTD-02|VTD-precinct 02|VTD-precinct 02
+46|107|VTD-03|VTD-precinct 03|VTD-precinct 03
+46|107|VTD-04|VTD-precinct 04 (part of Gettysburg)|VTD-precinct 04 (part of Gettysburg)
+46|107|VTD-05|VTD-precinct 05|VTD-precinct 05
+46|107|VTD-36|VTD-precinct 36|VTD-precinct 36
+46|109|0VTD-1|VTD - precinct 1 Bossko-Norway-MinnesotaTwps-ClareCityTown|VTD - precinct 1 Bossko-Norway-MinnesotaTwps-ClareCityTown
+46|109|0VTD-2|VTD - precinct 2 Geneseo-Lockwod-GarfieldTwp-CoronaTown|VTD - precinct 2 Geneseo-Lockwod-GarfieldTwp-CoronaTown
+46|109|0VTD-3|VTD - precinct 3 Lien-HartTwps-NewEffingtonTown|VTD - precinct 3 Lien-HartTwps-NewEffingtonTown
+46|109|0VTD-4|VTD - precinct 4 Ortley-AltoTwps-OrtleyTown|VTD - precinct 4 Ortley-AltoTwps-OrtleyTown
+46|109|0VTD-5|VTD - precinct 5 Agency-Lawrence-Becker-SpringGrove-EasterTwps-PeeverTown|VTD - precinct 5 Agency-Lawrence-Becker-SpringGrove-EasterTwps-PeeverTown
+46|109|0VTD-6|VTD - precinct 6 HarmonTwp-RosholtTown|VTD - precinct 6 HarmonTwp-RosholtTown
+46|109|0VTD-7|VTD - precinct 7 Victor-Brnt-WhiteRockTwps-WhitRckTown|VTD - precinct 7 Victor-Brnt-WhiteRockTwps-WhitRckTown
+46|109|0VTD-8|VTD - precinct 8 SummitTwp-SummitTown|VTD - precinct 8 SummitTwp-SummitTown
+46|109|0VTD-9|VTD - precinct 9 Lee-Lake-SpringdaleTwps-Wilmot town|VTD - precinct 9 Lee-Lake-SpringdaleTwps-Wilmot town
+46|109|0VTD12|VTD-precinct 12 - Sisseton ward 1|VTD-precinct 12 - Sisseton ward 1
+46|109|0VTD13|VTD-precinct 13-Sisseton ward 2|VTD-precinct 13-Sisseton ward 2
+46|109|0VTD14|VTD-precinct 14 - Sisseton ward 3|VTD-precinct 14 - Sisseton ward 3
+46|109|VTD-10|VTD - precinct 10 - OneRoad-GoodwillTwps|VTD - precinct 10 - OneRoad-GoodwillTwps
+46|109|VTD-11|VTD- precinct 11 - DrywoodLake-Enterprise-Grant-LongHollow-SissetonTwps, N&E of Sisseton town|VTD- precinct 11 - DrywoodLake-Enterprise-Grant-LongHollow-SissetonTwps, N&E of Sisseton town
+46|111|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|111|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|111|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|111|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|115|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|115|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|115|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|115|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|115|0VTD-6|VTD-precinct 6|VTD-precinct 6
+46|115|0VTD-7|VTD-precinct 7|VTD-precinct 7
+46|115|0VTD-8|VTD-precinct 8|VTD-precinct 8
+46|115|0VTD-9|VTD-precinct 9 Redfield City First & Second wards|VTD-precinct 9 Redfield City First & Second wards
+46|115|VTD-10|VTD-precinct 10 Redfield City Third & Fourth wards|VTD-precinct 10 Redfield City Third & Fourth wards
+46|117|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|117|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|117|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|119|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|119|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|119|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|119|0VTD-6|VTD-precinct 6|VTD-precinct 6
+46|119|VTD2-1|VTD-Onida City Ward 1 (part of precinct 2)|VTD-Onida City Ward 1 (part of precinct 2)
+46|119|VTD2-2|VTD-Onida City Ward 2 (part of precinct 2)|VTD-Onida City Ward 2 (part of precinct 2)
+46|119|VTD3-2|VTD-Onida City Ward 3 (part of precinct 2)|VTD-Onida City Ward 3 (part of precinct 2)
+46|121|VTD-BO|VTD-precinct Bordeaux|VTD-precinct Bordeaux
+46|121|VTD-JE|VTD-precinct Jeanette|VTD-precinct Jeanette
+46|121|VTD-LA|VTD-precinct Lakeview|VTD-precinct Lakeview
+46|121|VTD-OK|VTD-precinct Okreek|VTD-precinct Okreek
+46|121|VTD-PA|VTD-precinct Parmelee|VTD-precinct Parmelee
+46|121|VTD-RO|VTD-precinct Rosebud|VTD-precinct Rosebud
+46|121|VTD-SA|VTD-precinct SouthAntelope|VTD-precinct SouthAntelope
+46|121|VTD-SF|VTD-precinct St.Francis|VTD-precinct St.Francis
+46|121|VTDMNA|VTD-precinct Mission City and N.Antelope|VTD-precinct Mission City and N.Antelope
+46|123|VTD-CF|VTD-Clearfield precinct|VTD-Clearfield precinct
+46|123|VTD-CL|VTD-Colome precinct|VTD-Colome precinct
+46|123|VTD-E2|VTD-Winner East 2nd precinct|VTD-Winner East 2nd precinct
+46|123|VTD-E3|VTD-Winner East 3rd precinct|VTD-Winner East 3rd precinct
+46|123|VTD-HM|VTD-Hamill precinct|VTD-Hamill precinct
+46|123|VTD-ID|VTD-Ideal precinct|VTD-Ideal precinct
+46|123|VTD-LK|VTD-Lake precinct|VTD-Lake precinct
+46|123|VTD-LM|VTD-Lamro precinct|VTD-Lamro precinct
+46|123|VTD-SU|VTD-Sully precinct|VTD-Sully precinct
+46|123|VTD-W2|VTD-Winner West 2nd precinct|VTD-Winner West 2nd precinct
+46|123|VTD-W3|VTD-Winner West 3rd precinct|VTD-Winner West 3rd precinct
+46|123|VTD-WT|VTD-Witten precinct|VTD-Witten precinct
+46|123|VTDSE1|VTD-Winner Southeast 1st precinct|VTD-Winner Southeast 1st precinct
+46|125|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|125|0VTD-2|VTD-precinct 2|VTD-precinct 2
+46|125|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|125|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|125|0VTD-5|VTD-precinct 5|VTD-precinct 5
+46|125|0VTD-6|VTD-precinct 6|VTD-precinct 6
+46|125|0VTD-7|VTD-precinct 7|VTD-precinct 7
+46|125|0VTD-8|VTD-precinct 8|VTD-precinct 8
+46|127|0VTD-1|VTD-precinct 1|VTD-precinct 1
+46|127|0VTD-3|VTD-precinct 3|VTD-precinct 3
+46|127|0VTD-4|VTD-precinct 4|VTD-precinct 4
+46|127|0VTD-5|VTD precinct 5|VTD precinct 5
+46|127|0VTD-7|VTD-precinct 7|VTD-precinct 7
+46|127|0VTD-8|VTD-precinct 8|VTD-precinct 8
+46|127|0VTD-9|VTD-precinct 9|VTD-precinct 9
+46|127|VTD-10|VTD-precinct 10|VTD-precinct 10
+46|127|VTD-11|VTD precinct 11|VTD precinct 11
+46|127|VTD-12|VTD precinct 12|VTD precinct 12
+46|127|VTD-13|VTD - 13|VTD - 13
+46|127|VTD-A1|VTD - Alcester ward 1 (part of precinct 2)|VTD - Alcester ward 1 (part of precinct 2)
+46|127|VTD-A2|VTD - Alcester ward 2 (part of precinct 2)|VTD - Alcester ward 2 (part of precinct 2)
+46|127|VTD-A3|VTD - Alcester ward 3 (part of precinct 2)|VTD - Alcester ward 3 (part of precinct 2)
+46|127|VTD-B1|VTD - Beresford ward 1 (part of precinct 6)|VTD - Beresford ward 1 (part of precinct 6)
+46|127|VTD-B2|VTD - Beresford ward 2 (part of precinct 6)|VTD - Beresford ward 2 (part of precinct 6)
+46|127|VTD-B3|VTD - Beresford ward 3 (part of precinct 6)|VTD - Beresford ward 3 (part of precinct 6)
+46|129|VTD-01|VTD-precinct 01|VTD-precinct 01
+46|129|VTD-02|VTD-precinct 02|VTD-precinct 02
+46|129|VTD-03|VTD-precinct 03|VTD-precinct 03
+46|129|VTD-04|VTD-precinct 04|VTD-precinct 04
+46|129|VTD-05|VTD-precinct 05|VTD-precinct 05
+46|129|VTD-06|VTD-precinct 06|VTD-precinct 06
+46|129|VTD-07|VTD-precinct 07|VTD-precinct 07
+46|129|VTD-08|VTD-precinct 08|VTD-precinct 08
+46|129|VTD-09|VTD-precinct 09|VTD-precinct 09
+46|129|VTD-10|VTD-precinct 10|VTD-precinct 10
+46|135|0VTD-1|VTD- Yankton|VTD- Yankton
+46|137|VTD-BR|VTD-precinct Bridger|VTD-precinct Bridger
+46|137|VTD-CC|VTD-precinct Cherry Creek|VTD-precinct Cherry Creek
+46|137|VTD-DV|VTD-precinct Davis|VTD-precinct Davis
+46|137|VTD-GV|VTD-precinct Glad Valley|VTD-precinct Glad Valley
+46|137|VTD-ND|VTD-precinct North Dupree|VTD-precinct North Dupree
+46|137|VTD-RD|VTD-precinct Redelm|VTD-precinct Redelm
+46|137|VTD-RS|VTD-precinct Red Scaffold|VTD-precinct Red Scaffold
+46|137|VTD-SD|VTD-precinct South Dupree|VTD-precinct South Dupree

@@ -1,0 +1,169 @@
+STATEFP|PLACEFP|NAME|NAMELSAD
+17|00178|Adair|Adair CDP
+17|00191|Adams|Adams CDP
+17|00594|Alden|Alden CDP
+17|00659|Alexander|Alexander CDP
+17|01517|Andres|Andres CDP
+17|01556|Annapolis|Annapolis CDP
+17|01647|Apple Canyon Lake|Apple Canyon Lake CDP
+17|01803|Arbury Hills|Arbury Hills CDP
+17|02050|Argyle|Argyle CDP
+17|03337|Baileyville|Baileyville CDP
+17|03987|Barstow|Barstow CDP
+17|04403|Beason|Beason CDP
+17|05729|Beverly|Beverly CDP
+17|05859|Big Foot Prairie|Big Foot Prairie CDP
+17|06444|Blairsville|Blairsville CDP
+17|06565|Bloomfield|Bloomfield CDP
+17|07276|Bonnie Brae|Bonnie Brae CDP
+17|07315|Boody|Boody CDP
+17|07419|Boulder Hill|Boulder Hill CDP
+17|09499|Buffalo Prairie|Buffalo Prairie CDP
+17|10006|Burton|Burton CDP
+17|10045|Burtons Bridge|Burtons Bridge CDP
+17|10305|Cable|Cable CDP
+17|10747|Cameron|Cameron CDP
+17|10786|Campbell's Island|Campbell's Island CDP
+17|10936|Candlewick Lake|Candlewick Lake CDP
+17|11267|Carman|Carman CDP
+17|12489|Channel Lake|Channel Lake CDP
+17|12879|Chemung|Chemung CDP
+17|13230|Chestnut|Chestnut CDP
+17|15950|Como|Como CDP
+17|16301|Coral|Coral CDP
+17|16431|Cornland|Cornland CDP
+17|17077|Coyne Center|Coyne Center CDP
+17|17094|Crab Orchard|Crab Orchard CDP
+17|17939|Crystal Lawns|Crystal Lawns CDP
+17|18212|Custer Park|Custer Park CDP
+17|18641|Darmstadt|Darmstadt CDP
+17|18771|Dayton|Dayton CDP
+17|19746|Dewey|Dewey CDP
+17|21020|Dundas|Dundas CDP
+17|21475|Eagle Lake|Eagle Lake CDP
+17|22021|East Lynn|East Lynn CDP
+17|22619|Edgington|Edgington CDP
+17|23139|Eliza|Eliza CDP
+17|23919|Elwin|Elwin CDP
+17|24920|Fairmont|Fairmont CDP
+17|25245|Fall Creek|Fall Creek CDP
+17|26467|Floraville|Floraville CDP
+17|26896|Forest Lake|Forest Lake CDP
+17|27377|Fowler|Fowler CDP
+17|27455|Fox Lake Hills|Fox Lake Hills CDP
+17|27644|Frankfort Square|Frankfort Square CDP
+17|27728|Franklinville|Franklinville CDP
+17|28248|Gages Lake|Gages Lake CDP
+17|28404|Galt|Galt CDP
+17|28612|Garden Prairie|Garden Prairie CDP
+17|28950|Georgetown|Georgetown CDP
+17|29340|Gilson|Gilson CDP
+17|30419|Goodenow|Goodenow CDP
+17|30510|Goofy Ridge|Goofy Ridge CDP
+17|30705|Grand Detour|Grand Detour CDP
+17|30900|Grandwood Park|Grandwood Park CDP
+17|32473|Hamlet|Hamlet CDP
+17|32876|Harding|Harding CDP
+17|33019|Harmony|Harmony CDP
+17|33162|Harrison|Harrison CDP
+17|33292|Hartland|Hartland CDP
+17|34272|Heritage Lake|Heritage Lake CDP
+17|35463|Holcomb|Holcomb CDP
+17|35541|Holiday Shores|Holiday Shores CDP
+17|37062|Illinois City|Illinois City CDP
+17|37465|Ingalls Park|Ingalls Park CDP
+17|38232|Janesville|Janesville CDP
+17|38726|Joslin|Joslin CDP
+17|39987|Kings|Kings CDP
+17|40052|Kingston|Kingston CDP
+17|40364|Knollwood|Knollwood CDP
+17|40520|La Clede|La Clede CDP
+17|40962|Lake Camelot|Lake Camelot CDP
+17|40980|Lake Carroll|Lake Carroll CDP
+17|40988|Lake Catherine|Lake Catherine CDP
+17|41040|Lake City|Lake City CDP
+17|41157|Lake Holiday|Lake Holiday CDP
+17|41346|Lake of the Woods|Lake of the Woods CDP
+17|41404|Lake Petersburg|Lake Petersburg CDP
+17|41456|Lake Summerset|Lake Summerset CDP
+17|41677|Lakewood|Lakewood CDP
+17|41716|Lakewood Shores|Lakewood Shores CDP
+17|41950|Lane|Lane CDP
+17|42002|Langleyville|Langleyville CDP
+17|42067|LaPlace|LaPlace CDP
+17|42392|Lawrence|Lawrence CDP
+17|42600|Lee Center|Lee Center CDP
+17|43978|Literberry|Literberry CDP
+17|44244|Lockport Heights|Lockport Heights CDP
+17|44550|Long Lake|Long Lake CDP
+17|44784|Lorenzo|Lorenzo CDP
+17|44836|Lost Nation|Lost Nation CDP
+17|45109|Lowpoint|Lowpoint CDP
+17|45343|Lynn Center|Lynn Center CDP
+17|46734|Marcelline|Marcelline CDP
+17|47046|Marley|Marley CDP
+17|48567|Merritt|Merritt CDP
+17|48684|Meyer|Meyer CDP
+17|49243|Millersburg|Millersburg CDP
+17|49698|Mitchell|Mitchell CDP
+17|50452|Moro|Moro CDP
+17|50699|Mossville|Mossville CDP
+17|51310|Mulkeytown|Mulkeytown CDP
+17|51544|Nachusa|Nachusa CDP
+17|51934|Nekoma|Nekoma CDP
+17|53078|Niota|Niota CDP
+17|54924|Oak Run|Oak Run CDP
+17|55847|Olive Branch|Olive Branch CDP
+17|55886|Olivet|Olivet CDP
+17|56198|Opdyke|Opdyke CDP
+17|56211|Ophiem|Ophiem CDP
+17|56796|Osco|Osco CDP
+17|57121|Oxville|Oxville CDP
+17|57160|Paderborn|Paderborn CDP
+17|57342|Paloma|Paloma CDP
+17|58577|Penfield|Penfield CDP
+17|60144|Pistakee Highlands|Pistakee Highlands CDP
+17|60826|Plum Valley|Plum Valley CDP
+17|61743|Prairietown|Prairietown CDP
+17|61782|Preemption|Preemption CDP
+17|61821|Prestbury|Prestbury CDP
+17|61860|Preston Heights|Preston Heights CDP
+17|63355|Rentchler|Rentchler CDP
+17|63382|Rest Haven|Rest Haven CDP
+17|63537|Richfield|Richfield CDP
+17|63875|Ridgefield|Ridgefield CDP
+17|64005|Ridgewood|Ridgewood CDP
+17|64083|Riggston|Riggston CDP
+17|64094|Riley|Riley CDP
+17|64239|Ritchie|Ritchie CDP
+17|65104|Rock Island Arsenal|Rock Island Arsenal CDP
+17|65130|Rockport|Rockport CDP
+17|65403|Rome|Rome CDP
+17|65884|Rosewood Heights|Rosewood Heights CDP
+17|68328|Scott AFB|Scott AFB CDP
+17|68679|Serena|Serena CDP
+17|68809|Seymour|Seymour CDP
+17|69628|Shirley|Shirley CDP
+17|70278|Smithville|Smithville CDP
+17|70356|Solon Mills|Solon Mills CDP
+17|73872|Sunnyland|Sunnyland CDP
+17|74145|Swedona|Swedona CDP
+17|74548|Taylor Ridge|Taylor Ridge CDP
+17|74970|The Galena Territory|The Galena Territory CDP
+17|76017|Trilla|Trilla CDP
+17|76082|Triumph|Triumph CDP
+17|76108|Trivoli|Trivoli CDP
+17|76511|Twin Grove|Twin Grove CDP
+17|76875|Unity|Unity CDP
+17|77460|Venetian Village|Venetian Village CDP
+17|79618|Wedron|Wedron CDP
+17|80255|Westervelt|Westervelt CDP
+17|80570|Westlake Village|Westlake Village CDP
+17|80580|West Liberty|West Liberty CDP
+17|80879|West Union|West Union CDP
+17|80957|West York|West York CDP
+17|81165|Whiteash|Whiteash CDP
+17|81295|White Heath|White Heath CDP
+17|81938|Willowbrook|Willowbrook CDP
+17|82029|Willow Lake|Willow Lake CDP
+17|82257|Wilton Center|Wilton Center CDP

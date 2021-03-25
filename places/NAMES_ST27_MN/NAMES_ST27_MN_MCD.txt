@@ -1,0 +1,2762 @@
+STATEFP|COUNTYFP|COUSUBFP|NAME|NAMELSAD
+27|001|00460|Aitkin|Aitkin city
+27|001|00478|Aitkin|Aitkin township
+27|001|03358|Ball Bluff|Ball Bluff township
+27|001|03412|Balsam|Balsam township
+27|001|04384|Beaver|Beaver township
+27|001|11620|Clark|Clark township
+27|001|13330|Cornish|Cornish township
+27|001|14903|Davidson|Davidson UT
+27|001|20654|Farm Island|Farm Island township
+27|001|21230|Fleming|Fleming township
+27|001|23930|Glen|Glen township
+27|001|27602|Haugen|Haugen township
+27|001|28052|Hazelton|Hazelton township
+27|001|29096|Hill City|Hill City city
+27|001|29114|Hill Lake|Hill Lake township
+27|001|30788|Idun|Idun township
+27|001|31958|Jevne|Jevne township
+27|001|31966|Jewett|Jewett UT
+27|001|33218|Kimberly|Kimberly township
+27|001|34982|Lakeside|Lakeside township
+27|001|36152|Lee|Lee township
+27|001|36908|Libby|Libby township
+27|001|37844|Logan|Logan township
+27|001|38996|McGrath|McGrath city
+27|001|39014|McGregor|McGregor city
+27|001|39032|McGregor|McGregor township
+27|001|39212|Macville|Macville township
+27|001|39590|Malmo|Malmo township
+27|001|42300|Millward|Millward township
+27|001|44278|Morrison|Morrison township
+27|001|46546|Nordland|Nordland township
+27|001|46890|Northeast Aitkin|Northeast Aitkin UT
+27|001|47342|Northwest Aitkin|Northwest Aitkin UT
+27|001|49498|Palisade|Palisade city
+27|001|51694|Pliny|Pliny township
+27|001|54106|Rice River|Rice River township
+27|001|58270|Salo|Salo township
+27|001|59134|Seavey|Seavey township
+27|001|59368|Shamrock|Shamrock township
+27|001|61546|Spalding|Spalding township
+27|001|61654|Spencer|Spencer township
+27|001|64156|Tamarack|Tamarack city
+27|001|65722|Turner|Turner township
+27|001|66748|Verdon|Verdon township
+27|001|67540|Wagner|Wagner township
+27|001|68692|Waukenabo|Waukenabo township
+27|001|68872|Wealthwood|Wealthwood township
+27|001|70132|White Pine|White Pine township
+27|001|70384|Williams|Williams township
+27|001|71716|Workman|Workman township
+27|003|01486|Andover|Andover city
+27|003|01720|Anoka|Anoka city
+27|003|05554|Bethel|Bethel city
+27|003|06382|Blaine|Blaine city
+27|003|10648|Centerville|Centerville city
+27|003|11494|Circle Pines|Circle Pines city
+27|003|12700|Columbia Heights|Columbia Heights city
+27|003|12718|Columbus|Columbus city
+27|003|13114|Coon Rapids|Coon Rapids city
+27|003|17486|East Bethel|East Bethel city
+27|003|22814|Fridley|Fridley city
+27|003|26738|Ham Lake|Ham Lake city
+27|003|29258|Hilltop|Hilltop city
+27|003|36836|Lexington|Lexington city
+27|003|37322|Lino Lakes|Lino Lakes city
+27|003|37376|Linwood|Linwood township
+27|003|47536|Nowthen|Nowthen city
+27|003|47690|Oak Grove|Oak Grove city
+27|003|53026|Ramsey|Ramsey city
+27|003|56950|St. Francis|St. Francis city
+27|003|61996|Spring Lake Park|Spring Lake Park city
+27|005|02674|Atlanta|Atlanta township
+27|005|02728|Audubon|Audubon city
+27|005|02746|Audubon|Audubon township
+27|005|08686|Burlington|Burlington township
+27|005|09280|Callaway|Callaway city
+27|005|09298|Callaway|Callaway township
+27|005|10126|Carsonville|Carsonville township
+27|005|13294|Cormorant|Cormorant township
+27|005|14230|Cuba|Cuba township
+27|005|15814|Detroit|Detroit township
+27|005|15832|Detroit Lakes|Detroit Lakes city
+27|005|17455|Eagle View|Eagle View township
+27|005|19646|Erie|Erie township
+27|005|20006|Evergreen|Evergreen township
+27|005|21671|Forest|Forest township
+27|005|22472|Frazee|Frazee city
+27|005|25820|Green Valley|Green Valley township
+27|005|26684|Hamden|Hamden township
+27|005|28250|Height of Land|Height of Land township
+27|005|29816|Holmesville|Holmesville township
+27|005|34298|Lake Eunice|Lake Eunice township
+27|005|34784|Lake Park|Lake Park city
+27|005|34802|Lake Park|Lake Park township
+27|005|35144|Lake View|Lake View township
+27|005|40130|Maple Grove|Maple Grove township
+27|005|48130|Ogema|Ogema city
+27|005|48778|Osage|Osage township
+27|005|51244|Pine Point|Pine Point township
+27|005|54142|Riceville|Riceville township
+27|005|54376|Richwood|Richwood township
+27|005|56050|Round Lake|Round Lake township
+27|005|56248|Runeberg|Runeberg township
+27|005|58756|Savannah|Savannah township
+27|005|59512|Shell Lake|Shell Lake township
+27|005|60430|Silver Leaf|Silver Leaf township
+27|005|61762|Spring Creek|Spring Creek township
+27|005|62212|Spruce Grove|Spruce Grove township
+27|005|63256|Sugar Bush|Sugar Bush township
+27|005|65002|Toad Lake|Toad Lake township
+27|005|66010|Two Inlets|Two Inlets township
+27|005|67954|Walworth|Walworth township
+27|005|70024|White Earth|White Earth township
+27|005|71338|Wolf Lake|Wolf Lake city
+27|005|71356|Wolf Lake|Wolf Lake township
+27|007|00586|Alaska|Alaska township
+27|007|03952|Battle|Battle township
+27|007|05068|Bemidji|Bemidji city
+27|007|05086|Bemidji|Bemidji township
+27|007|05284|Benville|Benville township
+27|007|05914|Birch|Birch township
+27|007|06256|Blackduck|Blackduck city
+27|007|07918|Brook Lake|Brook Lake UT
+27|007|09082|Buzzle|Buzzle township
+27|007|13258|Cormant|Cormant township
+27|007|17234|Durand|Durand township
+27|007|17954|Eckles|Eckles township
+27|007|22886|Frohn|Frohn township
+27|007|22976|Funkley|Funkley city
+27|007|25352|Grant Valley|Grant Valley township
+27|007|26468|Hagali|Hagali township
+27|007|26900|Hamre|Hamre township
+27|007|29348|Hines|Hines township
+27|007|30194|Hornet|Hornet township
+27|007|32120|Jones|Jones township
+27|007|32606|Kelliher|Kelliher city
+27|007|32624|Kelliher|Kelliher township
+27|007|35324|Lammers|Lammers township
+27|007|35540|Langor|Langor township
+27|007|36170|Lee|Lee township
+27|007|36926|Liberty|Liberty township
+27|007|38335|Lower Red Lake|Lower Red Lake UT
+27|007|40274|Maple Ridge|Maple Ridge township
+27|007|43360|Minnie|Minnie township
+27|007|43936|Moose Lake|Moose Lake township
+27|007|45088|Nebish|Nebish township
+27|007|46770|North Beltrami|North Beltrami UT
+27|007|46906|Northern|Northern township
+27|007|48040|O'Brien|O'Brien township
+27|007|52162|Port Hope|Port Hope township
+27|007|52828|Quiring|Quiring township
+27|007|55402|Roosevelt|Roosevelt township
+27|007|59926|Shooks|Shooks township
+27|007|60070|Shotley|Shotley township
+27|007|60079|Shotley Brook|Shotley Brook UT
+27|007|61114|Solway|Solway city
+27|007|62230|Spruce Grove|Spruce Grove township
+27|007|62680|Steenerson|Steenerson township
+27|007|63274|Sugar Bush|Sugar Bush township
+27|007|63328|Summit|Summit township
+27|007|64291|Taylor|Taylor township
+27|007|64390|Ten Lake|Ten Lake township
+27|007|64444|Tenstrike|Tenstrike city
+27|007|65758|Turtle Lake|Turtle Lake township
+27|007|65794|Turtle River|Turtle River city
+27|007|65812|Turtle River|Turtle River township
+27|007|66307|Upper Red Lake|Upper Red Lake UT
+27|007|68440|Waskish|Waskish township
+27|007|70708|Wilton|Wilton city
+27|007|71590|Woodrow|Woodrow township
+27|009|00668|Alberta|Alberta township
+27|009|21536|Foley|Foley city
+27|009|23804|Gilman|Gilman city
+27|009|23822|Gilmanton|Gilmanton township
+27|009|24020|Glendorado|Glendorado township
+27|009|24812|Graham|Graham township
+27|009|25298|Granite Ledge|Granite Ledge township
+27|009|35522|Langola|Langola township
+27|009|41192|Mayhew Lake|Mayhew Lake township
+27|009|41264|Maywood|Maywood township
+27|009|42434|Minden|Minden township
+27|009|53998|Rice|Rice city
+27|009|56176|Royalton|Royalton city
+27|009|56896|St. Cloud|St. Cloud city
+27|009|56986|St. George|St. George township
+27|009|58612|Sartell|Sartell city
+27|009|58684|Sauk Rapids|Sauk Rapids city
+27|009|58702|Sauk Rapids|Sauk Rapids township
+27|009|68476|Watab|Watab township
+27|011|00532|Akron|Akron township
+27|011|01126|Almond|Almond township
+27|011|02350|Artichoke|Artichoke township
+27|011|03718|Barry|Barry city
+27|011|04204|Beardsley|Beardsley city
+27|011|05788|Big Stone|Big Stone township
+27|011|08182|Browns Valley|Browns Valley township
+27|011|11980|Clinton|Clinton city
+27|011|13384|Correll|Correll city
+27|011|22058|Foster|Foster township
+27|011|24758|Graceville|Graceville city
+27|011|24776|Graceville|Graceville township
+27|011|32012|Johnson|Johnson city
+27|011|39608|Malta|Malta township
+27|011|43828|Moonshine|Moonshine township
+27|011|48058|Odessa|Odessa city
+27|011|48076|Odessa|Odessa township
+27|011|48706|Ortonville|Ortonville city
+27|011|48724|Ortonville|Ortonville township
+27|011|49120|Otrey|Otrey township
+27|011|52576|Prior|Prior township
+27|011|65200|Toqua|Toqua township
+27|013|01324|Amboy|Amboy city
+27|013|04330|Beauford|Beauford township
+27|013|09046|Butternut Valley|Butternut Valley township
+27|013|09352|Cambria|Cambria township
+27|013|10756|Ceresco|Ceresco township
+27|013|14752|Danville|Danville township
+27|013|15130|Decoria|Decoria township
+27|013|17378|Eagle Lake|Eagle Lake city
+27|013|23102|Garden City|Garden City township
+27|013|24506|Good Thunder|Good Thunder city
+27|013|31688|Jamestown|Jamestown township
+27|013|32210|Judson|Judson township
+27|013|34190|Lake Crystal|Lake Crystal city
+27|013|36584|Le Ray|Le Ray township
+27|013|37052|Lime|Lime township
+27|013|37124|Lincoln|Lincoln township
+27|013|38870|Lyra|Lyra township
+27|013|39176|McPherson|McPherson township
+27|013|39320|Madison Lake|Madison Lake city
+27|013|39878|Mankato|Mankato city
+27|013|39896|Mankato|Mankato township
+27|013|40310|Mapleton|Mapleton city
+27|013|40328|Mapleton|Mapleton township
+27|013|41498|Medo|Medo township
+27|013|43198|Minnesota Lake|Minnesota Lake city
+27|013|47068|North Mankato|North Mankato city
+27|013|50200|Pemberton|Pemberton city
+27|013|51604|Pleasant Mound|Pleasant Mound township
+27|013|53206|Rapidan|Rapidan township
+27|013|56824|St. Clair|St. Clair city
+27|013|59458|Shelby|Shelby township
+27|013|60754|Skyline|Skyline city
+27|013|61240|South Bend|South Bend township
+27|013|62716|Sterling|Sterling township
+27|013|66910|Vernon Center|Vernon Center city
+27|013|66928|Vernon Center|Vernon Center township
+27|015|00748|Albin|Albin township
+27|015|03826|Bashaw|Bashaw township
+27|015|08776|Burnstown|Burnstown township
+27|015|12394|Cobden|Cobden city
+27|015|12772|Comfrey|Comfrey city
+27|015|13546|Cottonwood|Cottonwood township
+27|015|18026|Eden|Eden township
+27|015|19880|Evan|Evan city
+27|015|27008|Hanska|Hanska city
+27|015|29960|Home|Home township
+27|015|34442|Lake Hanska|Lake Hanska township
+27|015|36116|Leavenworth|Leavenworth township
+27|015|37214|Linden|Linden township
+27|015|42182|Milford|Milford township
+27|015|44746|Mulligan|Mulligan township
+27|015|46042|New Ulm|New Ulm city
+27|015|47248|North Star|North Star township
+27|015|52342|Prairieville|Prairieville township
+27|015|60160|Sigel|Sigel township
+27|015|60844|Sleepy Eye|Sleepy Eye city
+27|015|61816|Springfield|Springfield city
+27|015|62518|Stark|Stark township
+27|015|62590|Stately|Stately township
+27|017|02656|Atkinson|Atkinson township
+27|017|03016|Automba|Automba township
+27|017|03628|Barnum|Barnum city
+27|017|03646|Barnum|Barnum township
+27|017|05518|Beseman|Beseman township
+27|017|06328|Blackhoof|Blackhoof township
+27|017|10018|Carlton|Carlton city
+27|017|11750|Clear Creek|Clear Creek UT
+27|017|12160|Cloquet|Cloquet city
+27|017|13780|Cromwell|Cromwell city
+27|017|17332|Eagle|Eagle township
+27|017|29942|Holyoke|Holyoke township
+27|017|32264|Kalevala|Kalevala township
+27|017|32966|Kettle River|Kettle River city
+27|017|35162|Lakeview|Lakeview township
+27|017|39464|Mahtowa|Mahtowa township
+27|017|43954|Moose Lake|Moose Lake city
+27|017|43972|Moose Lake|Moose Lake township
+27|017|46820|North Carlton|North Carlton UT
+27|017|50446|Perch Lake|Perch Lake township
+27|017|58936|Scanlon|Scanlon city
+27|017|60232|Silver|Silver township
+27|017|60268|Silver Brook|Silver Brook township
+27|017|60664|Skelton|Skelton township
+27|017|61708|Split Rock|Split Rock township
+27|017|64768|Thomson|Thomson township
+27|017|65902|Twin Lakes|Twin Lakes township
+27|017|71788|Wrenshall|Wrenshall city
+27|017|71806|Wrenshall|Wrenshall township
+27|017|71824|Wright|Wright city
+27|019|05266|Benton|Benton township
+27|019|09406|Camden|Camden township
+27|019|10144|Carver|Carver city
+27|019|10918|Chanhassen|Chanhassen city
+27|019|10972|Chaska|Chaska city
+27|019|12664|Cologne|Cologne city
+27|019|14482|Dahlgren|Dahlgren township
+27|019|26666|Hamburg|Hamburg city
+27|019|26918|Hancock|Hancock township
+27|019|29726|Hollywood|Hollywood township
+27|019|35108|Laketown|Laketown township
+27|019|41138|Mayer|Mayer city
+27|019|45556|New Germany|New Germany city
+27|019|47520|Norwood Young America|Norwood Young America city
+27|019|58486|San Francisco|San Francisco township
+27|019|60016|Shorewood|Shorewood city
+27|019|67036|Victoria|Victoria city
+27|019|67432|Waconia|Waconia city
+27|019|67450|Waconia|Waconia township
+27|019|68548|Watertown|Watertown city
+27|019|68566|Watertown|Watertown township
+27|019|72130|Young America|Young America township
+27|021|01738|Ansel|Ansel township
+27|021|03124|Backus|Backus city
+27|021|03538|Barclay|Barclay township
+27|021|04600|Becker|Becker township
+27|021|05104|Bena|Bena city
+27|021|05572|Beulah|Beulah township
+27|021|06040|Birch Lake|Birch Lake township
+27|021|06454|Blind Lake|Blind Lake township
+27|021|07156|Boy Lake|Boy Lake township
+27|021|07174|Boy River|Boy River city
+27|021|07192|Boy River|Boy River township
+27|021|08560|Bull Moose|Bull Moose township
+27|021|08596|Bungo|Bungo township
+27|021|09136|Byron|Byron township
+27|021|10252|Cass Lake|Cass Lake city
+27|021|11296|Chickamaw Beach|Chickamaw Beach city
+27|021|13834|Crooked Lake|Crooked Lake township
+27|021|15220|Deerfield|Deerfield township
+27|021|17495|East Cass|East Cass UT
+27|021|17630|East Gull Lake|East Gull Lake city
+27|021|20366|Fairview|Fairview township
+27|021|20798|Federal Dam|Federal Dam city
+27|021|24686|Gould|Gould township
+27|021|26378|Hackensack|Hackensack city
+27|021|29366|Hiram|Hiram township
+27|021|29978|Home Brook|Home Brook township
+27|021|30986|Inguadona|Inguadona township
+27|021|32588|Kego|Kego township
+27|021|34928|Lake Shore|Lake Shore city
+27|021|36224|Leech Lake|Leech Lake township
+27|021|37034|Lima|Lima township
+27|021|38114|Longville|Longville city
+27|021|38168|Loon Lake|Loon Lake township
+27|021|39104|McKinley|McKinley township
+27|021|40076|Maple|Maple township
+27|021|41102|May|May township
+27|021|41354|Meadow Brook|Meadow Brook township
+27|021|43990|Moose Lake|Moose Lake township
+27|021|44422|Motley|Motley city
+27|021|46825|North Cass|North Cass UT
+27|021|46826|North Central Cass|North Central Cass UT
+27|021|49250|Otter Tail Peninsula|Otter Tail Peninsula township
+27|021|50848|Pike Bay|Pike Bay township
+27|021|50902|Pillager|Pillager city
+27|021|51172|Pine Lake|Pine Lake township
+27|021|51280|Pine River|Pine River city
+27|021|51298|Pine River|Pine River township
+27|021|51928|Ponto Lake|Ponto Lake township
+27|021|51964|Poplar|Poplar township
+27|021|52252|Powers|Powers township
+27|021|53782|Remer|Remer city
+27|021|53800|Remer|Remer township
+27|021|55168|Rogers|Rogers township
+27|021|58216|Salem|Salem township
+27|021|59872|Shingobee|Shingobee township
+27|021|60790|Slater|Slater township
+27|021|60970|Smoky Hollow|Smoky Hollow township
+27|021|63958|Sylvan|Sylvan township
+27|021|64876|Thunder Lake|Thunder Lake township
+27|021|65254|Torrey|Torrey township
+27|021|65434|Trelipe|Trelipe township
+27|021|65776|Turtle Lake|Turtle Lake township
+27|021|67414|Wabedo|Wabedo township
+27|021|67595|Wahnena|Wahnena UT
+27|021|67684|Walden|Walden township
+27|021|67792|Walker|Walker city
+27|021|70348|Wilkinson|Wilkinson township
+27|021|70654|Wilson|Wilson township
+27|021|71608|Woodrow|Woodrow township
+27|023|05608|Big Bend|Big Bend township
+27|023|11548|Clara City|Clara City city
+27|023|13672|Crate|Crate township
+27|023|24722|Grace|Grace township
+27|023|25262|Granite Falls|Granite Falls township
+27|023|25280|Granite Falls|Granite Falls city
+27|023|27656|Havelock|Havelock township
+27|023|33668|Kragero|Kragero township
+27|023|36278|Leenthrop|Leenthrop township
+27|023|37952|Lone Tree|Lone Tree township
+27|023|38312|Louriston|Louriston township
+27|023|39752|Mandt|Mandt township
+27|023|41210|Maynard|Maynard city
+27|023|42146|Milan|Milan city
+27|023|43720|Montevideo|Montevideo city
+27|023|53296|Raymond|Raymond city
+27|023|53962|Rheiderland|Rheiderland township
+27|023|55870|Rosewood|Rosewood township
+27|023|61582|Sparta|Sparta township
+27|023|62950|Stoneham|Stoneham township
+27|023|65704|Tunsberg|Tunsberg township
+27|023|68656|Watson|Watson city
+27|023|71626|Woods|Woods township
+27|025|01306|Amador|Amador township
+27|025|10576|Center City|Center City city
+27|025|11350|Chisago City|Chisago City city
+27|025|11368|Chisago Lake|Chisago Lake township
+27|025|21194|Fish Lake|Fish Lake township
+27|025|22310|Franconia|Franconia township
+27|025|27278|Harris|Harris city
+27|025|36440|Lent|Lent township
+27|025|37304|Lindstrom|Lindstrom city
+27|025|45250|Nessel|Nessel township
+27|025|46798|North Branch|North Branch city
+27|025|56266|Rush City|Rush City city
+27|025|56392|Rushseba|Rushseba township
+27|025|59314|Shafer|Shafer city
+27|025|59332|Shafer|Shafer township
+27|025|62320|Stacy|Stacy city
+27|025|63616|Sunrise|Sunrise township
+27|025|64318|Taylors Falls|Taylors Falls city
+27|025|72022|Wyoming|Wyoming city
+27|027|01054|Alliance|Alliance township
+27|027|03574|Barnesville|Barnesville city
+27|027|03592|Barnesville|Barnesville township
+27|027|12862|Comstock|Comstock city
+27|027|13798|Cromwell|Cromwell township
+27|027|15976|Dilworth|Dilworth city
+27|027|18314|Eglon|Eglon township
+27|027|18710|Elkton|Elkton township
+27|027|19052|Elmwood|Elmwood township
+27|027|20834|Felton|Felton city
+27|027|20852|Felton|Felton township
+27|027|21482|Flowing|Flowing township
+27|027|23498|Georgetown|Georgetown city
+27|027|23516|Georgetown|Georgetown township
+27|027|24182|Glyndon|Glyndon city
+27|027|24200|Glyndon|Glyndon township
+27|027|24542|Goose Prairie|Goose Prairie township
+27|027|26504|Hagen|Hagen township
+27|027|27746|Hawley|Hawley city
+27|027|27764|Hawley|Hawley township
+27|027|28988|Highland Grove|Highland Grove township
+27|027|29402|Hitterdal|Hitterdal city
+27|027|29906|Holy Cross|Holy Cross township
+27|027|30428|Humboldt|Humboldt township
+27|027|32552|Keene|Keene township
+27|027|33704|Kragnes|Kragnes township
+27|027|33812|Kurtz|Kurtz township
+27|027|43576|Moland|Moland township
+27|027|43864|Moorhead|Moorhead city
+27|027|43882|Moorhead|Moorhead township
+27|027|44170|Morken|Morken township
+27|027|47932|Oakport|Oakport township
+27|027|49678|Parke|Parke township
+27|027|54718|Riverton|Riverton township
+27|027|56554|Sabin|Sabin city
+27|027|60718|Skree|Skree township
+27|027|62032|Spring Prairie|Spring Prairie township
+27|027|64192|Tansem|Tansem township
+27|027|66136|Ulen|Ulen city
+27|027|66154|Ulen|Ulen township
+27|027|67054|Viding|Viding township
+27|029|03196|Bagley|Bagley city
+27|029|04186|Bear Creek|Bear Creek township
+27|029|11746|Clearbrook|Clearbrook city
+27|029|12214|Clover|Clover township
+27|029|13150|Copley|Copley township
+27|029|16462|Dudley|Dudley township
+27|029|18008|Eddy|Eddy township
+27|029|20438|Falk|Falk township
+27|029|24344|Gonvick|Gonvick city
+27|029|25910|Greenwood|Greenwood township
+27|029|26954|Hangaard|Hangaard township
+27|029|29834|Holst|Holst township
+27|029|31508|Itasca|Itasca township
+27|029|35630|La Prairie|La Prairie township
+27|029|36458|Leon|Leon township
+27|029|36494|Leonard|Leonard city
+27|029|38042|Long Lost Lake|Long Lost Lake township
+27|029|42452|Minerva|Minerva township
+27|029|43918|Moose Creek|Moose Creek township
+27|029|46438|Nora|Nora township
+27|029|46830|North Clearwater|North Clearwater UT
+27|029|51190|Pine Lake|Pine Lake township
+27|029|52018|Popple|Popple township
+27|029|54016|Rice|Rice township
+27|029|59782|Shevlin|Shevlin city
+27|029|59800|Shevlin|Shevlin township
+27|029|60502|Sinclair|Sinclair township
+27|029|61303|South Clearwater|South Clearwater UT
+27|029|71068|Winsor|Winsor township
+27|031|00000|County subdivisions not defined|County subdivisions not defined
+27|031|17531|East Cook|East Cook UT
+27|031|24992|Grand Marais|Grand Marais city
+27|031|25071|Grand Portage|Grand Portage UT
+27|031|38550|Lutsen|Lutsen township
+27|031|58999|Schroeder|Schroeder township
+27|031|65065|Tofte|Tofte township
+27|031|69307|West Cook|West Cook UT
+27|033|01342|Amboy|Amboy township
+27|033|01441|Amo|Amo township
+27|033|01666|Ann|Ann township
+27|033|05896|Bingham Lake|Bingham Lake city
+27|033|10108|Carson|Carson township
+27|033|12772|Comfrey|Comfrey city
+27|033|14608|Dale|Dale township
+27|033|15652|Delton|Delton township
+27|033|23570|Germantown|Germantown township
+27|033|25514|Great Bend|Great Bend township
+27|033|29060|Highwater|Highwater township
+27|033|31796|Jeffers|Jeffers city
+27|033|35000|Lakeside|Lakeside township
+27|033|42002|Midway|Midway township
+27|033|44566|Mountain Lake|Mountain Lake city
+27|033|44584|Mountain Lake|Mountain Lake township
+27|033|55672|Rose Hill|Rose Hill township
+27|033|59224|Selma|Selma township
+27|033|61294|Southbrook|Southbrook township
+27|033|61834|Springfield|Springfield township
+27|033|63022|Storden|Storden city
+27|033|63040|Storden|Storden township
+27|033|69250|Westbrook|Westbrook city
+27|033|69268|Westbrook|Westbrook township
+27|033|70798|Windom|Windom city
+27|035|04042|Baxter|Baxter city
+27|035|04096|Bay Lake|Bay Lake township
+27|035|07300|Brainerd|Brainerd city
+27|035|07516|Breezy Point|Breezy Point city
+27|035|10567|Center|Center township
+27|035|13924|Crosby|Crosby city
+27|035|13978|Crosslake|Crosslake city
+27|035|14122|Crow Wing|Crow Wing township
+27|035|14428|Cuyuna|Cuyuna city
+27|035|14464|Daggett Brook|Daggett Brook township
+27|035|15346|Deerwood|Deerwood city
+27|035|15364|Deerwood|Deerwood township
+27|035|19286|Emily|Emily city
+27|035|20240|Fairfield|Fairfield township
+27|035|21032|Fifty Lakes|Fifty Lakes city
+27|035|21149|First Assessment|First Assessment UT
+27|035|21932|Fort Ripley|Fort Ripley city
+27|035|21950|Fort Ripley|Fort Ripley township
+27|035|23012|Gail Lake|Gail Lake township
+27|035|23192|Garrison|Garrison city
+27|035|23210|Garrison|Garrison township
+27|035|30734|Ideal|Ideal township
+27|035|31202|Irondale|Irondale township
+27|035|31274|Ironton|Ironton city
+27|035|31832|Jenkins|Jenkins city
+27|035|31850|Jenkins|Jenkins township
+27|035|34207|Lake Edward|Lake Edward township
+27|035|37646|Little Pine|Little Pine township
+27|035|37988|Long Lake|Long Lake township
+27|035|39806|Manhattan Beach|Manhattan Beach city
+27|035|40148|Maple Grove|Maple Grove township
+27|035|43468|Mission|Mission township
+27|035|46348|Nisswa|Nisswa city
+27|035|46384|Nokay Lake|Nokay Lake township
+27|035|47824|Oak Lawn|Oak Lawn township
+27|035|50092|Pelican|Pelican township
+27|035|50416|Pequot Lakes|Pequot Lakes city
+27|035|50542|Perry Lake|Perry Lake township
+27|035|51496|Platte Lake|Platte Lake township
+27|035|52855|Rabbit Lake|Rabbit Lake township
+27|035|54736|Riverton|Riverton city
+27|035|55420|Roosevelt|Roosevelt township
+27|035|55978|Ross Lake|Ross Lake township
+27|035|57328|St. Mathias|St. Mathias township
+27|035|59161|Second Assessment|Second Assessment UT
+27|035|64930|Timothy|Timothy township
+27|035|65506|Trommald|Trommald city
+27|035|71374|Wolford|Wolford township
+27|037|01900|Apple Valley|Apple Valley city
+27|037|08794|Burnsville|Burnsville city
+27|037|10306|Castle Rock|Castle Rock township
+27|037|12376|Coates|Coates city
+27|037|16228|Douglas|Douglas township
+27|037|17288|Eagan|Eagan city
+27|037|19376|Empire|Empire township
+27|037|19871|Eureka|Eureka township
+27|037|20618|Farmington|Farmington city
+27|037|25802|Greenvale|Greenvale township
+27|037|26864|Hampton|Hampton city
+27|037|26882|Hampton|Hampton township
+27|037|27530|Hastings|Hastings city
+27|037|31076|Inver Grove Heights|Inver Grove Heights city
+27|037|35180|Lakeville|Lakeville city
+27|037|37016|Lilydale|Lilydale city
+27|037|40724|Marshan|Marshan township
+27|037|41678|Mendota|Mendota city
+27|037|41696|Mendota Heights|Mendota Heights city
+27|037|42092|Miesville|Miesville city
+27|037|46024|New Trier|New Trier city
+27|037|46330|Nininger|Nininger township
+27|037|46924|Northfield|Northfield city
+27|037|53098|Randolph|Randolph city
+27|037|53116|Randolph|Randolph township
+27|037|53260|Ravenna|Ravenna township
+27|037|55726|Rosemount|Rosemount city
+27|037|59008|Sciota|Sciota township
+27|037|61492|South St. Paul|South St. Paul city
+27|037|63544|Sunfish Lake|Sunfish Lake city
+27|037|66802|Vermillion|Vermillion city
+27|037|66820|Vermillion|Vermillion township
+27|037|68530|Waterford|Waterford township
+27|037|69700|West St. Paul|West St. Paul city
+27|039|02512|Ashland|Ashland township
+27|039|06580|Blooming Prairie|Blooming Prairie city
+27|039|09640|Canisteo|Canisteo township
+27|039|11566|Claremont|Claremont city
+27|039|11584|Claremont|Claremont township
+27|039|12934|Concord|Concord township
+27|039|15994|Dodge Center|Dodge Center city
+27|039|18764|Ellington|Ellington township
+27|039|27872|Hayfield|Hayfield city
+27|039|27890|Hayfield|Hayfield township
+27|039|32498|Kasson|Kasson city
+27|039|39986|Mantorville|Mantorville city
+27|039|40004|Mantorville|Mantorville township
+27|039|42380|Milton|Milton township
+27|039|54502|Ripley|Ripley township
+27|039|66892|Vernon|Vernon township
+27|039|68404|Wasioja|Wasioja township
+27|039|69304|West Concord|West Concord city
+27|039|69448|Westfield|Westfield township
+27|041|00928|Alexandria|Alexandria city
+27|041|00946|Alexandria|Alexandria township
+27|041|04924|Belle River|Belle River township
+27|041|07336|Brandon|Brandon city
+27|041|07354|Brandon|Brandon township
+27|041|09964|Carlos|Carlos city
+27|041|09982|Carlos|Carlos township
+27|041|19898|Evansville|Evansville city
+27|041|19916|Evansville|Evansville township
+27|041|21608|Forada|Forada city
+27|041|23120|Garfield|Garfield city
+27|041|29798|Holmes City|Holmes City township
+27|041|30374|Hudson|Hudson township
+27|041|30716|Ida|Ida township
+27|041|32768|Kensington|Kensington city
+27|041|33992|La Grand|La Grand township
+27|041|34730|Lake Mary|Lake Mary township
+27|041|36062|Leaf Valley|Leaf Valley township
+27|041|38510|Lund|Lund township
+27|041|42254|Millerville|Millerville city
+27|041|42272|Millerville|Millerville township
+27|041|42398|Miltona|Miltona city
+27|041|42416|Miltona|Miltona township
+27|041|43558|Moe|Moe township
+27|041|45106|Nelson|Nelson city
+27|041|48472|Orange|Orange township
+27|041|48796|Osakis|Osakis city
+27|041|48814|Osakis|Osakis township
+27|041|61078|Solem|Solem township
+27|041|62248|Spruce Hill|Spruce Hill township
+27|041|66406|Urness|Urness township
+27|043|03520|Barber|Barber township
+27|043|06688|Blue Earth|Blue Earth city
+27|043|06706|Blue Earth City|Blue Earth City township
+27|043|07678|Bricelyn|Bricelyn city
+27|043|08380|Brush Creek|Brush Creek township
+27|043|11638|Clark|Clark township
+27|043|15472|Delavan|Delavan city
+27|043|15490|Delavan|Delavan township
+27|043|17108|Dunbar|Dunbar township
+27|043|17738|Easton|Easton city
+27|043|18998|Elmore|Elmore city
+27|043|19016|Elmore|Elmore township
+27|043|19268|Emerald|Emerald township
+27|043|22076|Foster|Foster township
+27|043|22940|Frost|Frost city
+27|043|31976|Jo Daviess|Jo Daviess township
+27|043|33056|Kiester|Kiester city
+27|043|33074|Kiester|Kiester township
+27|043|38528|Lura|Lura township
+27|043|43198|Minnesota Lake|Minnesota Lake city
+27|043|43216|Minnesota Lake|Minnesota Lake township
+27|043|50974|Pilot Grove|Pilot Grove township
+27|043|52432|Prescott|Prescott township
+27|043|55348|Rome|Rome township
+27|043|59206|Seely|Seely township
+27|043|66946|Verona|Verona township
+27|043|67864|Walnut Lake|Walnut Lake township
+27|043|67900|Walters|Walters city
+27|043|69106|Wells|Wells city
+27|043|70924|Winnebago|Winnebago city
+27|043|70978|Winnebago City|Winnebago City township
+27|045|01396|Amherst|Amherst township
+27|045|02098|Arendahl|Arendahl township
+27|045|04402|Beaver|Beaver township
+27|045|06544|Bloomfield|Bloomfield township
+27|045|07804|Bristol|Bristol township
+27|045|09802|Canton|Canton city
+27|045|09820|Canton|Canton township
+27|045|09910|Carimona|Carimona township
+27|045|10090|Carrolton|Carrolton township
+27|045|11008|Chatfield|Chatfield city
+27|045|11026|Chatfield|Chatfield township
+27|045|21068|Fillmore|Fillmore township
+27|045|21860|Forestville|Forestville township
+27|045|22094|Fountain|Fountain city
+27|045|22112|Fountain|Fountain township
+27|045|27188|Harmony|Harmony city
+27|045|27206|Harmony|Harmony township
+27|045|29852|Holt|Holt township
+27|045|32156|Jordan|Jordan township
+27|045|35450|Lanesboro|Lanesboro city
+27|045|38888|Mabel|Mabel city
+27|045|45466|Newburg|Newburg township
+27|045|47392|Norway|Norway township
+27|045|49030|Ostrander|Ostrander city
+27|045|50596|Peterson|Peterson city
+27|045|51010|Pilot Mound|Pilot Mound township
+27|045|52396|Preble|Preble township
+27|045|52450|Preston|Preston city
+27|045|52468|Preston|Preston township
+27|045|56284|Rushford|Rushford city
+27|045|56302|Rushford Village|Rushford Village city
+27|045|62104|Spring Valley|Spring Valley city
+27|045|62122|Spring Valley|Spring Valley township
+27|045|63418|Sumner|Sumner township
+27|045|69808|Whalan|Whalan city
+27|045|71950|Wykoff|Wykoff city
+27|045|72076|York|York township
+27|047|00694|Albert Lea|Albert Lea city
+27|047|00712|Albert Lea|Albert Lea township
+27|047|00838|Alden|Alden city
+27|047|00856|Alden|Alden township
+27|047|03466|Bancroft|Bancroft township
+27|047|03934|Bath|Bath township
+27|047|10000|Carlston|Carlston township
+27|047|11674|Clarks Grove|Clarks Grove city
+27|047|12952|Conger|Conger city
+27|047|19340|Emmons|Emmons city
+27|047|22526|Freeborn|Freeborn city
+27|047|22544|Freeborn|Freeborn township
+27|047|22634|Freeman|Freeman township
+27|047|23354|Geneva|Geneva city
+27|047|23372|Geneva|Geneva township
+27|047|24056|Glenville|Glenville city
+27|047|27404|Hartland|Hartland city
+27|047|27422|Hartland|Hartland township
+27|047|27944|Hayward|Hayward city
+27|047|27962|Hayward|Hayward township
+27|047|29636|Hollandale|Hollandale city
+27|047|37916|London|London township
+27|047|39716|Manchester|Manchester city
+27|047|39734|Manchester|Manchester township
+27|047|39950|Mansfield|Mansfield township
+27|047|44404|Moscow|Moscow township
+27|047|44890|Myrtle|Myrtle city
+27|047|45934|Newry|Newry township
+27|047|47608|Nunda|Nunda township
+27|047|47788|Oakland|Oakland township
+27|047|50722|Pickerel Lake|Pickerel Lake township
+27|047|54088|Riceland|Riceland township
+27|047|59548|Shell Rock|Shell Rock township
+27|047|65920|Twin Lakes|Twin Lakes city
+27|049|04798|Bellechester|Bellechester city
+27|049|04816|Belle Creek|Belle Creek township
+27|049|05032|Belvidere|Belvidere township
+27|049|09730|Cannon Falls|Cannon Falls city
+27|049|09748|Cannon Falls|Cannon Falls township
+27|049|11188|Cherry Grove|Cherry Grove township
+27|049|15706|Dennison|Dennison city
+27|049|20780|Featherstone|Featherstone township
+27|049|21392|Florence|Florence township
+27|049|24398|Goodhue|Goodhue city
+27|049|24416|Goodhue|Goodhue township
+27|049|27818|Hay Creek|Hay Creek township
+27|049|29546|Holden|Holden township
+27|049|32840|Kenyon|Kenyon city
+27|049|32858|Kenyon|Kenyon township
+27|049|34172|Lake City|Lake City city
+27|049|36476|Leon|Leon township
+27|049|43072|Minneola|Minneola township
+27|049|51136|Pine Island|Pine Island city
+27|049|51154|Pine Island|Pine Island township
+27|049|53620|Red Wing|Red Wing city
+27|049|55492|Roscoe|Roscoe township
+27|049|62428|Stanton|Stanton township
+27|049|66640|Vasa|Vasa township
+27|049|67486|Wacouta|Wacouta township
+27|049|67972|Wanamingo|Wanamingo city
+27|049|67990|Wanamingo|Wanamingo township
+27|049|68242|Warsaw|Warsaw township
+27|049|69052|Welch|Welch township
+27|049|72328|Zumbrota|Zumbrota city
+27|049|72346|Zumbrota|Zumbrota township
+27|051|02422|Ashby|Ashby city
+27|051|03682|Barrett|Barrett city
+27|051|15508|Delaware|Delaware township
+27|051|18458|Elbow Lake|Elbow Lake city
+27|051|18476|Elbow Lake|Elbow Lake township
+27|051|18620|Elk Lake|Elk Lake township
+27|051|19538|Erdahl|Erdahl township
+27|051|24650|Gorton|Gorton township
+27|051|28646|Herman|Herman city
+27|051|29474|Hoffman|Hoffman city
+27|051|35396|Land|Land township
+27|051|35882|Lawrence|Lawrence township
+27|051|36998|Lien|Lien township
+27|051|37862|Logan|Logan township
+27|051|39194|Macsville|Macsville township
+27|051|46492|Norcross|Norcross city
+27|051|47140|North Ottawa|North Ottawa township
+27|051|50128|Pelican Lake|Pelican Lake township
+27|051|51838|Pomme de Terre|Pomme de Terre township
+27|051|55816|Roseville|Roseville township
+27|051|58468|Sanford|Sanford township
+27|051|62986|Stony Brook|Stony Brook township
+27|051|69142|Wendell|Wendell city
+27|053|06616|Bloomington|Bloomington city
+27|053|07948|Brooklyn Center|Brooklyn Center city
+27|053|07966|Brooklyn Park|Brooklyn Park city
+27|053|10846|Champlin|Champlin city
+27|053|10918|Chanhassen|Chanhassen city
+27|053|13168|Corcoran|Corcoran city
+27|053|14158|Crystal|Crystal city
+27|053|15022|Dayton|Dayton city
+27|053|15148|Deephaven|Deephaven city
+27|053|18116|Eden Prairie|Eden Prairie city
+27|053|18188|Edina|Edina city
+27|053|20078|Excelsior|Excelsior city
+27|053|21965|Fort Snelling|Fort Snelling UT
+27|053|24308|Golden Valley|Golden Valley city
+27|053|25622|Greenfield|Greenfield city
+27|053|25918|Greenwood|Greenwood city
+27|053|26990|Hanover|Hanover city
+27|053|30140|Hopkins|Hopkins city
+27|053|30842|Independence|Independence city
+27|053|38006|Long Lake|Long Lake city
+27|053|38222|Loretto|Loretto city
+27|053|40166|Maple Grove|Maple Grove city
+27|053|40256|Maple Plain|Maple Plain city
+27|053|41462|Medicine Lake|Medicine Lake city
+27|053|41480|Medina|Medina city
+27|053|43000|Minneapolis|Minneapolis city
+27|053|43252|Minnetonka|Minnetonka city
+27|053|43270|Minnetonka Beach|Minnetonka Beach city
+27|053|43306|Minnetrista|Minnetrista city
+27|053|44476|Mound|Mound city
+27|053|45628|New Hope|New Hope city
+27|053|48580|Orono|Orono city
+27|053|49012|Osseo|Osseo city
+27|053|51730|Plymouth|Plymouth city
+27|053|54214|Richfield|Richfield city
+27|053|54808|Robbinsdale|Robbinsdale city
+27|053|55006|Rockford|Rockford city
+27|053|55186|Rogers|Rogers city
+27|053|56680|St. Anthony|St. Anthony city
+27|053|56770|St. Bonifacius|St. Bonifacius city
+27|053|57220|St. Louis Park|St. Louis Park city
+27|053|60016|Shorewood|Shorewood city
+27|053|62014|Spring Park|Spring Park city
+27|053|65164|Tonka Bay|Tonka Bay city
+27|053|68818|Wayzata|Wayzata city
+27|053|71500|Woodland|Woodland city
+27|055|06292|Black Hammer|Black Hammer township
+27|055|08218|Brownsville|Brownsville city
+27|055|08236|Brownsville|Brownsville township
+27|055|09226|Caledonia|Caledonia city
+27|055|09244|Caledonia|Caledonia township
+27|055|13816|Crooked Creek|Crooked Creek township
+27|055|18368|Eitzen|Eitzen city
+27|055|29510|Hokah|Hokah city
+27|055|29528|Hokah|Hokah township
+27|055|30230|Houston|Houston city
+27|055|30248|Houston|Houston township
+27|055|31814|Jefferson|Jefferson township
+27|055|33866|La Crescent|La Crescent city
+27|055|33884|La Crescent|La Crescent township
+27|055|41228|Mayville|Mayville township
+27|055|43648|Money Creek|Money Creek township
+27|055|44512|Mound Prairie|Mound Prairie township
+27|055|59494|Sheldon|Sheldon township
+27|055|61852|Spring Grove|Spring Grove city
+27|055|61870|Spring Grove|Spring Grove township
+27|055|66208|Union|Union township
+27|055|70564|Wilmington|Wilmington township
+27|055|70960|Winnebago|Winnebago township
+27|055|72166|Yucatan|Yucatan township
+27|057|00496|Akeley|Akeley city
+27|057|00514|Akeley|Akeley township
+27|057|01918|Arago|Arago township
+27|057|03178|Badoura|Badoura township
+27|057|11682|Clay|Clay township
+27|057|12232|Clover|Clover township
+27|057|14140|Crow Wing Lake|Crow Wing Lake township
+27|057|20528|Farden|Farden township
+27|057|20942|Fern|Fern township
+27|057|26360|Guthrie|Guthrie township
+27|057|27386|Hart Lake|Hart Lake township
+27|057|28340|Helga|Helga township
+27|057|28466|Hendrickson|Hendrickson township
+27|057|28556|Henrietta|Henrietta township
+27|057|30338|Hubbard|Hubbard township
+27|057|34046|Lake Alice|Lake Alice township
+27|057|34262|Lake Emma|Lake Emma township
+27|057|34388|Lake George|Lake George township
+27|057|34460|Lake Hattie|Lake Hattie township
+27|057|34838|Lakeport|Lakeport township
+27|057|35612|Laporte|Laporte city
+27|057|40022|Mantrap|Mantrap township
+27|057|45340|Nevis|Nevis city
+27|057|45358|Nevis|Nevis township
+27|057|49768|Park Rapids|Park Rapids city
+27|057|55132|Rockwood|Rockwood township
+27|057|58972|Schoolcraft|Schoolcraft township
+27|057|62618|Steamboat River|Steamboat River township
+27|057|63076|Straight River|Straight River township
+27|057|64804|Thorpe|Thorpe township
+27|057|65038|Todd|Todd township
+27|057|70114|White Oak|White Oak township
+27|059|02602|Athens|Athens township
+27|059|07246|Bradford|Bradford township
+27|059|07282|Braham|Braham city
+27|059|09370|Cambridge|Cambridge city
+27|059|09388|Cambridge|Cambridge township
+27|059|14572|Dalbo|Dalbo township
+27|059|31328|Isanti|Isanti city
+27|059|31346|Isanti|Isanti township
+27|059|40292|Maple Ridge|Maple Ridge township
+27|059|46816|North Branch|North Branch township
+27|059|49354|Oxford|Oxford township
+27|059|56950|St. Francis|St. Francis city
+27|059|61672|Spencer Brook|Spencer Brook township
+27|059|62086|Springvale|Springvale township
+27|059|62347|Stanchfield|Stanchfield township
+27|059|62374|Stanford|Stanford township
+27|059|71896|Wyanett|Wyanett township
+27|061|01288|Alvwood|Alvwood township
+27|061|01936|Arbo|Arbo township
+27|061|02044|Ardenhurst|Ardenhurst township
+27|061|03430|Balsam|Balsam township
+27|061|04276|Bearville|Bearville township
+27|061|05698|Bigfork|Bigfork city
+27|061|05716|Bigfork|Bigfork township
+27|061|06220|Blackberry|Blackberry township
+27|061|07048|Bovey|Bovey city
+27|061|07102|Bowstring|Bowstring township
+27|061|07105|Bowstring Lake|Bowstring Lake UT
+27|061|10072|Carpenter|Carpenter township
+27|061|12412|Cohasset|Cohasset city
+27|061|12502|Coleraine|Coleraine city
+27|061|15277|Deer Lake|Deer Lake UT
+27|061|15310|Deer River|Deer River city
+27|061|15328|Deer River|Deer River township
+27|061|18260|Effie|Effie city
+27|061|18265|Effie|Effie UT
+27|061|20816|Feeley|Feeley township
+27|061|24362|Good Hope|Good Hope township
+27|061|24452|Goodland|Goodland township
+27|061|25118|Grand Rapids|Grand Rapids city
+27|061|25460|Grattan|Grattan township
+27|061|25892|Greenway|Greenway township
+27|061|27296|Harris|Harris township
+27|061|32570|Keewatin|Keewatin city
+27|061|33272|Kinghurst|Kinghurst township
+27|061|34568|Lake Jessie|Lake Jessie township
+27|061|35648|La Prairie|La Prairie city
+27|061|35900|Lawrence|Lawrence township
+27|061|36944|Liberty|Liberty UT
+27|061|37691|Little Sand Lake|Little Sand Lake UT
+27|061|37934|Lone Pine|Lone Pine township
+27|061|40472|Marcell|Marcell township
+27|061|41066|Max|Max township
+27|061|44008|Moose Park|Moose Park township
+27|061|44332|Morse|Morse township
+27|061|44998|Nashwauk|Nashwauk township
+27|061|46582|Nore|Nore township
+27|061|46894|Northeast Itasca|Northeast Itasca UT
+27|061|49048|Oteneagen|Oteneagen township
+27|061|51856|Pomroy|Pomroy township
+27|061|56644|Sago|Sago township
+27|061|58360|Sand Lake|Sand Lake township
+27|061|61564|Spang|Spang township
+27|061|61700|Splithand|Splithand township
+27|061|62284|Squaw Lake|Squaw Lake city
+27|061|62914|Stokes|Stokes township
+27|061|64048|Taconite|Taconite city
+27|061|64606|Third River|Third River township
+27|061|65596|Trout Lake|Trout Lake township
+27|061|67360|Wabana|Wabana township
+27|061|68080|Warba|Warba city
+27|061|68800|Wawina|Wawina township
+27|061|70306|Wildwood|Wildwood township
+27|061|71194|Wirt|Wirt township
+27|061|72184|Zemple|Zemple city
+27|063|00604|Alba|Alba township
+27|063|01162|Alpha|Alpha city
+27|063|04978|Belmont|Belmont township
+27|063|11476|Christiania|Christiania township
+27|063|15436|Delafield|Delafield township
+27|063|15769|Des Moines|Des Moines township
+27|063|19484|Enterprise|Enterprise township
+27|063|20042|Ewington|Ewington township
+27|063|28700|Heron Lake|Heron Lake city
+27|063|28718|Heron Lake|Heron Lake township
+27|063|30482|Hunter|Hunter township
+27|063|31562|Jackson|Jackson city
+27|063|33146|Kimball|Kimball township
+27|063|33902|La Crosse|La Crosse township
+27|063|34316|Lakefield|Lakefield city
+27|063|41948|Middletown|Middletown township
+27|063|43108|Minneota|Minneota township
+27|063|48184|Okabena|Okabena city
+27|063|50578|Petersburg|Petersburg township
+27|063|55996|Rost|Rost township
+27|063|56068|Round Lake|Round Lake township
+27|063|60574|Sioux Valley|Sioux Valley township
+27|063|69016|Weimer|Weimer township
+27|063|69484|West Heron Lake|West Heron Lake township
+27|063|70258|Wilder|Wilder city
+27|063|71212|Wisconsin|Wisconsin township
+27|065|01702|Ann Lake|Ann Lake township
+27|065|02296|Arthur|Arthur township
+27|065|07282|Braham|Braham city
+27|065|08344|Brunswick|Brunswick township
+27|065|12754|Comfort|Comfort township
+27|065|21644|Ford|Ford township
+27|065|25406|Grass Lake|Grass Lake township
+27|065|25424|Grasston|Grasston city
+27|065|27782|Hay Brook|Hay Brook township
+27|065|29132|Hillman|Hillman township
+27|065|32300|Kanabec|Kanabec township
+27|065|33560|Knife Lake|Knife Lake township
+27|065|33776|Kroschel|Kroschel township
+27|065|44044|Mora|Mora city
+27|065|48166|Ogilvie|Ogilvie city
+27|065|50002|Peace|Peace township
+27|065|51874|Pomroy|Pomroy township
+27|065|52756|Quamba|Quamba city
+27|065|61348|South Fork|South Fork township
+27|065|69988|Whited|Whited township
+27|067|01990|Arctander|Arctander township
+27|067|02692|Atwater|Atwater city
+27|067|06490|Blomkest|Blomkest city
+27|067|08614|Burbank|Burbank township
+27|067|12538|Colfax|Colfax township
+27|067|16336|Dovre|Dovre township
+27|067|17702|East Lake Lillian|East Lake Lillian township
+27|067|18242|Edwards|Edwards township
+27|067|20150|Fahlun|Fahlun township
+27|067|23390|Gennessee|Gennessee township
+27|067|25694|Green Lake|Green Lake township
+27|067|27314|Harrison|Harrison township
+27|067|29600|Holland|Holland township
+27|067|31292|Irving|Irving township
+27|067|32372|Kandiyohi|Kandiyohi city
+27|067|32390|Kandiyohi|Kandiyohi township
+27|067|34064|Lake Andrew|Lake Andrew township
+27|067|34226|Lake Elizabeth|Lake Elizabeth township
+27|067|34676|Lake Lillian|Lake Lillian city
+27|067|34694|Lake Lillian|Lake Lillian township
+27|067|39662|Mamre|Mamre township
+27|067|45682|New London|New London city
+27|067|45700|New London|New London township
+27|067|47464|Norway Lake|Norway Lake township
+27|067|50344|Pennock|Pennock city
+27|067|52558|Prinsburg|Prinsburg city
+27|067|53296|Raymond|Raymond city
+27|067|53710|Regal|Regal city
+27|067|55708|Roseland|Roseland township
+27|067|55834|Roseville|Roseville township
+27|067|57076|St. Johns|St. Johns township
+27|067|61690|Spicer|Spicer city
+27|067|63454|Sunburg|Sunburg city
+27|067|70078|Whitefield|Whitefield township
+27|067|70420|Willmar|Willmar city
+27|067|70438|Willmar|Willmar township
+27|069|02386|Arveson|Arveson township
+27|069|09676|Cannon|Cannon township
+27|069|09874|Caribou|Caribou township
+27|069|12340|Clow|Clow township
+27|069|14950|Davis|Davis township
+27|069|15382|Deerwood|Deerwood township
+27|069|16030|Donaldson|Donaldson city
+27|069|25370|Granville|Granville township
+27|069|26576|Hallock|Hallock city
+27|069|26594|Hallock|Hallock township
+27|069|26612|Halma|Halma city
+27|069|26846|Hampden|Hampden township
+27|069|28070|Hazelton|Hazelton township
+27|069|29078|Hill|Hill township
+27|069|30446|Humboldt|Humboldt city
+27|069|32228|Jupiter|Jupiter township
+27|069|32444|Karlstad|Karlstad city
+27|069|32732|Kennedy|Kennedy city
+27|069|33495|Klondike|Klondike UT
+27|069|34136|Lake Bronson|Lake Bronson city
+27|069|35378|Lancaster|Lancaster city
+27|069|39112|McKinley|McKinley UT
+27|069|47176|North Red River|North Red River UT
+27|069|47410|Norway|Norway township
+27|069|50062|Peatland|Peatland UT
+27|069|50074|Pelan|Pelan township
+27|069|50452|Percy|Percy township
+27|069|52072|Poppleton|Poppleton township
+27|069|54196|Richardville|Richardville township
+27|069|57112|St. Joseph|St. Joseph township
+27|069|58144|St. Vincent|St. Vincent city
+27|069|58162|St. Vincent|St. Vincent township
+27|069|60646|Skane|Skane township
+27|069|61456|South Red River|South Red River township
+27|069|61744|Spring Brook|Spring Brook township
+27|069|63652|Svea|Svea township
+27|069|64336|Tegner|Tegner township
+27|069|64354|Teien|Teien township
+27|069|64642|Thompson|Thompson township
+27|071|05680|Big Falls|Big Falls city
+27|071|17660|East Koochiching|East Koochiching UT
+27|071|31040|International Falls|International Falls city
+27|071|37592|Littlefork|Littlefork city
+27|071|43540|Mizpah|Mizpah city
+27|071|45277|Nett Lake|Nett Lake UT
+27|071|47122|Northome|Northome city
+27|071|47131|Northome|Northome UT
+27|071|47352|Northwest Koochiching|Northwest Koochiching UT
+27|071|52990|Rainy Lake|Rainy Lake UT
+27|071|53134|Ranier|Ranier city
+27|071|61433|South Koochiching|South Koochiching UT
+27|073|00352|Agassiz|Agassiz township
+27|073|02062|Arena|Arena township
+27|073|02800|Augusta|Augusta township
+27|073|04060|Baxter|Baxter township
+27|073|04960|Bellingham|Bellingham city
+27|073|07138|Boyd|Boyd city
+27|073|09550|Camp Release|Camp Release township
+27|073|10774|Cerro Gordo|Cerro Gordo township
+27|073|14968|Dawson|Dawson city
+27|073|22616|Freeland|Freeland township
+27|073|23138|Garfield|Garfield township
+27|073|26774|Hamlin|Hamlin township
+27|073|27044|Hantho|Hantho township
+27|073|33848|Lac qui Parle|Lac qui Parle township
+27|073|34946|Lake Shore|Lake Shore township
+27|073|38258|Louisburg|Louisburg city
+27|073|39266|Madison|Madison city
+27|073|39284|Madison|Madison township
+27|073|39788|Manfred|Manfred township
+27|073|40526|Marietta|Marietta city
+27|073|41084|Maxwell|Maxwell township
+27|073|41516|Mehurin|Mehurin township
+27|073|45016|Nassau|Nassau city
+27|073|50524|Perry|Perry township
+27|073|52702|Providence|Providence township
+27|073|54646|Riverside|Riverside township
+27|073|64408|Ten Mile Lake|Ten Mile Lake township
+27|073|67882|Walter|Walter township
+27|073|72058|Yellow Bank|Yellow Bank township
+27|075|00000|County subdivisions not defined|County subdivisions not defined
+27|075|04456|Beaver Bay|Beaver Bay city
+27|075|04474|Beaver Bay|Beaver Bay township
+27|075|14194|Crystal Bay|Crystal Bay township
+27|075|20456|Fall Lake|Fall Lake township
+27|075|34770|Lake No. 1|Lake No. 1 UT
+27|075|34773|Lake No. 2|Lake No. 2 UT
+27|075|60250|Silver Bay|Silver Bay city
+27|075|60304|Silver Creek|Silver Creek township
+27|075|62995|Stony River|Stony River township
+27|075|65956|Two Harbors|Two Harbors city
+27|077|01550|Angle|Angle township
+27|077|04024|Baudette|Baudette city
+27|077|04027|Baudette|Baudette township
+27|077|06966|Boone|Boone township
+27|077|11322|Chilgren|Chilgren township
+27|077|21690|Forest Area|Forest Area township
+27|077|26250|Gudrid|Gudrid township
+27|077|33048|Kiel|Kiel township
+27|077|35208|Lakewood|Lakewood township
+27|077|38988|McDougald|McDougald township
+27|077|44887|Myhre|Myhre township
+27|077|52208|Potamo|Potamo township
+27|077|52672|Prosper|Prosper township
+27|077|53212|Rapid River|Rapid River township
+27|077|55438|Roosevelt|Roosevelt city
+27|077|56238|Rulien|Rulien township
+27|077|61726|Spooner|Spooner township
+27|077|63945|Swiftwater|Swiftwater township
+27|077|65298|157-30|Township 157-30
+27|077|65300|158-30|Township 158-30
+27|077|67044|Victory|Victory township
+27|077|67368|Wabanica|Wabanica township
+27|077|67782|Walhalla|Walhalla township
+27|077|69849|Wheeler|Wheeler township
+27|077|70402|Williams|Williams city
+27|077|72264|Zippel|Zippel township
+27|079|11872|Cleveland|Cleveland city
+27|079|11890|Cleveland|Cleveland township
+27|079|13204|Cordova|Cordova township
+27|079|15760|Derrynane|Derrynane township
+27|079|19160|Elysian|Elysian city
+27|079|19178|Elysian|Elysian township
+27|079|28214|Heidelberg|Heidelberg city
+27|079|32462|Kasota|Kasota city
+27|079|32480|Kasota|Kasota township
+27|079|33110|Kilkenny|Kilkenny city
+27|079|33128|Kilkenny|Kilkenny township
+27|079|35468|Lanesburgh|Lanesburgh township
+27|079|36134|Le Center|Le Center city
+27|079|36746|Le Sueur|Le Sueur city
+27|079|36872|Lexington|Lexington township
+27|079|39878|Mankato|Mankato city
+27|079|43738|Montgomery|Montgomery city
+27|079|43756|Montgomery|Montgomery township
+27|079|45808|New Prague|New Prague city
+27|079|49174|Ottawa|Ottawa township
+27|079|59386|Sharon|Sharon township
+27|079|66100|Tyrone|Tyrone township
+27|079|68350|Washington|Washington township
+27|079|68584|Waterville|Waterville city
+27|079|68602|Waterville|Waterville township
+27|081|01180|Alta Vista|Alta Vista township
+27|081|01972|Arco|Arco city
+27|081|02476|Ash Lake|Ash Lake township
+27|081|15940|Diamond Lake|Diamond Lake township
+27|081|16372|Drammen|Drammen township
+27|081|27026|Hansonville|Hansonville township
+27|081|28430|Hendricks|Hendricks city
+27|081|28448|Hendricks|Hendricks township
+27|081|30104|Hope|Hope township
+27|081|31526|Ivanhoe|Ivanhoe city
+27|081|34100|Lake Benton|Lake Benton city
+27|081|34118|Lake Benton|Lake Benton township
+27|081|35054|Lake Stay|Lake Stay township
+27|081|37106|Limestone|Limestone township
+27|081|40436|Marble|Marble township
+27|081|40760|Marshfield|Marshfield township
+27|081|56158|Royal|Royal township
+27|081|59377|Shaokatan|Shaokatan township
+27|081|66046|Tyler|Tyler city
+27|081|66730|Verdi|Verdi township
+27|083|01432|Amiret|Amiret township
+27|083|03250|Balaton|Balaton city
+27|083|11926|Clifton|Clifton township
+27|083|13078|Coon Creek|Coon Creek township
+27|083|13564|Cottonwood|Cottonwood city
+27|083|14392|Custer|Custer township
+27|083|18332|Eidsvold|Eidsvold township
+27|083|20384|Fairview|Fairview township
+27|083|21410|Florence|Florence city
+27|083|23228|Garvin|Garvin city
+27|083|23660|Ghent|Ghent city
+27|083|25154|Grandview|Grandview township
+27|083|31400|Island Lake|Island Lake township
+27|083|34712|Lake Marshall|Lake Marshall township
+27|083|38438|Lucas|Lucas township
+27|083|38708|Lynd|Lynd city
+27|083|38726|Lynd|Lynd township
+27|083|38834|Lyons|Lyons township
+27|083|40688|Marshall|Marshall city
+27|083|43126|Minneota|Minneota city
+27|083|43666|Monroe|Monroe township
+27|083|46564|Nordland|Nordland township
+27|083|55042|Rock Lake|Rock Lake township
+27|083|56428|Russell|Russell city
+27|083|59440|Shelburne|Shelburne township
+27|083|61042|Sodus|Sodus township
+27|083|62392|Stanley|Stanley township
+27|083|64264|Taunton|Taunton city
+27|083|65308|Tracy|Tracy city
+27|083|66496|Vallers|Vallers township
+27|083|69412|Westerheim|Westerheim township
+27|085|00136|Acoma|Acoma township
+27|085|05338|Bergen|Bergen township
+27|085|06112|Biscay|Biscay city
+27|085|08254|Brownton|Brownton city
+27|085|12610|Collins|Collins township
+27|085|23948|Glencoe|Glencoe city
+27|085|23966|Glencoe|Glencoe township
+27|085|26540|Hale|Hale township
+27|085|27494|Hassan Valley|Hassan Valley township
+27|085|28304|Helen|Helen township
+27|085|30644|Hutchinson|Hutchinson city
+27|085|30662|Hutchinson|Hutchinson township
+27|085|36728|Lester Prairie|Lester Prairie city
+27|085|38798|Lynn|Lynn township
+27|085|50308|Penn|Penn township
+27|085|51460|Plato|Plato city
+27|085|54322|Rich Valley|Rich Valley township
+27|085|56032|Round Grove|Round Grove township
+27|085|60376|Silver Lake|Silver Lake city
+27|085|62788|Stewart|Stewart city
+27|085|63436|Sumter|Sumter township
+27|085|71086|Winsted|Winsted city
+27|085|71104|Winsted|Winsted township
+27|087|04366|Beaulieu|Beaulieu township
+27|087|04672|Bejou|Bejou city
+27|087|04690|Bejou|Bejou township
+27|087|11314|Chief|Chief township
+27|087|12250|Clover|Clover township
+27|087|25946|Gregory|Gregory township
+27|087|28232|Heier|Heier township
+27|087|31418|Island Lake|Island Lake township
+27|087|33956|La Garde|La Garde township
+27|087|34424|Lake Grove|Lake Grove township
+27|087|37530|Little Elbow|Little Elbow township
+27|087|39392|Mahnomen|Mahnomen city
+27|087|40742|Marsh Creek|Marsh Creek township
+27|087|47806|Oakland|Oakland township
+27|087|50218|Pembina|Pembina township
+27|087|52054|Popple Grove|Popple Grove township
+27|087|55618|Rosedale|Rosedale township
+27|087|65929|Twin Lakes|Twin Lakes township
+27|087|68674|Waubun|Waubun city
+27|089|00388|Agder|Agder township
+27|089|01072|Alma|Alma township
+27|089|01252|Alvarado|Alvarado city
+27|089|02134|Argyle|Argyle city
+27|089|02764|Augsburg|Augsburg township
+27|089|05842|Big Woods|Big Woods township
+27|089|06535|Bloomer|Bloomer township
+27|089|07120|Boxville|Boxville township
+27|089|10360|Cedar|Cedar township
+27|089|12808|Como|Como township
+27|089|12880|Comstock|Comstock township
+27|089|16066|Donnelly|Donnelly township
+27|089|17414|Eagle Point|Eagle Point township
+27|089|17756|East Park|East Park township
+27|089|17864|East Valley|East Valley township
+27|089|17972|Eckvoll|Eckvoll township
+27|089|19736|Espelie|Espelie township
+27|089|20060|Excel|Excel township
+27|089|21500|Foldahl|Foldahl township
+27|089|21878|Fork|Fork township
+27|089|25046|Grand Plain|Grand Plain township
+27|089|26216|Grygla|Grygla city
+27|089|29870|Holt|Holt city
+27|089|29888|Holt|Holt township
+27|089|30572|Huntly|Huntly township
+27|089|37142|Lincoln|Lincoln township
+27|089|37340|Linsell|Linsell township
+27|089|38942|McCrea|McCrea township
+27|089|40778|Marsh Grove|Marsh Grove township
+27|089|41912|Middle River|Middle River city
+27|089|41930|Middle River|Middle River township
+27|089|44026|Moose River|Moose River township
+27|089|44692|Moylan|Moylan township
+27|089|44718|Mud Lake|Mud Lake UT
+27|089|45142|Nelson Park|Nelson Park township
+27|089|45520|Newfolden|Newfolden city
+27|089|45538|New Folden|New Folden township
+27|089|45718|New Maine|New Maine township
+27|089|45970|New Solum|New Solum township
+27|089|47878|Oak Park|Oak Park township
+27|089|48976|Oslo|Oslo city
+27|089|49696|Parker|Parker township
+27|089|55330|Rollis|Rollis township
+27|089|60520|Sinnott|Sinnott township
+27|089|62266|Spruce Valley|Spruce Valley township
+27|089|62698|Stephen|Stephen city
+27|089|63112|Strandquist|Strandquist city
+27|089|64138|Tamarac|Tamarac township
+27|089|64552|Thief Lake|Thief Lake township
+27|089|66514|Valley|Valley township
+27|089|66676|Vega|Vega township
+27|089|66694|Veldt|Veldt township
+27|089|67090|Viking|Viking city
+27|089|67108|Viking|Viking township
+27|089|68044|Wanger|Wanger township
+27|089|68170|Warren|Warren city
+27|089|68206|Warrenton|Warrenton township
+27|089|69772|West Valley|West Valley township
+27|089|70096|Whiteford|Whiteford township
+27|089|71842|Wright|Wright township
+27|091|10378|Cedar|Cedar township
+27|091|10594|Center Creek|Center Creek township
+27|091|10792|Ceylon|Ceylon city
+27|091|17180|Dunnell|Dunnell city
+27|091|17522|East Chain|East Chain township
+27|091|18854|Elm Creek|Elm Creek township
+27|091|20330|Fairmont|Fairmont city
+27|091|20348|Fairmont|Fairmont township
+27|091|22256|Fox Lake|Fox Lake township
+27|091|22436|Fraser|Fraser township
+27|091|23030|Galena|Galena township
+27|091|24884|Granada|Granada city
+27|091|31778|Jay|Jay township
+27|091|34082|Lake Belt|Lake Belt township
+27|091|34334|Lake Fremont|Lake Fremont township
+27|091|40058|Manyaska|Manyaska township
+27|091|44962|Nashville|Nashville township
+27|091|47212|Northrop|Northrop city
+27|091|48562|Ormsby|Ormsby city
+27|091|51622|Pleasant Prairie|Pleasant Prairie township
+27|091|55258|Rolling Green|Rolling Green township
+27|091|56500|Rutland|Rutland township
+27|091|59620|Sherburn|Sherburn city
+27|091|60412|Silver Lake|Silver Lake township
+27|091|64372|Tenhassen|Tenhassen township
+27|091|65470|Trimont|Trimont city
+27|091|65668|Truman|Truman city
+27|091|68746|Waverly|Waverly township
+27|091|69070|Welcome|Welcome city
+27|091|69466|Westford|Westford township
+27|093|00154|Acton|Acton township
+27|093|10468|Cedar Mills|Cedar Mills city
+27|093|10486|Cedar Mills|Cedar Mills township
+27|093|12628|Collinwood|Collinwood township
+27|093|13420|Cosmos|Cosmos city
+27|093|13438|Cosmos|Cosmos township
+27|093|14698|Danielson|Danielson township
+27|093|14842|Darwin|Darwin city
+27|093|14860|Darwin|Darwin township
+27|093|14878|Dassel|Dassel city
+27|093|14896|Dassel|Dassel township
+27|093|18134|Eden Valley|Eden Valley city
+27|093|18818|Ellsworth|Ellsworth township
+27|093|21734|Forest City|Forest City township
+27|093|21842|Forest Prairie|Forest Prairie township
+27|093|25730|Greenleaf|Greenleaf township
+27|093|26126|Grove City|Grove City city
+27|093|27440|Harvey|Harvey township
+27|093|33344|Kingston|Kingston city
+27|093|33362|Kingston|Kingston township
+27|093|37448|Litchfield|Litchfield city
+27|093|37466|Litchfield|Litchfield township
+27|093|39698|Manannah|Manannah township
+27|093|63832|Swede Grove|Swede Grove township
+27|093|66226|Union Grove|Union Grove township
+27|093|68620|Watkins|Watkins city
+27|095|06814|Bock|Bock city
+27|095|06850|Bogus Brook|Bogus Brook township
+27|095|07012|Borgholm|Borgholm township
+27|095|07210|Bradbury|Bradbury township
+27|095|14500|Dailey|Dailey township
+27|095|17810|East Side|East Side township
+27|095|21824|Foreston|Foreston city
+27|095|25586|Greenbush|Greenbush township
+27|095|27908|Hayland|Hayland township
+27|095|31472|Isle|Isle city
+27|095|31490|Isle Harbor|Isle Harbor township
+27|095|32516|Kathio|Kathio township
+27|095|36782|Lewis|Lewis township
+27|095|42110|Milaca|Milaca city
+27|095|42128|Milaca|Milaca township
+27|095|42326|Milo|Milo township
+27|095|44710|Mudgett|Mudgett township
+27|095|48310|Onamia|Onamia city
+27|095|48328|Onamia|Onamia township
+27|095|49480|Page|Page township
+27|095|50056|Pease|Pease city
+27|095|52522|Princeton|Princeton city
+27|095|52540|Princeton|Princeton township
+27|095|61384|South Harbor|South Harbor township
+27|095|67558|Wahkon|Wahkon city
+27|097|00406|Agram|Agram township
+27|097|04888|Belle Prairie|Belle Prairie township
+27|097|04942|Bellevue|Bellevue township
+27|097|07066|Bowlus|Bowlus city
+27|097|08416|Buckman|Buckman city
+27|097|08434|Buckman|Buckman township
+27|097|08506|Buh|Buh township
+27|097|14248|Culdrum|Culdrum township
+27|097|14356|Cushing|Cushing township
+27|097|14806|Darling|Darling township
+27|097|18872|Elmdale|Elmdale city
+27|097|18890|Elmdale|Elmdale township
+27|097|21266|Flensburg|Flensburg city
+27|097|23444|Genola|Genola city
+27|097|25244|Granite|Granite township
+27|097|25784|Green Prairie|Green Prairie township
+27|097|27098|Harding|Harding city
+27|097|29150|Hillman|Hillman city
+27|097|29168|Hillman|Hillman township
+27|097|35252|Lakin|Lakin township
+27|097|35720|Lastrup|Lastrup city
+27|097|36350|Leigh|Leigh township
+27|097|37556|Little Falls|Little Falls city
+27|097|37574|Little Falls|Little Falls township
+27|097|44224|Morrill|Morrill township
+27|097|44422|Motley|Motley city
+27|097|44440|Motley|Motley township
+27|097|44602|Mount Morris|Mount Morris township
+27|097|49714|Parker|Parker township
+27|097|50776|Pierz|Pierz city
+27|097|50794|Pierz|Pierz township
+27|097|50866|Pike Creek|Pike Creek township
+27|097|51478|Platte|Platte township
+27|097|52720|Pulaski|Pulaski township
+27|097|53080|Randall|Randall city
+27|097|54178|Richardson|Richardson township
+27|097|54520|Ripley|Ripley township
+27|097|55906|Rosing|Rosing township
+27|097|56176|Royalton|Royalton city
+27|097|58918|Scandia Valley|Scandia Valley township
+27|097|61006|Sobieski|Sobieski city
+27|097|63760|Swan River|Swan River township
+27|097|63778|Swanville|Swanville city
+27|097|63796|Swanville|Swanville township
+27|097|66028|Two Rivers|Two Rivers township
+27|097|66334|Upsala|Upsala city
+27|099|00190|Adams|Adams city
+27|099|00208|Adams|Adams township
+27|099|02908|Austin|Austin city
+27|099|02926|Austin|Austin township
+27|099|05176|Bennington|Bennington township
+27|099|08164|Brownsdale|Brownsdale city
+27|099|11728|Clayton|Clayton township
+27|099|15886|Dexter|Dexter city
+27|099|15904|Dexter|Dexter township
+27|099|18728|Elkton|Elkton city
+27|099|22328|Frankford|Frankford township
+27|099|25010|Grand Meadow|Grand Meadow city
+27|099|25028|Grand Meadow|Grand Meadow township
+27|099|35576|Lansing|Lansing township
+27|099|36620|Le Roy|Le Roy city
+27|099|36638|Le Roy|Le Roy township
+27|099|37808|Lodi|Lodi township
+27|099|38654|Lyle|Lyle city
+27|099|38672|Lyle|Lyle township
+27|099|40346|Mapleview|Mapleview city
+27|099|40706|Marshall|Marshall township
+27|099|45322|Nevada|Nevada township
+27|099|51640|Pleasant Valley|Pleasant Valley township
+27|099|52882|Racine|Racine city
+27|099|52900|Racine|Racine township
+27|099|53584|Red Rock|Red Rock township
+27|099|55600|Rose Creek|Rose Creek city
+27|099|58576|Sargeant|Sargeant city
+27|099|58594|Sargeant|Sargeant township
+27|099|64210|Taopi|Taopi city
+27|099|66118|Udolpho|Udolpho township
+27|099|67918|Waltham|Waltham city
+27|099|67936|Waltham|Waltham township
+27|099|70816|Windom|Windom township
+27|101|03052|Avoca|Avoca city
+27|101|04708|Belfast|Belfast township
+27|101|06922|Bondin|Bondin township
+27|101|09460|Cameron|Cameron township
+27|101|10882|Chanarambie|Chanarambie township
+27|101|10900|Chandler|Chandler city
+27|101|14320|Currie|Currie city
+27|101|15778|Des Moines River|Des Moines River township
+27|101|16300|Dovray|Dovray city
+27|101|16318|Dovray|Dovray township
+27|101|18782|Ellsborough|Ellsborough township
+27|101|20888|Fenton|Fenton township
+27|101|22958|Fulda|Fulda city
+27|101|26450|Hadley|Hadley city
+27|101|29690|Holly|Holly township
+27|101|31094|Iona|Iona city
+27|101|31112|Iona|Iona township
+27|101|34892|Lake Sarah|Lake Sarah township
+27|101|35198|Lake Wilson|Lake Wilson city
+27|101|36260|Leeds|Leeds township
+27|101|37088|Lime Lake|Lime Lake township
+27|101|38402|Lowville|Lowville township
+27|101|40958|Mason|Mason township
+27|101|44458|Moulton|Moulton township
+27|101|44854|Murray|Murray township
+27|101|59764|Shetek|Shetek township
+27|101|60628|Skandia|Skandia township
+27|101|60808|Slayton|Slayton city
+27|101|60826|Slayton|Slayton township
+27|103|04744|Belgrade|Belgrade township
+27|103|05410|Bernadotte|Bernadotte township
+27|103|07732|Brighton|Brighton township
+27|103|13582|Courtland|Courtland city
+27|103|13600|Courtland|Courtland township
+27|103|24902|Granby|Granby township
+27|103|33920|Lafayette|Lafayette city
+27|103|33938|Lafayette|Lafayette township
+27|103|34856|Lake Prairie|Lake Prairie township
+27|103|39878|Mankato|Mankato city
+27|103|45988|New Sweden|New Sweden township
+27|103|46150|Nicollet|Nicollet city
+27|103|46168|Nicollet|Nicollet township
+27|103|47068|North Mankato|North Mankato city
+27|103|48922|Oshawa|Oshawa township
+27|103|54430|Ridgely|Ridgely township
+27|103|58036|St. Peter|St. Peter city
+27|103|65416|Traverse|Traverse township
+27|103|69556|West Newton|West Newton township
+27|105|00262|Adrian|Adrian city
+27|105|05644|Bigelow|Bigelow city
+27|105|05662|Bigelow|Bigelow township
+27|105|06508|Bloom|Bloom township
+27|105|07660|Brewster|Brewster city
+27|105|15850|Dewald|Dewald township
+27|105|17144|Dundee|Dundee city
+27|105|18602|Elk|Elk township
+27|105|18836|Ellsworth|Ellsworth city
+27|105|24848|Graham Lakes|Graham Lakes township
+27|105|25100|Grand Prairie|Grand Prairie township
+27|105|28736|Hersey|Hersey township
+27|105|30878|Indian Lake|Indian Lake township
+27|105|33236|Kinbrae|Kinbrae city
+27|105|35666|Larkin|Larkin township
+27|105|36566|Leota|Leota township
+27|105|37412|Lismore|Lismore city
+27|105|37430|Lismore|Lismore township
+27|105|37682|Little Rock|Little Rock township
+27|105|38204|Lorain|Lorain township
+27|105|48274|Olney|Olney township
+27|105|53152|Ransom|Ransom township
+27|105|56086|Round Lake|Round Lake city
+27|105|56338|Rushmore|Rushmore city
+27|105|59260|Seward|Seward township
+27|105|63400|Summit Lake|Summit Lake township
+27|105|69718|Westside|Westside township
+27|105|70582|Wilmont|Wilmont city
+27|105|70600|Wilmont|Wilmont township
+27|105|71734|Worthington|Worthington city
+27|105|71752|Worthington|Worthington township
+27|107|00172|Ada|Ada city
+27|107|01774|Anthony|Anthony township
+27|107|04222|Bear Park|Bear Park township
+27|107|07030|Borup|Borup city
+27|107|21320|Flom|Flom township
+27|107|22022|Fossum|Fossum township
+27|107|23246|Gary|Gary city
+27|107|24380|Good Hope|Good Hope township
+27|107|25766|Green Meadow|Green Meadow township
+27|107|26630|Halstad|Halstad city
+27|107|26648|Halstad|Halstad township
+27|107|28178|Hegne|Hegne township
+27|107|28484|Hendrum|Hendrum city
+27|107|28502|Hendrum|Hendrum township
+27|107|29996|Home Lake|Home Lake township
+27|107|34532|Lake Ida|Lake Ida township
+27|107|36188|Lee|Lee township
+27|107|37790|Lockhart|Lockhart township
+27|107|38978|McDonaldsville|McDonaldsville township
+27|107|40868|Mary|Mary township
+27|107|50506|Perley|Perley city
+27|107|51658|Pleasant View|Pleasant View township
+27|107|55114|Rockwell|Rockwell township
+27|107|59566|Shelly|Shelly city
+27|107|59584|Shelly|Shelly township
+27|107|61780|Spring Creek|Spring Creek township
+27|107|63094|Strand|Strand township
+27|107|63508|Sundal|Sundal township
+27|107|65938|Twin Valley|Twin Valley city
+27|107|68728|Waukon|Waukon township
+27|107|70276|Wild Rice|Wild Rice township
+27|107|70762|Winchester|Winchester township
+27|109|09154|Byron|Byron city
+27|109|10180|Cascade|Cascade township
+27|109|11008|Chatfield|Chatfield city
+27|109|16264|Dover|Dover city
+27|109|16282|Dover|Dover township
+27|109|18962|Elmira|Elmira township
+27|109|20114|Eyota|Eyota city
+27|109|20132|Eyota|Eyota township
+27|109|20636|Farmington|Farmington township
+27|109|27692|Haverhill|Haverhill township
+27|109|28880|High Forest|High Forest township
+27|109|32282|Kalmar|Kalmar township
+27|109|40616|Marion|Marion township
+27|109|45610|New Haven|New Haven township
+27|109|48526|Orion|Orion township
+27|109|48598|Oronoco|Oronoco city
+27|109|48616|Oronoco|Oronoco township
+27|109|51136|Pine Island|Pine Island city
+27|109|51550|Pleasant Grove|Pleasant Grove township
+27|109|52792|Quincy|Quincy township
+27|109|54880|Rochester|Rochester city
+27|109|54898|Rochester|Rochester township
+27|109|54988|Rock Dell|Rock Dell township
+27|109|58234|Salem|Salem township
+27|109|62806|Stewartville|Stewartville city
+27|109|67270|Viola|Viola township
+27|111|00100|Aastad|Aastad township
+27|111|01468|Amor|Amor township
+27|111|02836|Aurdal|Aurdal township
+27|111|03970|Battle Lake|Battle Lake city
+27|111|06652|Blowers|Blowers township
+27|111|06778|Bluffton|Bluffton city
+27|111|06796|Bluffton|Bluffton township
+27|111|08938|Buse|Buse township
+27|111|08974|Butler|Butler township
+27|111|09622|Candor|Candor township
+27|111|09946|Carlisle|Carlisle township
+27|111|12088|Clitherall|Clitherall city
+27|111|12106|Clitherall|Clitherall township
+27|111|12844|Compton|Compton township
+27|111|13240|Corliss|Corliss township
+27|111|14626|Dalton|Dalton city
+27|111|14644|Dane Prairie|Dane Prairie township
+27|111|15076|Dead Lake|Dead Lake township
+27|111|15184|Deer Creek|Deer Creek city
+27|111|15202|Deer Creek|Deer Creek township
+27|111|15724|Dent|Dent city
+27|111|16120|Dora|Dora township
+27|111|17162|Dunn|Dunn township
+27|111|17396|Eagle Lake|Eagle Lake township
+27|111|17576|Eastern|Eastern township
+27|111|18224|Edna|Edna township
+27|111|18278|Effington|Effington township
+27|111|18566|Elizabeth|Elizabeth city
+27|111|18584|Elizabeth|Elizabeth township
+27|111|18980|Elmo|Elmo township
+27|111|19556|Erhard|Erhard city
+27|111|19574|Erhards Grove|Erhards Grove township
+27|111|20024|Everts|Everts township
+27|111|20906|Fergus Falls|Fergus Falls city
+27|111|20924|Fergus Falls|Fergus Falls township
+27|111|21518|Folden|Folden township
+27|111|22796|Friberg|Friberg township
+27|111|23840|Girard|Girard township
+27|111|24632|Gorman|Gorman township
+27|111|28520|Henning|Henning city
+27|111|28538|Henning|Henning township
+27|111|29420|Hobart|Hobart township
+27|111|30050|Homestead|Homestead township
+27|111|31004|Inman|Inman township
+27|111|35990|Leaf Lake|Leaf Lake township
+27|111|36008|Leaf Mountain|Leaf Mountain township
+27|111|36980|Lida|Lida township
+27|111|39500|Maine|Maine township
+27|111|40364|Maplewood|Maplewood township
+27|111|46006|Newton|Newton township
+27|111|46060|New York Mills|New York Mills city
+27|111|46240|Nidaros|Nidaros township
+27|111|47482|Norwegian Grove|Norwegian Grove township
+27|111|48004|Oak Valley|Oak Valley township
+27|111|48742|Orwell|Orwell township
+27|111|48850|Oscar|Oscar township
+27|111|49210|Ottertail|Ottertail city
+27|111|49228|Otter Tail|Otter Tail township
+27|111|49264|Otto|Otto township
+27|111|49408|Paddock|Paddock township
+27|111|49732|Parkers Prairie|Parkers Prairie city
+27|111|49750|Parkers Prairie|Parkers Prairie township
+27|111|50110|Pelican|Pelican township
+27|111|50164|Pelican Rapids|Pelican Rapids city
+27|111|50470|Perham|Perham city
+27|111|50488|Perham|Perham township
+27|111|51208|Pine Lake|Pine Lake township
+27|111|54340|Richville|Richville city
+27|111|56014|Rothsay|Rothsay city
+27|111|56320|Rush Lake|Rush Lake township
+27|111|57382|St. Olaf|St. Olaf township
+27|111|58864|Scambler|Scambler township
+27|111|62554|Star Lake|Star Lake township
+27|111|63688|Sverdrup|Sverdrup township
+27|111|65218|Tordenskjold|Tordenskjold township
+27|111|65524|Trondhjem|Trondhjem township
+27|111|65686|Tumuli|Tumuli township
+27|111|66172|Underwood|Underwood city
+27|111|66388|Urbank|Urbank city
+27|111|66766|Vergas|Vergas city
+27|111|67216|Vining|Vining city
+27|111|67504|Wadena|Wadena city
+27|111|69430|Western|Western township
+27|111|71644|Woodside|Woodside township
+27|113|06364|Black River|Black River township
+27|113|07444|Bray|Bray township
+27|113|12304|Cloverleaf|Cloverleaf township
+27|113|15292|Deer Park|Deer Park township
+27|113|24470|Goodridge|Goodridge city
+27|113|24488|Goodridge|Goodridge township
+27|113|28808|Hickory|Hickory township
+27|113|29024|Highlanding|Highlanding township
+27|113|33740|Kratka|Kratka township
+27|113|41156|Mayfield|Mayfield township
+27|113|46510|Norden|Norden township
+27|113|46762|North|North township
+27|113|47590|Numedal|Numedal township
+27|113|51802|Polk Centre|Polk Centre township
+27|113|53746|Reiner|Reiner township
+27|113|54574|River Falls|River Falls township
+27|113|55060|Rocksbury|Rocksbury township
+27|113|57022|St. Hilaire|St. Hilaire city
+27|113|58342|Sanders|Sanders township
+27|113|60448|Silverton|Silverton township
+27|113|60898|Smiley|Smiley township
+27|113|62482|Star|Star township
+27|113|64570|Thief River Falls|Thief River Falls city
+27|113|71878|Wyandotte|Wyandotte township
+27|115|02188|Arlone|Arlone township
+27|115|02224|Arna|Arna township
+27|115|02548|Askov|Askov city
+27|115|03736|Barry|Barry township
+27|115|05986|Birch Creek|Birch Creek township
+27|115|07552|Bremen|Bremen township
+27|115|07984|Brook Park|Brook Park city
+27|115|08002|Brook Park|Brook Park township
+27|115|08290|Bruno|Bruno city
+27|115|08308|Bruno|Bruno township
+27|115|11098|Chengwatana|Chengwatana township
+27|115|12268|Clover|Clover township
+27|115|13942|Crosby|Crosby township
+27|115|14680|Danforth|Danforth township
+27|115|15598|Dell Grove|Dell Grove township
+27|115|15670|Denham|Denham city
+27|115|21122|Finlayson|Finlayson city
+27|115|21140|Finlayson|Finlayson township
+27|115|21248|Fleming|Fleming township
+27|115|28574|Henriette|Henriette city
+27|115|29294|Hinckley|Hinckley city
+27|115|29312|Hinckley|Hinckley township
+27|115|32912|Kerrick|Kerrick city
+27|115|32930|Kerrick|Kerrick township
+27|115|32984|Kettle River|Kettle River township
+27|115|43486|Mission Creek|Mission Creek township
+27|115|44764|Munch|Munch township
+27|115|45484|New Dosey|New Dosey township
+27|115|46132|Nickerson|Nickerson township
+27|115|46618|Norman|Norman township
+27|115|48148|Ogema|Ogema township
+27|115|49660|Park|Park township
+27|115|49876|Partridge|Partridge township
+27|115|51064|Pine City|Pine City city
+27|115|51082|Pine City|Pine City township
+27|115|51226|Pine Lake|Pine Lake township
+27|115|51784|Pokegama|Pokegama township
+27|115|54934|Rock Creek|Rock Creek city
+27|115|56194|Royalton|Royalton township
+27|115|56518|Rutledge|Rutledge city
+27|115|58396|Sandstone|Sandstone city
+27|115|58414|Sandstone|Sandstone township
+27|115|63220|Sturgeon Lake|Sturgeon Lake city
+27|115|63238|Sturgeon Lake|Sturgeon Lake township
+27|115|70492|Willow River|Willow River city
+27|115|70528|Wilma|Wilma township
+27|115|70780|Windemere|Windemere township
+27|117|00298|Aetna|Aetna township
+27|117|01216|Altona|Altona township
+27|117|08650|Burke|Burke township
+27|117|18062|Eden|Eden township
+27|117|18152|Edgerton|Edgerton city
+27|117|18908|Elmer|Elmer township
+27|117|22130|Fountain Prairie|Fountain Prairie township
+27|117|25208|Grange|Grange township
+27|117|25478|Gray|Gray township
+27|117|27566|Hatfield|Hatfield city
+27|117|29618|Holland|Holland city
+27|117|30806|Ihlen|Ihlen city
+27|117|31760|Jasper|Jasper city
+27|117|48832|Osborne|Osborne township
+27|117|51388|Pipestone|Pipestone city
+27|117|54916|Rock|Rock township
+27|117|56482|Ruthton|Ruthton city
+27|117|63886|Sweet|Sweet township
+27|117|65542|Trosky|Trosky city
+27|117|65614|Troy|Troy township
+27|117|71680|Woodstock|Woodstock city
+27|119|01504|Andover|Andover township
+27|119|01648|Angus|Angus township
+27|119|03142|Badger|Badger township
+27|119|04726|Belgium|Belgium township
+27|119|05014|Beltrami|Beltrami city
+27|119|07390|Brandsvold|Brandsvold township
+27|119|07408|Brandt|Brandt township
+27|119|07768|Brislet|Brislet township
+27|119|09118|Bygland|Bygland township
+27|119|11224|Chester|Chester township
+27|119|11962|Climax|Climax city
+27|119|12682|Columbia|Columbia township
+27|119|13870|Crookston|Crookston city
+27|119|13888|Crookston|Crookston township
+27|119|17612|East Grand Forks|East Grand Forks city
+27|119|18080|Eden|Eden township
+27|119|19700|Erskine|Erskine city
+27|119|19790|Esther|Esther township
+27|119|19862|Euclid|Euclid township
+27|119|20204|Fairfax|Fairfax township
+27|119|20510|Fanny|Fanny township
+27|119|20564|Farley|Farley township
+27|119|20978|Fertile|Fertile city
+27|119|21158|Fisher|Fisher city
+27|119|21176|Fisher|Fisher township
+27|119|21986|Fosston|Fosston city
+27|119|23066|Garden|Garden township
+27|119|23156|Garfield|Garfield township
+27|119|23480|Gentilly|Gentilly township
+27|119|24254|Godfrey|Godfrey township
+27|119|24938|Grand Forks|Grand Forks township
+27|119|26190|Grove Park-Tilden|Grove Park-Tilden township
+27|119|26270|Gully|Gully city
+27|119|26288|Gully|Gully township
+27|119|26810|Hammond|Hammond township
+27|119|28358|Helgeland|Helgeland township
+27|119|28844|Higdem|Higdem township
+27|119|29186|Hill River|Hill River township
+27|119|30356|Hubbard|Hubbard township
+27|119|30590|Huntsville|Huntsville township
+27|119|32030|Johnson|Johnson township
+27|119|32948|Kertsonville|Kertsonville township
+27|119|33002|Keystone|Keystone township
+27|119|33254|King|King township
+27|119|33614|Knute|Knute township
+27|119|36404|Lengby|Lengby city
+27|119|36692|Lessor|Lessor township
+27|119|36962|Liberty|Liberty township
+27|119|38330|Lowell|Lowell township
+27|119|39050|McIntosh|McIntosh city
+27|119|41714|Mentor|Mentor city
+27|119|45214|Nesbit|Nesbit township
+27|119|46258|Nielsville|Nielsville city
+27|119|47032|Northland|Northland township
+27|119|48418|Onstad|Onstad township
+27|119|49840|Parnell|Parnell township
+27|119|52774|Queen|Queen township
+27|119|53764|Reis|Reis township
+27|119|53980|Rhinehart|Rhinehart township
+27|119|55384|Roome|Roome township
+27|119|55564|Rosebud|Rosebud township
+27|119|56446|Russia|Russia township
+27|119|58432|Sandsville|Sandsville township
+27|119|58882|Scandia|Scandia township
+27|119|60880|Sletten|Sletten township
+27|119|63310|Sullivan|Sullivan township
+27|119|64030|Tabor|Tabor township
+27|119|65344|Trail|Trail city
+27|119|66064|Tynsid|Tynsid township
+27|119|67198|Vineland|Vineland township
+27|119|70870|Winger|Winger city
+27|119|70888|Winger|Winger township
+27|119|71662|Woodside|Woodside township
+27|121|03502|Bangor|Bangor township
+27|121|03754|Barsness|Barsness township
+27|121|05302|Ben Wade|Ben Wade township
+27|121|06760|Blue Mounds|Blue Mounds township
+27|121|08092|Brooten|Brooten city
+27|121|11332|Chippewa Falls|Chippewa Falls township
+27|121|14446|Cyrus|Cyrus city
+27|121|20690|Farwell|Farwell city
+27|121|23750|Gilchrist|Gilchrist township
+27|121|24074|Glenwood|Glenwood city
+27|121|24092|Glenwood|Glenwood township
+27|121|26162|Grove Lake|Grove Lake township
+27|121|29456|Hoff|Hoff township
+27|121|34586|Lake Johanna|Lake Johanna township
+27|121|35504|Langhei|Langhei township
+27|121|36764|Leven|Leven township
+27|121|37970|Long Beach|Long Beach city
+27|121|38366|Lowry|Lowry city
+27|121|43342|Minnewaska|Minnewaska township
+27|121|45844|New Prairie|New Prairie township
+27|121|46456|Nora|Nora township
+27|121|53854|Reno|Reno township
+27|121|55240|Rolling Forks|Rolling Forks township
+27|121|59188|Sedan|Sedan city
+27|121|62500|Starbuck|Starbuck city
+27|121|67144|Villard|Villard city
+27|121|67702|Walden|Walden township
+27|121|69628|Westport|Westport city
+27|121|69646|Westport|Westport township
+27|121|69952|White Bear Lake|White Bear Lake township
+27|123|02026|Arden Hills|Arden Hills city
+27|123|06382|Blaine|Blaine city
+27|123|20420|Falcon Heights|Falcon Heights city
+27|123|23318|Gem Lake|Gem Lake city
+27|123|35738|Lauderdale|Lauderdale city
+27|123|37502|Little Canada|Little Canada city
+27|123|40382|Maplewood|Maplewood city
+27|123|44530|Mounds View|Mounds View city
+27|123|45430|New Brighton|New Brighton city
+27|123|47104|North Oaks|North Oaks city
+27|123|47221|North St. Paul|North St. Paul city
+27|123|55852|Roseville|Roseville city
+27|123|56680|St. Anthony|St. Anthony city
+27|123|58000|St. Paul|St. Paul city
+27|123|59998|Shoreview|Shoreview city
+27|123|61996|Spring Lake Park|Spring Lake Park city
+27|123|66460|Vadnais Heights|Vadnais Heights city
+27|123|69916|White Bear|White Bear township
+27|123|69970|White Bear Lake|White Bear Lake city
+27|125|08038|Brooks|Brooks city
+27|125|08146|Browns Creek|Browns Creek township
+27|125|19196|Emardville|Emardville township
+27|125|19502|Equality|Equality township
+27|125|23174|Garnes|Garnes township
+27|125|23588|Gervais|Gervais township
+27|125|34820|Lake Pleasant|Lake Pleasant township
+27|125|35270|Lambert|Lambert township
+27|125|38276|Louisville|Louisville township
+27|125|48202|Oklee|Oklee city
+27|125|51712|Plummer|Plummer city
+27|125|52000|Poplar River|Poplar River township
+27|125|53476|Red Lake Falls|Red Lake Falls city
+27|125|53494|Red Lake Falls|Red Lake Falls township
+27|125|54538|River|River township
+27|125|64498|Terrebonne|Terrebonne township
+27|125|71986|Wylie|Wylie township
+27|127|05050|Belview|Belview city
+27|127|08074|Brookville|Brookville township
+27|127|10936|Charlestown|Charlestown township
+27|127|11836|Clements|Clements city
+27|127|15544|Delhi|Delhi city
+27|127|15562|Delhi|Delhi township
+27|127|23048|Gales|Gales township
+27|127|25316|Granite Rock|Granite Rock township
+27|127|30068|Honner|Honner township
+27|127|32048|Johnsonville|Johnsonville township
+27|127|33434|Kintire|Kintire township
+27|127|35288|Lamberton|Lamberton city
+27|127|35306|Lamberton|Lamberton township
+27|127|38420|Lucan|Lucan city
+27|127|42362|Milroy|Milroy city
+27|127|44116|Morgan|Morgan city
+27|127|44134|Morgan|Morgan township
+27|127|45412|New Avon|New Avon township
+27|127|46996|North Hero|North Hero township
+27|127|49894|Paxton|Paxton township
+27|127|53656|Redwood Falls|Redwood Falls city
+27|127|53674|Redwood Falls|Redwood Falls township
+27|127|53908|Revere|Revere city
+27|127|58306|Sanborn|Sanborn city
+27|127|59098|Seaforth|Seaforth city
+27|127|59656|Sheridan|Sheridan township
+27|127|59692|Sherman|Sherman township
+27|127|61798|Springdale|Springdale township
+27|127|63526|Sundown|Sundown township
+27|127|63868|Swedes Forest|Swedes Forest township
+27|127|64822|Three Lakes|Three Lakes township
+27|127|66190|Underwood|Underwood township
+27|127|66478|Vail|Vail township
+27|127|66982|Vesta|Vesta city
+27|127|67000|Vesta|Vesta township
+27|127|67396|Wabasso|Wabasso city
+27|127|67846|Walnut Grove|Walnut Grove city
+27|127|68008|Wanda|Wanda city
+27|127|68494|Waterbury|Waterbury township
+27|127|69538|Westline|Westline township
+27|127|70474|Willow Lake|Willow Lake township
+27|129|03484|Bandon|Bandon township
+27|129|04546|Beaver Falls|Beaver Falls township
+27|129|05968|Birch Cooley|Birch Cooley township
+27|129|06076|Bird Island|Bird Island city
+27|129|06094|Bird Island|Bird Island township
+27|129|06976|Boon Lake|Boon Lake township
+27|129|07912|Brookfield|Brookfield township
+27|129|08488|Buffalo Lake|Buffalo Lake city
+27|129|09208|Cairo|Cairo township
+27|129|09478|Camp|Camp township
+27|129|13852|Crooks|Crooks township
+27|129|14716|Danube|Danube city
+27|129|19322|Emmet|Emmet township
+27|129|19628|Ericson|Ericson township
+27|129|20222|Fairfax|Fairfax city
+27|129|21374|Flora|Flora township
+27|129|22364|Franklin|Franklin city
+27|129|27728|Hawk Creek|Hawk Creek township
+27|129|28124|Hector|Hector city
+27|129|28142|Hector|Hector township
+27|129|28610|Henryville|Henryville township
+27|129|33290|Kingman|Kingman township
+27|129|40832|Martinsburg|Martinsburg township
+27|129|41624|Melville|Melville township
+27|129|44368|Morton|Morton city
+27|129|46600|Norfolk|Norfolk township
+27|129|48256|Olivia|Olivia city
+27|129|48868|Osceola|Osceola township
+27|129|49606|Palmyra|Palmyra township
+27|129|52486|Preston Lake|Preston Lake township
+27|129|53890|Renville|Renville city
+27|129|56572|Sacred Heart|Sacred Heart city
+27|129|56590|Sacred Heart|Sacred Heart township
+27|129|65632|Troy|Troy township
+27|129|68026|Wang|Wang township
+27|129|69088|Wellington|Wellington township
+27|129|70852|Winfield|Winfield township
+27|131|07714|Bridgewater|Bridgewater township
+27|131|09712|Cannon City|Cannon City township
+27|131|15706|Dennison|Dennison city
+27|131|17126|Dundas|Dundas city
+27|131|19682|Erin|Erin township
+27|131|20546|Faribault|Faribault city
+27|131|21680|Forest|Forest township
+27|131|38150|Lonsdale|Lonsdale city
+27|131|44296|Morristown|Morristown city
+27|131|44314|Morristown|Morristown township
+27|131|45196|Nerstrand|Nerstrand city
+27|131|46924|Northfield|Northfield city
+27|131|46942|Northfield|Northfield township
+27|131|54250|Richland|Richland township
+27|131|59854|Shieldsville|Shieldsville township
+27|131|67666|Walcott|Walcott township
+27|131|68278|Warsaw|Warsaw township
+27|131|68962|Webster|Webster township
+27|131|69124|Wells|Wells township
+27|131|69826|Wheatland|Wheatland township
+27|131|69862|Wheeling|Wheeling township
+27|133|03988|Battle Plain|Battle Plain township
+27|133|04492|Beaver Creek|Beaver Creek city
+27|133|04510|Beaver Creek|Beaver Creek township
+27|133|11998|Clinton|Clinton township
+27|133|15742|Denver|Denver township
+27|133|27116|Hardwick|Hardwick city
+27|133|29204|Hills|Hills city
+27|133|31760|Jasper|Jasper city
+27|133|32336|Kanaranzi|Kanaranzi township
+27|133|32750|Kenneth|Kenneth city
+27|133|38564|Luverne|Luverne city
+27|133|38582|Luverne|Luverne township
+27|133|39338|Magnolia|Magnolia city
+27|133|39356|Magnolia|Magnolia township
+27|133|40796|Martin|Martin township
+27|133|44494|Mound|Mound township
+27|133|55654|Rose Dell|Rose Dell township
+27|133|62140|Springwater|Springwater township
+27|133|62662|Steen|Steen city
+27|133|67072|Vienna|Vienna township
+27|135|03160|Badger|Badger city
+27|135|03610|Barnett|Barnett township
+27|135|03808|Barto|Barto township
+27|135|04420|Beaver|Beaver township
+27|135|10414|Cedarbend|Cedarbend township
+27|135|15166|Deer|Deer township
+27|135|15868|Dewey|Dewey township
+27|135|15958|Dieter|Dieter township
+27|135|19466|Enstrom|Enstrom township
+27|135|20492|Falun|Falun township
+27|135|24326|Golden Valley|Golden Valley township
+27|135|25604|Greenbush|Greenbush city
+27|135|26036|Grimstad|Grimstad township
+27|135|28628|Hereim|Hereim township
+27|135|30626|Huss|Huss township
+27|135|31634|Jadis|Jadis township
+27|135|34010|Lake|Lake township
+27|135|35594|Laona|Laona township
+27|135|37196|Lind|Lind township
+27|135|39644|Malung|Malung township
+27|135|41894|Mickinock|Mickinock township
+27|135|43900|Moose|Moose township
+27|135|44080|Moranville|Moranville township
+27|135|45178|Nereson|Nereson township
+27|135|47216|North Roseau|North Roseau UT
+27|135|47357|Northwest Roseau|Northwest Roseau UT
+27|135|49588|Palmville|Palmville township
+27|135|51748|Pohlitz|Pohlitz township
+27|135|51820|Polonia|Polonia township
+27|135|51982|Poplar Grove|Poplar Grove township
+27|135|53728|Reine|Reine township
+27|135|55438|Roosevelt|Roosevelt city
+27|135|55546|Roseau|Roseau city
+27|135|55942|Ross|Ross township
+27|135|60610|Skagen|Skagen township
+27|135|61096|Soler|Soler township
+27|135|61330|Southeast Roseau|Southeast Roseau UT
+27|135|62158|Spruce|Spruce township
+27|135|62338|Stafford|Stafford township
+27|135|62932|Stokes|Stokes township
+27|135|63130|Strathcona|Strathcona city
+27|135|68224|Warroad|Warroad city
+27|137|00000|County subdivisions not defined|County subdivisions not defined
+27|137|00568|Alango|Alango township
+27|137|00820|Alborn|Alborn township
+27|137|00874|Alden|Alden township
+27|137|01612|Angora|Angora township
+27|137|02278|Arrowhead|Arrowhead township
+27|137|02818|Ault|Ault township
+27|137|03106|Babbitt|Babbitt city
+27|137|03322|Balkan|Balkan township
+27|137|03880|Bassett|Bassett township
+27|137|04294|Beatty|Beatty township
+27|137|06042|Birch Lake|Birch Lake UT
+27|137|06148|Biwabik|Biwabik city
+27|137|06166|Biwabik|Biwabik township
+27|137|07534|Breitung|Breitung township
+27|137|07606|Brevator|Brevator township
+27|137|08056|Brookston|Brookston city
+27|137|08524|Buhl|Buhl city
+27|137|09482|Camp 5|Camp 5 township
+27|137|09784|Canosia|Canosia township
+27|137|10540|Cedar Valley|Cedar Valley township
+27|137|11134|Cherry|Cherry township
+27|137|11386|Chisholm|Chisholm city
+27|137|12016|Clinton|Clinton township
+27|137|12736|Colvin|Colvin township
+27|137|13006|Cook|Cook city
+27|137|13528|Cotton|Cotton township
+27|137|13656|Crane Lake|Crane Lake township
+27|137|14284|Culver|Culver township
+27|137|17000|Duluth|Duluth city
+27|137|17018|Duluth|Duluth township
+27|137|17440|Eagles Nest|Eagles Nest township
+27|137|18800|Ellsburg|Ellsburg township
+27|137|18944|Elmer|Elmer township
+27|137|19142|Ely|Ely city
+27|137|19232|Embarrass|Embarrass township
+27|137|19934|Eveleth|Eveleth city
+27|137|20186|Fairbanks|Fairbanks township
+27|137|20762|Fayal|Fayal township
+27|137|20996|Field|Field township
+27|137|21086|Fine Lakes|Fine Lakes township
+27|137|21338|Floodwood|Floodwood city
+27|137|21356|Floodwood|Floodwood township
+27|137|22508|Fredenberg|Fredenberg township
+27|137|22724|French|French township
+27|137|23632|Gheen|Gheen UT
+27|137|23714|Gilbert|Gilbert city
+27|137|24218|Gnesen|Gnesen township
+27|137|24956|Grand Lake|Grand Lake township
+27|137|25550|Great Scott|Great Scott township
+27|137|25928|Greenwood|Greenwood township
+27|137|26522|Halden|Halden township
+27|137|27899|Hay Lake|Hay Lake UT
+27|137|28682|Hermantown|Hermantown city
+27|137|28790|Hibbing|Hibbing city
+27|137|30302|Hoyt Lakes|Hoyt Lakes city
+27|137|30932|Industrial|Industrial township
+27|137|31238|Iron Junction|Iron Junction city
+27|137|31733|Janette Lake|Janette Lake UT
+27|137|32252|Kabetogama|Kabetogama township
+27|137|32696|Kelsey|Kelsey township
+27|137|33416|Kinney|Kinney city
+27|137|33794|Kugler|Kugler township
+27|137|35234|Lakewood|Lakewood township
+27|137|35774|Lavell|Lavell township
+27|137|36332|Leiding|Leiding township
+27|137|36530|Leonidas|Leonidas city
+27|137|37250|Linden Grove|Linden Grove township
+27|137|38938|McCormack|McCormack UT
+27|137|38960|McDavitt|McDavitt township
+27|137|39140|McKinley|McKinley city
+27|137|39538|Makinen|Makinen UT
+27|137|41372|Meadowlands|Meadowlands city
+27|137|41390|Meadowlands|Meadowlands township
+27|137|42056|Midway|Midway township
+27|137|44098|Morcom|Morcom township
+27|137|44350|Morse|Morse township
+27|137|44548|Mountain Iron|Mountain Iron city
+27|137|45232|Ness|Ness township
+27|137|45281|Nett Lake|Nett Lake UT
+27|137|45664|New Independence|New Independence township
+27|137|46708|Normanna|Normanna township
+27|137|46898|Northeast St. Louis|Northeast St. Louis UT
+27|137|47050|Northland|Northland township
+27|137|47255|North Star|North Star township
+27|137|47362|Northwest St. Louis|Northwest St. Louis UT
+27|137|48634|Orr|Orr city
+27|137|49336|Owens|Owens township
+27|137|50389|Pequaywan|Pequaywan township
+27|137|50830|Pike|Pike township
+27|137|52090|Portage|Portage township
+27|137|52224|Potshot Lake|Potshot Lake UT
+27|137|52306|Prairie Lake|Prairie Lake township
+27|137|52630|Proctor|Proctor city
+27|137|54060|Rice Lake|Rice Lake city
+27|137|58369|Sand Lake|Sand Lake UT
+27|137|58450|Sandy|Sandy township
+27|137|61132|Solway|Solway township
+27|137|62968|Stoney Brook|Stoney Brook township
+27|137|63202|Sturgeon|Sturgeon township
+27|137|65146|Toivola|Toivola township
+27|137|65272|Tower|Tower city
+27|137|66586|Van Buren|Van Buren township
+27|137|66784|Vermilion Lake|Vermilion Lake township
+27|137|67288|Virginia|Virginia city
+27|137|67342|Waasa|Waasa township
+27|137|69898|White|White township
+27|137|70069|Whiteface Reservoir|Whiteface Reservoir UT
+27|137|70510|Willow Valley|Willow Valley township
+27|137|71140|Winton|Winton city
+27|137|71869|Wuori|Wuori township
+27|139|04834|Belle Plaine|Belle Plaine city
+27|139|04852|Belle Plaine|Belle Plaine township
+27|139|06418|Blakeley|Blakeley township
+27|139|10450|Cedar Lake|Cedar Lake township
+27|139|13726|Credit River|Credit River township
+27|139|18662|Elko New Market|Elko New Market city
+27|139|28322|Helena|Helena township
+27|139|31580|Jackson|Jackson township
+27|139|32174|Jordan|Jordan city
+27|139|38294|Louisville|Louisville township
+27|139|45754|New Market|New Market township
+27|139|45808|New Prague|New Prague city
+27|139|52594|Prior Lake|Prior Lake city
+27|139|57184|St. Lawrence|St. Lawrence township
+27|139|58324|Sand Creek|Sand Creek township
+27|139|58738|Savage|Savage city
+27|139|59350|Shakopee|Shakopee city
+27|139|61978|Spring Lake|Spring Lake township
+27|141|03286|Baldwin|Baldwin township
+27|141|04618|Becker|Becker city
+27|141|04636|Becker|Becker township
+27|141|05752|Big Lake|Big Lake city
+27|141|05770|Big Lake|Big Lake township
+27|141|06742|Blue Hill|Blue Hill township
+27|141|11764|Clear Lake|Clear Lake city
+27|141|11782|Clear Lake|Clear Lake township
+27|141|18674|Elk River|Elk River city
+27|141|27674|Haven|Haven township
+27|141|37754|Livonia|Livonia township
+27|141|48670|Orrock|Orrock township
+27|141|49534|Palmer|Palmer township
+27|141|52522|Princeton|Princeton city
+27|141|56896|St. Cloud|St. Cloud city
+27|141|58522|Santiago|Santiago township
+27|141|72238|Zimmerman|Zimmerman city
+27|143|00982|Alfsborg|Alfsborg township
+27|143|02152|Arlington|Arlington city
+27|143|02170|Arlington|Arlington township
+27|143|06130|Bismarck|Bismarck township
+27|143|13348|Cornish|Cornish township
+27|143|16426|Dryden|Dryden township
+27|143|20726|Faxon|Faxon township
+27|143|23300|Gaylord|Gaylord city
+27|143|23678|Gibbon|Gibbon city
+27|143|24794|Grafton|Grafton township
+27|143|25658|Green Isle|Green Isle city
+27|143|25676|Green Isle|Green Isle township
+27|143|28394|Henderson|Henderson city
+27|143|28412|Henderson|Henderson township
+27|143|31922|Jessenland|Jessenland township
+27|143|32714|Kelso|Kelso township
+27|143|36746|Le Sueur|Le Sueur city
+27|143|43612|Moltke|Moltke township
+27|143|45376|New Auburn|New Auburn city
+27|143|45394|New Auburn|New Auburn township
+27|143|59242|Severance|Severance township
+27|143|60124|Sibley|Sibley township
+27|143|65380|Transit|Transit township
+27|143|68368|Washington Lake|Washington Lake township
+27|143|71122|Winthrop|Winthrop city
+27|145|00622|Albany|Albany city
+27|145|00640|Albany|Albany township
+27|145|02530|Ashley|Ashley township
+27|145|03070|Avon|Avon city
+27|145|03088|Avon|Avon township
+27|145|04762|Belgrade|Belgrade city
+27|145|07840|Brockway|Brockway township
+27|145|08092|Brooten|Brooten city
+27|145|11800|Clearwater|Clearwater city
+27|145|12484|Cold Spring|Cold Spring city
+27|145|12592|Collegeville|Collegeville township
+27|145|14032|Crow Lake|Crow Lake township
+27|145|14086|Crow River|Crow River township
+27|145|18098|Eden Lake|Eden Lake township
+27|145|18134|Eden Valley|Eden Valley city
+27|145|19088|Elrosa|Elrosa city
+27|145|20294|Fair Haven|Fair Haven township
+27|145|20600|Farming|Farming township
+27|145|22652|Freeport|Freeport city
+27|145|23606|Getty|Getty township
+27|145|25874|Greenwald|Greenwald city
+27|145|26090|Grove|Grove township
+27|145|29564|Holding|Holding township
+27|145|29582|Holdingford|Holdingford city
+27|145|33164|Kimball|Kimball city
+27|145|33722|Krain|Krain township
+27|145|34406|Lake George|Lake George township
+27|145|34478|Lake Henry|Lake Henry city
+27|145|34496|Lake Henry|Lake Henry township
+27|145|36656|Le Sauk|Le Sauk township
+27|145|38618|Luxemburg|Luxemburg township
+27|145|38780|Lynden|Lynden township
+27|145|39518|Maine Prairie|Maine Prairie township
+27|145|41534|Meire Grove|Meire Grove city
+27|145|41570|Melrose|Melrose city
+27|145|41588|Melrose|Melrose township
+27|145|42308|Millwood|Millwood township
+27|145|44800|Munson|Munson township
+27|145|45772|New Munich|New Munich city
+27|145|46960|North Fork|North Fork township
+27|145|47644|Oak|Oak township
+27|145|49966|Paynesville|Paynesville city
+27|145|49984|Paynesville|Paynesville township
+27|145|53314|Raymond|Raymond township
+27|145|54268|Richmond|Richmond city
+27|145|55078|Rockville|Rockville city
+27|145|55510|Roscoe|Roscoe city
+27|145|56698|St. Anthony|St. Anthony city
+27|145|56724|St. Augusta|St. Augusta city
+27|145|56896|St. Cloud|St. Cloud city
+27|145|57130|St. Joseph|St. Joseph city
+27|145|57148|St. Joseph|St. Joseph township
+27|145|57238|St. Martin|St. Martin city
+27|145|57256|St. Martin|St. Martin township
+27|145|58072|St. Rosa|St. Rosa city
+27|145|58090|St. Stephen|St. Stephen city
+27|145|58198|St. Wendel|St. Wendel township
+27|145|58612|Sartell|Sartell city
+27|145|58648|Sauk Centre|Sauk Centre city
+27|145|58666|Sauk Centre|Sauk Centre township
+27|145|61888|Spring Hill|Spring Hill city
+27|145|61906|Spring Hill|Spring Hill township
+27|145|67612|Waite Park|Waite Park city
+27|145|67630|Wakefield|Wakefield township
+27|145|72256|Zion|Zion township
+27|147|02890|Aurora|Aurora township
+27|147|05374|Berlin|Berlin township
+27|147|06580|Blooming Prairie|Blooming Prairie city
+27|147|06598|Blooming Prairie|Blooming Prairie township
+27|147|12052|Clinton Falls|Clinton Falls township
+27|147|15256|Deerfield|Deerfield township
+27|147|18746|Ellendale|Ellendale city
+27|147|27638|Havana|Havana township
+27|147|36386|Lemond|Lemond township
+27|147|41426|Medford|Medford city
+27|147|41444|Medford|Medford township
+27|147|41750|Meriden|Meriden township
+27|147|41840|Merton|Merton township
+27|147|49300|Owatonna|Owatonna city
+27|147|49318|Owatonna|Owatonna township
+27|147|61150|Somerset|Somerset township
+27|147|63364|Summit|Summit township
+27|149|00676|Alberta|Alberta city
+27|149|03232|Baker|Baker township
+27|149|11440|Chokio|Chokio city
+27|149|14824|Darnen|Darnen township
+27|149|16084|Donnelly|Donnelly city
+27|149|16102|Donnelly|Donnelly township
+27|149|18494|Eldorado|Eldorado township
+27|149|19970|Everglade|Everglade township
+27|149|22274|Framnas|Framnas township
+27|149|26936|Hancock|Hancock city
+27|149|29438|Hodges|Hodges township
+27|149|30212|Horton|Horton township
+27|149|43846|Moore|Moore township
+27|149|44242|Morris|Morris city
+27|149|44260|Morris|Morris township
+27|149|50380|Pepperton|Pepperton township
+27|149|53818|Rendsville|Rendsville township
+27|149|59044|Scott|Scott township
+27|149|62752|Stevens|Stevens township
+27|149|63724|Swan Lake|Swan Lake township
+27|149|63976|Synnes|Synnes township
+27|151|01864|Appleton|Appleton city
+27|151|01882|Appleton|Appleton township
+27|151|05212|Benson|Benson city
+27|151|05230|Benson|Benson township
+27|151|09532|Camp Lake|Camp Lake township
+27|151|10216|Cashel|Cashel township
+27|151|12124|Clontarf|Clontarf city
+27|151|12142|Clontarf|Clontarf township
+27|151|14734|Danvers|Danvers city
+27|151|15418|De Graff|De Graff city
+27|151|16444|Dublin|Dublin township
+27|151|18206|Edison|Edison township
+27|151|20258|Fairfield|Fairfield township
+27|151|27854|Hayes|Hayes township
+27|151|28160|Hegbert|Hegbert township
+27|151|29672|Holloway|Holloway city
+27|151|32876|Kerkhoven|Kerkhoven city
+27|151|32894|Kerkhoven|Kerkhoven township
+27|151|33092|Kildare|Kildare township
+27|151|40904|Marysland|Marysland township
+27|151|44674|Moyer|Moyer township
+27|151|44818|Murdock|Murdock city
+27|151|50920|Pillsbury|Pillsbury township
+27|151|59818|Shible|Shible township
+27|151|60592|Six Mile Grove|Six Mile Grove township
+27|151|63904|Swenoda|Swenoda township
+27|151|64228|Tara|Tara township
+27|151|65236|Torning|Torning township
+27|151|69214|West Bank|West Bank township
+27|153|03790|Bartlett|Bartlett township
+27|153|05482|Bertha|Bertha city
+27|153|05500|Bertha|Bertha township
+27|153|06022|Birchdale|Birchdale township
+27|153|08110|Browerville|Browerville city
+27|153|08272|Bruce|Bruce township
+27|153|08668|Burleene|Burleene township
+27|153|08722|Burnhamville|Burnhamville township
+27|153|08902|Burtrum|Burtrum city
+27|153|11602|Clarissa|Clarissa city
+27|153|17342|Eagle Bend|Eagle Bend city
+27|153|17450|Eagle Valley|Eagle Valley township
+27|153|20708|Fawn Lake|Fawn Lake township
+27|153|23552|Germania|Germania township
+27|153|24578|Gordon|Gordon township
+27|153|26000|Grey Eagle|Grey Eagle city
+27|153|26018|Grey Eagle|Grey Eagle township
+27|153|27368|Hartford|Hartford township
+27|153|28754|Hewitt|Hewitt city
+27|153|31130|Iona|Iona township
+27|153|32408|Kandota|Kandota township
+27|153|36674|Leslie|Leslie township
+27|153|37538|Little Elk|Little Elk township
+27|153|37718|Little Sauk|Little Sauk township
+27|153|38060|Long Prairie|Long Prairie city
+27|153|38078|Long Prairie|Long Prairie township
+27|153|44062|Moran|Moran township
+27|153|48796|Osakis|Osakis city
+27|153|53926|Reynolds|Reynolds township
+27|153|56122|Round Prairie|Round Prairie township
+27|153|62446|Staples|Staples city
+27|153|62464|Staples|Staples township
+27|153|63058|Stowe Prairie|Stowe Prairie township
+27|153|63778|Swanville|Swanville city
+27|153|65740|Turtle Creek|Turtle Creek township
+27|153|67162|Villard|Villard township
+27|153|68098|Ward|Ward township
+27|153|69736|West Union|West Union city
+27|153|69754|West Union|West Union township
+27|153|71932|Wykeham|Wykeham township
+27|155|02314|Arthur|Arthur township
+27|155|08200|Browns Valley|Browns Valley city
+27|155|11944|Clifton|Clifton township
+27|155|13762|Croke|Croke township
+27|155|16012|Dollymount|Dollymount township
+27|155|17090|Dumont|Dumont city
+27|155|21554|Folsom|Folsom township
+27|155|35126|Lake Valley|Lake Valley township
+27|155|36512|Leonardsville|Leonardsville township
+27|155|43684|Monson|Monson township
+27|155|49858|Parnell|Parnell township
+27|155|53548|Redpath|Redpath township
+27|155|64246|Tara|Tara township
+27|155|64300|Taylor|Taylor township
+27|155|64948|Tintah|Tintah city
+27|155|64966|Tintah|Tintah township
+27|155|67828|Walls|Walls township
+27|155|69844|Wheaton|Wheaton city
+27|155|70834|Windsor|Windsor township
+27|157|04798|Bellechester|Bellechester city
+27|157|11242|Chester|Chester township
+27|157|18530|Elgin|Elgin city
+27|157|18548|Elgin|Elgin township
+27|157|23786|Gillford|Gillford township
+27|157|23894|Glasgow|Glasgow township
+27|157|25640|Greenfield|Greenfield township
+27|157|26828|Hammond|Hammond city
+27|157|28952|Highland|Highland township
+27|157|30680|Hyde Park|Hyde Park township
+27|157|32642|Kellogg|Kellogg city
+27|157|34028|Lake|Lake township
+27|157|34172|Lake City|Lake City city
+27|157|41282|Mazeppa|Mazeppa city
+27|157|41300|Mazeppa|Mazeppa township
+27|157|42290|Millville|Millville city
+27|157|43036|Minneiska|Minneiska city
+27|157|43054|Minneiska|Minneiska township
+27|157|44620|Mount Pleasant|Mount Pleasant township
+27|157|48022|Oakwood|Oakwood township
+27|157|50362|Pepin|Pepin township
+27|157|51424|Plainview|Plainview city
+27|157|51442|Plainview|Plainview township
+27|157|67378|Wabasha|Wabasha city
+27|157|68638|Watopa|Watopa township
+27|157|69178|West Albany|West Albany township
+27|157|72292|Zumbro|Zumbro township
+27|157|72310|Zumbro Falls|Zumbro Falls city
+27|159|00892|Aldrich|Aldrich city
+27|159|00910|Aldrich|Aldrich township
+27|159|06670|Blueberry|Blueberry township
+27|159|08542|Bullard|Bullard township
+27|159|30536|Huntersville|Huntersville township
+27|159|36026|Leaf River|Leaf River township
+27|159|38852|Lyons|Lyons township
+27|159|41336|Meadow|Meadow township
+27|159|41660|Menahga|Menahga city
+27|159|46294|Nimrod|Nimrod city
+27|159|46978|North Germany|North Germany township
+27|159|48688|Orton|Orton township
+27|159|53422|Red Eye|Red Eye township
+27|159|55150|Rockwood|Rockwood township
+27|159|59152|Sebeka|Sebeka city
+27|159|59530|Shell River|Shell River township
+27|159|62446|Staples|Staples city
+27|159|64624|Thomastown|Thomastown township
+27|159|66874|Verndale|Verndale city
+27|159|67504|Wadena|Wadena city
+27|159|67522|Wadena|Wadena township
+27|159|70906|Wing River|Wing River township
+27|161|01198|Alton|Alton township
+27|161|06562|Blooming Grove|Blooming Grove township
+27|161|09172|Byron|Byron township
+27|161|19160|Elysian|Elysian city
+27|161|22598|Freedom|Freedom township
+27|161|31166|Iosco|Iosco township
+27|161|31706|Janesville|Janesville city
+27|161|31724|Janesville|Janesville township
+27|161|45862|New Richland|New Richland city
+27|161|45880|New Richland|New Richland township
+27|161|49084|Otisco|Otisco township
+27|161|57274|St. Mary|St. Mary township
+27|161|67324|Vivian|Vivian township
+27|161|67756|Waldorf|Waldorf city
+27|161|68296|Waseca|Waseca city
+27|161|70744|Wilton|Wilton township
+27|161|71698|Woodville|Woodville township
+27|163|00316|Afton|Afton city
+27|163|04114|Bayport|Bayport city
+27|163|04132|Baytown|Baytown township
+27|163|06058|Birchwood Village|Birchwood Village city
+27|163|13456|Cottage Grove|Cottage Grove city
+27|163|15616|Dellwood|Dellwood city
+27|163|15688|Denmark|Denmark township
+27|163|21770|Forest Lake|Forest Lake city
+27|163|25334|Grant|Grant city
+27|163|25982|Grey Cloud Island|Grey Cloud Island township
+27|163|27530|Hastings|Hastings city
+27|163|30392|Hugo|Hugo city
+27|163|34244|Lake Elmo|Lake Elmo city
+27|163|34622|Lakeland|Lakeland city
+27|163|34658|Lakeland Shores|Lakeland Shores city
+27|163|34865|Lake St. Croix Beach|Lake St. Croix Beach city
+27|163|35414|Landfall|Landfall city
+27|163|39428|Mahtomedi|Mahtomedi city
+27|163|40562|Marine on St. Croix|Marine on St. Croix city
+27|163|41120|May|May township
+27|163|45790|Newport|Newport city
+27|163|47680|Oakdale|Oakdale city
+27|163|47914|Oak Park Heights|Oak Park Heights city
+27|163|51316|Pine Springs|Pine Springs city
+27|163|57292|St. Marys Point|St. Marys Point city
+27|163|58018|St. Paul Park|St. Paul Park city
+27|163|58900|Scandia|Scandia city
+27|163|62824|Stillwater|Stillwater city
+27|163|62842|Stillwater|Stillwater township
+27|163|69520|West Lakeland|West Lakeland township
+27|163|69970|White Bear Lake|White Bear Lake city
+27|163|70366|Willernie|Willernie city
+27|163|71428|Woodbury|Woodbury city
+27|165|00280|Adrian|Adrian township
+27|165|01810|Antrim|Antrim township
+27|165|08992|Butterfield|Butterfield city
+27|165|09010|Butterfield|Butterfield township
+27|165|14770|Darfur|Darfur city
+27|165|21014|Fieldon|Fieldon township
+27|165|35702|La Salle|La Salle city
+27|165|36818|Lewisville|Lewisville city
+27|165|38024|Long Lake|Long Lake township
+27|165|39230|Madelia|Madelia city
+27|165|39248|Madelia|Madelia township
+27|165|45124|Nelson|Nelson township
+27|165|48094|Odin|Odin city
+27|165|48112|Odin|Odin township
+27|165|48562|Ormsby|Ormsby city
+27|165|54556|Riverdale|Riverdale township
+27|165|55780|Rosendale|Rosendale township
+27|165|57040|St. James|St. James city
+27|165|57058|St. James|St. James township
+27|165|61276|South Branch|South Branch township
+27|167|00550|Akron|Akron township
+27|167|01522|Andrea|Andrea township
+27|167|02620|Atherton|Atherton township
+27|167|07264|Bradford|Bradford township
+27|167|07372|Brandrup|Brandrup township
+27|167|07462|Breckenridge|Breckenridge city
+27|167|07480|Breckenridge|Breckenridge township
+27|167|09496|Campbell|Campbell city
+27|167|09514|Campbell|Campbell township
+27|167|10828|Champion|Champion township
+27|167|12970|Connelly|Connelly township
+27|167|15274|Deerhorn|Deerhorn township
+27|167|16156|Doran|Doran city
+27|167|22202|Foxhome|Foxhome city
+27|167|22220|Foxhome|Foxhome township
+27|167|32786|Kent|Kent city
+27|167|38924|McCauleyville|McCauleyville township
+27|167|39968|Manston|Manston township
+27|167|41408|Meadows|Meadows township
+27|167|43522|Mitchell|Mitchell township
+27|167|44944|Nashua|Nashua city
+27|167|46276|Nilsen|Nilsen township
+27|167|46528|Nordick|Nordick township
+27|167|52324|Prairie View|Prairie View township
+27|167|54826|Roberts|Roberts township
+27|167|56014|Rothsay|Rothsay city
+27|167|63562|Sunnyside|Sunnyside township
+27|167|64174|Tanberg|Tanberg township
+27|167|71392|Wolverton|Wolverton city
+27|167|71410|Wolverton|Wolverton township
+27|169|01234|Altura|Altura city
+27|169|14518|Dakota|Dakota city
+27|169|16408|Dresbach|Dresbach township
+27|169|18386|Elba|Elba city
+27|169|18404|Elba|Elba township
+27|169|22688|Fremont|Fremont township
+27|169|24524|Goodview|Goodview city
+27|169|27350|Hart|Hart township
+27|169|29222|Hillsdale|Hillsdale township
+27|169|30032|Homer|Homer township
+27|169|33866|La Crescent|La Crescent city
+27|169|36800|Lewiston|Lewiston city
+27|169|43036|Minneiska|Minneiska city
+27|169|43144|Minnesota City|Minnesota City city
+27|169|44656|Mount Vernon|Mount Vernon township
+27|169|45592|New Hartford|New Hartford township
+27|169|47374|Norton|Norton township
+27|169|51568|Pleasant Hill|Pleasant Hill township
+27|169|54286|Richmond|Richmond township
+27|169|55276|Rollingstone|Rollingstone city
+27|169|55294|Rollingstone|Rollingstone township
+27|169|56788|St. Charles|St. Charles city
+27|169|56806|St. Charles|St. Charles township
+27|169|58558|Saratoga|Saratoga township
+27|169|62896|Stockton|Stockton city
+27|169|66424|Utica|Utica city
+27|169|66442|Utica|Utica township
+27|169|68188|Warren|Warren township
+27|169|70168|Whitewater|Whitewater township
+27|169|70690|Wilson|Wilson township
+27|169|71032|Winona|Winona city
+27|169|71230|Wiscoy|Wiscoy township
+27|171|00730|Albertville|Albertville city
+27|171|00766|Albion|Albion township
+27|171|01684|Annandale|Annandale city
+27|171|08452|Buffalo|Buffalo city
+27|171|08470|Buffalo|Buffalo township
+27|171|11062|Chatham|Chatham township
+27|171|11800|Clearwater|Clearwater city
+27|171|11818|Clearwater|Clearwater township
+27|171|12430|Cokato|Cokato city
+27|171|12448|Cokato|Cokato township
+27|171|13222|Corinna|Corinna township
+27|171|15022|Dayton|Dayton city
+27|171|15454|Delano|Delano city
+27|171|22400|Franklin|Franklin township
+27|171|22760|French Lake|French Lake township
+27|171|26990|Hanover|Hanover city
+27|171|30284|Howard Lake|Howard Lake city
+27|171|40220|Maple Lake|Maple Lake city
+27|171|40238|Maple Lake|Maple Lake township
+27|171|40940|Marysville|Marysville township
+27|171|41966|Middleville|Middleville township
+27|171|43774|Monticello|Monticello city
+27|171|43792|Monticello|Monticello township
+27|171|43810|Montrose|Montrose city
+27|171|49138|Otsego|Otsego city
+27|171|55006|Rockford|Rockford city
+27|171|55024|Rockford|Rockford township
+27|171|57346|St. Michael|St. Michael city
+27|171|60340|Silver Creek|Silver Creek township
+27|171|61402|South Haven|South Haven city
+27|171|61510|Southside|Southside township
+27|171|62878|Stockholm|Stockholm township
+27|171|67018|Victor|Victor township
+27|171|68764|Waverly|Waverly city
+27|171|71554|Woodland|Woodland township
+27|173|08884|Burton|Burton township
+27|173|09604|Canby|Canby city
+27|173|11656|Clarkfield|Clarkfield city
+27|173|17900|Echo|Echo city
+27|173|17918|Echo|Echo township
+27|173|21464|Florida|Florida township
+27|173|21914|Fortier|Fortier township
+27|173|22832|Friendship|Friendship township
+27|173|25280|Granite Falls|Granite Falls city
+27|173|26792|Hammer|Hammer township
+27|173|26972|Hanley Falls|Hanley Falls city
+27|173|28016|Hazel Run|Hazel Run city
+27|173|28034|Hazel Run|Hazel Run township
+27|173|37394|Lisbon|Lisbon township
+27|173|43180|Minnesota Falls|Minnesota Falls township
+27|173|46636|Norman|Norman township
+27|173|46690|Normania|Normania township
+27|173|48292|Omro|Omro township
+27|173|48940|Oshkosh|Oshkosh township
+27|173|52144|Porter|Porter city
+27|173|52180|Posen|Posen township
+27|173|57202|St. Leo|St. Leo city
+27|173|58378|Sandnes|Sandnes township
+27|173|60538|Sioux Agency|Sioux Agency township
+27|173|63004|Stony Run|Stony Run township
+27|173|63850|Swede Prairie|Swede Prairie township
+27|173|66082|Tyro|Tyro township
+27|173|69160|Wergeland|Wergeland township
+27|173|71446|Wood Lake|Wood Lake city
+27|173|71464|Wood Lake|Wood Lake township
